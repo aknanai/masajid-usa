@@ -12,7 +12,7 @@
             {{ $index := .Site.Data.masajid._index }}
             {{ range $state, $count := $index.state_counts }}
             {{ $slug := $state | urlize }}
-            <a href="/states/{{ $slug }}/" class="state-card">
+            <a href="{{ printf "states/%s/" $slug | relURL }}" class="state-card">
                 <span class="state-name">{{ $state }}</span>
                 <span class="state-count">{{ $count }}</span>
             </a>

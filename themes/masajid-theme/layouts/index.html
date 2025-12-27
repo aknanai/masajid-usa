@@ -45,7 +45,7 @@
             {{ $index := .Site.Data.masajid._index }}
             {{ range $state, $count := $index.state_counts }}
             {{ $slug := $state | urlize }}
-            <a href="/states/{{ $slug }}/" class="state-card">
+            <a href="{{ printf "states/%s/" $slug | relURL }}" class="state-card">
                 <span class="state-name">{{ $state }}</span>
                 <span class="state-count">{{ $count }}</span>
             </a>
@@ -66,17 +66,18 @@
 <script>
 // Load all masajid data for search and map
 let allMasajid = [];
+const baseUrl = window.BASE_URL || '/';
 
 async function loadAllData() {
     try {
-        const indexRes = await fetch('/data/masajid/_index.json');
+        const indexRes = await fetch(baseUrl + 'data/masajid/_index.json');
         const index = await indexRes.json();
 
         // Load data from each state
         for (const state of Object.keys(index.state_counts)) {
             const slug = state.toLowerCase().replace(/ /g, '_');
             try {
-                const stateRes = await fetch(`/data/masajid/states/${slug}.json`);
+                const stateRes = await fetch(baseUrl + `data/masajid/states/${slug}.json`);
                 const stateData = await stateRes.json();
                 allMasajid = allMasajid.concat(stateData.masajid || []);
             } catch (e) {

@@ -8,7 +8,7 @@
         <h1>{{ $stateName }}</h1>
         <p class="subtitle">{{ $stateData.count }} Masajid</p>
         <div class="breadcrumb">
-            <a href="/">Home</a> / <a href="/states/">States</a> / <span>{{ $stateName }}</span>
+            <a href="{{ "" | relURL }}">Home</a> / <a href="{{ "states/" | relURL }}">States</a> / <span>{{ $stateName }}</span>
         </div>
     </div>
 </section>
