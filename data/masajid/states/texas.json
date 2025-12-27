@@ -1,0 +1,2118 @@
+{
+  "state": "Texas",
+  "count": 96,
+  "masajid": [
+    {
+      "id": "node_356855681",
+      "name": "Dallas Masjid of al-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7668737,
+        "lon": -96.7786768
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356855681
+    },
+    {
+      "id": "node_356857076",
+      "name": "Allahs House of Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7154121,
+        "lon": -96.7441971
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356857076
+    },
+    {
+      "id": "node_356864393",
+      "name": "Islamic Society of Greater Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6335,
+        "lon": -95.2079
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356864393
+    },
+    {
+      "id": "node_356864397",
+      "name": "Islamic Society of Greater Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9558,
+        "lon": -95.4484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356864397
+    },
+    {
+      "id": "node_356864402",
+      "name": "Islamic Society of Greater Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6595,
+        "lon": -95.5672
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356864402
+    },
+    {
+      "id": "node_356864548",
+      "name": "Makkah Masjid of Greater Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7233963,
+        "lon": -95.6042421
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356864548
+    },
+    {
+      "id": "node_359001701",
+      "name": "Masojid Religious Worship Temple",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3978685,
+        "lon": -94.4085477
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 359001701
+    },
+    {
+      "id": "node_1057208032",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6607971,
+        "lon": -97.4752765
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1057208032
+    },
+    {
+      "id": "node_1595716783",
+      "name": "Dar El Salaam Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7569927,
+        "lon": -97.1117016
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1595716783
+    },
+    {
+      "id": "node_1800465541",
+      "name": "Masjid As Sabireen",
+      "address": {
+        "street": "610 Brand Lane",
+        "city": "Stafford",
+        "state": "TX",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6187181,
+        "lon": -95.5791782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1800465541
+    },
+    {
+      "id": "node_2235160495",
+      "name": "McKinney Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1692169,
+        "lon": -96.6626104
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2235160495
+    },
+    {
+      "id": "node_3482457434",
+      "name": "Islamic Society of Southern Texas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.6946449,
+        "lon": -97.3363715
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3482457434
+    },
+    {
+      "id": "node_4297111826",
+      "name": "Masjid al-ahad",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8322662,
+        "lon": -95.7044448
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4297111826
+    },
+    {
+      "id": "node_4351595082",
+      "name": "Islamic Society of Norman",
+      "address": {
+        "street": "420 East Lindsey Street",
+        "city": "Norman",
+        "state": "OK",
+        "zip": "73069",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://isnok.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2035954,
+        "lon": -97.4371735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4351595082
+    },
+    {
+      "id": "node_4694423426",
+      "name": "East Texas Islamic Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.3290554,
+        "lon": -95.2349539
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4694423426
+    },
+    {
+      "id": "node_5248219007",
+      "name": "Masjid E Mohammedi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8618504,
+        "lon": -95.6794511
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5248219007
+    },
+    {
+      "id": "node_5341746000",
+      "name": "IALFM Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0344387,
+        "lon": -97.0830864
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5341746000
+    },
+    {
+      "id": "node_8857472534",
+      "name": "Masjid Salah Ad-Deen",
+      "address": {
+        "street": "5645 Hillcroft Avenue",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77036",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.722096,
+        "lon": -95.4999141
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8857472534
+    },
+    {
+      "id": "node_10728837253",
+      "name": "Masjid Ayesha",
+      "address": {
+        "street": "4502 Watts Plantation Road",
+        "city": "Missouri City",
+        "state": "TX",
+        "zip": "77459",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5255736,
+        "lon": -95.5204875
+      },
+      "denomination": "sunni",
+      "opening_hours": "06:45-21:30",
+      "osm_type": "node",
+      "osm_id": 10728837253
+    },
+    {
+      "id": "node_11201021741",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.5195702,
+        "lon": -97.1299858
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11201021741
+    },
+    {
+      "id": "node_12038368478",
+      "name": "Islamic Center of Euless",
+      "address": {
+        "street": "203 South Ector Drive",
+        "city": "Euless",
+        "state": "TX",
+        "zip": "76040",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icoeuless.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8352985,
+        "lon": -97.0899187
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12038368478
+    },
+    {
+      "id": "node_12228560668",
+      "name": "Alkhair Islamic Society of RGV",
+      "address": {
+        "street": "1910 West Elsham Avenue",
+        "city": "Edinburg",
+        "state": "Texas",
+        "zip": "78577",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.2524372,
+        "lon": -98.1926782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12228560668
+    },
+    {
+      "id": "node_12767846634",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7221185,
+        "lon": -95.6186281
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12767846634
+    },
+    {
+      "id": "node_12977682702",
+      "name": "Valley Ranch Islamic Center",
+      "address": {
+        "street": "351 Ranchview Drive",
+        "city": "Irving",
+        "state": "TX",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-214-496-9000",
+      "website": "https://vric.org",
+      "email": "info@vric.org",
+      "coordinates": {
+        "lat": 32.9172725,
+        "lon": -96.9478424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12977682702
+    },
+    {
+      "id": "node_12978199608",
+      "name": "Masjid Khulafa’a Rashideen",
+      "address": {
+        "street": "6400 Southwest Freeway Frontage Road",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77074",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidkr.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7205228,
+        "lon": -95.497174
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12978199608
+    },
+    {
+      "id": "node_13067658068",
+      "name": "City of Knowledge",
+      "address": {
+        "street": "1800 Golden Trail Court",
+        "city": "Carrollton",
+        "state": "TX",
+        "zip": "75010",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://cfkdfw.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0333595,
+        "lon": -96.8863257
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13067658068
+    },
+    {
+      "id": "node_13097142249",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "2401 South Lakeline Boulevard",
+        "city": "Cedar Park",
+        "state": "TX",
+        "zip": "78613",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4766516,
+        "lon": -97.8183063
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13097142249
+    },
+    {
+      "id": "way_131590581",
+      "name": "Elfarouq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7893434,
+        "lon": -95.5497392
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 131590581
+    },
+    {
+      "id": "way_260789761",
+      "name": "Islamic Da'wah Center",
+      "address": {
+        "street": "201 Travis Street",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.762962,
+        "lon": -95.3605815
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 260789761
+    },
+    {
+      "id": "way_265482606",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.8186808,
+        "lon": -106.5116745
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265482606
+    },
+    {
+      "id": "way_303684340",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "8455 Stonebrook Parkway",
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75034",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1389618,
+        "lon": -96.8112921
+      },
+      "denomination": "sufi",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 303684340
+    },
+    {
+      "id": "way_316374303",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1086611,
+        "lon": -106.5441461
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 316374303
+    },
+    {
+      "id": "way_380922453",
+      "name": "Nueces Mosque",
+      "address": {
+        "street": "1908 Nueces Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.283198,
+        "lon": -97.744345
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 380922453
+    },
+    {
+      "id": "way_381791591",
+      "name": "Islamic Center of Greater Austin",
+      "address": {
+        "street": "5110 Manor Road",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78723",
+        "full": ""
+      },
+      "phone": "+1-512-926-9221",
+      "website": "https://austinmosque.org/",
+      "email": "contact@austinmosque.org",
+      "coordinates": {
+        "lat": 30.2996687,
+        "lon": -97.6867872
+      },
+      "denomination": "",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "osm_type": "way",
+      "osm_id": 381791591
+    },
+    {
+      "id": "way_382819523",
+      "name": "North Austin Muslim Community Center",
+      "address": {
+        "street": "11900 North Lamar Boulevard",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78753",
+        "full": ""
+      },
+      "phone": "+1 512-491-7148",
+      "website": "https://www.namcc.org/",
+      "email": "info@namcc.org",
+      "coordinates": {
+        "lat": 30.3903686,
+        "lon": -97.6840079
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 382819523
+    },
+    {
+      "id": "way_383004522",
+      "name": "Baitul Muqeet Mosque - Ahmadiyya Muslim Community",
+      "address": {
+        "street": "800 Deep Wood Drive",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "78681",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.5010461,
+        "lon": -97.6985957
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 383004522
+    },
+    {
+      "id": "way_383025450",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4710874,
+        "lon": -97.6348827
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 383025450
+    },
+    {
+      "id": "way_411792297",
+      "name": "Islamic Community of Bryan",
+      "address": {
+        "street": "417 Stasney Street",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.6222578,
+        "lon": -96.3474684
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 411792297
+    },
+    {
+      "id": "way_416819360",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "1590 Arrington Road",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77845",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.549281,
+        "lon": -96.2600921
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 416819360
+    },
+    {
+      "id": "way_423752564",
+      "name": "Minhaj ul Quran International",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0133608,
+        "lon": -96.8875328
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 423752564
+    },
+    {
+      "id": "way_424223465",
+      "name": "Madinah Masjid of Carrollton",
+      "address": {
+        "street": "2180 Old Denton Road",
+        "city": "Carrollton",
+        "state": "TX",
+        "zip": "75006",
+        "full": ""
+      },
+      "phone": "+1-972-466-1211",
+      "website": "http://www.madinahmasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9751557,
+        "lon": -96.9093891
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 424223465
+    },
+    {
+      "id": "way_428174400",
+      "name": "Islamic Center of Amarillo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2113128,
+        "lon": -101.9108193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 428174400
+    },
+    {
+      "id": "way_440409724",
+      "name": "Islamic Society of Stillwater",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1292743,
+        "lon": -97.0699697
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 440409724
+    },
+    {
+      "id": "way_460792404",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "909 Allen Central Drive",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.097137,
+        "lon": -96.6835313
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 460792404
+    },
+    {
+      "id": "way_465539048",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5820272,
+        "lon": -101.8659502
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 465539048
+    },
+    {
+      "id": "way_474048074",
+      "name": "Islamic Center of Northwest Arkansas",
+      "address": {
+        "street": "1420 West Center Street",
+        "city": "Fayetteville",
+        "state": "AR",
+        "zip": "72701",
+        "full": "1420 West Center Street"
+      },
+      "phone": "+1 479 442 4155",
+      "website": "https://www.icnwa.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0634441,
+        "lon": -94.1806515
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 474048074
+    },
+    {
+      "id": "way_493297858",
+      "name": "Masjidul Mu'meneen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6584513,
+        "lon": -95.5315656
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 493297858
+    },
+    {
+      "id": "way_493297860",
+      "name": "Madrasah Islamiah Masjid Noor",
+      "address": {
+        "street": "6665 Bintliff Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77074",
+        "full": ""
+      },
+      "phone": "+1 713-772-2000",
+      "website": "https://mislamiah.com",
+      "email": "admin@mislamiah.com",
+      "coordinates": {
+        "lat": 29.7071981,
+        "lon": -95.5048381
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 493297860
+    },
+    {
+      "id": "way_503805519",
+      "name": "Bait-ul-Qayyum Mosque",
+      "address": {
+        "street": "2801 Miller Avenue",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76105",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islaminfortworth.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7177157,
+        "lon": -97.2623461
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 503805519
+    },
+    {
+      "id": "way_504095694",
+      "name": "Bayt Al-Karim Islamic Center",
+      "address": {
+        "street": "4512 Columbus Trace",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6286584,
+        "lon": -97.3917327
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504095694
+    },
+    {
+      "id": "way_520283786",
+      "name": "Islamic Society of Greater Houston",
+      "address": {
+        "street": "3110 Eastside Street",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77098",
+        "full": ""
+      },
+      "phone": "+1-713-524-6615",
+      "website": "https://isgh.org/",
+      "email": "info@isgh.org",
+      "coordinates": {
+        "lat": 29.7368871,
+        "lon": -95.4250552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 520283786
+    },
+    {
+      "id": "way_525184470",
+      "name": "Islamic Society of South Texas",
+      "address": {
+        "street": "7341 McArdle Road",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "zip": "78412",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.6942569,
+        "lon": -97.3366009
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 525184470
+    },
+    {
+      "id": "way_525184474",
+      "name": "Islamic Society of South Texas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.6946377,
+        "lon": -97.3363631
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 525184474
+    },
+    {
+      "id": "way_534495235",
+      "name": "ISGH Masjid At-Taqwa",
+      "address": {
+        "street": "10415 Synott Road",
+        "city": "Sugar Land",
+        "state": "TX",
+        "zip": "77498",
+        "full": ""
+      },
+      "phone": "+1-281-236-2989",
+      "website": "https://masjidattaqwa.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 29.665285,
+        "lon": -95.6157566
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 534495235
+    },
+    {
+      "id": "way_580997456",
+      "name": "Bait-ul-Ikram Mosque",
+      "address": {
+        "street": "1850 Hedgcoxe Road",
+        "city": "Allen",
+        "state": "TX",
+        "zip": "75013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamindallas.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0865402,
+        "lon": -96.7228994
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 580997456
+    },
+    {
+      "id": "way_584726498",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "8521 W TX 71",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78735",
+        "full": ""
+      },
+      "phone": "+1-512-693-2924",
+      "website": "https://www.masjidibrahim.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 30.2482314,
+        "lon": -97.8921154
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 584726498
+    },
+    {
+      "id": "way_641439121",
+      "name": "Islamic Academy of San Antonio",
+      "address": {
+        "street": "8638 Fairhaven Street",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5216118,
+        "lon": -98.5631983
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 641439121
+    },
+    {
+      "id": "way_654513276",
+      "name": "New Islamic Generation Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7131211,
+        "lon": -97.0969495
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 654513276
+    },
+    {
+      "id": "way_655037002",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0090993,
+        "lon": -95.5598974
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 655037002
+    },
+    {
+      "id": "way_665708231",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "6704 Alma Drive",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75023",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0662639,
+        "lon": -96.7086591
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 665708231
+    },
+    {
+      "id": "way_670759640",
+      "name": "Masjid Al-Sahaabah Watauga Center",
+      "address": {
+        "street": "6005 Chapman Road",
+        "city": "Watauga",
+        "state": "TX",
+        "zip": "76148",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8682536,
+        "lon": -97.2517276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 670759640
+    },
+    {
+      "id": "way_683020107",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1079413,
+        "lon": -106.5214028
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 683020107
+    },
+    {
+      "id": "way_709095484",
+      "name": "Islamic center of Wylie, Masjid",
+      "address": {
+        "street": "3390 Lakeway Drive",
+        "city": "St Paul",
+        "state": "TX",
+        "zip": "75098",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.048489,
+        "lon": -96.567142
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 709095484
+    },
+    {
+      "id": "way_720742403",
+      "name": "Islamic Center of Lubbock",
+      "address": {
+        "street": "3419 La Salle Avenue",
+        "city": "Lubbock",
+        "state": "TX",
+        "zip": "79407",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.561898,
+        "lon": -101.9537991
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 720742403
+    },
+    {
+      "id": "way_857233972",
+      "name": "Masjid Al-Taqwa",
+      "address": {
+        "street": "5403 Virginia Avenue",
+        "city": "Shreveport",
+        "state": "Texas",
+        "zip": "71108",
+        "full": ""
+      },
+      "phone": "+1 318-636-1215",
+      "website": "http://www.altaqwamasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.459902,
+        "lon": -93.7772245
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 857233972
+    },
+    {
+      "id": "way_880912133",
+      "name": "Jamia Masjid",
+      "address": {
+        "street": "2394 West Lucas Drive",
+        "city": "Beaumont",
+        "state": "TX",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://jamiamasjid.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 30.103981,
+        "lon": -94.1471115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 880912133
+    },
+    {
+      "id": "way_898569117",
+      "name": "Islamic Center of Brushy Creek",
+      "address": {
+        "street": "1950 Brushy Creek Road",
+        "city": "Cedar Park",
+        "state": "TX",
+        "zip": "78613",
+        "full": ""
+      },
+      "phone": "+1-512-850-4786",
+      "website": "https://icbrushycreek.org/",
+      "email": "info@icbrushycreek.org",
+      "coordinates": {
+        "lat": 30.5079753,
+        "lon": -97.7920075
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 898569117
+    },
+    {
+      "id": "way_902564780",
+      "name": "East Plano Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0098878,
+        "lon": -96.6467899
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 902564780
+    },
+    {
+      "id": "way_995953052",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "119 Amy Street",
+        "city": "Longview",
+        "state": "TX",
+        "zip": "75605",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.573788,
+        "lon": -94.7501855
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 995953052
+    },
+    {
+      "id": "way_1020215557",
+      "name": "Islamic Society of Triplex – Beaumont Mosque",
+      "address": {
+        "street": "1270 West Cardinal Drive",
+        "city": "Beaumont",
+        "state": "TX",
+        "zip": "77705-5804",
+        "full": ""
+      },
+      "phone": "+1 409 842 5349",
+      "website": "https://istweb.org/",
+      "email": "info@istweb.org",
+      "coordinates": {
+        "lat": 30.0336478,
+        "lon": -94.0934969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1020215557
+    },
+    {
+      "id": "way_1042903044",
+      "name": "Islamic Society of Denton",
+      "address": {
+        "street": "1105 Greenlee Street",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "76201",
+        "full": ""
+      },
+      "phone": "+19404841871",
+      "website": "https://www.dentonmosque.com/",
+      "email": "dentonmosque@gmail.com",
+      "coordinates": {
+        "lat": 33.2015757,
+        "lon": -97.1446735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1042903044
+    },
+    {
+      "id": "way_1098995390",
+      "name": "Houston's Blue Mosque",
+      "address": {
+        "street": "9301 West Bellfort Street",
+        "city": "",
+        "state": "TX",
+        "zip": "77031",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6548694,
+        "lon": -95.5457303
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1098995390
+    },
+    {
+      "id": "way_1099925585",
+      "name": "San Marcos Masjid",
+      "address": {
+        "street": "434 North Comanche Street",
+        "city": "San Marcos",
+        "state": "TX",
+        "zip": "78666",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8862237,
+        "lon": -97.9441235
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1099925585
+    },
+    {
+      "id": "way_1130995547",
+      "name": "IALFM Mosque",
+      "address": {
+        "street": "Peters Colony Road",
+        "city": "Flower Mound",
+        "state": "TX",
+        "zip": "75022",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0354077,
+        "lon": -97.0830104
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1130995547
+    },
+    {
+      "id": "way_1219421575",
+      "name": "Ismaili Jamatkhana and Center - Harvest Green",
+      "address": {
+        "street": "9550 Harlem Road",
+        "city": "Richmond",
+        "state": "TX",
+        "zip": "77407",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6513724,
+        "lon": -95.7138677
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1219421575
+    },
+    {
+      "id": "way_1225215246",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4400444,
+        "lon": -97.7603608
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1225215246
+    },
+    {
+      "id": "way_1243245605",
+      "name": "Islamic Society of Tulsa: Masjid Al-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0959336,
+        "lon": -95.9118923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1243245605
+    },
+    {
+      "id": "way_1256728135",
+      "name": "Islamic Society Of South Texas",
+      "address": {
+        "street": "2008 North Ware Road",
+        "city": "McAllen",
+        "state": "TX",
+        "zip": "78051",
+        "full": ""
+      },
+      "phone": "+1-956-618-4180",
+      "website": "https://isstonline.wixsite.com/isstmcallen",
+      "email": "",
+      "coordinates": {
+        "lat": 26.2256896,
+        "lon": -98.2570844
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1256728135
+    },
+    {
+      "id": "way_1283361425",
+      "name": "DeSoto House of Peace",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://salamdesoto.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5905805,
+        "lon": -96.8686256
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1283361425
+    },
+    {
+      "id": "way_1306256992",
+      "name": "Cypress Islamic Center",
+      "address": {
+        "street": "16103 Cypress Rosehill Road",
+        "city": "Cypress",
+        "state": "TX",
+        "zip": "77429",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://cypressislamiccenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0009107,
+        "lon": -95.6988937
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1306256992
+    },
+    {
+      "id": "way_1322380194",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6581112,
+        "lon": -95.6576414
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1322380194
+    },
+    {
+      "id": "way_1323719989",
+      "name": "Maryam Islamic Center",
+      "address": {
+        "street": "504 Sartartia Road",
+        "city": "Sugar Land",
+        "state": "TX",
+        "zip": "77479",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5935051,
+        "lon": -95.68427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1323719989
+    },
+    {
+      "id": "way_1346085110",
+      "name": "Xhamia Shqiptare DFW",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8563923,
+        "lon": -97.1602916
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1346085110
+    },
+    {
+      "id": "way_1348862217",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "6719 Koeblen Road",
+        "city": "Rosenberg",
+        "state": "Texas",
+        "zip": "77469",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://rosenbergcommunitycenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5061867,
+        "lon": -95.7629631
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1348862217
+    },
+    {
+      "id": "way_1367143685",
+      "name": "Masjid Istiqlal Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6527273,
+        "lon": -95.6542335
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1367143685
+    },
+    {
+      "id": "way_1367143688",
+      "name": "Masjid Darul-Uloom Texas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6440377,
+        "lon": -95.6527157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1367143688
+    },
+    {
+      "id": "way_1369802877",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "9401 Farm-to-Market Road 1105",
+        "city": "Jarrell",
+        "state": "TX",
+        "zip": "76537",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.7813991,
+        "lon": -97.5881199
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1369802877
+    },
+    {
+      "id": "way_1385972314",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.0006562,
+        "lon": -102.1458846
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1385972314
+    },
+    {
+      "id": "way_1394443121",
+      "name": "MOMIN of Texas",
+      "address": {
+        "street": "2945 Frankford Road",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75287",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9986738,
+        "lon": -96.8619783
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1394443121
+    },
+    {
+      "id": "way_1411236118",
+      "name": "Kalkan Masjid Houston",
+      "address": {
+        "street": "2600 Lazy Hollow Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77063",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7377657,
+        "lon": -95.5174069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1411236118
+    },
+    {
+      "id": "way_1412305433",
+      "name": "Baitus Samee Mosque",
+      "address": {
+        "street": "1333 Spears Road",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77067",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9646368,
+        "lon": -95.4408293
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1412305433
+    },
+    {
+      "id": "way_1414024242",
+      "name": "Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6775566,
+        "lon": -95.3973955
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1414024242
+    },
+    {
+      "id": "way_1418408830",
+      "name": "Al-Ghadeer",
+      "address": {
+        "street": "9260 South Course Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77099",
+        "full": ""
+      },
+      "phone": "+1 832-715-0786",
+      "website": "https://www.alghadeer.org/",
+      "email": "directors@alghadeer.org",
+      "coordinates": {
+        "lat": 29.6794424,
+        "lon": -95.5630604
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1418408830
+    },
+    {
+      "id": "way_1447830521",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "2323 Allen Parkway Frontage Road",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77019",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7591137,
+        "lon": -95.3917866
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1447830521
+    },
+    {
+      "id": "relation_5331156",
+      "name": "Muslim Children Education & Civic Center",
+      "address": {
+        "street": "5821 Casa Bella Street",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "78249",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.mcecc.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5711952,
+        "lon": -98.5893669
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 5331156
+    },
+    {
+      "id": "relation_9675813",
+      "name": "Masjid Al-Mustafa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8627779,
+        "lon": -95.6714781
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 9675813
+    }
+  ]
+}

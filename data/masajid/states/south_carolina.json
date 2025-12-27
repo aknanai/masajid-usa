@@ -1,0 +1,248 @@
+{
+  "state": "South Carolina",
+  "count": 11,
+  "masajid": [
+    {
+      "id": "node_357103072",
+      "name": "Aiken Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5779158,
+        "lon": -81.7506647
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357103072
+    },
+    {
+      "id": "node_1509440960",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.193618,
+        "lon": -80.0068662
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1509440960
+    },
+    {
+      "id": "node_5757108770",
+      "name": "Grand Strand Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7375887,
+        "lon": -78.9474801
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5757108770
+    },
+    {
+      "id": "way_545312303",
+      "name": "Masjid al-Muslimiin",
+      "address": {
+        "street": "1929 Gervais Street",
+        "city": "Columbia",
+        "state": "SC",
+        "zip": "29201",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0057066,
+        "lon": -81.0212858
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 545312303
+    },
+    {
+      "id": "way_556237880",
+      "name": "Al Markaz-ul-Murtazawi (Anjuman-e-Husami)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9537319,
+        "lon": -81.0817335
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 556237880
+    },
+    {
+      "id": "way_560914276",
+      "name": "Omar Ibn Sayyiid Mosque",
+      "address": {
+        "street": "2700 Murchison Road",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0918345,
+        "lon": -78.9095132
+      },
+      "denomination": "the_mosque_cares",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 560914276
+    },
+    {
+      "id": "way_836907102",
+      "name": "Al Zahra Islamic Center of Charlotte",
+      "address": {
+        "street": "5227 Monroe Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28205",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://azicc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1905077,
+        "lon": -80.7740168
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 836907102
+    },
+    {
+      "id": "way_950223712",
+      "name": "Masjid Jihad",
+      "address": {
+        "street": "117 East 34th Lane",
+        "city": "Savannah",
+        "state": "GA",
+        "zip": "31401",
+        "full": ""
+      },
+      "phone": "+1-912-236-7387",
+      "website": "https://www.masjidjihad.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.0589348,
+        "lon": -81.0974402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 950223712
+    },
+    {
+      "id": "way_1051805335",
+      "name": "Islamic Society of Greenville",
+      "address": {
+        "street": "96 Meridian Avenue",
+        "city": "Taylors",
+        "state": "South Carolina",
+        "zip": "29687",
+        "full": ""
+      },
+      "phone": "+1-864-498-4055",
+      "website": "http://www.greenvillemasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.8983594,
+        "lon": -82.3410305
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1051805335
+    },
+    {
+      "id": "way_1178309613",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0299909,
+        "lon": -79.120637
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1178309613
+    },
+    {
+      "id": "relation_13754013",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "2022 South Milledge Avenue",
+        "city": "Athens",
+        "state": "South Carolina",
+        "zip": "30605",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9245727,
+        "lon": -83.3790322
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 13754013
+    }
+  ]
+}

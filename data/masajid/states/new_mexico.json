@@ -1,0 +1,182 @@
+{
+  "state": "New Mexico",
+  "count": 8,
+  "masajid": [
+    {
+      "id": "way_174267357",
+      "name": "Islamic Center of Las Cruces",
+      "address": {
+        "street": "1065 East Boutz Road",
+        "city": "",
+        "state": "NM",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-575-522-3363",
+      "website": "https://www.icolc.org/main.html",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2956967,
+        "lon": -106.7625967
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 174267357
+    },
+    {
+      "id": "way_176131489",
+      "name": "Las Cruces Islamic Center",
+      "address": {
+        "street": "1025 South Solano Drive",
+        "city": "",
+        "state": "NM",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-575-524-2430",
+      "website": "http://www.lc-ic.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.3021094,
+        "lon": -106.762755
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 176131489
+    },
+    {
+      "id": "way_265482606",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.8186808,
+        "lon": -106.5116745
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265482606
+    },
+    {
+      "id": "way_316374303",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1086611,
+        "lon": -106.5441461
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 316374303
+    },
+    {
+      "id": "way_399315607",
+      "name": "Islamic Center of New Mexico",
+      "address": {
+        "street": "1100 Yale Boulevard Southeast",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87106",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.icnm-abq.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0683401,
+        "lon": -106.6216882
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 399315607
+    },
+    {
+      "id": "way_554585288",
+      "name": "Islamic Center of Socorro",
+      "address": {
+        "street": "1208 El Camino Real Street",
+        "city": "Socorro",
+        "state": "NM",
+        "zip": "87801",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0741561,
+        "lon": -106.8991081
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 554585288
+    },
+    {
+      "id": "way_683020107",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1079413,
+        "lon": -106.5214028
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 683020107
+    },
+    {
+      "id": "way_877949223",
+      "name": "Gallup Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5290165,
+        "lon": -108.6868027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 877949223
+    }
+  ]
+}

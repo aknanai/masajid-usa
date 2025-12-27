@@ -1,0 +1,578 @@
+{
+  "state": "Washington",
+  "count": 26,
+  "masajid": [
+    {
+      "id": "node_415826727",
+      "name": "Masjid Omar Al-Farooq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.7831272,
+        "lon": -122.3079334
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 415826727
+    },
+    {
+      "id": "node_3688670319",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "7108 Northeast Glisan Street",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97213",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5263399,
+        "lon": -122.5894631
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3688670319
+    },
+    {
+      "id": "node_6346261277",
+      "name": "Islamic Society of Whatcom County",
+      "address": {
+        "street": "1244 Nevada Street",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 48.7440991,
+        "lon": -122.4595707
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6346261277
+    },
+    {
+      "id": "node_8597655822",
+      "name": "Abu-Bakr Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.5521354,
+        "lon": -122.289007
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8597655822
+    },
+    {
+      "id": "node_9073068511",
+      "name": "Masjid Ibrahim Bethany Musalla",
+      "address": {
+        "street": "15188 Northwest Central Drive",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97229",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjid-ibrahim.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5543042,
+        "lon": -122.833187
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9073068511
+    },
+    {
+      "id": "node_11172437437",
+      "name": "Islamic Center of Eastside",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6291396,
+        "lon": -122.151019
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11172437437
+    },
+    {
+      "id": "node_11247339039",
+      "name": "Islamic Center of North Seattle",
+      "address": {
+        "street": "12528 Lake City Way Northeast",
+        "city": "Seattle",
+        "state": "Washington",
+        "zip": "98125",
+        "full": ""
+      },
+      "phone": "+1-206-362-3730",
+      "website": "https://islamiccenterofnorthseattle.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 47.720093,
+        "lon": -122.2941588
+      },
+      "denomination": "",
+      "opening_hours": "Mo-Su 12:00-20:00",
+      "osm_type": "node",
+      "osm_id": 11247339039
+    },
+    {
+      "id": "way_30455220",
+      "name": "Masjid Madeena",
+      "address": {
+        "street": "827 164th Avenue Northeast",
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6178515,
+        "lon": -122.1222275
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 30455220
+    },
+    {
+      "id": "way_65067144",
+      "name": "Muslim Association of Puget Sound",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.mapsredmond.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6657948,
+        "lon": -122.1065921
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 65067144
+    },
+    {
+      "id": "way_137361969",
+      "name": "The BC Muslim Association",
+      "address": {
+        "street": "2218 Quadra Street",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 48.4336253,
+        "lon": -123.3585823
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 137361969
+    },
+    {
+      "id": "way_157302780",
+      "name": "Islamic Center of Redmond (ICOR)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6678274,
+        "lon": -122.098031
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 157302780
+    },
+    {
+      "id": "way_223482714",
+      "name": "Islamic House",
+      "address": {
+        "street": "4625 22nd Avenue Northeast",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98105",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6625959,
+        "lon": -122.3047038
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 223482714
+    },
+    {
+      "id": "way_228765032",
+      "name": "Islamic School of Seattle and Masjid Al Taqwa",
+      "address": {
+        "street": "720 25th Avenue",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98122",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.salatomatic.com/spc/Seattle/Masjid-Al-Taqwa/XG08K4By92",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6087105,
+        "lon": -122.2998208
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 228765032
+    },
+    {
+      "id": "way_235232726",
+      "name": "Idris Mosque",
+      "address": {
+        "street": "1420 Northeast Northgate Way",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98125",
+        "full": ""
+      },
+      "phone": "+1-206-363-3013",
+      "website": "https://www.idrismosque.com/",
+      "email": "askus@idrismosque.com",
+      "coordinates": {
+        "lat": 47.7087226,
+        "lon": -122.3128315
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 235232726
+    },
+    {
+      "id": "way_250440627",
+      "name": "Masjid Al-Nur Islamic Center of Olympia",
+      "address": {
+        "street": "4324 20th Lane Northeast",
+        "city": "Olympia",
+        "state": "WA",
+        "zip": "98516",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.islamiccenterofolympia.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 47.0634813,
+        "lon": -122.8283456
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 250440627
+    },
+    {
+      "id": "way_371563331",
+      "name": "Islamic Community Center of Hillsboro",
+      "address": {
+        "street": "7270 Northwest Helvetia Road",
+        "city": "Hillsboro",
+        "state": "OR",
+        "zip": "97124",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5722059,
+        "lon": -122.923113
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 371563331
+    },
+    {
+      "id": "way_379799880",
+      "name": "Islamic Center of Tri Cities",
+      "address": {
+        "street": "2900 Bombing Range Road",
+        "city": "West Richland",
+        "state": "WA",
+        "zip": "99353",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.islamiccenteroftricities.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 46.2748502,
+        "lon": -119.3456786
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 379799880
+    },
+    {
+      "id": "way_521303313",
+      "name": "Abu-Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.4768623,
+        "lon": -122.2843697
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 521303313
+    },
+    {
+      "id": "way_540922414",
+      "name": "Islamic Center of Yakima",
+      "address": {
+        "street": "311 South 10th Avenue",
+        "city": "Yakima",
+        "state": "WA",
+        "zip": "98902",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/pages/Islamic-Center-of-Yakima/134204169963235",
+      "email": "",
+      "coordinates": {
+        "lat": 46.5938673,
+        "lon": -120.5201842
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 540922414
+    },
+    {
+      "id": "way_546696444",
+      "name": "Pullman Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 46.7370238,
+        "lon": -117.1656086
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546696444
+    },
+    {
+      "id": "way_714506920",
+      "name": "Islamic Community of Bosniaks in Washington",
+      "address": {
+        "street": "20001 24th Avenue Northeast",
+        "city": "Shoreline",
+        "state": "WA",
+        "zip": "98155",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.7739943,
+        "lon": -122.3037482
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 714506920
+    },
+    {
+      "id": "way_891113110",
+      "name": "Spokane Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6556193,
+        "lon": -117.3180182
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 891113110
+    },
+    {
+      "id": "way_1285105276",
+      "name": "Islamic Center of Kitsap County",
+      "address": {
+        "street": "1140 Marine Drive",
+        "city": "Bremerton",
+        "state": "WA",
+        "zip": "98312",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.kitsapmasjid.org/",
+      "email": "ickc1140@gmail.com",
+      "coordinates": {
+        "lat": 47.5734109,
+        "lon": -122.6662584
+      },
+      "denomination": "",
+      "opening_hours": "24 hours",
+      "osm_type": "way",
+      "osm_id": 1285105276
+    },
+    {
+      "id": "way_1302641979",
+      "name": "Islamic Center of Eastside",
+      "address": {
+        "street": "14700 Main Street",
+        "city": "Bellevue",
+        "state": "Washington",
+        "zip": "98007",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.eastsidemosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 47.6101893,
+        "lon": -122.1440816
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1302641979
+    },
+    {
+      "id": "way_1426231631",
+      "name": "Baitul Ehsan Mosque",
+      "address": {
+        "street": "23515 Old Owen Road",
+        "city": "Monroe",
+        "state": "WA",
+        "zip": "98272",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.8640029,
+        "lon": -121.915767
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1426231631
+    },
+    {
+      "id": "relation_4553670",
+      "name": "Ithna-asheri Muslim Association of the Northwest (IMAN)",
+      "address": {
+        "street": "515 State Street South",
+        "city": "Kirkland",
+        "state": "Washington",
+        "zip": "98033",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iman-wa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 47.671577,
+        "lon": -122.2026471
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 4553670
+    }
+  ]
+}

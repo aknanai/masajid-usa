@@ -1,0 +1,160 @@
+{
+  "state": "Alabama",
+  "count": 7,
+  "masajid": [
+    {
+      "id": "node_1314708253",
+      "name": "Gadsden Islamic Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0010573,
+        "lon": -85.9853583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1314708253
+    },
+    {
+      "id": "node_12133027948",
+      "name": "Islamic Society of Tuscaloosa",
+      "address": {
+        "street": "1416 Paul W Bryant Drive",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "zip": "35401",
+        "full": ""
+      },
+      "phone": "+1-205-758-3382",
+      "website": "https://istuscaloosa.org",
+      "email": "support@istuscaloosa.com",
+      "coordinates": {
+        "lat": 33.2068703,
+        "lon": -87.5558456
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12133027948
+    },
+    {
+      "id": "way_354217764",
+      "name": "Islamic Center of Northwest Florida",
+      "address": {
+        "street": "3445 East Johnson Avenue",
+        "city": "Pensacola",
+        "state": "FL",
+        "zip": "32514",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.5167218,
+        "lon": -87.1954481
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 354217764
+    },
+    {
+      "id": "way_384891488",
+      "name": "Masjid AlMadina",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.680033,
+        "lon": -86.753596
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 384891488
+    },
+    {
+      "id": "way_1301850590",
+      "name": "Mobile Masjid of al-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.6612827,
+        "lon": -88.0743655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1301850590
+    },
+    {
+      "id": "way_1368825954",
+      "name": "Prichard Masjid of Al-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.7265957,
+        "lon": -88.0828832
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1368825954
+    },
+    {
+      "id": "way_1425907711",
+      "name": "American Islamic Center of Mobile",
+      "address": {
+        "street": "6702 Old Shell Road",
+        "city": "Mobile",
+        "state": "AL",
+        "zip": "36688",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.6914267,
+        "lon": -88.1982125
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1425907711
+    }
+  ]
+}

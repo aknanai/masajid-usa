@@ -1,0 +1,204 @@
+{
+  "state": "Maine",
+  "count": 9,
+  "masajid": [
+    {
+      "id": "node_6532733284",
+      "name": "Islamic Center of Lewiston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maine",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0981787,
+        "lon": -70.2179726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6532733284
+    },
+    {
+      "id": "node_7170754068",
+      "name": "Masjid Al-Rahman",
+      "address": {
+        "street": "1844 Forest Avenue",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04103",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.699737,
+        "lon": -70.3182687
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7170754068
+    },
+    {
+      "id": "node_7170764313",
+      "name": "Masjid Attawba",
+      "address": {
+        "street": "734 Riverside Street",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04103",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7007153,
+        "lon": -70.322429
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7170764313
+    },
+    {
+      "id": "way_221648836",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "118 Anderson Street",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04101",
+        "full": ""
+      },
+      "phone": "+1-207-797-6626",
+      "website": "http://mainemuslim.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6665571,
+        "lon": -70.2560124
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 221648836
+    },
+    {
+      "id": "way_361331928",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "73 Portland Street",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04101",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6581061,
+        "lon": -70.2647793
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 361331928
+    },
+    {
+      "id": "way_361331929",
+      "name": "Omar Bin Alkhetab Masjid",
+      "address": {
+        "street": "978 Washington Avenue",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04103",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.689401,
+        "lon": -70.2756352
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 361331929
+    },
+    {
+      "id": "way_361332379",
+      "name": "Masjid u Salaam",
+      "address": {
+        "street": "256 Bartlett Street",
+        "city": "Lewiston",
+        "state": "ME",
+        "zip": "04240",
+        "full": ""
+      },
+      "phone": "+1-207-795-9877",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0918885,
+        "lon": -70.2076965
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 361332379
+    },
+    {
+      "id": "way_361333100",
+      "name": "Islamic Society of Greater Augusta",
+      "address": {
+        "street": "11 North Pearl Street",
+        "city": "Augusta",
+        "state": "ME",
+        "zip": "04330",
+        "full": ""
+      },
+      "phone": "+1-207-370-1786",
+      "website": "https://goisga.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.3235997,
+        "lon": -69.7614438
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 361333100
+    },
+    {
+      "id": "way_403499345",
+      "name": "Islamic Center of Maine",
+      "address": {
+        "street": "151 Park Street",
+        "city": "Orono",
+        "state": "ME",
+        "zip": "04473",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.894341,
+        "lon": -68.6583437
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 403499345
+    }
+  ]
+}

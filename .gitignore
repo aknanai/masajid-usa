@@ -1,0 +1,27 @@
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Claude Code local settings
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Temp files
+*.log
+*.tmp

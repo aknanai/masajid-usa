@@ -1,0 +1,820 @@
+{
+  "state": "Connecticut",
+  "count": 37,
+  "masajid": [
+    {
+      "id": "node_359286170",
+      "name": "Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1812079,
+        "lon": -73.1903898
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 359286170
+    },
+    {
+      "id": "node_7681220791",
+      "name": "Alhedayah Masjid & Islamic Center",
+      "address": {
+        "street": "20 Cushing Street",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06907",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0932435,
+        "lon": -73.5167134
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7681220791
+    },
+    {
+      "id": "node_8436379065",
+      "name": "Omar Islamic Center",
+      "address": {
+        "street": "24 Broad Street",
+        "city": "Middletown",
+        "state": "CT",
+        "zip": "06457",
+        "full": ""
+      },
+      "phone": "+1 860 059 4521",
+      "website": "https://oicct.org/",
+      "email": "info@oicct.org",
+      "coordinates": {
+        "lat": 41.5570278,
+        "lon": -72.64965
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8436379065
+    },
+    {
+      "id": "node_8494752229",
+      "name": "Masjid Umar Ibn Al Khattab",
+      "address": {
+        "street": "2017 Main Street",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06120",
+        "full": ""
+      },
+      "phone": "+1 860 698 1563",
+      "website": "https://masjid-umar-ibn-al-khattab.business.site",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7822342,
+        "lon": -72.6761788
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8494752229
+    },
+    {
+      "id": "node_8741232286",
+      "name": "Islamic Center Of Vernon",
+      "address": {
+        "street": "27 Naek Road",
+        "city": "Vernon",
+        "state": "CT",
+        "zip": "06066",
+        "full": ""
+      },
+      "phone": "+1 860 709 5954",
+      "website": "https://www.islamiccenterofvernon.org",
+      "email": "IslamicCenterofVernon@gmail.com",
+      "coordinates": {
+        "lat": 41.839044,
+        "lon": -72.4927229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8741232286
+    },
+    {
+      "id": "way_206380378",
+      "name": "Masjid An-Noor",
+      "address": {
+        "street": "1300 Fairfield Avenue",
+        "city": "Bridgeport",
+        "state": "CT",
+        "zip": "06605",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidan-noor.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1741658,
+        "lon": -73.2089927
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 206380378
+    },
+    {
+      "id": "way_302855622",
+      "name": "Jafaria Association of Connecticut",
+      "address": {
+        "street": "1 Meriden Road",
+        "city": "Middlefield",
+        "state": "CT",
+        "zip": "06455",
+        "full": ""
+      },
+      "phone": "+1 860 704 8472",
+      "website": "https://jaoct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.548454,
+        "lon": -72.6938794
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 302855622
+    },
+    {
+      "id": "way_337703850",
+      "name": "Abdul-Majid Karim Hasan Islamic Center",
+      "address": {
+        "street": "870 Dixwell Avenue",
+        "city": "Hamden",
+        "state": "CT",
+        "zip": "06514",
+        "full": ""
+      },
+      "phone": "+20 3 5620594",
+      "website": "http://amkhic.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3368966,
+        "lon": -72.9355709
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 337703850
+    },
+    {
+      "id": "way_546659978",
+      "name": "ICCNY Islamic Center Masjid",
+      "address": {
+        "street": "1558 Washington Boulevard",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06902",
+        "full": ""
+      },
+      "phone": "+1 203 921 1431",
+      "website": "https://www.iccnystamford.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0606605,
+        "lon": -73.5443125
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546659978
+    },
+    {
+      "id": "way_565538588",
+      "name": "Islamic Center at UConn",
+      "address": {
+        "street": "28 North Eagleville Road",
+        "city": "Storrs",
+        "state": "CT",
+        "zip": "06269",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://icuc.weebly.com",
+      "email": "icuconn@gmail.com",
+      "coordinates": {
+        "lat": 41.8120188,
+        "lon": -72.2521087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 565538588
+    },
+    {
+      "id": "way_570685776",
+      "name": "Bayt Ul-Mamur Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7700468,
+        "lon": -72.5188194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 570685776
+    },
+    {
+      "id": "way_590554173",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "595 Franklin Avenue",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06114",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/bosnian-american-islamic-cultural-center-hartford-ct-346147188408",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7319425,
+        "lon": -72.675069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 590554173
+    },
+    {
+      "id": "way_592852014",
+      "name": "Al-Madany Islamic Center of Norwalk",
+      "address": {
+        "street": "1 Union Park Place",
+        "city": "Norwalk",
+        "state": "CT",
+        "zip": "06850",
+        "full": ""
+      },
+      "phone": "+1 203 642 3150",
+      "website": "https://www.facebook.com/Al-Madany-Islamic-Center-of-Norwalk-271074252917985",
+      "email": "almadany@googlegroups.com",
+      "coordinates": {
+        "lat": 41.1157943,
+        "lon": -73.4171674
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 592852014
+    },
+    {
+      "id": "way_822989977",
+      "name": "Stamford Islamic Center",
+      "address": {
+        "street": "379 West Avenue",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06902",
+        "full": ""
+      },
+      "phone": "+1 203 883 9765",
+      "website": "https://stamfordislamiccenter.com/",
+      "email": "info@stamfordislamiccenter.com",
+      "coordinates": {
+        "lat": 41.0408571,
+        "lon": -73.5594217
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 822989977
+    },
+    {
+      "id": "way_844454804",
+      "name": "Muhammad Islamic Center of Greater Hartford",
+      "address": {
+        "street": "155,157 Hungerford Street",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06106",
+        "full": ""
+      },
+      "phone": "+1 860 728 8646",
+      "website": "https://www.micgh.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.759067,
+        "lon": -72.6860368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 844454804
+    },
+    {
+      "id": "way_854132219",
+      "name": "Al Hedaya Islamic Center",
+      "address": {
+        "street": "115 Mount Pleasant Road",
+        "city": "Newtown",
+        "state": "CT",
+        "zip": "06470",
+        "full": ""
+      },
+      "phone": "+1 203 304 1244",
+      "website": "http://www.hedayacenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4179398,
+        "lon": -73.3550099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 854132219
+    },
+    {
+      "id": "way_885709065",
+      "name": "Islamic Center of Willimantic",
+      "address": {
+        "street": "4 Industrial Park Road",
+        "city": "Windham",
+        "state": "CT",
+        "zip": "06226",
+        "full": ""
+      },
+      "phone": "+1 860 778 4242",
+      "website": "http://icwct.org",
+      "email": "moelhaid@gmail.com",
+      "coordinates": {
+        "lat": 41.7427466,
+        "lon": -72.1773705
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 885709065
+    },
+    {
+      "id": "way_936963306",
+      "name": "Islamic Center of Hamden",
+      "address": {
+        "street": "698 Newhall Street",
+        "city": "Hamden",
+        "state": "CT",
+        "zip": "06517",
+        "full": ""
+      },
+      "phone": "+1 203 562 2757",
+      "website": "https://www.islamiccenterofhamden.org",
+      "email": "info@islamiccenterofhamden.org",
+      "coordinates": {
+        "lat": 41.342655,
+        "lon": -72.9266126
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 936963306
+    },
+    {
+      "id": "way_944104419",
+      "name": "Albanian American Muslim Community",
+      "address": {
+        "street": "38 Raymond Street",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06706",
+        "full": ""
+      },
+      "phone": "+1 203 850 2058",
+      "website": "https://www.aac-ct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5291129,
+        "lon": -73.0362524
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944104419
+    },
+    {
+      "id": "way_944107061",
+      "name": "Minhaj-ul-Quran Al-Noor Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 860 870 0786",
+      "website": "https://www.facebook.com/Minhaj-ul-Quran-Al-Noor-Islamic-Center-Ellington-CT-732533276808535",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8706029,
+        "lon": -72.465074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944107061
+    },
+    {
+      "id": "way_944108033",
+      "name": "Daar-ul-Ehsaan USA Headquarters",
+      "address": {
+        "street": "739 Terryville Avenue",
+        "city": "Bristol",
+        "state": "CT",
+        "zip": "06010",
+        "full": ""
+      },
+      "phone": "+1 860 585 9742",
+      "website": "https://daar-ul-ehsaan.org/",
+      "email": "virtues@daar-ul-ehsaan.org",
+      "coordinates": {
+        "lat": 41.6812588,
+        "lon": -72.9757297
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944108033
+    },
+    {
+      "id": "way_944109145",
+      "name": "Danbury Masjid Islamic Society of Western Connecticut",
+      "address": {
+        "street": "388 Main Street",
+        "city": "Danbury",
+        "state": "CT",
+        "zip": "06810",
+        "full": ""
+      },
+      "phone": "+1 203 744 1328",
+      "website": "http://danburymasjid.com",
+      "email": "iswcdanburymasjid@gmail.com",
+      "coordinates": {
+        "lat": 41.4017165,
+        "lon": -73.4593728
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944109145
+    },
+    {
+      "id": "way_944110316",
+      "name": "Islamic Association of Greater Hartford Berlin Mosque",
+      "address": {
+        "street": "1781 Berlin Turnpike",
+        "city": "Berlin",
+        "state": "CT",
+        "zip": "06037",
+        "full": ""
+      },
+      "phone": "+1 860 829 6411",
+      "website": "http://www.berlinmosque.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6031705,
+        "lon": -72.75146
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944110316
+    },
+    {
+      "id": "way_944111704",
+      "name": "Masjid Al-Taqwa",
+      "address": {
+        "street": "100 Arch Street",
+        "city": "New Britain",
+        "state": "CT",
+        "zip": "06051",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://taqwact.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6642943,
+        "lon": -72.78193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944111704
+    },
+    {
+      "id": "way_944113952",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "140 White Rock Drive",
+        "city": "Windsor",
+        "state": "CT",
+        "zip": "06095",
+        "full": ""
+      },
+      "phone": "+1 860 249 0112",
+      "website": "http://icct.org",
+      "email": "info@icct.org",
+      "coordinates": {
+        "lat": 41.8116976,
+        "lon": -72.6714022
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944113952
+    },
+    {
+      "id": "way_944115993",
+      "name": "Islamic Center of New London",
+      "address": {
+        "street": "16 Fort Street",
+        "city": "Groton",
+        "state": "CT",
+        "zip": "06340",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icnl.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3548642,
+        "lon": -72.082837
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944115993
+    },
+    {
+      "id": "way_944118228",
+      "name": "Monroe Masjid",
+      "address": {
+        "street": "57 Pepper Street",
+        "city": "Monroe",
+        "state": "CT",
+        "zip": "06468",
+        "full": ""
+      },
+      "phone": "+1 203 383 9236",
+      "website": "https://www.monroemasjid.org",
+      "email": "monroemasjid@gmail.com",
+      "coordinates": {
+        "lat": 41.3226515,
+        "lon": -73.2601682
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944118228
+    },
+    {
+      "id": "way_944122399",
+      "name": "Masjid Al-Islam",
+      "address": {
+        "street": "624 George Street",
+        "city": "New Haven",
+        "state": "CT",
+        "zip": "06511",
+        "full": ""
+      },
+      "phone": "+1 203 777 8004",
+      "website": "https://masjidal-islam.com",
+      "email": "Info@masjidalislam.net",
+      "coordinates": {
+        "lat": 41.309125,
+        "lon": -72.9429742
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944122399
+    },
+    {
+      "id": "way_944125196",
+      "name": "Masjid al-Mustafa",
+      "address": {
+        "street": "20 Church Street",
+        "city": "East Hartford",
+        "state": "CT",
+        "zip": "06108",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7785353,
+        "lon": -72.6087701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944125196
+    },
+    {
+      "id": "way_944125961",
+      "name": "United Muslim Masjid",
+      "address": {
+        "street": "132 Prospect Street",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06710",
+        "full": ""
+      },
+      "phone": "+1 203 756 6365",
+      "website": "http://www.ummct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5602214,
+        "lon": -73.0400423
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944125961
+    },
+    {
+      "id": "way_944127002",
+      "name": "West Haven Masjid",
+      "address": {
+        "street": "2 Pruden Street",
+        "city": "West Haven",
+        "state": "CT",
+        "zip": "06516",
+        "full": ""
+      },
+      "phone": "+1 203 933 5799",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2926276,
+        "lon": -72.9626621
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944127002
+    },
+    {
+      "id": "way_944941556",
+      "name": "Farmington Valley American Muslim Center",
+      "address": {
+        "street": "35 Harris Road",
+        "city": "Avon",
+        "state": "CT",
+        "zip": "06001",
+        "full": ""
+      },
+      "phone": "+1 860 673 9630",
+      "website": "https://www.fvamc.org/",
+      "email": "info@fvamc.org",
+      "coordinates": {
+        "lat": 41.7664614,
+        "lon": -72.8595984
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944941556
+    },
+    {
+      "id": "way_945308344",
+      "name": "Islamic Center of South Windsor",
+      "address": {
+        "street": "100 Long Hill Road",
+        "city": "South Windsor",
+        "state": "CT",
+        "zip": "06074",
+        "full": ""
+      },
+      "phone": "+1 860 656 5688",
+      "website": "https://icswct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8029753,
+        "lon": -72.5932686
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 945308344
+    },
+    {
+      "id": "way_946602056",
+      "name": "Albanian American Cultural and Islamic Center",
+      "address": {
+        "street": "106 Columbia Boulevard",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06710",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.aacic-ct.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5683073,
+        "lon": -73.042164
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 946602056
+    },
+    {
+      "id": "way_955588870",
+      "name": "Masjid Al-Rawdah",
+      "address": {
+        "street": "189 East Main Street",
+        "city": "Meriden",
+        "state": "CT",
+        "zip": "06450",
+        "full": ""
+      },
+      "phone": "+1 203 400 2815",
+      "website": "http://www.rawdatalquran.org",
+      "email": "webmaster@rawdatalquran.org",
+      "coordinates": {
+        "lat": 41.5351109,
+        "lon": -72.7971536
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 955588870
+    },
+    {
+      "id": "way_959961625",
+      "name": "Islamic Center of Wallingford",
+      "address": {
+        "street": "164 South Whittlesey Avenue",
+        "city": "Wallingford",
+        "state": "CT",
+        "zip": "06492",
+        "full": ""
+      },
+      "phone": "+1 203 626 1703",
+      "website": "https://icwallingford.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4504218,
+        "lon": -72.8229187
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 959961625
+    },
+    {
+      "id": "relation_2779502",
+      "name": "Bridgeport Islamic Community Center",
+      "address": {
+        "street": "877 Park Avenue",
+        "city": "Bridgeport",
+        "state": "CT",
+        "zip": "06604",
+        "full": ""
+      },
+      "phone": "+1-203-870-1728",
+      "website": "https://www.mybicc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1734622,
+        "lon": -73.1979664
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 2779502
+    }
+  ]
+}

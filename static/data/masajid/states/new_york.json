@@ -1,0 +1,7332 @@
+{
+  "state": "New York",
+  "count": 333,
+  "masajid": [
+    {
+      "id": "node_281671453",
+      "name": "Masjid Toronto",
+      "address": {
+        "street": "168 Dundas Street West",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-416-596-0507",
+      "website": "https://masjidtoronto.com/.",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6553756,
+        "lon": -79.3858908
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 281671453
+    },
+    {
+      "id": "node_357356364",
+      "name": "Jaffa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5069979,
+        "lon": -78.409428
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357356364
+    },
+    {
+      "id": "node_357581457",
+      "name": "Jami Masjid Buffalo",
+      "address": {
+        "street": "1955 Genesee Street",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14211",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9138468,
+        "lon": -78.8094964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357581457
+    },
+    {
+      "id": "node_357613340",
+      "name": "Long Island Muslim Society of East Meadow",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7130375,
+        "lon": -73.5579102
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357613340
+    },
+    {
+      "id": "node_357618658",
+      "name": "Islamic Society of Bayridge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.isbr.net/home-e.php",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6337294,
+        "lon": -74.0206856
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357618658
+    },
+    {
+      "id": "node_357624013",
+      "name": "Mosque of American Mohammedan Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7119444,
+        "lon": -73.9466667
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357624013
+    },
+    {
+      "id": "node_357624315",
+      "name": "Al-Mahdi Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6386111,
+        "lon": -73.9683333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357624315
+    },
+    {
+      "id": "node_357637384",
+      "name": "Bosnian Islamic Association of Utica",
+      "address": {
+        "street": "306 Court Street",
+        "city": "Utica",
+        "state": "NY",
+        "zip": "13502",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.biautica.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1005556,
+        "lon": -75.2355556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357637384
+    },
+    {
+      "id": "node_357642584",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.802488,
+        "lon": -73.9248831
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357642584
+    },
+    {
+      "id": "node_357721272",
+      "name": "Muslim Community Center of Union County (MCCUC)",
+      "address": {
+        "street": "964 Magie Avenue",
+        "city": "Elizabeth",
+        "state": "NJ",
+        "zip": "07208",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6728438,
+        "lon": -74.2442538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357721272
+    },
+    {
+      "id": "node_357740639",
+      "name": "Jam E-Masjid Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8995433,
+        "lon": -74.4082083
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357740639
+    },
+    {
+      "id": "node_357742128",
+      "name": "Islamic Center of Passaic County",
+      "address": {
+        "street": "152 Derrom Avenue",
+        "city": "Paterson",
+        "state": "New York",
+        "zip": "07504",
+        "full": ""
+      },
+      "phone": "+1 973-278-7070",
+      "website": "https://www.icpcnj.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9175987,
+        "lon": -74.1401434
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357742128
+    },
+    {
+      "id": "node_359286170",
+      "name": "Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1812079,
+        "lon": -73.1903898
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 359286170
+    },
+    {
+      "id": "node_418810385",
+      "name": "Staten Island Islamic Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6352241,
+        "lon": -74.076386
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418810385
+    },
+    {
+      "id": "node_418811774",
+      "name": "Muslim Majlis of Staten Island",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6111875,
+        "lon": -74.0874469
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418811774
+    },
+    {
+      "id": "node_418812254",
+      "name": "Noor Al-Islam Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6380141,
+        "lon": -74.1619309
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418812254
+    },
+    {
+      "id": "node_418812766",
+      "name": "Masjid Al-Ihsan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6398052,
+        "lon": -74.0776046
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418812766
+    },
+    {
+      "id": "node_420539138",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6804092,
+        "lon": -79.3360717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 420539138
+    },
+    {
+      "id": "node_669015220",
+      "name": "Winston Churchill Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5809559,
+        "lon": -79.7618968
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 669015220
+    },
+    {
+      "id": "node_826496384",
+      "name": "Dar-ul-Islah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.darulislah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8716448,
+        "lon": -74.0013893
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 826496384
+    },
+    {
+      "id": "node_938872563",
+      "name": "Masjid As-Sunnah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1627639,
+        "lon": -77.582778
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 938872563
+    },
+    {
+      "id": "node_1123778839",
+      "name": "Toronto Islamic Centre (TIC) & Community Services",
+      "address": {
+        "street": "817 Yonge Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6725134,
+        "lon": -79.3874634
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1123778839
+    },
+    {
+      "id": "node_1307891413",
+      "name": "Muslim Welfare Center (Masjid and Food Bank)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.muslimwelfarecentre.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5751086,
+        "lon": -79.6466592
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1307891413
+    },
+    {
+      "id": "node_1434830620",
+      "name": "Masjid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6809543,
+        "lon": -79.3312362
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1434830620
+    },
+    {
+      "id": "node_1568073395",
+      "name": "Birch Street Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9064028,
+        "lon": -74.4106151
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1568073395
+    },
+    {
+      "id": "node_1616687440",
+      "name": "Masjid an-Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1663258,
+        "lon": -79.2406468
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1616687440
+    },
+    {
+      "id": "node_2439628508",
+      "name": "Don Mills Jamatkhana",
+      "address": {
+        "street": "80 Overlea Boulevard",
+        "city": "East York",
+        "state": "New York",
+        "zip": "M4H 1C5",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7087855,
+        "lon": -79.3400581
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2439628508
+    },
+    {
+      "id": "node_2550149662",
+      "name": "Masjid At-Taqea",
+      "address": {
+        "street": "1266 Bedford Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6805342,
+        "lon": -73.9535427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2550149662
+    },
+    {
+      "id": "node_2553533693",
+      "name": "Masjid Mission Center",
+      "address": {
+        "street": "87-26 175th Street",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "+1-718-526-2451",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7108915,
+        "lon": -73.7875791
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2553533693
+    },
+    {
+      "id": "node_2561485136",
+      "name": "United American Muslim Association",
+      "address": {
+        "street": "5911 8th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "+1-718-438-6919",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6357055,
+        "lon": -74.0091295
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2561485136
+    },
+    {
+      "id": "node_2568275828",
+      "name": "Ibaadu'rrahman Central Mosque",
+      "address": {
+        "street": "380 Myrtle Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11205",
+        "full": ""
+      },
+      "phone": "+1-718-260-9618",
+      "website": "https://ibaadurahman.com",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6930569,
+        "lon": -73.9710254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2568275828
+    },
+    {
+      "id": "node_2570187584",
+      "name": "Masjid al Taufiq",
+      "address": {
+        "street": "41-02 Forley Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11373",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7468855,
+        "lon": -73.8793177
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2570187584
+    },
+    {
+      "id": "node_2710125755",
+      "name": "Islamic Society of North Jersey",
+      "address": {
+        "street": "354 US Hwy 46 W",
+        "city": "Hackettstown",
+        "state": "New York",
+        "zip": "07840",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8573452,
+        "lon": -74.7701805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2710125755
+    },
+    {
+      "id": "node_2809904792",
+      "name": "North Bronx Islamic Center",
+      "address": {
+        "street": "216 East 206th Street",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10467",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://nbicny.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8750571,
+        "lon": -73.8801588
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2809904792
+    },
+    {
+      "id": "node_2976571845",
+      "name": "Masjid Nur Al Islam",
+      "address": {
+        "street": "21 Church Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6417191,
+        "lon": -73.9823825
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2976571845
+    },
+    {
+      "id": "node_3356350435",
+      "name": "Greenpoint Islamic Center",
+      "address": {
+        "street": "602 Leonard Street",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11222",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.725338,
+        "lon": -73.950519
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3356350435
+    },
+    {
+      "id": "node_3384623831",
+      "name": "Muslim World League",
+      "address": {
+        "street": "2630 Royal Windsor Drive",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-647-224-1050",
+      "website": "http://www.mwlcanada.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.4979836,
+        "lon": -79.6431177
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3384623831
+    },
+    {
+      "id": "node_3507050675",
+      "name": "Islamic Forum of Canada",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6920921,
+        "lon": -79.6962402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3507050675
+    },
+    {
+      "id": "node_3507916762",
+      "name": "Baitul Aman Masjid",
+      "address": {
+        "street": "3114 Danforth Avenue",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M1L 1B1",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.torontomuslims.com/listing/baitul-aman-mosque-danforth-community-center/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6916305,
+        "lon": -79.2875074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3507916762
+    },
+    {
+      "id": "node_3580663895",
+      "name": "Masjid Al-Salam Islamic Education and Information Center",
+      "address": {
+        "street": "John F. Kennedy Boulevard",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.731597,
+        "lon": -74.0663759
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3580663895
+    },
+    {
+      "id": "node_3784213865",
+      "name": "Masjid Manhattan",
+      "address": {
+        "street": "30 Cliff Street",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10038",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidmanhattan.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.708192,
+        "lon": -74.0050705
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3784213865
+    },
+    {
+      "id": "node_4204715198",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7683905,
+        "lon": -73.911567
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4204715198
+    },
+    {
+      "id": "node_4253527907",
+      "name": "Masjid Omar Bin Khatab",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6573287,
+        "lon": -79.3653195
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4253527907
+    },
+    {
+      "id": "node_4278223126",
+      "name": "Masjid Ar-Rahman",
+      "address": {
+        "street": "15 West 29th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "10016",
+        "full": ""
+      },
+      "phone": "+1-212-686-6525",
+      "website": "https://masjidarrahmannyc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7458905,
+        "lon": -73.9879269
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4278223126
+    },
+    {
+      "id": "node_4463290119",
+      "name": "Jaame Masjid Scarborough",
+      "address": {
+        "street": "3665-3667 Lawrence Avenue East",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M1G 1P7",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7602184,
+        "lon": -79.2205356
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4463290119
+    },
+    {
+      "id": "node_4477543020",
+      "name": "Masjid Dar-ul Furqan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7503951,
+        "lon": -73.8940379
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4477543020
+    },
+    {
+      "id": "node_4501313672",
+      "name": "Masjid Dar Us Salaam",
+      "address": {
+        "street": "4 Thorncliffe Park Drive",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M4H 1H1",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7060576,
+        "lon": -79.3510456
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4501313672
+    },
+    {
+      "id": "node_4501323464",
+      "name": "Islamic Society of Toronto",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://islamicsocietyoftoronto.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7061046,
+        "lon": -79.3508403
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4501323464
+    },
+    {
+      "id": "node_4730509427",
+      "name": "Al-Hikmah Centre Inc",
+      "address": {
+        "street": "36 Colville Road",
+        "city": "North York",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7068238,
+        "lon": -79.4759196
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4730509427
+    },
+    {
+      "id": "node_4964659710",
+      "name": "Islamic Society of Vermont",
+      "address": {
+        "street": "182 Hegeman Avenue",
+        "city": "Colchester",
+        "state": "VT",
+        "zip": "05446",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.5074796,
+        "lon": -73.1495962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4964659710
+    },
+    {
+      "id": "node_5026623651",
+      "name": "Islamic Information & Dawah Centre International",
+      "address": {
+        "street": "1168 Bloor Street West",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-416-536-8433",
+      "website": "https://www.islaminfo.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6596989,
+        "lon": -79.4370268
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5026623651
+    },
+    {
+      "id": "node_5072727158",
+      "name": "Albanian Mosque - Albanian Muslim Society of Toronto",
+      "address": {
+        "street": "564 Annette Street",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M6S 2C2",
+        "full": ""
+      },
+      "phone": "+1-416-763-0612",
+      "website": "https://www.albmuslim.ca/",
+      "email": "xhamia@albmuslim.ca",
+      "coordinates": {
+        "lat": 43.6600317,
+        "lon": -79.4808509
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5072727158
+    },
+    {
+      "id": "node_5110834816",
+      "name": "Masjidur Rahmah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6598694,
+        "lon": -79.3663424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5110834816
+    },
+    {
+      "id": "node_5119682350",
+      "name": "Islamic Society of Niagara Peninsula",
+      "address": {
+        "street": "6768 Lyons Creek Road",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-905-295-4845",
+      "website": "https://isnp.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0326295,
+        "lon": -79.1060829
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5119682350
+    },
+    {
+      "id": "node_5121976289",
+      "name": "ISNF Masjid An-Noor",
+      "address": {
+        "street": "745 Heim Rd",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "isnf.org",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0203622,
+        "lon": -78.7439278
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5121976289
+    },
+    {
+      "id": "node_5134148536",
+      "name": "Masjidul Allah",
+      "address": {
+        "street": "216-11 90th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7248701,
+        "lon": -73.7448912
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5134148536
+    },
+    {
+      "id": "node_5155817234",
+      "name": "Masjid Adam Islamic Center",
+      "address": {
+        "street": "1759 Bloor Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-905-602-7649",
+      "website": "http://masjidadam.com",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6250456,
+        "lon": -79.5871898
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5155817234
+    },
+    {
+      "id": "node_5172768592",
+      "name": "Masjid Salam",
+      "address": {
+        "street": "911 Longwood Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.818681,
+        "lon": -73.8997507
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5172768592
+    },
+    {
+      "id": "node_5179198664",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "1203 Virginia Avenue",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10472",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8307695,
+        "lon": -73.8607968
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5179198664
+    },
+    {
+      "id": "node_5514204632",
+      "name": "Islamic Center at NYU",
+      "address": {
+        "street": "238 Thompson Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-212-998-4712",
+      "website": "https://www.icnyu.org/",
+      "email": "info@icnyu.org",
+      "coordinates": {
+        "lat": 40.7300708,
+        "lon": -73.9980317
+      },
+      "denomination": "nondenominational",
+      "opening_hours": "Mo-Sa 08:00-00:00; Su 12:00-22:00",
+      "osm_type": "node",
+      "osm_id": 5514204632
+    },
+    {
+      "id": "node_5552420224",
+      "name": "Unionport Jame Masjid",
+      "address": {
+        "street": "2119 Chatterton Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8281232,
+        "lon": -73.8525209
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5552420224
+    },
+    {
+      "id": "node_5598586591",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "651 East 189th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8567056,
+        "lon": -73.8844155
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5598586591
+    },
+    {
+      "id": "node_5642678618",
+      "name": "Masjid Al Imam Al Albani",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 347 420 7003",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6710861,
+        "lon": -73.9911355
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5642678618
+    },
+    {
+      "id": "node_5717271758",
+      "name": "Sheepshead Bay Muslim Center",
+      "address": {
+        "street": "2812 Voorhies Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11235",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5869936,
+        "lon": -73.9408233
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5717271758
+    },
+    {
+      "id": "node_5747109932",
+      "name": "Baitul Jannah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6402086,
+        "lon": -73.9787331
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5747109932
+    },
+    {
+      "id": "node_5747110307",
+      "name": "Jame Masjid",
+      "address": {
+        "street": "503 McDonald Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6380962,
+        "lon": -73.9783502
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5747110307
+    },
+    {
+      "id": "node_5785579151",
+      "name": "masjid Al-kadir (mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1135261,
+        "lon": -74.047574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5785579151
+    },
+    {
+      "id": "node_5791183952",
+      "name": "Islamic Society of Schuylkill County",
+      "address": {
+        "street": "1055 East Norwegian Street",
+        "city": "Mechanicsville",
+        "state": "PA",
+        "zip": "17901",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6918627,
+        "lon": -76.1809923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5791183952
+    },
+    {
+      "id": "node_5891692258",
+      "name": "Majid Tiba",
+      "address": {
+        "street": "25-01 48th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7647483,
+        "lon": -73.905315
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891692258
+    },
+    {
+      "id": "node_5891693971",
+      "name": "Majid",
+      "address": {
+        "street": "32-13 57th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7552963,
+        "lon": -73.9040665
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891693971
+    },
+    {
+      "id": "node_5891694701",
+      "name": "Majid al-Hikmah",
+      "address": {
+        "street": "48-01 31st Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11103",
+        "full": ""
+      },
+      "phone": "+1 718-721-8881",
+      "website": "https://www.masjidalhikmahnewyork.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7583509,
+        "lon": -73.9103293
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891694701
+    },
+    {
+      "id": "node_5891703233",
+      "name": "Majid Fatima",
+      "address": {
+        "street": "57-18 37th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7500945,
+        "lon": -73.9045663
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891703233
+    },
+    {
+      "id": "node_5906840187",
+      "name": "Astoria Islamic Center",
+      "address": {
+        "street": "18-22 Astoria Boulevard",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7720415,
+        "lon": -73.9263246
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5906840187
+    },
+    {
+      "id": "node_5917075347",
+      "name": "Jannatul Ferdous Mosque",
+      "address": {
+        "street": "1701 Martin Grove Road",
+        "city": "Etobicoke",
+        "state": "New York",
+        "zip": "M9V 4N4",
+        "full": ""
+      },
+      "phone": "+1-416-742-3232",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7331459,
+        "lon": -79.5882398
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5917075347
+    },
+    {
+      "id": "node_6089115630",
+      "name": "Masjid At-Tawheed",
+      "address": {
+        "street": "48 Academy Street",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18702",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2405165,
+        "lon": -75.8943714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6089115630
+    },
+    {
+      "id": "node_6117337523",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "991 Scott Street",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18705",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2563961,
+        "lon": -75.8423619
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6117337523
+    },
+    {
+      "id": "node_6240117725",
+      "name": "Masjid Ul Kawthar",
+      "address": {
+        "street": "695 Nostrand Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6735367,
+        "lon": -73.9500175
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6240117725
+    },
+    {
+      "id": "node_6243433735",
+      "name": "Masjid Al-Hamdililah",
+      "address": {
+        "street": "121-03 Sutphin Boulevard",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6771981,
+        "lon": -73.7907266
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6243433735
+    },
+    {
+      "id": "node_6250836567",
+      "name": "Gawsiah Jame Masjid",
+      "address": {
+        "street": "25-86 31st Street",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7686036,
+        "lon": -73.9200494
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250836567
+    },
+    {
+      "id": "node_6250836568",
+      "name": "Shahjalal Masjid",
+      "address": {
+        "street": "25-67 31st Street",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.768726,
+        "lon": -73.9193541
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250836568
+    },
+    {
+      "id": "node_6250867777",
+      "name": "Bangla Bazar Masjid",
+      "address": {
+        "street": "1351 Odell Street",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10462",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8354935,
+        "lon": -73.8542545
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250867777
+    },
+    {
+      "id": "node_6348392718",
+      "name": "The Reign of Islamic Da'Wah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6833105,
+        "lon": -79.4809583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6348392718
+    },
+    {
+      "id": "node_6401287493",
+      "name": "Majid on the Van Wyck",
+      "address": {
+        "street": "109-06 Van Wyck Expressway",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6867563,
+        "lon": -73.8083037
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6401287493
+    },
+    {
+      "id": "node_6495425610",
+      "name": "Hamza Mosque",
+      "address": {
+        "street": "1287 Queen Street West",
+        "city": "",
+        "state": "New York",
+        "zip": "M6K 1M2",
+        "full": ""
+      },
+      "phone": "+1 4165343669",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6414066,
+        "lon": -79.432098
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6495425610
+    },
+    {
+      "id": "node_6549657698",
+      "name": "Masjid Al Qalam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-647-435-8472",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6979569,
+        "lon": -79.4514591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6549657698
+    },
+    {
+      "id": "node_6593955528",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7443451,
+        "lon": -79.2199378
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6593955528
+    },
+    {
+      "id": "node_6594754978",
+      "name": "Masjid Al Jannah",
+      "address": {
+        "street": "2201 Ellesmere Road",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7764183,
+        "lon": -79.2302198
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6594754978
+    },
+    {
+      "id": "node_6685146763",
+      "name": "al-Hussain Foundation Centre",
+      "address": {
+        "street": "10992 Kennedy Road",
+        "city": "Markham",
+        "state": "New York",
+        "zip": "L6C 1P1",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9206951,
+        "lon": -79.3260271
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6685146763
+    },
+    {
+      "id": "node_6685168172",
+      "name": "Afghan-Canadian Islamic Community",
+      "address": {
+        "street": "22 Hobson Avenue",
+        "city": "North York",
+        "state": "New York",
+        "zip": "M4A 1Y2",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7203003,
+        "lon": -79.3081666
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6685168172
+    },
+    {
+      "id": "node_6744726769",
+      "name": "Mimar Sinan Mosque",
+      "address": {
+        "street": "45-06 Skillman Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7464954,
+        "lon": -73.9186805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6744726769
+    },
+    {
+      "id": "node_7027355629",
+      "name": "Abu Huraria Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7729913,
+        "lon": -79.3345756
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7027355629
+    },
+    {
+      "id": "node_7103491149",
+      "name": "Williamsport Islamic Centre",
+      "address": {
+        "street": "322 Locust Street",
+        "city": "Williamsport",
+        "state": "PA",
+        "zip": "17701",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2389646,
+        "lon": -77.0116699
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7103491149
+    },
+    {
+      "id": "node_7164216214",
+      "name": "Masjid Quba",
+      "address": {
+        "street": "447 Jackson Avenue",
+        "city": "",
+        "state": "NY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8106316,
+        "lon": -73.9101564
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7164216214
+    },
+    {
+      "id": "node_7228492799",
+      "name": "Bay Ridge Islamic Center",
+      "address": {
+        "street": "9126 5th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11209",
+        "full": ""
+      },
+      "phone": "+1-843-433-0310",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6181424,
+        "lon": -74.029287
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7228492799
+    },
+    {
+      "id": "node_7681220791",
+      "name": "Alhedayah Masjid & Islamic Center",
+      "address": {
+        "street": "20 Cushing Street",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06907",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0932435,
+        "lon": -73.5167134
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7681220791
+    },
+    {
+      "id": "node_7833514984",
+      "name": "Albanian American Cultural Center Struga",
+      "address": {
+        "street": "90 Riverdale Road",
+        "city": "Riverdale",
+        "state": "NJ",
+        "zip": "07457",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9882397,
+        "lon": -74.2956461
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7833514984
+    },
+    {
+      "id": "node_8270034832",
+      "name": "Al-Khulafa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9276196,
+        "lon": -78.8909918
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8270034832
+    },
+    {
+      "id": "node_8436379065",
+      "name": "Omar Islamic Center",
+      "address": {
+        "street": "24 Broad Street",
+        "city": "Middletown",
+        "state": "CT",
+        "zip": "06457",
+        "full": ""
+      },
+      "phone": "+1 860 059 4521",
+      "website": "https://oicct.org/",
+      "email": "info@oicct.org",
+      "coordinates": {
+        "lat": 41.5570278,
+        "lon": -72.64965
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8436379065
+    },
+    {
+      "id": "node_8494752229",
+      "name": "Masjid Umar Ibn Al Khattab",
+      "address": {
+        "street": "2017 Main Street",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06120",
+        "full": ""
+      },
+      "phone": "+1 860 698 1563",
+      "website": "https://masjid-umar-ibn-al-khattab.business.site",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7822342,
+        "lon": -72.6761788
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8494752229
+    },
+    {
+      "id": "node_8741232286",
+      "name": "Islamic Center Of Vernon",
+      "address": {
+        "street": "27 Naek Road",
+        "city": "Vernon",
+        "state": "CT",
+        "zip": "06066",
+        "full": ""
+      },
+      "phone": "+1 860 709 5954",
+      "website": "https://www.islamiccenterofvernon.org",
+      "email": "IslamicCenterofVernon@gmail.com",
+      "coordinates": {
+        "lat": 41.839044,
+        "lon": -72.4927229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8741232286
+    },
+    {
+      "id": "node_8762021394",
+      "name": "Masjid Al-Nasr",
+      "address": {
+        "street": "383 Oldham Road",
+        "city": "Wayne",
+        "state": "NJ",
+        "zip": "07470",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9383038,
+        "lon": -74.2013319
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8762021394
+    },
+    {
+      "id": "node_8783527062",
+      "name": "North Shore Islamic Center",
+      "address": {
+        "street": "820 Willis Avenue",
+        "city": "Albertson",
+        "state": "NY",
+        "zip": "11507",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7662976,
+        "lon": -73.6470735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8783527062
+    },
+    {
+      "id": "node_8796640234",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "10 Cayuga Vista Drive",
+        "city": "Lansing",
+        "state": "NY",
+        "zip": "14882",
+        "full": ""
+      },
+      "phone": "+1-607-533-0357",
+      "website": "https://alhudaislamiccenter.org/",
+      "email": "contactus@alhudaislamiccenter.org",
+      "coordinates": {
+        "lat": 42.5337355,
+        "lon": -76.5012772
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8796640234
+    },
+    {
+      "id": "node_8952387978",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7430556,
+        "lon": -73.8955098
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8952387978
+    },
+    {
+      "id": "node_9062811515",
+      "name": "Baitul Jannah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7188156,
+        "lon": -79.2402546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9062811515
+    },
+    {
+      "id": "node_9487716854",
+      "name": "Islamic Center Of Melville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icmny.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7825879,
+        "lon": -73.400646
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9487716854
+    },
+    {
+      "id": "node_9661679167",
+      "name": "Islamic Center of Jackson Heights",
+      "address": {
+        "street": "7120 Roosevelt Avenue",
+        "city": "Woodside",
+        "state": "NY",
+        "zip": "11372",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7464072,
+        "lon": -73.8940781
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9661679167
+    },
+    {
+      "id": "node_9671893386",
+      "name": "Sunnyside Woodside Jame Masjid",
+      "address": {
+        "street": "45-18 48th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "+1 718-482-7364",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.739204,
+        "lon": -73.9197046
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9671893386
+    },
+    {
+      "id": "node_9754902850",
+      "name": "Muslim Center of New York",
+      "address": {
+        "street": "137-58 Geranium Avenue",
+        "city": "Flushing",
+        "state": "NY",
+        "zip": "11355",
+        "full": ""
+      },
+      "phone": "+1-718-460-3000",
+      "website": "https://muslimcenter.org/",
+      "email": "muslimcenter@gmail.com",
+      "coordinates": {
+        "lat": 40.7509032,
+        "lon": -73.8204899
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9754902850
+    },
+    {
+      "id": "node_9762210756",
+      "name": "MCC Muslim Womens Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.645956,
+        "lon": -74.0168306
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9762210756
+    },
+    {
+      "id": "node_9815806417",
+      "name": "Masjid Zakariya",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8990951,
+        "lon": -78.8329126
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9815806417
+    },
+    {
+      "id": "node_9861007550",
+      "name": "Masjid Kamal-e-Rasool",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7884511,
+        "lon": -76.5483953
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9861007550
+    },
+    {
+      "id": "node_9972630089",
+      "name": "Rexdale Jame Masjid",
+      "address": {
+        "street": "127 Westmore Drive",
+        "city": "Etobicoke",
+        "state": "New York",
+        "zip": "M9V 3Y6",
+        "full": ""
+      },
+      "phone": "+1-416-744-3474",
+      "website": "http://rexdalemasjid.ca/",
+      "email": "info@rexdalemasjid.ca",
+      "coordinates": {
+        "lat": 43.7358347,
+        "lon": -79.6008166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9972630089
+    },
+    {
+      "id": "node_10087958870",
+      "name": "Islamic Society of Vaughan",
+      "address": {
+        "street": "9100 Jane Street",
+        "city": "Vaughan",
+        "state": "New York",
+        "zip": "L4K 0A4",
+        "full": ""
+      },
+      "phone": "+1-905-597-3233",
+      "website": "http://www.islamicsocietyvaughan.com",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8296836,
+        "lon": -79.5328807
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10087958870
+    },
+    {
+      "id": "node_10278276945",
+      "name": "Naqshbandi Sufi Toronto",
+      "address": {
+        "street": "129 East Drive",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7117703,
+        "lon": -79.6890563
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10278276945
+    },
+    {
+      "id": "node_10555317739",
+      "name": "Muslim Neighbour Nexus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://mnnexus.ca/contact/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.535318,
+        "lon": -79.723061
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10555317739
+    },
+    {
+      "id": "node_10797371351",
+      "name": "Bakhit Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6304932,
+        "lon": -74.0219538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10797371351
+    },
+    {
+      "id": "node_10948137377",
+      "name": "Masjid As-Salam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6640843,
+        "lon": -73.7719846
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10948137377
+    },
+    {
+      "id": "node_11205758316",
+      "name": "Imam Al-Khoei Foundation",
+      "address": {
+        "street": "89-89 Van Wyck Expressway",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11435",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.al-khoei.org/the-foundation/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7010459,
+        "lon": -73.8149837
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11205758316
+    },
+    {
+      "id": "node_11242991186",
+      "name": "Arafa Islamic Center",
+      "address": {
+        "street": "181-12 Hillside Avenue",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "+1-718-306-7370",
+      "website": "https://aicnyc.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7129224,
+        "lon": -73.7813032
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11242991186
+    },
+    {
+      "id": "node_11468169222",
+      "name": "Masjid Al-Wadood",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6096773,
+        "lon": -74.147402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11468169222
+    },
+    {
+      "id": "node_11555201015",
+      "name": "Masjid Umm-al-qura",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-871-3930",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6419227,
+        "lon": -73.9697655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11555201015
+    },
+    {
+      "id": "node_11715036339",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "401 East 11th Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://nycmadinamasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7293344,
+        "lon": -73.9836744
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11715036339
+    },
+    {
+      "id": "node_11771850460",
+      "name": "South Brooklyn Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-938-6823",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6304946,
+        "lon": -74.0283508
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11771850460
+    },
+    {
+      "id": "node_12129016851",
+      "name": "Masjid Al-Wali",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5663309,
+        "lon": -74.3884288
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12129016851
+    },
+    {
+      "id": "node_12133350294",
+      "name": "Iqra Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5513376,
+        "lon": -74.4332487
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12133350294
+    },
+    {
+      "id": "node_12557744443",
+      "name": "Regent Park Islamic Resource Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6602569,
+        "lon": -79.3636854
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12557744443
+    },
+    {
+      "id": "node_12650765087",
+      "name": "Fatih Mosque",
+      "address": {
+        "street": "5911 8th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6353757,
+        "lon": -74.0091126
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12650765087
+    },
+    {
+      "id": "node_12758066115",
+      "name": "Woodside Baitul Jannah Masjid",
+      "address": {
+        "street": "62-01 39th Avenue",
+        "city": "Woodside",
+        "state": "New York",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7470533,
+        "lon": -73.9014014
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12758066115
+    },
+    {
+      "id": "node_13042969065",
+      "name": "Masjid-Al-Ihsaan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-783-5787",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.683021,
+        "lon": -73.9640484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13042969065
+    },
+    {
+      "id": "node_13189085033",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6914662,
+        "lon": -73.5263429
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13189085033
+    },
+    {
+      "id": "node_13275652357",
+      "name": "https://papemosque.ca/",
+      "address": {
+        "street": "336 Pape Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://papemosque.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6676635,
+        "lon": -79.3403977
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13275652357
+    },
+    {
+      "id": "node_13396606313",
+      "name": "Andalusia Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9346217,
+        "lon": -73.885809
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13396606313
+    },
+    {
+      "id": "way_32707332",
+      "name": "Ummah Nabawiah Masjid",
+      "address": {
+        "street": "2074 Kipling Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7149002,
+        "lon": -79.5692053
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 32707332
+    },
+    {
+      "id": "way_32999667",
+      "name": "Isna Canada",
+      "address": {
+        "street": "2200 South Sheridan Way",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-905-403-9665",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5202656,
+        "lon": -79.6503299
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 32999667
+    },
+    {
+      "id": "way_33542835",
+      "name": "Islamic Foundation of Toronto",
+      "address": {
+        "street": "441 Nugget Avenue",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7980215,
+        "lon": -79.24167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 33542835
+    },
+    {
+      "id": "way_33710731",
+      "name": "Anjuman-e-Fakhri Dawoodi Bohra Jamaat",
+      "address": {
+        "street": "1605 Argentia Road",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6071805,
+        "lon": -79.7310574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 33710731
+    },
+    {
+      "id": "way_33712441",
+      "name": "Meadowvale Ismaili Centre",
+      "address": {
+        "street": "7037 Financial Drive",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L5N 7H5",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6129821,
+        "lon": -79.7490987
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 33712441
+    },
+    {
+      "id": "way_33729099",
+      "name": "Sayeda Khadija Centre",
+      "address": {
+        "street": "7150 Edwards Boulevard",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L5S 1Z1",
+        "full": ""
+      },
+      "phone": "+1-905-564-5509",
+      "website": "http://www.sayedakhadijacentre.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6504787,
+        "lon": -79.7085726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 33729099
+    },
+    {
+      "id": "way_34204564",
+      "name": "Al Huda Institute Canada",
+      "address": {
+        "street": "5671 McAdam Road",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L4Z 1N9",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6249079,
+        "lon": -79.665951
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34204564
+    },
+    {
+      "id": "way_34204832",
+      "name": "Jame Masjid Mississauga",
+      "address": {
+        "street": "5761 Coopers Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://blog.jamemasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6322462,
+        "lon": -79.6578825
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34204832
+    },
+    {
+      "id": "way_34550567",
+      "name": "Baitul Hamd Mosque",
+      "address": {
+        "street": "1194 Matheson Boulevard East",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L4W 1Y2",
+        "full": ""
+      },
+      "phone": "+1 905-206-1364",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6373731,
+        "lon": -79.6369498
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34550567
+    },
+    {
+      "id": "way_34550870",
+      "name": "Anatolia Islamic Centre",
+      "address": {
+        "street": "5280 Maingate Drive",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L4W 1G5",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.633229,
+        "lon": -79.6324547
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34550870
+    },
+    {
+      "id": "way_34749303",
+      "name": "Malton Islamic Centre",
+      "address": {
+        "street": "6836 Professional Court",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L4V 1X6",
+        "full": ""
+      },
+      "phone": "+1-905-453-6943",
+      "website": "https://www.maltonislamiccentre.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7075165,
+        "lon": -79.6310944
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34749303
+    },
+    {
+      "id": "way_43804339",
+      "name": "Jami Mosque",
+      "address": {
+        "street": "56 Boustead Avenue",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M6R 1Y9",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6533205,
+        "lon": -79.45448
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 43804339
+    },
+    {
+      "id": "way_43805181",
+      "name": "Islamic Research Center of Canada Inc.",
+      "address": {
+        "street": "1 Stamford Square North",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M1L 1X4",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7111375,
+        "lon": -79.2951115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 43805181
+    },
+    {
+      "id": "way_43807049",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.721558,
+        "lon": -79.309026
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 43807049
+    },
+    {
+      "id": "way_56051752",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "110",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.6702968,
+        "lon": -74.9659172
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 56051752
+    },
+    {
+      "id": "way_56202083",
+      "name": "Salaheddin Islamic Centre",
+      "address": {
+        "street": "741 Kennedy Road",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7308697,
+        "lon": -79.2659976
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 56202083
+    },
+    {
+      "id": "way_58566249",
+      "name": "Bosnian Islamic Association Gazi Husrev-Beg",
+      "address": {
+        "street": "122 North Queen Street",
+        "city": "Etobicoke",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.biaghb.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6207841,
+        "lon": -79.55001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 58566249
+    },
+    {
+      "id": "way_58849209",
+      "name": "Dar Al-Hijrah Islamic Center",
+      "address": {
+        "street": "2050 Kipling Avenue",
+        "city": "Etobicoke",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7133519,
+        "lon": -79.5685136
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 58849209
+    },
+    {
+      "id": "way_59024052",
+      "name": "Ismaili Jamatkhana Scarborough",
+      "address": {
+        "street": "",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://ismaili.net/heritage/node/21420",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8169155,
+        "lon": -79.2597495
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 59024052
+    },
+    {
+      "id": "way_60119177",
+      "name": "Baitul Mukarram Islamic Society",
+      "address": {
+        "street": "3340 Danforth Avenue",
+        "city": "Scarborough",
+        "state": "New York",
+        "zip": "M1L 1C6",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://baitulmukarramtoronto.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.693917,
+        "lon": -79.277756
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 60119177
+    },
+    {
+      "id": "way_60483157",
+      "name": "Toronto and Region Islamic Congregation",
+      "address": {
+        "street": "99 Beverly Hills Drive",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M3L 1A2",
+        "full": ""
+      },
+      "phone": "+1-416-245-5675",
+      "website": "https://taric.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7179654,
+        "lon": -79.5159802
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 60483157
+    },
+    {
+      "id": "way_61955974",
+      "name": "Imam Mahdi Islamic Centre",
+      "address": {
+        "street": "7340 Bayview Avenue",
+        "city": "Thornhill",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-416-762-8200",
+      "website": "https://imammahdi.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8111725,
+        "lon": -79.4001251
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 61955974
+    },
+    {
+      "id": "way_66979961",
+      "name": "Imdadul Islamic Jamat",
+      "address": {
+        "street": "26 Le Page Court",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M3J 1Z9",
+        "full": ""
+      },
+      "phone": "+1-416-636-0044",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7590279,
+        "lon": -79.4869955
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 66979961
+    },
+    {
+      "id": "way_67141470",
+      "name": "Masjid Huzaifah",
+      "address": {
+        "street": "18 Progress Avenue",
+        "city": "Scarborough",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidhuzaifah.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.770228,
+        "lon": -79.280662
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 67141470
+    },
+    {
+      "id": "way_67162340",
+      "name": "Islamic Society of York Region",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9366856,
+        "lon": -79.4069923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 67162340
+    },
+    {
+      "id": "way_67298317",
+      "name": "Masjid Darul Iman",
+      "address": {
+        "street": "1330 Castlemore Avenue",
+        "city": "Markham",
+        "state": "New York",
+        "zip": "L6E 1A4",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://daruliman.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9052155,
+        "lon": -79.2639906
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 67298317
+    },
+    {
+      "id": "way_76828887",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.92653,
+        "lon": -78.8795867
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 76828887
+    },
+    {
+      "id": "way_78592355",
+      "name": "Jame Makki Masjid Brampton",
+      "address": {
+        "street": "8450 Torbram Road",
+        "city": "Brampton",
+        "state": "New York",
+        "zip": "L6T 4M9",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7216539,
+        "lon": -79.6905252
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 78592355
+    },
+    {
+      "id": "way_82251132",
+      "name": "Usman Gousi Mosque",
+      "address": {
+        "street": "75 Kirkdene Drive",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7945587,
+        "lon": -79.138474
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 82251132
+    },
+    {
+      "id": "way_89342355",
+      "name": "Shalimar",
+      "address": {
+        "street": "79 Cedarglen Gate",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L5C 4S3",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5584348,
+        "lon": -79.6426708
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 89342355
+    },
+    {
+      "id": "way_118764035",
+      "name": "Masjid Darul Ehsan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1155445,
+        "lon": -74.1498543
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 118764035
+    },
+    {
+      "id": "way_166535798",
+      "name": "Dawoodi Bohra Al Masjid Al Saifee Anjuman-e-Burhani",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8492852,
+        "lon": -79.4074797
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 166535798
+    },
+    {
+      "id": "way_170023709",
+      "name": "Jamiat-Ul-Ansar of Brampton",
+      "address": {
+        "street": "291 Great Lakes Drive",
+        "city": "Brampton",
+        "state": "New York",
+        "zip": "L6R 2Z4",
+        "full": ""
+      },
+      "phone": "+1-905-792-7576",
+      "website": "http://www.jamiatulansar.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7374773,
+        "lon": -79.7695094
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 170023709
+    },
+    {
+      "id": "way_170415471",
+      "name": "Jaam'e Masjid Bellmore",
+      "address": {
+        "street": "1425 Newbridge Road",
+        "city": "Bellmore",
+        "state": "NY",
+        "zip": "11710",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6850818,
+        "lon": -73.5402105
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 170415471
+    },
+    {
+      "id": "way_170746233",
+      "name": "Newmarket Islamic Centre",
+      "address": {
+        "street": "700 Mulock Drive",
+        "city": "Newmarket",
+        "state": "New York",
+        "zip": "L3Y9C1",
+        "full": ""
+      },
+      "phone": "+19058958886",
+      "website": "https://nmic.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0426668,
+        "lon": -79.443425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 170746233
+    },
+    {
+      "id": "way_172429631",
+      "name": "Baitul Islam Mosque",
+      "address": {
+        "street": "10610 Jane Street",
+        "city": "Vaughan",
+        "state": "New York",
+        "zip": "L6A 3A2",
+        "full": ""
+      },
+      "phone": "+1 905-303-4000",
+      "website": "https://www.ahmadiyya.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8648527,
+        "lon": -79.5429879
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 172429631
+    },
+    {
+      "id": "way_206380378",
+      "name": "Masjid An-Noor",
+      "address": {
+        "street": "1300 Fairfield Avenue",
+        "city": "Bridgeport",
+        "state": "CT",
+        "zip": "06605",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidan-noor.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1741658,
+        "lon": -73.2089927
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 206380378
+    },
+    {
+      "id": "way_206928941",
+      "name": "Masjid Rahmatul-lil-Alameen",
+      "address": {
+        "street": "205 North Service Road",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L5A 1A4",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.rahmatmasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5735625,
+        "lon": -79.5952994
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 206928941
+    },
+    {
+      "id": "way_215697846",
+      "name": "Islamic Center Of Pittsfield",
+      "address": {
+        "street": "40 Melville Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4523225,
+        "lon": -73.2508987
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 215697846
+    },
+    {
+      "id": "way_219610967",
+      "name": "Jaffarya Center",
+      "address": {
+        "street": "10300 Transit Road",
+        "city": "Amherst",
+        "state": "NY",
+        "zip": "14051",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0501754,
+        "lon": -78.6982011
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 219610967
+    },
+    {
+      "id": "way_221552450",
+      "name": "Islamic Society of Central New York",
+      "address": {
+        "street": "925 Comstock Avenue",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13210",
+        "full": ""
+      },
+      "phone": "+1-315-471-3645",
+      "website": "https://iscnyonline.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0322649,
+        "lon": -76.1290031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 221552450
+    },
+    {
+      "id": "way_228771168",
+      "name": "Al-Mustafa Islamic Center",
+      "address": {
+        "street": "21 Passaic Avenue",
+        "city": "Pompton Lakes",
+        "state": "NJ",
+        "zip": "07442",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0001079,
+        "lon": -74.2879799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 228771168
+    },
+    {
+      "id": "way_229680075",
+      "name": "Ismaili Centre Toronto",
+      "address": {
+        "street": "49 Wynford Drive",
+        "city": "North York",
+        "state": "New York",
+        "zip": "M3C 1K1",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7238587,
+        "lon": -79.333445
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 229680075
+    },
+    {
+      "id": "way_232714937",
+      "name": "Pickering Islamic Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8534967,
+        "lon": -79.0764039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 232714937
+    },
+    {
+      "id": "way_241821572",
+      "name": "Masjid Al-Aman",
+      "address": {
+        "street": "203 Forbell Street",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11208",
+        "full": ""
+      },
+      "phone": "+1-718-277-3976",
+      "website": "http://masjidalaman.com/",
+      "email": "info@masjidalaman.com",
+      "coordinates": {
+        "lat": 40.6781601,
+        "lon": -73.8636915
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241821572
+    },
+    {
+      "id": "way_241823103",
+      "name": "Masjid Zawiyat Sof'watful Islam",
+      "address": {
+        "street": "435 Franklin Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "+1-718-398-0745",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6839636,
+        "lon": -73.956033
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241823103
+    },
+    {
+      "id": "way_241828084",
+      "name": "Brooklyn Islamic Center",
+      "address": {
+        "street": "722 Church Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bicny.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6455069,
+        "lon": -73.9724694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241828084
+    },
+    {
+      "id": "way_241854614",
+      "name": "Masjid Al-Ikhlas",
+      "address": {
+        "street": "21-23 30th Drive",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11101",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.768169,
+        "lon": -73.9280542
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241854614
+    },
+    {
+      "id": "way_242780311",
+      "name": "Masumeen Islamic Centre",
+      "address": {
+        "street": "7580 Kennedy Road South",
+        "city": "Brampton",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6674141,
+        "lon": -79.7116013
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 242780311
+    },
+    {
+      "id": "way_244171946",
+      "name": "Albanian Islamic Cultural Center",
+      "address": {
+        "street": "307 Victory Boulevard",
+        "city": "",
+        "state": "New York",
+        "zip": "10301",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6347521,
+        "lon": -74.086084
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 244171946
+    },
+    {
+      "id": "way_247845913",
+      "name": "Baituz-Zafar",
+      "address": {
+        "street": "188-15 Mc Laughlin Avenue",
+        "city": "Hollis",
+        "state": "NY",
+        "zip": "11423",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.722064,
+        "lon": -73.7760968
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 247845913
+    },
+    {
+      "id": "way_248176848",
+      "name": "Masjid El-ijsan",
+      "address": {
+        "street": "65 Utica Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11233",
+        "full": ""
+      },
+      "phone": "+1-917-200-1415",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6768592,
+        "lon": -73.9300952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248176848
+    },
+    {
+      "id": "way_248267485",
+      "name": "Jamaica Muslim Center",
+      "address": {
+        "street": "85-37 168th Street",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "+1-718-739-3182",
+      "website": "https://jamaicamuslimcenter.org",
+      "email": "masjidalmamoor@gmail.com",
+      "coordinates": {
+        "lat": 40.7125837,
+        "lon": -73.7957335
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248267485
+    },
+    {
+      "id": "way_248286649",
+      "name": "Fultoli Islamic Center",
+      "address": {
+        "street": "84-51 Parsons Boulevard",
+        "city": "",
+        "state": "New York",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7128617,
+        "lon": -73.8064006
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248286649
+    },
+    {
+      "id": "way_248287542",
+      "name": "Darus Salaam Masjid",
+      "address": {
+        "street": "148-16 87th Road",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11435",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7066496,
+        "lon": -73.8086582
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248287542
+    },
+    {
+      "id": "way_248291664",
+      "name": "Fultoli Islamic Center",
+      "address": {
+        "street": "83-16 Parsons Boulevard",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "+1-718-526-4093",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7152391,
+        "lon": -73.8079213
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248291664
+    },
+    {
+      "id": "way_248510073",
+      "name": "American Turkish Eyup Sultan Cultural Center",
+      "address": {
+        "street": "2814 Brighton 3rd Street",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11235",
+        "full": ""
+      },
+      "phone": "+1-718-332-5747",
+      "website": "https://eyupsultan.business.site/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5826336,
+        "lon": -73.9657405
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248510073
+    },
+    {
+      "id": "way_248575382",
+      "name": "Al-Muneer Community Center",
+      "address": {
+        "street": "195-04 Hillside Avenue",
+        "city": "Hollis",
+        "state": "NY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7168688,
+        "lon": -73.7678229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248575382
+    },
+    {
+      "id": "way_248591443",
+      "name": "Icna Al-Markaz Masjid",
+      "address": {
+        "street": "166-26 89th Avenue",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7081702,
+        "lon": -73.7943087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248591443
+    },
+    {
+      "id": "way_248757361",
+      "name": "Assafa Islamic Center",
+      "address": {
+        "street": "172 Eldridge Street",
+        "city": "",
+        "state": "New York",
+        "zip": "10002",
+        "full": ""
+      },
+      "phone": "+1-212-253-1052",
+      "website": "http://assafaislamiccenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.72015,
+        "lon": -73.9906749
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248757361
+    },
+    {
+      "id": "way_248842170",
+      "name": "Masjid Ar Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7140571,
+        "lon": -73.7492974
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248842170
+    },
+    {
+      "id": "way_248847594",
+      "name": "Hollis Muslim Center",
+      "address": {
+        "street": "109-01 205th Place",
+        "city": "",
+        "state": "NY",
+        "zip": "11412",
+        "full": ""
+      },
+      "phone": "+1-929-603-7661",
+      "website": "https://hollismuslimcenter.org",
+      "email": "hollismuslimcenter@gmail.com",
+      "coordinates": {
+        "lat": 40.7085053,
+        "lon": -73.7524408
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248847594
+    },
+    {
+      "id": "way_248904935",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "2265 McDonald Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11223",
+        "full": ""
+      },
+      "phone": "+1-718-314-6482",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5973611,
+        "lon": -73.9728877
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248904935
+    },
+    {
+      "id": "way_249113397",
+      "name": "Masjid Abou Bakr",
+      "address": {
+        "street": "115 Foster Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11230",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6280596,
+        "lon": -73.9761456
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249113397
+    },
+    {
+      "id": "way_249566228",
+      "name": "Al - Mustafa Islamic Center",
+      "address": {
+        "street": "4705 8th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6424816,
+        "lon": -74.0019139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249566228
+    },
+    {
+      "id": "way_249579846",
+      "name": "Beit El-Maqdis Islamic Center",
+      "address": {
+        "street": "6224 6th Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "+1-718-567-8885",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6368856,
+        "lon": -74.0156952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249579846
+    },
+    {
+      "id": "way_249587168",
+      "name": "MCC Brooklyn",
+      "address": {
+        "street": "5320 3rd Avenue",
+        "city": "",
+        "state": "New York",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6458078,
+        "lon": -74.0171732
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249587168
+    },
+    {
+      "id": "way_249613198",
+      "name": "Darul Jannah",
+      "address": {
+        "street": "6 Avenue C",
+        "city": "",
+        "state": "New York",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6400628,
+        "lon": -73.9796507
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249613198
+    },
+    {
+      "id": "way_250986790",
+      "name": "Albanian American Islamic Center of Queens",
+      "address": {
+        "street": "72-24 Myrtle Avenue",
+        "city": "Glendale",
+        "state": "NY",
+        "zip": "11385",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7020195,
+        "lon": -73.8772894
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 250986790
+    },
+    {
+      "id": "way_251872867",
+      "name": "Jam'e Masjid Markham",
+      "address": {
+        "street": "2900 Denison Street",
+        "city": "Markham",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.841864,
+        "lon": -79.2645245
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 251872867
+    },
+    {
+      "id": "way_259619435",
+      "name": "Islamic Center of Central Pennsylvania",
+      "address": {
+        "street": "709 West Park Avenue",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7917803,
+        "lon": -77.8782848
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 259619435
+    },
+    {
+      "id": "way_265732859",
+      "name": "Nigerian American Muslim Integrated Community",
+      "address": {
+        "street": "801 Dean Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11238",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6794868,
+        "lon": -73.9633826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265732859
+    },
+    {
+      "id": "way_265733654",
+      "name": "Baitush Sharf Jame Masjid & Islamic Center",
+      "address": {
+        "street": "769 Bergen Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11238",
+        "full": ""
+      },
+      "phone": "+1-718-398-4579",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6784902,
+        "lon": -73.9626948
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265733654
+    },
+    {
+      "id": "way_266921726",
+      "name": "Islamic Cultural Center of New York",
+      "address": {
+        "street": "1711 3rd Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10029",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icc-ny.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7854708,
+        "lon": -73.948571
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 266921726
+    },
+    {
+      "id": "way_271290369",
+      "name": "Masjid Malcolm Shabazz",
+      "address": {
+        "street": "102 West 116th Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10026",
+        "full": ""
+      },
+      "phone": "+1 212-662-2200",
+      "website": "https://www.themasjidmalcolmshabazz.com/",
+      "email": "msmosque@aol.com",
+      "coordinates": {
+        "lat": 40.8019891,
+        "lon": -73.9501962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 271290369
+    },
+    {
+      "id": "way_276121947",
+      "name": "Islamia Sunna Wal Jam'ah",
+      "address": {
+        "street": "24 Mt Hope Place",
+        "city": "",
+        "state": "New York",
+        "zip": "10453",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8489987,
+        "lon": -73.9101615
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 276121947
+    },
+    {
+      "id": "way_276378951",
+      "name": "Anjuman Hefazatul Islam",
+      "address": {
+        "street": "365 East 198th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "10458",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.866977,
+        "lon": -73.8864508
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 276378951
+    },
+    {
+      "id": "way_280372387",
+      "name": "Ahlul Bayt Mission Masjid",
+      "address": {
+        "street": "41-02 55th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "+1 929-800-4188",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7451,
+        "lon": -73.9096921
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 280372387
+    },
+    {
+      "id": "way_280569756",
+      "name": "Al-Amin Jame Masjid",
+      "address": {
+        "street": "35-19 36th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11106",
+        "full": ""
+      },
+      "phone": "+1 718-729-6325",
+      "website": "https://alaminjamemasjid.com/",
+      "email": "al-aminjamemasjid@gmail.com",
+      "coordinates": {
+        "lat": 40.754973,
+        "lon": -73.9257415
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 280569756
+    },
+    {
+      "id": "way_281393397",
+      "name": "Al Madni Masjid",
+      "address": {
+        "street": "24-04 89th Street",
+        "city": "East Elmhurst",
+        "state": "NY",
+        "zip": "11369",
+        "full": ""
+      },
+      "phone": "+1-718-672-1660",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7654354,
+        "lon": -73.8803228
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 281393397
+    },
+    {
+      "id": "way_281720269",
+      "name": "Ahmadiyya Mosque",
+      "address": {
+        "street": "3421 White Plains Road",
+        "city": "",
+        "state": "New York",
+        "zip": "10467",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8759802,
+        "lon": -73.8673265
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 281720269
+    },
+    {
+      "id": "way_282273301",
+      "name": "Masjid Al Jama",
+      "address": {
+        "street": "94-17 102nd Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11416",
+        "full": ""
+      },
+      "phone": "+1-347-494-4702",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6887844,
+        "lon": -73.8419779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 282273301
+    },
+    {
+      "id": "way_282392380",
+      "name": "Masjid Ahlul Qur'aan Wa Sunnah",
+      "address": {
+        "street": "135-11 125th Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11420",
+        "full": ""
+      },
+      "phone": "+1-718-529-4092",
+      "website": "https://www.maqws.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6688953,
+        "lon": -73.8142421
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 282392380
+    },
+    {
+      "id": "way_282523880",
+      "name": "Bosnian Islamic Centre",
+      "address": {
+        "street": "75 Birmingham Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.603482,
+        "lon": -79.5042513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 282523880
+    },
+    {
+      "id": "way_282923924",
+      "name": "Masjid Al-Ansar",
+      "address": {
+        "street": "161-34 Foch Boulevard",
+        "city": "Queens",
+        "state": "NY",
+        "zip": "11434",
+        "full": ""
+      },
+      "phone": "+1-718-528-6008",
+      "website": "https://www.myalansar.com/",
+      "email": "myalansar@gmail.com",
+      "coordinates": {
+        "lat": 40.6839189,
+        "lon": -73.7834132
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 282923924
+    },
+    {
+      "id": "way_284683811",
+      "name": "Masjid Alfalah",
+      "address": {
+        "street": "42-12 National Street",
+        "city": "",
+        "state": "New York",
+        "zip": "11368",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7472243,
+        "lon": -73.8638591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 284683811
+    },
+    {
+      "id": "way_285038264",
+      "name": "Rockaway Islamic Center",
+      "address": {
+        "street": "53-08 Rockaway Beach Boulevard",
+        "city": "",
+        "state": "New York",
+        "zip": "11691",
+        "full": ""
+      },
+      "phone": "+1-917-453-7722",
+      "website": "https://rockawayislamiccenter.com",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5927591,
+        "lon": -73.7839929
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 285038264
+    },
+    {
+      "id": "way_287886696",
+      "name": "Al Rayan Islamic Centre",
+      "address": {
+        "street": "1660 Regional Highway 2",
+        "city": "Courtice",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.911339,
+        "lon": -78.7865665
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 287886696
+    },
+    {
+      "id": "way_289666913",
+      "name": "Islamic Society of Belleville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.1682058,
+        "lon": -77.3880989
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 289666913
+    },
+    {
+      "id": "way_302855622",
+      "name": "Jafaria Association of Connecticut",
+      "address": {
+        "street": "1 Meriden Road",
+        "city": "Middlefield",
+        "state": "CT",
+        "zip": "06455",
+        "full": ""
+      },
+      "phone": "+1 860 704 8472",
+      "website": "https://jaoct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.548454,
+        "lon": -72.6938794
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 302855622
+    },
+    {
+      "id": "way_311209215",
+      "name": "Malton Masjid",
+      "address": {
+        "street": "7097 Airport Road",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L4T2G7",
+        "full": ""
+      },
+      "phone": "+19056718777",
+      "website": "https://maltonmasjid.ad-din.site/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7063905,
+        "lon": -79.6444861
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 311209215
+    },
+    {
+      "id": "way_319153252",
+      "name": "The Peace Mosque",
+      "address": {
+        "street": "6735 Caledonia Street",
+        "city": "Niagara Falls",
+        "state": "New York",
+        "zip": "L2G 5A6",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0737417,
+        "lon": -79.1069196
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 319153252
+    },
+    {
+      "id": "way_319459303",
+      "name": "Masjid Isa Ibn Maryam",
+      "address": {
+        "street": "501 Park Street",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13203",
+        "full": ""
+      },
+      "phone": "+1-315-401-0253",
+      "website": "http://www.masjidisa.com",
+      "email": "",
+      "coordinates": {
+        "lat": 43.062728,
+        "lon": -76.1403287
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 319459303
+    },
+    {
+      "id": "way_320608539",
+      "name": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+      "address": {
+        "street": "2665 Lawrence Avenue East",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.7514785,
+        "lon": -79.262164
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 320608539
+    },
+    {
+      "id": "way_329735155",
+      "name": "Baitul Ihsan Mosque",
+      "address": {
+        "street": "6650 Old Collamer Road",
+        "city": "East Syracuse",
+        "state": "NY",
+        "zip": "13057",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0940951,
+        "lon": -76.0833195
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 329735155
+    },
+    {
+      "id": "way_330677110",
+      "name": "Masjid Al Farooq",
+      "address": {
+        "street": "935 Eglinton Avenue West",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidfarooq.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5870808,
+        "lon": -79.6759189
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 330677110
+    },
+    {
+      "id": "way_332807105",
+      "name": "El-Zahra Islamic Center - Midland Park",
+      "address": {
+        "street": "218 Irving Street",
+        "city": "Midland Park",
+        "state": "NJ",
+        "zip": "07432",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0011911,
+        "lon": -74.1435654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 332807105
+    },
+    {
+      "id": "way_337703850",
+      "name": "Abdul-Majid Karim Hasan Islamic Center",
+      "address": {
+        "street": "870 Dixwell Avenue",
+        "city": "Hamden",
+        "state": "CT",
+        "zip": "06514",
+        "full": ""
+      },
+      "phone": "+20 3 5620594",
+      "website": "http://amkhic.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3368966,
+        "lon": -72.9355709
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 337703850
+    },
+    {
+      "id": "way_379425927",
+      "name": "Masjid Jalalabad",
+      "address": {
+        "street": "61 Van Houten Street",
+        "city": "Paterson",
+        "state": "NJ",
+        "zip": "07505",
+        "full": ""
+      },
+      "phone": "+1-973-279-6408",
+      "website": "http://www.ifnj.org",
+      "email": "info@ifnj.org",
+      "coordinates": {
+        "lat": 40.918517,
+        "lon": -74.1741029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 379425927
+    },
+    {
+      "id": "way_387913351",
+      "name": "As-Salaam Alaykum Masjid Aisha",
+      "address": {
+        "street": "Stanley Avenue",
+        "city": "Niagara Falls",
+        "state": "New York",
+        "zip": "L2G 3X2",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0940132,
+        "lon": -79.08484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 387913351
+    },
+    {
+      "id": "way_391854003",
+      "name": "Sayyidah Zainab",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8515393,
+        "lon": -79.0232252
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 391854003
+    },
+    {
+      "id": "way_405514732",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7184096,
+        "lon": -74.0432466
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 405514732
+    },
+    {
+      "id": "way_411202377",
+      "name": "Al-Tawheed Islamic Center",
+      "address": {
+        "street": "984 West Side Avenue",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zip": "07306",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7331815,
+        "lon": -74.0717844
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 411202377
+    },
+    {
+      "id": "way_415257443",
+      "name": "Islamic Center of Newark",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7348476,
+        "lon": -74.1737912
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 415257443
+    },
+    {
+      "id": "way_424418421",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7297496,
+        "lon": -74.2129234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 424418421
+    },
+    {
+      "id": "way_429006382",
+      "name": "House of the Commandments",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.1011149,
+        "lon": -77.5806063
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 429006382
+    },
+    {
+      "id": "way_452100145",
+      "name": "Umar Mosque",
+      "address": {
+        "street": "734 Rennie Street",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-905-544-9016",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.2465045,
+        "lon": -79.7741582
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 452100145
+    },
+    {
+      "id": "way_457786213",
+      "name": "Muslim Center of Middlesex",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5295875,
+        "lon": -74.4685166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 457786213
+    },
+    {
+      "id": "way_458493343",
+      "name": "Masjid Riyad Ul Jannah",
+      "address": {
+        "street": "6680 Campobello Road",
+        "city": "Mississauga",
+        "state": "New York",
+        "zip": "L5N 2L8",
+        "full": ""
+      },
+      "phone": "+1-905-567-1786",
+      "website": "http://jamiariyadhuljannah.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6086461,
+        "lon": -79.7336717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 458493343
+    },
+    {
+      "id": "way_465956924",
+      "name": "Baitul Mukarram Jame Masjid",
+      "address": {
+        "street": "3296 Bailey Avenue",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14215",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9446585,
+        "lon": -78.8141634
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 465956924
+    },
+    {
+      "id": "way_466246178",
+      "name": "Masjid Noor",
+      "address": {
+        "street": "1032 Park Avenue",
+        "city": "Huntington",
+        "state": "NY",
+        "zip": "11743",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8393593,
+        "lon": -73.3664772
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 466246178
+    },
+    {
+      "id": "way_482524672",
+      "name": "Masjid Noor-ul-Haram",
+      "address": {
+        "street": "2478 9th Line",
+        "city": "Oavkville",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5062767,
+        "lon": -79.6958778
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 482524672
+    },
+    {
+      "id": "way_486690312",
+      "name": "North Hudson Islamic Educational Center",
+      "address": {
+        "street": "6413 Cottage Place",
+        "city": "Union City",
+        "state": "NJ",
+        "zip": "07087",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7812549,
+        "lon": -74.0234687
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 486690312
+    },
+    {
+      "id": "way_504632332",
+      "name": "Shia Ithna'asheri Jamaat of PA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 610-398-1900",
+      "website": "https://sijpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6090979,
+        "lon": -75.5642584
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504632332
+    },
+    {
+      "id": "way_504636942",
+      "name": "Muslim Association of Lehigh Valley",
+      "address": {
+        "street": "1988 Schadt Avenue",
+        "city": "Whitehall",
+        "state": "PA",
+        "zip": "18052",
+        "full": ""
+      },
+      "phone": "+16107996224",
+      "website": "https://www.malv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6372905,
+        "lon": -75.5064551
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504636942
+    },
+    {
+      "id": "way_507110430",
+      "name": "Islamic Education Center of Pennsylvania",
+      "address": {
+        "street": "6635 Tilghman Street",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18106",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5895543,
+        "lon": -75.6042275
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 507110430
+    },
+    {
+      "id": "way_524718674",
+      "name": "Oshawa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.8924569,
+        "lon": -78.8623798
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 524718674
+    },
+    {
+      "id": "way_542350652",
+      "name": "Masjid-e-Ali",
+      "address": {
+        "street": "47 Cedar Grove Lane",
+        "city": "Somerset",
+        "state": "NJ",
+        "zip": "08873",
+        "full": ""
+      },
+      "phone": "+1-732-564-1331",
+      "website": "https://masjid-e-ali.org/",
+      "email": "info@masjid-e-ali.org",
+      "coordinates": {
+        "lat": 40.5309738,
+        "lon": -74.5142459
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 542350652
+    },
+    {
+      "id": "way_546659978",
+      "name": "ICCNY Islamic Center Masjid",
+      "address": {
+        "street": "1558 Washington Boulevard",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06902",
+        "full": ""
+      },
+      "phone": "+1 203 921 1431",
+      "website": "https://www.iccnystamford.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0606605,
+        "lon": -73.5443125
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546659978
+    },
+    {
+      "id": "way_548304585",
+      "name": "Islamic Center of Rochester",
+      "address": {
+        "street": "727 Westfall Road",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14620",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1144679,
+        "lon": -77.6018841
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 548304585
+    },
+    {
+      "id": "way_552941695",
+      "name": "Masjid Alhakeem Bowmanville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9105436,
+        "lon": -78.6831859
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 552941695
+    },
+    {
+      "id": "way_560432796",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "425 Fulton Street",
+        "city": "Farmingdale",
+        "state": "NY",
+        "zip": "11735",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7303918,
+        "lon": -73.4518776
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 560432796
+    },
+    {
+      "id": "way_561926071",
+      "name": "Islamic Center of Long Island",
+      "address": {
+        "street": "835 Brush Hollow Road",
+        "city": "Westbury",
+        "state": "NY",
+        "zip": "11590",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7658668,
+        "lon": -73.5707666
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 561926071
+    },
+    {
+      "id": "way_565538588",
+      "name": "Islamic Center at UConn",
+      "address": {
+        "street": "28 North Eagleville Road",
+        "city": "Storrs",
+        "state": "CT",
+        "zip": "06269",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://icuc.weebly.com",
+      "email": "icuconn@gmail.com",
+      "coordinates": {
+        "lat": 41.8120188,
+        "lon": -72.2521087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 565538588
+    },
+    {
+      "id": "way_570685776",
+      "name": "Bayt Ul-Mamur Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7700468,
+        "lon": -72.5188194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 570685776
+    },
+    {
+      "id": "way_583755957",
+      "name": "ISCNY Islamic Community Center",
+      "address": {
+        "street": "5833 East Seneca Turnpike",
+        "city": "Jamesville",
+        "state": "NY",
+        "zip": "13078",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iscnyonline.org/who-we-are",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9981883,
+        "lon": -76.1162311
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 583755957
+    },
+    {
+      "id": "way_587726203",
+      "name": "Muhammads Mosque",
+      "address": {
+        "street": "360 Clinton Avenue",
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12206",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6614835,
+        "lon": -73.7630841
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 587726203
+    },
+    {
+      "id": "way_589084882",
+      "name": "Hillside Islamic Center",
+      "address": {
+        "street": "300 Hillside Avenue",
+        "city": "New Hyde Park",
+        "state": "NY",
+        "zip": "11040",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7399117,
+        "lon": -73.6982555
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 589084882
+    },
+    {
+      "id": "way_590554173",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "595 Franklin Avenue",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06114",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/bosnian-american-islamic-cultural-center-hartford-ct-346147188408",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7319425,
+        "lon": -72.675069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 590554173
+    },
+    {
+      "id": "way_592852014",
+      "name": "Al-Madany Islamic Center of Norwalk",
+      "address": {
+        "street": "1 Union Park Place",
+        "city": "Norwalk",
+        "state": "CT",
+        "zip": "06850",
+        "full": ""
+      },
+      "phone": "+1 203 642 3150",
+      "website": "https://www.facebook.com/Al-Madany-Islamic-Center-of-Norwalk-271074252917985",
+      "email": "almadany@googlegroups.com",
+      "coordinates": {
+        "lat": 41.1157943,
+        "lon": -73.4171674
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 592852014
+    },
+    {
+      "id": "way_615652676",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7738796,
+        "lon": -73.8974663
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 615652676
+    },
+    {
+      "id": "way_615689860",
+      "name": "Muslim Community Center of Paramus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9628953,
+        "lon": -74.0590488
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 615689860
+    },
+    {
+      "id": "way_628850166",
+      "name": "Islamic Center Of Five Towns Masjid Hewlett",
+      "address": {
+        "street": "437 Hamilton Avenue",
+        "city": "Hewlett",
+        "state": "NY",
+        "zip": "11557",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6426425,
+        "lon": -73.7065689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 628850166
+    },
+    {
+      "id": "way_656853729",
+      "name": "Islamic Centre of Kingston",
+      "address": {
+        "street": "",
+        "city": "Kingston",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.284521,
+        "lon": -76.5420575
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 656853729
+    },
+    {
+      "id": "way_659459666",
+      "name": "Islamic Institute of Toronto",
+      "address": {
+        "street": "1630 Neilson Road",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "M1X 1S3",
+        "full": ""
+      },
+      "phone": "+1-416-335-9173",
+      "website": "https://islam.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.818755,
+        "lon": -79.229839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 659459666
+    },
+    {
+      "id": "way_662151879",
+      "name": "Masjid El Noor",
+      "address": {
+        "street": "277 Scott Road",
+        "city": "Toronto",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidelnoor.ca/",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6896555,
+        "lon": -79.4719435
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662151879
+    },
+    {
+      "id": "way_662673614",
+      "name": "Muhammadi Masjid",
+      "address": {
+        "street": "681 Elmont Road",
+        "city": "Elmont",
+        "state": "NY",
+        "zip": "11003",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.69303,
+        "lon": -73.7180676
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662673614
+    },
+    {
+      "id": "way_662783001",
+      "name": "Masjid Vaughan",
+      "address": {
+        "street": "9954 Keele Street",
+        "city": "Maple",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.853548,
+        "lon": -79.5126835
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662783001
+    },
+    {
+      "id": "way_667347361",
+      "name": "Islamic Society of Vermont",
+      "address": {
+        "street": "400 Swift Street",
+        "city": "South Burlington",
+        "state": "VT",
+        "zip": "05403",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.4435041,
+        "lon": -73.1794694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 667347361
+    },
+    {
+      "id": "way_751131369",
+      "name": "Al-Hidaya Center",
+      "address": {
+        "street": "322 Troy Schenectady Road",
+        "city": "Latham",
+        "state": "NY",
+        "zip": "12110",
+        "full": ""
+      },
+      "phone": "+1 518 6081255",
+      "website": "https://www.al-hidaya.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7423479,
+        "lon": -73.7484613
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 751131369
+    },
+    {
+      "id": "way_751440860",
+      "name": "Muslim Community of New Jersey (MCNJ)",
+      "address": {
+        "street": "15 South 2nd Street",
+        "city": "Fords",
+        "state": "NJ",
+        "zip": "08863",
+        "full": ""
+      },
+      "phone": "+1 732-738-5100",
+      "website": "https://www.mcnjonline.com/",
+      "email": "info@mcnjonline.com",
+      "coordinates": {
+        "lat": 40.5298556,
+        "lon": -74.3152231
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 751440860
+    },
+    {
+      "id": "way_769770900",
+      "name": "Port Washington Masjid",
+      "address": {
+        "street": "118 Harbor Road",
+        "city": "Port Washington",
+        "state": "NY",
+        "zip": "11050",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8427663,
+        "lon": -73.6927278
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 769770900
+    },
+    {
+      "id": "way_779432119",
+      "name": "Shelter Rock Islamic Center",
+      "address": {
+        "street": "2 Shelter Rock Road",
+        "city": "Roslyn",
+        "state": "NY",
+        "zip": "11576",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.766746,
+        "lon": -73.670245
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 779432119
+    },
+    {
+      "id": "way_795980103",
+      "name": "Faith Mosque",
+      "address": {
+        "street": "182",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6702656,
+        "lon": -79.3196679
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 795980103
+    },
+    {
+      "id": "way_803144434",
+      "name": "Islamic Center of Stroudsburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9943959,
+        "lon": -75.1908453
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 803144434
+    },
+    {
+      "id": "way_809310615",
+      "name": "Islamic Center of Northern New York",
+      "address": {
+        "street": "25918 State Route 342",
+        "city": "Calcium",
+        "state": "NY",
+        "zip": "13616",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0376835,
+        "lon": -75.8542017
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 809310615
+    },
+    {
+      "id": "way_822989977",
+      "name": "Stamford Islamic Center",
+      "address": {
+        "street": "379 West Avenue",
+        "city": "Stamford",
+        "state": "CT",
+        "zip": "06902",
+        "full": ""
+      },
+      "phone": "+1 203 883 9765",
+      "website": "https://stamfordislamiccenter.com/",
+      "email": "info@stamfordislamiccenter.com",
+      "coordinates": {
+        "lat": 41.0408571,
+        "lon": -73.5594217
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 822989977
+    },
+    {
+      "id": "way_832624175",
+      "name": "Mahdi Mosque",
+      "address": {
+        "street": "9610 Colvin Boulevard",
+        "city": "Niagara Falls",
+        "state": "NY",
+        "zip": "14304",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0852725,
+        "lon": -78.9510975
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 832624175
+    },
+    {
+      "id": "way_844454804",
+      "name": "Muhammad Islamic Center of Greater Hartford",
+      "address": {
+        "street": "155,157 Hungerford Street",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06106",
+        "full": ""
+      },
+      "phone": "+1 860 728 8646",
+      "website": "https://www.micgh.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.759067,
+        "lon": -72.6860368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 844454804
+    },
+    {
+      "id": "way_844801469",
+      "name": "Baitun Nur Mosque",
+      "address": {
+        "street": "2301 King Street East",
+        "city": "Hamilton",
+        "state": "New York",
+        "zip": "L8K 1X6",
+        "full": ""
+      },
+      "phone": "+1 905-544-3110",
+      "website": "https://www.ahmadiyya.ca/mosques/baitun-nur-mosque",
+      "email": "",
+      "coordinates": {
+        "lat": 43.2296292,
+        "lon": -79.7957217
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 844801469
+    },
+    {
+      "id": "way_854132219",
+      "name": "Al Hedaya Islamic Center",
+      "address": {
+        "street": "115 Mount Pleasant Road",
+        "city": "Newtown",
+        "state": "CT",
+        "zip": "06470",
+        "full": ""
+      },
+      "phone": "+1 203 304 1244",
+      "website": "http://www.hedayacenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4179398,
+        "lon": -73.3550099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 854132219
+    },
+    {
+      "id": "way_878398114",
+      "name": "Fique Mosque",
+      "address": {
+        "street": "817 23rd Street",
+        "city": "Watervliet",
+        "state": "NY",
+        "zip": "12189",
+        "full": ""
+      },
+      "phone": "+1 518 4000103",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7334855,
+        "lon": -73.7082645
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 878398114
+    },
+    {
+      "id": "way_885709065",
+      "name": "Islamic Center of Willimantic",
+      "address": {
+        "street": "4 Industrial Park Road",
+        "city": "Windham",
+        "state": "CT",
+        "zip": "06226",
+        "full": ""
+      },
+      "phone": "+1 860 778 4242",
+      "website": "http://icwct.org",
+      "email": "moelhaid@gmail.com",
+      "coordinates": {
+        "lat": 41.7427466,
+        "lon": -72.1773705
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 885709065
+    },
+    {
+      "id": "way_936963306",
+      "name": "Islamic Center of Hamden",
+      "address": {
+        "street": "698 Newhall Street",
+        "city": "Hamden",
+        "state": "CT",
+        "zip": "06517",
+        "full": ""
+      },
+      "phone": "+1 203 562 2757",
+      "website": "https://www.islamiccenterofhamden.org",
+      "email": "info@islamiccenterofhamden.org",
+      "coordinates": {
+        "lat": 41.342655,
+        "lon": -72.9266126
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 936963306
+    },
+    {
+      "id": "way_944104419",
+      "name": "Albanian American Muslim Community",
+      "address": {
+        "street": "38 Raymond Street",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06706",
+        "full": ""
+      },
+      "phone": "+1 203 850 2058",
+      "website": "https://www.aac-ct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5291129,
+        "lon": -73.0362524
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944104419
+    },
+    {
+      "id": "way_944107061",
+      "name": "Minhaj-ul-Quran Al-Noor Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 860 870 0786",
+      "website": "https://www.facebook.com/Minhaj-ul-Quran-Al-Noor-Islamic-Center-Ellington-CT-732533276808535",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8706029,
+        "lon": -72.465074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944107061
+    },
+    {
+      "id": "way_944108033",
+      "name": "Daar-ul-Ehsaan USA Headquarters",
+      "address": {
+        "street": "739 Terryville Avenue",
+        "city": "Bristol",
+        "state": "CT",
+        "zip": "06010",
+        "full": ""
+      },
+      "phone": "+1 860 585 9742",
+      "website": "https://daar-ul-ehsaan.org/",
+      "email": "virtues@daar-ul-ehsaan.org",
+      "coordinates": {
+        "lat": 41.6812588,
+        "lon": -72.9757297
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944108033
+    },
+    {
+      "id": "way_944109145",
+      "name": "Danbury Masjid Islamic Society of Western Connecticut",
+      "address": {
+        "street": "388 Main Street",
+        "city": "Danbury",
+        "state": "CT",
+        "zip": "06810",
+        "full": ""
+      },
+      "phone": "+1 203 744 1328",
+      "website": "http://danburymasjid.com",
+      "email": "iswcdanburymasjid@gmail.com",
+      "coordinates": {
+        "lat": 41.4017165,
+        "lon": -73.4593728
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944109145
+    },
+    {
+      "id": "way_944110316",
+      "name": "Islamic Association of Greater Hartford Berlin Mosque",
+      "address": {
+        "street": "1781 Berlin Turnpike",
+        "city": "Berlin",
+        "state": "CT",
+        "zip": "06037",
+        "full": ""
+      },
+      "phone": "+1 860 829 6411",
+      "website": "http://www.berlinmosque.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6031705,
+        "lon": -72.75146
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944110316
+    },
+    {
+      "id": "way_944111704",
+      "name": "Masjid Al-Taqwa",
+      "address": {
+        "street": "100 Arch Street",
+        "city": "New Britain",
+        "state": "CT",
+        "zip": "06051",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://taqwact.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6642943,
+        "lon": -72.78193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944111704
+    },
+    {
+      "id": "way_944113952",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "140 White Rock Drive",
+        "city": "Windsor",
+        "state": "CT",
+        "zip": "06095",
+        "full": ""
+      },
+      "phone": "+1 860 249 0112",
+      "website": "http://icct.org",
+      "email": "info@icct.org",
+      "coordinates": {
+        "lat": 41.8116976,
+        "lon": -72.6714022
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944113952
+    },
+    {
+      "id": "way_944115993",
+      "name": "Islamic Center of New London",
+      "address": {
+        "street": "16 Fort Street",
+        "city": "Groton",
+        "state": "CT",
+        "zip": "06340",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icnl.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3548642,
+        "lon": -72.082837
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944115993
+    },
+    {
+      "id": "way_944118228",
+      "name": "Monroe Masjid",
+      "address": {
+        "street": "57 Pepper Street",
+        "city": "Monroe",
+        "state": "CT",
+        "zip": "06468",
+        "full": ""
+      },
+      "phone": "+1 203 383 9236",
+      "website": "https://www.monroemasjid.org",
+      "email": "monroemasjid@gmail.com",
+      "coordinates": {
+        "lat": 41.3226515,
+        "lon": -73.2601682
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944118228
+    },
+    {
+      "id": "way_944122399",
+      "name": "Masjid Al-Islam",
+      "address": {
+        "street": "624 George Street",
+        "city": "New Haven",
+        "state": "CT",
+        "zip": "06511",
+        "full": ""
+      },
+      "phone": "+1 203 777 8004",
+      "website": "https://masjidal-islam.com",
+      "email": "Info@masjidalislam.net",
+      "coordinates": {
+        "lat": 41.309125,
+        "lon": -72.9429742
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944122399
+    },
+    {
+      "id": "way_944125196",
+      "name": "Masjid al-Mustafa",
+      "address": {
+        "street": "20 Church Street",
+        "city": "East Hartford",
+        "state": "CT",
+        "zip": "06108",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7785353,
+        "lon": -72.6087701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944125196
+    },
+    {
+      "id": "way_944125961",
+      "name": "United Muslim Masjid",
+      "address": {
+        "street": "132 Prospect Street",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06710",
+        "full": ""
+      },
+      "phone": "+1 203 756 6365",
+      "website": "http://www.ummct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5602214,
+        "lon": -73.0400423
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944125961
+    },
+    {
+      "id": "way_944127002",
+      "name": "West Haven Masjid",
+      "address": {
+        "street": "2 Pruden Street",
+        "city": "West Haven",
+        "state": "CT",
+        "zip": "06516",
+        "full": ""
+      },
+      "phone": "+1 203 933 5799",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2926276,
+        "lon": -72.9626621
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944127002
+    },
+    {
+      "id": "way_944941556",
+      "name": "Farmington Valley American Muslim Center",
+      "address": {
+        "street": "35 Harris Road",
+        "city": "Avon",
+        "state": "CT",
+        "zip": "06001",
+        "full": ""
+      },
+      "phone": "+1 860 673 9630",
+      "website": "https://www.fvamc.org/",
+      "email": "info@fvamc.org",
+      "coordinates": {
+        "lat": 41.7664614,
+        "lon": -72.8595984
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 944941556
+    },
+    {
+      "id": "way_945308344",
+      "name": "Islamic Center of South Windsor",
+      "address": {
+        "street": "100 Long Hill Road",
+        "city": "South Windsor",
+        "state": "CT",
+        "zip": "06074",
+        "full": ""
+      },
+      "phone": "+1 860 656 5688",
+      "website": "https://icswct.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8029753,
+        "lon": -72.5932686
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 945308344
+    },
+    {
+      "id": "way_946602056",
+      "name": "Albanian American Cultural and Islamic Center",
+      "address": {
+        "street": "106 Columbia Boulevard",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06710",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.aacic-ct.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5683073,
+        "lon": -73.042164
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 946602056
+    },
+    {
+      "id": "way_955588870",
+      "name": "Masjid Al-Rawdah",
+      "address": {
+        "street": "189 East Main Street",
+        "city": "Meriden",
+        "state": "CT",
+        "zip": "06450",
+        "full": ""
+      },
+      "phone": "+1 203 400 2815",
+      "website": "http://www.rawdatalquran.org",
+      "email": "webmaster@rawdatalquran.org",
+      "coordinates": {
+        "lat": 41.5351109,
+        "lon": -72.7971536
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 955588870
+    },
+    {
+      "id": "way_959961625",
+      "name": "Islamic Center of Wallingford",
+      "address": {
+        "street": "164 South Whittlesey Avenue",
+        "city": "Wallingford",
+        "state": "CT",
+        "zip": "06492",
+        "full": ""
+      },
+      "phone": "+1 203 626 1703",
+      "website": "https://icwallingford.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4504218,
+        "lon": -72.8229187
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 959961625
+    },
+    {
+      "id": "way_964663630",
+      "name": "Al Falah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6164102,
+        "lon": -74.6270726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 964663630
+    },
+    {
+      "id": "way_998240981",
+      "name": "Masjid Al-Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.3092946,
+        "lon": -78.3487231
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 998240981
+    },
+    {
+      "id": "way_1020217787",
+      "name": "Masjid At-Taqwa",
+      "address": {
+        "street": "40 Parker Avenue",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14214",
+        "full": ""
+      },
+      "phone": "+1-716-836-9789",
+      "website": "https://www.isnf.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9404464,
+        "lon": -78.8394183
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1020217787
+    },
+    {
+      "id": "way_1153571394",
+      "name": "Islamic Center of Verona",
+      "address": {
+        "street": "56 Grove Avenue",
+        "city": "Verona",
+        "state": "NJ",
+        "zip": "07044",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icverona.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8357543,
+        "lon": -74.2470397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1153571394
+    },
+    {
+      "id": "way_1169383451",
+      "name": "Ulu Cami",
+      "address": {
+        "street": "480 Knickerbocker Avenue",
+        "city": "Paterson",
+        "state": "NJ",
+        "zip": "07503",
+        "full": ""
+      },
+      "phone": "+1-973-345-6584",
+      "website": "https://www.ulucami.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8926311,
+        "lon": -74.1420138
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1169383451
+    },
+    {
+      "id": "way_1176398981",
+      "name": "Al-Arqam Islamic Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9492235,
+        "lon": -78.853355
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1176398981
+    },
+    {
+      "id": "way_1185711461",
+      "name": "Muslim Federation of NJ",
+      "address": {
+        "street": "530 Montgomery Street",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zip": "07302",
+        "full": ""
+      },
+      "phone": "+1-201-800-0770",
+      "website": "https://www.mfnj.net",
+      "email": "info@mfnj.net",
+      "coordinates": {
+        "lat": 40.7227603,
+        "lon": -74.0600819
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1185711461
+    },
+    {
+      "id": "way_1189751238",
+      "name": "Hadiqa Ahmad",
+      "address": {
+        "street": "3999 10th Sideroad",
+        "city": "Bradford",
+        "state": "New York",
+        "zip": "L3Z 2A5",
+        "full": ""
+      },
+      "phone": "+1 905-775-3299",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.1620864,
+        "lon": -79.615089
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1189751238
+    },
+    {
+      "id": "way_1189756200",
+      "name": "Baitul Mahdi Mosque",
+      "address": {
+        "street": "3505 Salem Road",
+        "city": "Locust Hill",
+        "state": "New York",
+        "zip": "L0H 1J0",
+        "full": ""
+      },
+      "phone": "+1 905-427-7479",
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-mahdi",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9262591,
+        "lon": -79.0420318
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1189756200
+    },
+    {
+      "id": "way_1189758763",
+      "name": "Mary Mosque (Maryam Mosque)",
+      "address": {
+        "street": "110 Oro-Medonte Line 7",
+        "city": "Barrie",
+        "state": "New York",
+        "zip": "L0L 2X0",
+        "full": ""
+      },
+      "phone": "+1 705-487-0004",
+      "website": "https://www.ahmadiyya.ca/mosques/maryam-mosque",
+      "email": "info.barrie@ahmadiyya.ca",
+      "coordinates": {
+        "lat": 44.4747797,
+        "lon": -79.5318463
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1189758763
+    },
+    {
+      "id": "way_1190581718",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0701144,
+        "lon": -76.0591088
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1190581718
+    },
+    {
+      "id": "way_1190930381",
+      "name": "Masjid Al-Islam",
+      "address": {
+        "street": "525 Roosevelt Avenue",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "07008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5825278,
+        "lon": -74.2150813
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1190930381
+    },
+    {
+      "id": "way_1191512048",
+      "name": "Baitul Khabir",
+      "address": {
+        "street": "Elizabeth Street",
+        "city": "Bradford",
+        "state": "New York",
+        "zip": "L3Z1W9",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.1127925,
+        "lon": -79.5648925
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1191512048
+    },
+    {
+      "id": "way_1203283691",
+      "name": "Baitul Naseer Mosque",
+      "address": {
+        "street": "1609 East Main Street",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14609",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1596814,
+        "lon": -77.5676727
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1203283691
+    },
+    {
+      "id": "way_1207571629",
+      "name": "M Khan Islamic Society of Upstate NY",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.3162323,
+        "lon": -73.656716
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1207571629
+    },
+    {
+      "id": "way_1273172941",
+      "name": "Al-Maqasid",
+      "address": {
+        "street": "7386 Alburtis Road",
+        "city": "Macungie",
+        "state": "PA",
+        "zip": "18062",
+        "full": ""
+      },
+      "phone": "+16109941622",
+      "website": "https://www.almaqasid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5157857,
+        "lon": -75.5832926
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1273172941
+    },
+    {
+      "id": "way_1309507497",
+      "name": "Islamic Center of Monticello",
+      "address": {
+        "street": "33 Cottage Street",
+        "city": "Monticello",
+        "state": "NY",
+        "zip": "12701",
+        "full": ""
+      },
+      "phone": "+1 845-794-3480",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6582995,
+        "lon": -74.6880141
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1309507497
+    },
+    {
+      "id": "way_1314034151",
+      "name": "Westchester Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 914-668-8786",
+      "website": "http://westchestermuslim.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9273187,
+        "lon": -73.817768
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1314034151
+    },
+    {
+      "id": "way_1327844466",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "224 North 18th Street",
+        "city": "East Orange",
+        "state": "NJ",
+        "zip": "07017",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7651915,
+        "lon": -74.1953834
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1327844466
+    },
+    {
+      "id": "way_1348989043",
+      "name": "Albanian American Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8695713,
+        "lon": -74.1100552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1348989043
+    },
+    {
+      "id": "way_1376379920",
+      "name": "Al-Hidaya Mosque",
+      "address": {
+        "street": "2339 15th Street",
+        "city": "Troy",
+        "state": "NY",
+        "zip": "12180",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7382597,
+        "lon": -73.6754022
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1376379920
+    },
+    {
+      "id": "way_1392904863",
+      "name": "Baitul Ata Mosque",
+      "address": {
+        "street": "2860 South Pike Avenue",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18103",
+        "full": ""
+      },
+      "phone": "+14842218450",
+      "website": "https://sites.google.com/view/ahmadiyyamovementinislam/home",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5666813,
+        "lon": -75.450184
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1392904863
+    },
+    {
+      "id": "way_1434409698",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.9285348,
+        "lon": -78.9080424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1434409698
+    },
+    {
+      "id": "way_1434893904",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6914104,
+        "lon": -73.5263499
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1434893904
+    },
+    {
+      "id": "way_1456133816",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7624323,
+        "lon": -73.8796668
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1456133816
+    },
+    {
+      "id": "relation_1395514",
+      "name": "Bab ul Ilm - Bani Hashim Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6250053,
+        "lon": -79.6319295
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 1395514
+    },
+    {
+      "id": "relation_2779502",
+      "name": "Bridgeport Islamic Community Center",
+      "address": {
+        "street": "877 Park Avenue",
+        "city": "Bridgeport",
+        "state": "CT",
+        "zip": "06604",
+        "full": ""
+      },
+      "phone": "+1-203-870-1728",
+      "website": "https://www.mybicc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1734622,
+        "lon": -73.1979664
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 2779502
+    },
+    {
+      "id": "relation_19403803",
+      "name": "Al Rawdah Islamic Center",
+      "address": {
+        "street": "415 Howertown Road",
+        "city": "Catasauqua",
+        "state": "PA",
+        "zip": "18032",
+        "full": ""
+      },
+      "phone": "+18772744326",
+      "website": "https://alrcpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6554314,
+        "lon": -75.4695513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 19403803
+    }
+  ]
+}

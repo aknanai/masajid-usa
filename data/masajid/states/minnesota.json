@@ -1,0 +1,688 @@
+{
+  "state": "Minnesota",
+  "count": 31,
+  "masajid": [
+    {
+      "id": "node_2169668486",
+      "name": "Rawdah Mosque (Somali Cultural Institute)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9557389,
+        "lon": -93.2365569
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2169668486
+    },
+    {
+      "id": "node_3998473364",
+      "name": "Islamic Center of Grand Forks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.9043667,
+        "lon": -97.0582233
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3998473364
+    },
+    {
+      "id": "node_8170372976",
+      "name": "MN Muslims Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.1115316,
+        "lon": -93.3026279
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8170372976
+    },
+    {
+      "id": "way_66794536",
+      "name": "Mercy Center Masjid Alrahma",
+      "address": {
+        "street": "2647 Bloomington Avenue South",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "zip": "55407",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9540959,
+        "lon": -93.2520817
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 66794536
+    },
+    {
+      "id": "way_93122458",
+      "name": "Dar Al Farooq Islamic Center",
+      "address": {
+        "street": "8201 Park Avenue South",
+        "city": "Bloomington",
+        "state": "MN",
+        "zip": "55420",
+        "full": ""
+      },
+      "phone": "+1-952-767-0677",
+      "website": "https://daralfarooq.com/",
+      "email": "daralfarooqcenter@gmail.com",
+      "coordinates": {
+        "lat": 44.8548177,
+        "lon": -93.2645099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 93122458
+    },
+    {
+      "id": "way_111350196",
+      "name": "Tawfiq Islamic Center",
+      "address": {
+        "street": "2400 Minnehaha Avenue",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "zip": "55404",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9587473,
+        "lon": -93.2422673
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 111350196
+    },
+    {
+      "id": "way_133113176",
+      "name": "Islamic Center of Fargo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 46.8684126,
+        "lon": -96.8254382
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 133113176
+    },
+    {
+      "id": "way_141641922",
+      "name": "Towhid Islamic Community Center",
+      "address": {
+        "street": "430 Dale Street",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9542326,
+        "lon": -93.1257866
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 141641922
+    },
+    {
+      "id": "way_141645541",
+      "name": "Minnesota Da’wah Institute",
+      "address": {
+        "street": "478 University Avenue",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "55103",
+        "full": ""
+      },
+      "phone": "+1 651 224 6726",
+      "website": "http://mndawah.net",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9554754,
+        "lon": -93.1203238
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 141645541
+    },
+    {
+      "id": "way_157034038",
+      "name": "Dar Al-Farooq",
+      "address": {
+        "street": "983 Southeast 17th Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55414",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9872684,
+        "lon": -93.2288796
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 157034038
+    },
+    {
+      "id": "way_193417105",
+      "name": "Masjid AbuBakr Al-Seddiq",
+      "address": {
+        "street": "17 North Broadway Avenue",
+        "city": "Rochester",
+        "state": "MN",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://rochestermosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0241368,
+        "lon": -92.4634816
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 193417105
+    },
+    {
+      "id": "way_202907462",
+      "name": "The Islamic Institute of Minnesota - Burnsville Mosque",
+      "address": {
+        "street": "1350 Riverwood Drive",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "55337",
+        "full": ""
+      },
+      "phone": "+1-952-882-9343",
+      "website": "https://islamicinstituteofmn.com/burnsville.html",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7849573,
+        "lon": -93.2555888
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 202907462
+    },
+    {
+      "id": "way_202907917",
+      "name": "Islamic Institute of Minnesota - Eden Prairie Mosque",
+      "address": {
+        "street": "6861 Flying Cloud Drive",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "55344",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamicinstituteofmn.com/eden_prairie.html",
+      "email": "",
+      "coordinates": {
+        "lat": 44.8789536,
+        "lon": -93.4126735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 202907917
+    },
+    {
+      "id": "way_202908616",
+      "name": "Assalam Mosque",
+      "address": {
+        "street": "1460 Skillman Avenue East",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "55109",
+        "full": ""
+      },
+      "phone": "+1-651-748-1688",
+      "website": "https://islamicinstituteofmn.com/maplewood.html",
+      "email": "",
+      "coordinates": {
+        "lat": 45.002538,
+        "lon": -93.0387877
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 202908616
+    },
+    {
+      "id": "way_202908749",
+      "name": "Islamic Cultural Community Center – Masjid Al Huda",
+      "address": {
+        "street": "2534 Central Avenue Northeast",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "zip": "55418",
+        "full": ""
+      },
+      "phone": "+1-612-782-3883",
+      "website": "https://www.alhudacenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0143374,
+        "lon": -93.2478826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 202908749
+    },
+    {
+      "id": "way_289380714",
+      "name": "Samaha Islamic Center",
+      "address": {
+        "street": "214 Holmes Street South",
+        "city": "Shakopee",
+        "state": "MN",
+        "zip": "55379",
+        "full": ""
+      },
+      "phone": "+1-612-478-2838",
+      "website": "https://www.samahaislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7971536,
+        "lon": -93.5271471
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 289380714
+    },
+    {
+      "id": "way_313727189",
+      "name": "Masjid An-Nur",
+      "address": {
+        "street": "1729 North Lyndale Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55411",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidannur.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9972252,
+        "lon": -93.2883703
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 313727189
+    },
+    {
+      "id": "way_485674437",
+      "name": "Al Madina Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7530604,
+        "lon": -93.1063462
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 485674437
+    },
+    {
+      "id": "way_504404784",
+      "name": "South Metro Islamic Center",
+      "address": {
+        "street": "15400 Robert Trail South",
+        "city": "Rosemount",
+        "state": "MN",
+        "zip": "55068",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.726631,
+        "lon": -93.1314148
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504404784
+    },
+    {
+      "id": "way_513816243",
+      "name": "Abubakar As-Saddique Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9508757,
+        "lon": -93.2569517
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 513816243
+    },
+    {
+      "id": "way_552092819",
+      "name": "Al Taqwa Masjid Islamic Center",
+      "address": {
+        "street": "1418 East la Salle Avenue",
+        "city": "Barron",
+        "state": "WI",
+        "zip": "54812",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.3995293,
+        "lon": -91.8368052
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 552092819
+    },
+    {
+      "id": "way_607751857",
+      "name": "MAS",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.191329,
+        "lon": -93.2324867
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 607751857
+    },
+    {
+      "id": "way_686377520",
+      "name": "Central Minnesota Islamic Center - Masjid Imaam Al-Shaafi'i",
+      "address": {
+        "street": "390 4th Avenue South",
+        "city": "St. Cloud",
+        "state": "MN",
+        "zip": "56301",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5561759,
+        "lon": -94.1528663
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 686377520
+    },
+    {
+      "id": "way_687388912",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.9385391,
+        "lon": -97.0209447
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 687388912
+    },
+    {
+      "id": "way_833725005",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5566867,
+        "lon": -94.1550553
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 833725005
+    },
+    {
+      "id": "way_844831053",
+      "name": "Abu Khadra Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0426222,
+        "lon": -93.257982
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 844831053
+    },
+    {
+      "id": "way_947996183",
+      "name": "Islamic Community Center of Minnesota",
+      "address": {
+        "street": "1429 Northeast 2nd Street",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "zip": "55413",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0028506,
+        "lon": -93.2658239
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 947996183
+    },
+    {
+      "id": "way_972927578",
+      "name": "Al Mahmoud Foundation",
+      "address": {
+        "street": "5995 Timber Trail Southeast",
+        "city": "Prior Lake",
+        "state": "MN",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7265482,
+        "lon": -93.3999044
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 972927578
+    },
+    {
+      "id": "way_988133089",
+      "name": "Masjid al Furqaan",
+      "address": {
+        "street": "1525 Glenwood Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55405",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9806545,
+        "lon": -93.3002897
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 988133089
+    },
+    {
+      "id": "way_1234122528",
+      "name": "Wausau Masjid",
+      "address": {
+        "street": "629 South 36th Avenue",
+        "city": "Wausau",
+        "state": "WI",
+        "zip": "54401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9563685,
+        "lon": -89.6807048
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234122528
+    },
+    {
+      "id": "way_1234123907",
+      "name": "Marshfield Masjid",
+      "address": {
+        "street": "200560 Meadow Avenue",
+        "city": "Marshfield",
+        "state": "WI",
+        "zip": "54449",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.6891836,
+        "lon": -90.1856654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234123907
+    }
+  ]
+}

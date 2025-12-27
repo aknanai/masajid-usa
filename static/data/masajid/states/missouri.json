@@ -1,0 +1,732 @@
+{
+  "state": "Missouri",
+  "count": 33,
+  "masajid": [
+    {
+      "id": "node_188938995",
+      "name": "Masjid Ilalif",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.41356,
+        "lon": -93.40143
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 188938995
+    },
+    {
+      "id": "node_188971396",
+      "name": "Masjid Ourida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.36302,
+        "lon": -93.36726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 188971396
+    },
+    {
+      "id": "node_358087289",
+      "name": "Center of Islamic Education in North America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9361571,
+        "lon": -94.5415117
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358087289
+    },
+    {
+      "id": "node_616463688",
+      "name": "Daar-Ul-Islam",
+      "address": {
+        "street": "517 Weidman Road",
+        "city": "Ballwin",
+        "state": "Missouri",
+        "zip": "63011",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6029313,
+        "lon": -90.4959216
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 616463688
+    },
+    {
+      "id": "node_3897866410",
+      "name": "Bosnian Islamic Center Masjid",
+      "address": {
+        "street": "318 Lemay Ferry Road",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63125",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.541756,
+        "lon": -90.2769481
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3897866410
+    },
+    {
+      "id": "node_3897911460",
+      "name": "Islamic Community Center",
+      "address": {
+        "street": "4666 Lansdowne Avenue",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63116",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5871022,
+        "lon": -90.2735235
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3897911460
+    },
+    {
+      "id": "node_3897929765",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "3843 West Pine Boulevard",
+        "city": "Saint Louis",
+        "state": "MO",
+        "zip": "63108",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6377931,
+        "lon": -90.2404455
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3897929765
+    },
+    {
+      "id": "node_3897996354",
+      "name": "West Florissant Masjid",
+      "address": {
+        "street": "6809 West Florissant Avenue",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "zip": "63136",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7167718,
+        "lon": -90.2597485
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3897996354
+    },
+    {
+      "id": "node_3897997292",
+      "name": "Umar Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "63136",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6925178,
+        "lon": -90.2413434
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3897997292
+    },
+    {
+      "id": "node_3898013892",
+      "name": "Grand Islamic Center",
+      "address": {
+        "street": "3415 South Grand Boulevard",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63118",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5953159,
+        "lon": -90.2439415
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3898013892
+    },
+    {
+      "id": "node_3898024247",
+      "name": "Hazrat Abu Bakr Masjid",
+      "address": {
+        "street": "4700 South Grand Boulevard",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63111",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5742864,
+        "lon": -90.2492011
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3898024247
+    },
+    {
+      "id": "node_3898212002",
+      "name": "Dar AlJalal Islamic Center",
+      "address": {
+        "street": "8945 Dunn Road",
+        "city": "Hazelwood",
+        "state": "Missouri",
+        "zip": "63042",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://daraljalal.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.777389,
+        "lon": -90.346472
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3898212002
+    },
+    {
+      "id": "node_3898324716",
+      "name": "Belleville Masjid & Islamic Education Center",
+      "address": {
+        "street": "4525 Old Collinsville Road",
+        "city": "Belleville",
+        "state": "IL",
+        "zip": "62226",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5652963,
+        "lon": -89.965124
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3898324716
+    },
+    {
+      "id": "node_4525103353",
+      "name": "Islamic Society of Springfield",
+      "address": {
+        "street": "3000 South Stanton Street",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62703",
+        "full": ""
+      },
+      "phone": "+1-217-529-8970",
+      "website": "https://www.isogs.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7619506,
+        "lon": -89.6248737
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4525103353
+    },
+    {
+      "id": "way_201010995",
+      "name": "Islamic Center of Topeka",
+      "address": {
+        "street": "2701 Southeast Kentucky Avenue",
+        "city": "Topeka",
+        "state": "KS",
+        "zip": "66605",
+        "full": ""
+      },
+      "phone": "+1 785 233-1171",
+      "website": "http://topekamosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0187397,
+        "lon": -95.6626545
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 201010995
+    },
+    {
+      "id": "way_219102256",
+      "name": "Islamic Center of Lawrence",
+      "address": {
+        "street": "1917 Naismith Drive",
+        "city": "Lawrence",
+        "state": "KS",
+        "zip": "66046",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iclks.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9495426,
+        "lon": -95.2516008
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 219102256
+    },
+    {
+      "id": "way_291837554",
+      "name": "Islamic Center of Johnson County",
+      "address": {
+        "street": "9001 West 151st Street",
+        "city": "Overland Park",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 913-239-0770",
+      "website": "https://www.icjc.org/contact.html",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8538343,
+        "lon": -94.6905556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 291837554
+    },
+    {
+      "id": "way_380488489",
+      "name": "Columbia Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.949335,
+        "lon": -92.3322176
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 380488489
+    },
+    {
+      "id": "way_386460017",
+      "name": "Baitul Hafeez Mosque",
+      "address": {
+        "street": "4529 Emerson Avenue",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63120",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6904874,
+        "lon": -90.2538569
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 386460017
+    },
+    {
+      "id": "way_386461047",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "5967 West Florissant Avenue",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "zip": "63147",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7085797,
+        "lon": -90.250567
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 386461047
+    },
+    {
+      "id": "way_386463800",
+      "name": "Al-Muminoon Masjid",
+      "address": {
+        "street": "1434 North Grand Boulevard",
+        "city": "Saint Louis",
+        "state": "MO",
+        "zip": "63106",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6475952,
+        "lon": -90.2260194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 386463800
+    },
+    {
+      "id": "way_386464266",
+      "name": "Quoba Masjid",
+      "address": {
+        "street": "1925 Allen Avenue",
+        "city": "St Louis",
+        "state": "MO",
+        "zip": "63104",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6104131,
+        "lon": -90.2146398
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 386464266
+    },
+    {
+      "id": "way_386469046",
+      "name": "Northwest Islamic Center",
+      "address": {
+        "street": "10543 Lackland Road",
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63114",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6969805,
+        "lon": -90.3943532
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 386469046
+    },
+    {
+      "id": "way_402282992",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "3000 South Stanton Street",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62703",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7619485,
+        "lon": -89.6248712
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 402282992
+    },
+    {
+      "id": "way_474048074",
+      "name": "Islamic Center of Northwest Arkansas",
+      "address": {
+        "street": "1420 West Center Street",
+        "city": "Fayetteville",
+        "state": "AR",
+        "zip": "72701",
+        "full": "1420 West Center Street"
+      },
+      "phone": "+1 479 442 4155",
+      "website": "https://www.icnwa.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0634441,
+        "lon": -94.1806515
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 474048074
+    },
+    {
+      "id": "way_495979742",
+      "name": "Al-Inshirah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.059397,
+        "lon": -94.5721929
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 495979742
+    },
+    {
+      "id": "way_506194966",
+      "name": "Masjid Al-Huda Center",
+      "address": {
+        "street": "141 Van Brunt Boulevard",
+        "city": "Kansas City",
+        "state": "MO",
+        "zip": "64123",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1111526,
+        "lon": -94.5253213
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 506194966
+    },
+    {
+      "id": "way_511133038",
+      "name": "Islamic Center of Springfield",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2268241,
+        "lon": -93.2531419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 511133038
+    },
+    {
+      "id": "way_560186517",
+      "name": "Islamic Center of Macomb",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4668779,
+        "lon": -90.6940969
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 560186517
+    },
+    {
+      "id": "way_610927447",
+      "name": "Islamic Center of Greater Saint Joseph",
+      "address": {
+        "street": "2325 Messanie Street",
+        "city": "Saint Joseph",
+        "state": "MO",
+        "zip": "64501",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7627693,
+        "lon": -94.8318424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 610927447
+    },
+    {
+      "id": "way_718200534",
+      "name": "Islamic Center of Warrensburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.icwmo.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7640723,
+        "lon": -93.7382368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 718200534
+    },
+    {
+      "id": "way_999955953",
+      "name": "Islamic Society of Greater Kansas City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9438339,
+        "lon": -94.4911683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 999955953
+    },
+    {
+      "id": "way_1306712981",
+      "name": "Dar ul Iman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.732872,
+        "lon": -90.6421061
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1306712981
+    }
+  ]
+}

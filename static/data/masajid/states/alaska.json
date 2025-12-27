@@ -1,0 +1,72 @@
+{
+  "state": "Alaska",
+  "count": 3,
+  "masajid": [
+    {
+      "id": "way_735375291",
+      "name": "Midnight Sun Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 68.3683313,
+        "lon": -133.7377672
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 735375291
+    },
+    {
+      "id": "way_892499330",
+      "name": "Islamic Community Center of Anchorage",
+      "address": {
+        "street": "8005 Spring Street",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99518",
+        "full": ""
+      },
+      "phone": "+1 907-248-7333",
+      "website": "https://alaskamasjid.org/",
+      "email": "alaskamuslimcommunity@yahoo.com",
+      "coordinates": {
+        "lat": 61.1481362,
+        "lon": -149.8610988
+      },
+      "denomination": "nondenominational",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 892499330
+    },
+    {
+      "id": "way_1082829360",
+      "name": "Yukon Muslim Society",
+      "address": {
+        "street": "2176 Second Avenue",
+        "city": "Whitehorse",
+        "state": "Alaska",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://yukonmuslims.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 60.7246361,
+        "lon": -135.0568512
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1082829360
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>Browse by State</h1>
+        <p class="subtitle">Find masajid in your state</p>
+    </div>
+</section>
+
+<section class="states-section">
+    <div class="container">
+        <div class="states-grid">
+            {{ $index := .Site.Data.masajid._index }}
+            {{ range $state, $count := $index.state_counts }}
+            {{ $slug := $state | urlize }}
+            <a href="/states/{{ $slug }}/" class="state-card">
+                <span class="state-name">{{ $state }}</span>
+                <span class="state-count">{{ $count }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

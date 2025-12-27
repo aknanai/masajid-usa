@@ -1,0 +1,556 @@
+{
+  "state": "Georgia",
+  "count": 25,
+  "masajid": [
+    {
+      "id": "node_357103072",
+      "name": "Aiken Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5779158,
+        "lon": -81.7506647
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357103072
+    },
+    {
+      "id": "node_462897271",
+      "name": "Atlanta Masjid of Al Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.atlantamasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.738643,
+        "lon": -84.3107519
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 462897271
+    },
+    {
+      "id": "node_1837854716",
+      "name": "Islamic Center of Macon",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8446263,
+        "lon": -83.6535777
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1837854716
+    },
+    {
+      "id": "node_3503081325",
+      "name": "5 Points Islamic Center (Masjid Jami Islamic Center)",
+      "address": {
+        "street": "105 Broad Street Southwest",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30303",
+        "full": ""
+      },
+      "phone": "+1-404-658-9124",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.751802,
+        "lon": -84.3934938
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3503081325
+    },
+    {
+      "id": "node_6198602534",
+      "name": "House of Allah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.2192594,
+        "lon": -81.3886938
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6198602534
+    },
+    {
+      "id": "node_10003071777",
+      "name": "Masjid Musab",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.2161917,
+        "lon": -84.1518701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10003071777
+    },
+    {
+      "id": "node_10809883215",
+      "name": "Masjid Al Jannah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.4869083,
+        "lon": -84.8772833
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10809883215
+    },
+    {
+      "id": "node_12695360106",
+      "name": "Southeast Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0901493,
+        "lon": -84.2912073
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12695360106
+    },
+    {
+      "id": "node_13042107552",
+      "name": "Faizan-e-Madinah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9041218,
+        "lon": -84.1551271
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13042107552
+    },
+    {
+      "id": "way_51291649",
+      "name": "Ismaili Jamat Khana",
+      "address": {
+        "street": "Carriage Place Court",
+        "city": "Scottdale",
+        "state": "GA",
+        "zip": "30033",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7974024,
+        "lon": -84.2783605
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 51291649
+    },
+    {
+      "id": "way_269845515",
+      "name": "Al-Farooq Masjid of Atlanta",
+      "address": {
+        "street": "442 14th Street Northwest",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30318-7944",
+        "full": ""
+      },
+      "phone": "+1-404-874-7521",
+      "website": "https://alfarooqmasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7858323,
+        "lon": -84.4015416
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 269845515
+    },
+    {
+      "id": "way_272293462",
+      "name": "Masjid Al-Mu'minun",
+      "address": {
+        "street": "1127 Hank Aaron Drive Southwest",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30315",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7236772,
+        "lon": -84.3884839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 272293462
+    },
+    {
+      "id": "way_272388688",
+      "name": "Masjid Al-Quran",
+      "address": {
+        "street": "500 McDonough Boulevard Southeast",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30315",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7142048,
+        "lon": -84.3717896
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 272388688
+    },
+    {
+      "id": "way_344542447",
+      "name": "Zainabia Islamic Center",
+      "address": {
+        "street": "1100 Hope Road",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30350",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.zainabia.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9893504,
+        "lon": -84.3505319
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 344542447
+    },
+    {
+      "id": "way_387624189",
+      "name": "Community of Bosniaks, Georgia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/zajednica.bosnjakageorgia/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9255288,
+        "lon": -83.9735027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 387624189
+    },
+    {
+      "id": "way_545312303",
+      "name": "Masjid al-Muslimiin",
+      "address": {
+        "street": "1929 Gervais Street",
+        "city": "Columbia",
+        "state": "SC",
+        "zip": "29201",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0057066,
+        "lon": -81.0212858
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 545312303
+    },
+    {
+      "id": "way_556237880",
+      "name": "Al Markaz-ul-Murtazawi (Anjuman-e-Husami)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9537319,
+        "lon": -81.0817335
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 556237880
+    },
+    {
+      "id": "way_722666254",
+      "name": "Islamic Center of Middle Georgia",
+      "address": {
+        "street": "2501 Elberta Road",
+        "city": "Centerville",
+        "state": "GA",
+        "zip": "31028",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6328427,
+        "lon": -83.6679528
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 722666254
+    },
+    {
+      "id": "way_891091840",
+      "name": "Masjid Omar Bin Abdul Aziz Mosque",
+      "address": {
+        "street": "955 Harbins Road",
+        "city": "Lilburn",
+        "state": "GA",
+        "zip": "30047",
+        "full": ""
+      },
+      "phone": "+1-770-279-8606",
+      "website": "https://masjidomar.org/",
+      "email": "info@masjidomar.org",
+      "coordinates": {
+        "lat": 33.8990905,
+        "lon": -84.1700462
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 891091840
+    },
+    {
+      "id": "way_950223712",
+      "name": "Masjid Jihad",
+      "address": {
+        "street": "117 East 34th Lane",
+        "city": "Savannah",
+        "state": "GA",
+        "zip": "31401",
+        "full": ""
+      },
+      "phone": "+1-912-236-7387",
+      "website": "https://www.masjidjihad.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.0589348,
+        "lon": -81.0974402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 950223712
+    },
+    {
+      "id": "way_953125991",
+      "name": "Islamic Center of Savannah",
+      "address": {
+        "street": "1030 Dutchtown Road",
+        "city": "Savannah",
+        "state": "GA",
+        "zip": "31419",
+        "full": ""
+      },
+      "phone": "+1- 912-920-0043",
+      "website": "https://islamiccenterofsavannah.com/",
+      "email": "islamiccenterofsavannah@gmail.com",
+      "coordinates": {
+        "lat": 31.9893425,
+        "lon": -81.1617359
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 953125991
+    },
+    {
+      "id": "way_999112170",
+      "name": "IC-NUR",
+      "address": {
+        "street": "1073 Lawrenceville Highway",
+        "city": "Lawrenceville",
+        "state": "GA",
+        "zip": "30046",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9411445,
+        "lon": -84.0157495
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 999112170
+    },
+    {
+      "id": "way_1051805335",
+      "name": "Islamic Society of Greenville",
+      "address": {
+        "street": "96 Meridian Avenue",
+        "city": "Taylors",
+        "state": "Georgia",
+        "zip": "29687",
+        "full": ""
+      },
+      "phone": "+1-864-498-4055",
+      "website": "http://www.greenvillemasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.8983594,
+        "lon": -82.3410305
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1051805335
+    },
+    {
+      "id": "way_1451781674",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0191805,
+        "lon": -84.6252536
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1451781674
+    },
+    {
+      "id": "relation_13754013",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "2022 South Milledge Avenue",
+        "city": "Athens",
+        "state": "Georgia",
+        "zip": "30605",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9245727,
+        "lon": -83.3790322
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 13754013
+    }
+  ]
+}

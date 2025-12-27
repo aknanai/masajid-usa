@@ -1,0 +1,50 @@
+{
+  "state": "Wyoming",
+  "count": 2,
+  "masajid": [
+    {
+      "id": "node_1436012644",
+      "name": "Islamic Center of Laramie",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wyoming",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-307-721-8810",
+      "website": "https://www.facebook.com/pages/Islamic-Center-of-Laramie/100862133291222",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3095945,
+        "lon": -105.588733
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1436012644
+    },
+    {
+      "id": "way_491249732",
+      "name": "Queresha Masjid",
+      "address": {
+        "street": "1489 Country Club Road",
+        "city": "Gillette",
+        "state": "WY",
+        "zip": "82718",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.2763863,
+        "lon": -105.4783683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 491249732
+    }
+  ]
+}

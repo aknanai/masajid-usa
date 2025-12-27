@@ -1,0 +1,50 @@
+{
+  "state": "Idaho",
+  "count": 2,
+  "masajid": [
+    {
+      "id": "way_546696444",
+      "name": "Pullman Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Idaho",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 46.7370238,
+        "lon": -117.1656086
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546696444
+    },
+    {
+      "id": "way_547496501",
+      "name": "Islamic Center of Boise",
+      "address": {
+        "street": "3077 North Christine Street",
+        "city": "Boise",
+        "state": "ID",
+        "zip": "83704",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6327943,
+        "lon": -116.2874583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 547496501
+    }
+  ]
+}

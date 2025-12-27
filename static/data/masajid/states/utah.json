@@ -1,0 +1,160 @@
+{
+  "state": "Utah",
+  "count": 7,
+  "masajid": [
+    {
+      "id": "node_356682273",
+      "name": "Islamic Society of Utah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7532795,
+        "lon": -111.8716021
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356682273
+    },
+    {
+      "id": "node_8079022397",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "984 West 9000 South",
+        "city": "West Jordan",
+        "state": "UT",
+        "zip": "84119",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.utislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5880443,
+        "lon": -111.9193516
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8079022397
+    },
+    {
+      "id": "node_10301620087",
+      "name": "Logan Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7454773,
+        "lon": -111.8188177
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10301620087
+    },
+    {
+      "id": "way_357807245",
+      "name": "Khadeeja Islamic Center",
+      "address": {
+        "street": "1019 West Parkway Avenue",
+        "city": "West Valley City",
+        "state": "UT",
+        "zip": "84119",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7169839,
+        "lon": -111.9226277
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 357807245
+    },
+    {
+      "id": "way_441542953",
+      "name": "Islamic Society of Bosniaks in Utah",
+      "address": {
+        "street": "425 700 West",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84116",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7787982,
+        "lon": -111.9115561
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 441542953
+    },
+    {
+      "id": "way_471894549",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "1888 East Fort Union Boulevard",
+        "city": "Cottonwood Heights",
+        "state": "UT",
+        "zip": "84121",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6242614,
+        "lon": -111.8378297
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 471894549
+    },
+    {
+      "id": "way_679250126",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "1773 West North Temple",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84116",
+        "full": ""
+      },
+      "phone": "+1-408-791-9652",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7712147,
+        "lon": -111.9411333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 679250126
+    }
+  ]
+}

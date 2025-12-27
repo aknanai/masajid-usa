@@ -1,0 +1,204 @@
+{
+  "state": "Oregon",
+  "count": 9,
+  "masajid": [
+    {
+      "id": "node_3688670319",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "7108 Northeast Glisan Street",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97213",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5263399,
+        "lon": -122.5894631
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3688670319
+    },
+    {
+      "id": "node_9073068511",
+      "name": "Masjid Ibrahim Bethany Musalla",
+      "address": {
+        "street": "15188 Northwest Central Drive",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97229",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjid-ibrahim.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5543042,
+        "lon": -122.833187
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9073068511
+    },
+    {
+      "id": "way_331570624",
+      "name": "Bilal Masjid",
+      "address": {
+        "street": "4115 Southwest 160th Avenue",
+        "city": "Beaverton",
+        "state": "OR",
+        "zip": "97078",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bilalmasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.4901263,
+        "lon": -122.8426823
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 331570624
+    },
+    {
+      "id": "way_346394411",
+      "name": "The Porltand Rizwan Mosque",
+      "address": {
+        "street": "9925 Southwest 35th Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97219",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://portland.ahmadiyya.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.453359,
+        "lon": -122.7131332
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 346394411
+    },
+    {
+      "id": "way_352708250",
+      "name": "Imam Mahdi Center",
+      "address": {
+        "street": "6940 Southwest Hall Boulevard",
+        "city": "Beaverton",
+        "state": "Oregon",
+        "zip": "97008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.4696122,
+        "lon": -122.8035442
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 352708250
+    },
+    {
+      "id": "way_355794438",
+      "name": "Islamic Center of Portland",
+      "address": {
+        "street": "10323 Southwest 43rd Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97219",
+        "full": ""
+      },
+      "phone": "+1-503-293-6554",
+      "website": "https://www.assaber.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.450822,
+        "lon": -122.7218963
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 355794438
+    },
+    {
+      "id": "way_371563331",
+      "name": "Islamic Community Center of Hillsboro",
+      "address": {
+        "street": "7270 Northwest Helvetia Road",
+        "city": "Hillsboro",
+        "state": "OR",
+        "zip": "97124",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5722059,
+        "lon": -122.923113
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 371563331
+    },
+    {
+      "id": "way_379799880",
+      "name": "Islamic Center of Tri Cities",
+      "address": {
+        "street": "2900 Bombing Range Road",
+        "city": "West Richland",
+        "state": "WA",
+        "zip": "99353",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.islamiccenteroftricities.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 46.2748502,
+        "lon": -119.3456786
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 379799880
+    },
+    {
+      "id": "way_479380219",
+      "name": "Salman Alfarisi Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.5739162,
+        "lon": -123.2755113
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 479380219
+    }
+  ]
+}

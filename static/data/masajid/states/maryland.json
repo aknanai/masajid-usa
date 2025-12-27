@@ -1,0 +1,1634 @@
+{
+  "state": "Maryland",
+  "count": 74,
+  "masajid": [
+    {
+      "id": "node_358244612",
+      "name": "Muhammed Temple",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6295601,
+        "lon": -75.859935
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358244612
+    },
+    {
+      "id": "node_358962220",
+      "name": "Muhammed Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.869851,
+        "lon": -76.960771
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358962220
+    },
+    {
+      "id": "node_367799015",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "MD",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1054428,
+        "lon": -77.0033682
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 367799015
+    },
+    {
+      "id": "node_3032457704",
+      "name": "Masjid Al-Karam",
+      "address": {
+        "street": "1724 Woodlawn Drive",
+        "city": "Gwynn Oak",
+        "state": "MD",
+        "zip": "21207",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3149046,
+        "lon": -76.7395561
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3032457704
+    },
+    {
+      "id": "node_4675269753",
+      "name": "Masjid Ahlul Quran Wal Hadeeth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9326931,
+        "lon": -76.979324
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4675269753
+    },
+    {
+      "id": "node_4675301557",
+      "name": "As-Sabiqun",
+      "address": {
+        "street": "4603 Benning Road",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20019",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8863361,
+        "lon": -76.9364289
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4675301557
+    },
+    {
+      "id": "node_4768817778",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9977395,
+        "lon": -77.3372429
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4768817778
+    },
+    {
+      "id": "node_5272248955",
+      "name": "Martinsburg Mosque",
+      "address": {
+        "street": "312 Wilson Street",
+        "city": "Martinsburg",
+        "state": "WV",
+        "zip": "25401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4460058,
+        "lon": -77.9705781
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5272248955
+    },
+    {
+      "id": "node_9250987479",
+      "name": "Ali Khan Islamic Center",
+      "address": {
+        "street": "4831 Silver Hill Road",
+        "city": "Suitland",
+        "state": "MD",
+        "zip": "20746",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8500024,
+        "lon": -76.9230286
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9250987479
+    },
+    {
+      "id": "node_9422016207",
+      "name": "Islamic Society of Delmarva",
+      "address": {
+        "street": "7843 Jersey Road",
+        "city": "Salisbury",
+        "state": "MD",
+        "zip": "21801",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4079231,
+        "lon": -75.6024779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9422016207
+    },
+    {
+      "id": "node_12151036840",
+      "name": "Al-Madina Masjid",
+      "address": {
+        "street": "1502 Woodlawn Drive",
+        "city": "Woodlawn",
+        "state": "MD",
+        "zip": "21207",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3074793,
+        "lon": -76.7346954
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12151036840
+    },
+    {
+      "id": "node_13067642270",
+      "name": "AMA Cemetery",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.3595715,
+        "lon": -77.3938583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13067642270
+    },
+    {
+      "id": "node_13256233520",
+      "name": "Uyghur Islamic Center - Fairfax",
+      "address": {
+        "street": "10355 Democracy Lane",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "full": ""
+      },
+      "phone": "+1 571-488-1112",
+      "website": "https://uyghurislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8493203,
+        "lon": -77.302011
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13256233520
+    },
+    {
+      "id": "node_13256250913",
+      "name": "Uyghur Islamic Center - Chantilly",
+      "address": {
+        "street": "14325 Willard Road",
+        "city": "Chantilly",
+        "state": "VA",
+        "zip": "20151",
+        "full": ""
+      },
+      "phone": "+1 571-488-1112",
+      "website": "https://uyghurislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8856258,
+        "lon": -77.4406422
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13256250913
+    },
+    {
+      "id": "way_45759619",
+      "name": "Prince William Islamic Center",
+      "address": {
+        "street": "9002 Mathis Avenue",
+        "city": "Manassas",
+        "state": "VA",
+        "zip": "20110",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7601208,
+        "lon": -77.4641184
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 45759619
+    },
+    {
+      "id": "way_66790109",
+      "name": "American Fazl Mosque",
+      "address": {
+        "street": "2141 Leroy Place Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9155228,
+        "lon": -77.0482411
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 66790109
+    },
+    {
+      "id": "way_67247033",
+      "name": "Masjid Muhammad",
+      "address": {
+        "street": "1519 4th Street Northwest",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://thenationsmosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9103218,
+        "lon": -77.0158875
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 67247033
+    },
+    {
+      "id": "way_70070852",
+      "name": "First Hijrah Muslim Community Center",
+      "address": {
+        "street": "4324 Georgia Avenue Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20011-7122",
+        "full": ""
+      },
+      "phone": "+1 703-933-0501",
+      "website": "http://firsthijrah.org",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9436358,
+        "lon": -77.0262388
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 70070852
+    },
+    {
+      "id": "way_93849408",
+      "name": "Masjid Al-Falah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6288631,
+        "lon": -77.2762017
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 93849408
+    },
+    {
+      "id": "way_95046079",
+      "name": "Dar Alnoor Islamic Community Center",
+      "address": {
+        "street": "5404 Hoadly Road",
+        "city": "Manassas",
+        "state": "VA",
+        "zip": "20112",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.676657,
+        "lon": -77.370284
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 95046079
+    },
+    {
+      "id": "way_95046115",
+      "name": "Masroor Mosque",
+      "address": {
+        "street": "5640 Hoadly Road",
+        "city": "Manassas",
+        "state": "VA",
+        "zip": "20112",
+        "full": ""
+      },
+      "phone": "+1 703-590-5500",
+      "website": "https://masroormosque.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6759581,
+        "lon": -77.3741715
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 95046115
+    },
+    {
+      "id": "way_110166864",
+      "name": "IMAAM Center",
+      "address": {
+        "street": "9100 Georgia Avenue",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip": "20910",
+        "full": ""
+      },
+      "phone": "+1-240-233-6967",
+      "website": "https://imaamcenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0042569,
+        "lon": -77.0374682
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 110166864
+    },
+    {
+      "id": "way_135673011",
+      "name": "Imam Ali Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://imamalicenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7436594,
+        "lon": -77.1905865
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 135673011
+    },
+    {
+      "id": "way_143519832",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1054888,
+        "lon": -77.0036123
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 143519832
+    },
+    {
+      "id": "way_143519834",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1054628,
+        "lon": -77.0031254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 143519834
+    },
+    {
+      "id": "way_146660989",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "10740 Clarksville Pike",
+        "city": "Ellicott City",
+        "state": "Maryland",
+        "zip": "21042",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.taqwa.net/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.236701,
+        "lon": -76.8844992
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 146660989
+    },
+    {
+      "id": "way_183872639",
+      "name": "Faizan E Madinah Baltimore",
+      "address": {
+        "street": "1109 Ingleside Avenue",
+        "city": "Gwynn Oak",
+        "state": "MD",
+        "zip": "21207",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2931764,
+        "lon": -76.7298279
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 183872639
+    },
+    {
+      "id": "way_220413040",
+      "name": "Darul Huda",
+      "address": {
+        "street": "6666 Commerce Street",
+        "city": "Springfield",
+        "state": "VA",
+        "zip": "22150",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://darulhudausa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.779841,
+        "lon": -77.175831
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 220413040
+    },
+    {
+      "id": "way_225451717",
+      "name": "All Dulles Area Muslim Society Center",
+      "address": {
+        "street": "46903 Sugarland Road",
+        "city": "Herndon",
+        "state": "VA",
+        "zip": "20164",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.adamscenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0065164,
+        "lon": -77.3792966
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 225451717
+    },
+    {
+      "id": "way_233342056",
+      "name": "Masjed Islamic Centre",
+      "address": {
+        "street": "4420 Shirley Gate Road",
+        "city": "",
+        "state": "Maryland",
+        "zip": "22030",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8459498,
+        "lon": -77.341451
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 233342056
+    },
+    {
+      "id": "way_235772340",
+      "name": "First Hijrah Foundation",
+      "address": {
+        "street": "3215 Powder Mill Road",
+        "city": "Adelphi",
+        "state": "MD",
+        "zip": "20783",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://firsthijrah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0325213,
+        "lon": -76.9497891
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 235772340
+    },
+    {
+      "id": "way_236941362",
+      "name": "Dar Al-Hijrah Islamic Center",
+      "address": {
+        "street": "3159 Row Street",
+        "city": "Falls Church",
+        "state": "VA",
+        "zip": "22044",
+        "full": ""
+      },
+      "phone": "+1 703-536-1030",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8613725,
+        "lon": -77.1466798
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 236941362
+    },
+    {
+      "id": "way_252993893",
+      "name": "Islamic Society of Baltimore",
+      "address": {
+        "street": "6631 Johnnycake Road",
+        "city": "Windsor Mill",
+        "state": "MD",
+        "zip": "21244",
+        "full": ""
+      },
+      "phone": "+1 410 747 4869",
+      "website": "https://www.isb.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3034707,
+        "lon": -76.7480735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 252993893
+    },
+    {
+      "id": "way_255250397",
+      "name": "Masjid Ad Da'wah Ilat Tawheed",
+      "address": {
+        "street": "1125 Appleton Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21217",
+        "full": ""
+      },
+      "phone": "+14108002351",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3018091,
+        "lon": -76.6483102
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 255250397
+    },
+    {
+      "id": "way_294598675",
+      "name": "McLean Islamic Center",
+      "address": {
+        "street": "8800 Jarrett Valley Drive",
+        "city": "",
+        "state": "Maryland",
+        "zip": "22182",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9355992,
+        "lon": -77.2488139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 294598675
+    },
+    {
+      "id": "way_298088374",
+      "name": "Islamic Society of Northern Baltimore",
+      "address": {
+        "street": "495 West Padonia Road",
+        "city": "Lutherville",
+        "state": "MD",
+        "zip": "21093",
+        "full": ""
+      },
+      "phone": "+1-443-850-5600",
+      "website": "https://www.isnb.org",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4520475,
+        "lon": -76.6546725
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 298088374
+    },
+    {
+      "id": "way_298704628",
+      "name": "Imam Mahdi Islamic Education Center of Baltimore",
+      "address": {
+        "street": "2406 Putty Hill Avenue",
+        "city": "Parkville",
+        "state": "MD",
+        "zip": "21234",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3902589,
+        "lon": -76.5429437
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 298704628
+    },
+    {
+      "id": "way_299101889",
+      "name": "Masjid Bait-us-Samad",
+      "address": {
+        "street": "7302 Philadelphia Road",
+        "city": "Rosedale",
+        "state": "MD",
+        "zip": "21237",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.islaminbaltimore.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.311149,
+        "lon": -76.5291314
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299101889
+    },
+    {
+      "id": "way_299144344",
+      "name": "Masjid Zamzam Dundalk Community Center",
+      "address": {
+        "street": "1501 Lynch Road",
+        "city": "Dundalk",
+        "state": "MD",
+        "zip": "21222",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2720899,
+        "lon": -76.4947523
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299144344
+    },
+    {
+      "id": "way_299180723",
+      "name": "Randallstown Islamic Center",
+      "address": {
+        "street": "3117 Rices Lane",
+        "city": "Windsor Mill",
+        "state": "MD",
+        "zip": "21244",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3458438,
+        "lon": -76.7788734
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299180723
+    },
+    {
+      "id": "way_299314254",
+      "name": "Masjid Fatima",
+      "address": {
+        "street": "1928 Powers Lane",
+        "city": "Catonsville",
+        "state": "MD",
+        "zip": "21228",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2858424,
+        "lon": -76.7551869
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299314254
+    },
+    {
+      "id": "way_302528387",
+      "name": "Southern Maryland Islamic Center",
+      "address": {
+        "street": "1050 North Solomons Island Road North",
+        "city": "Prince Frederick",
+        "state": "MD",
+        "zip": "20678",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.559975,
+        "lon": -76.5995712
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 302528387
+    },
+    {
+      "id": "way_336209264",
+      "name": "Dahira Touba-Baltimore",
+      "address": {
+        "street": "3019 Ailsa Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21214",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3457274,
+        "lon": -76.564524
+      },
+      "denomination": "sufi",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336209264
+    },
+    {
+      "id": "way_336351792",
+      "name": "Jamaat al-Muslimeen",
+      "address": {
+        "street": "4624 York Road",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21212",
+        "full": ""
+      },
+      "phone": "+1 443-869-5233",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3451021,
+        "lon": -76.6098748
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336351792
+    },
+    {
+      "id": "way_336353143",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "3735 South Hanover Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21225",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2365358,
+        "lon": -76.6102301
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336353143
+    },
+    {
+      "id": "way_336380962",
+      "name": "Masjid Us Salaam",
+      "address": {
+        "street": "240 North Howard Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21201",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2927037,
+        "lon": -76.619966
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336380962
+    },
+    {
+      "id": "way_336412033",
+      "name": "Masjid Ul-Haqq",
+      "address": {
+        "street": "514 Islamic Way",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21217",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3050179,
+        "lon": -76.6331315
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336412033
+    },
+    {
+      "id": "way_336427993",
+      "name": "Masjid as-Saffat",
+      "address": {
+        "street": "1335 West North Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21217",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.wcmas.org/",
+      "email": "womens_committee@hotmail.com",
+      "coordinates": {
+        "lat": 39.3099908,
+        "lon": -76.6392857
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336427993
+    },
+    {
+      "id": "way_336431718",
+      "name": "Masjid Bait Allah",
+      "address": {
+        "street": "200 South Calhoun Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21223",
+        "full": ""
+      },
+      "phone": "+14439454210",
+      "website": "https://www.mbabaltimore.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2853271,
+        "lon": -76.6399747
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336431718
+    },
+    {
+      "id": "way_336532297",
+      "name": "Hasbuna Allahu Islamic Center",
+      "address": {
+        "street": "3306 Liberty Heights Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21215",
+        "full": ""
+      },
+      "phone": "+14434134442",
+      "website": "https://haicbaltimore.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3247212,
+        "lon": -76.6723092
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336532297
+    },
+    {
+      "id": "way_336579080",
+      "name": "Gwynn Oak Islamic Community",
+      "address": {
+        "street": "3723 Gwynn Oak Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21207",
+        "full": ""
+      },
+      "phone": "+14439485201",
+      "website": "https://www.gicoak.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3343893,
+        "lon": -76.6936424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336579080
+    },
+    {
+      "id": "way_338720275",
+      "name": "Muhammad Mosque Number Six",
+      "address": {
+        "street": "3306 Garrison Boulevard",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21216",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://noibmore.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3269136,
+        "lon": -76.6828475
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 338720275
+    },
+    {
+      "id": "way_382396947",
+      "name": "Islamic Society of Central Virginia",
+      "address": {
+        "street": "708 Pine Street",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22903",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0271505,
+        "lon": -78.4945099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 382396947
+    },
+    {
+      "id": "way_395709788",
+      "name": "An-noor Educational Foundation and Islamic Study Center",
+      "address": {
+        "street": "106 10th Street Northwest",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22903",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0329343,
+        "lon": -78.4944111
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 395709788
+    },
+    {
+      "id": "way_452437834",
+      "name": "Baitul Mukarram Masjid",
+      "address": {
+        "street": "2116 South Nelson Street",
+        "city": "",
+        "state": "Maryland",
+        "zip": "22204",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8495913,
+        "lon": -77.0905485
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 452437834
+    },
+    {
+      "id": "way_455152592",
+      "name": "Diyanet Center of America",
+      "address": {
+        "street": "9704 Good Luck Road",
+        "city": "Lanham-Seabrook",
+        "state": "MD",
+        "zip": "20706",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9834205,
+        "lon": -76.8438188
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 455152592
+    },
+    {
+      "id": "way_473409352",
+      "name": "Avondale Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9462968,
+        "lon": -76.977118
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473409352
+    },
+    {
+      "id": "way_473411131",
+      "name": "Islamic Society of Germantown",
+      "address": {
+        "street": "19825 Blunt Road",
+        "city": "Germantown",
+        "state": "MD",
+        "zip": "20876",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1811893,
+        "lon": -77.2359344
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473411131
+    },
+    {
+      "id": "way_473411892",
+      "name": "Prince Georges Muslim Association",
+      "address": {
+        "street": "9150 Lanham Severn Road",
+        "city": "Lanham",
+        "state": "MD",
+        "zip": "20706",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9674914,
+        "lon": -76.8560895
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473411892
+    },
+    {
+      "id": "way_489620635",
+      "name": "The Islamic Center of the Shenandoah Valley",
+      "address": {
+        "street": "1330 Country Club Road",
+        "city": "Harrisonburg City",
+        "state": "VA",
+        "zip": "22802",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iasv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4406473,
+        "lon": -78.8482925
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 489620635
+    },
+    {
+      "id": "way_530922808",
+      "name": "Islamic Community Center of Laurel",
+      "address": {
+        "street": "7306 Contee Road",
+        "city": "Laurel",
+        "state": "Maryland",
+        "zip": "20707",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icclmd.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0805759,
+        "lon": -76.8800252
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 530922808
+    },
+    {
+      "id": "way_606455319",
+      "name": "Mustafa Center",
+      "address": {
+        "street": "6844 Braddock Road",
+        "city": "Annandale",
+        "state": "VA",
+        "zip": "22003",
+        "full": ""
+      },
+      "phone": "+1 703-658-7134",
+      "website": "https://www.mustafacenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8125174,
+        "lon": -77.1832794
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 606455319
+    },
+    {
+      "id": "way_668790669",
+      "name": "Islamic Society of Frederick",
+      "address": {
+        "street": "1250 Key Parkway",
+        "city": "Frederick",
+        "state": "MD",
+        "zip": "21702",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4212924,
+        "lon": -77.45234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 668790669
+    },
+    {
+      "id": "way_675573789",
+      "name": "Dar Al Salaam",
+      "address": {
+        "street": "15250 Dumfries Road",
+        "city": "Manassas",
+        "state": "VA",
+        "zip": "20112",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6222435,
+        "lon": -77.4024385
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 675573789
+    },
+    {
+      "id": "way_676956587",
+      "name": "Harford County Education Society (Masjid Al Falaah)",
+      "address": {
+        "street": "3014 Philadelphia Road",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.masjidalfalaah.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4541766,
+        "lon": -76.2872586
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 676956587
+    },
+    {
+      "id": "way_678504953",
+      "name": "Mubarak Mosque",
+      "address": {
+        "street": "4555 Ahmadiyya Drive",
+        "city": "Chantilly",
+        "state": "VA",
+        "zip": "20151",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8803876,
+        "lon": -77.4363732
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 678504953
+    },
+    {
+      "id": "way_691062322",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6758881,
+        "lon": -75.6961698
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 691062322
+    },
+    {
+      "id": "way_701594048",
+      "name": "Islamic Center of Fredericksburg",
+      "address": {
+        "street": "7040 Harrison Road",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "zip": "22407",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2891834,
+        "lon": -77.5682378
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 701594048
+    },
+    {
+      "id": "way_723020654",
+      "name": "Islamic Center of Maryland",
+      "address": {
+        "street": "19411 Woodfield Road",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "zip": "20879",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icomd.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1745646,
+        "lon": -77.150878
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 723020654
+    },
+    {
+      "id": "way_748796928",
+      "name": "Islamic Center of Lexington Park",
+      "address": {
+        "street": "46118 Thompson Court",
+        "city": "Lexington Park",
+        "state": "MD",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2864718,
+        "lon": -76.4803909
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 748796928
+    },
+    {
+      "id": "way_901094602",
+      "name": "Islamic Society of Princess Anne",
+      "address": {
+        "street": "11732 Somerset Avenue",
+        "city": "Princess Anne",
+        "state": "MD",
+        "zip": "21853",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.203333,
+        "lon": -75.6934227
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 901094602
+    },
+    {
+      "id": "way_1104013074",
+      "name": "Bait-ur-Rahman Mosque",
+      "address": {
+        "street": "15000 Good Hope Road",
+        "city": "Silver Spring",
+        "state": "MD",
+        "zip": "20905",
+        "full": ""
+      },
+      "phone": "+1-301-879-0110",
+      "website": "http://brmosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1029487,
+        "lon": -76.9823643
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1104013074
+    },
+    {
+      "id": "way_1365627619",
+      "name": "Anjuman-E-Ezzi",
+      "address": {
+        "street": "18728 New Hampshire Avenue",
+        "city": "Ashton",
+        "state": "MD",
+        "zip": "20861",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1636149,
+        "lon": -77.0157731
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1365627619
+    },
+    {
+      "id": "relation_1049411",
+      "name": "Islamic Mosque and Cultural Center",
+      "address": {
+        "street": "2551 Massachusetts Avenue Northwest",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9170993,
+        "lon": -77.0567964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 1049411
+    }
+  ]
+}

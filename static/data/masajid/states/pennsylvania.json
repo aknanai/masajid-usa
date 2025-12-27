@@ -1,0 +1,1590 @@
+{
+  "state": "Pennsylvania",
+  "count": 72,
+  "masajid": [
+    {
+      "id": "node_357356364",
+      "name": "Jaffa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5069979,
+        "lon": -78.409428
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357356364
+    },
+    {
+      "id": "node_419844665",
+      "name": "Al-Jamia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9547086,
+        "lon": -75.2085041
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 419844665
+    },
+    {
+      "id": "node_2441939212",
+      "name": "Islamic Center of Ambridge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.582092,
+        "lon": -80.2249547
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2441939212
+    },
+    {
+      "id": "node_2710125755",
+      "name": "Islamic Society of North Jersey",
+      "address": {
+        "street": "354 US Hwy 46 W",
+        "city": "Hackettstown",
+        "state": "Pennsylvania",
+        "zip": "07840",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8573452,
+        "lon": -74.7701805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2710125755
+    },
+    {
+      "id": "node_3743203589",
+      "name": "House of Peace",
+      "address": {
+        "street": "1420 Pilgrim Avenue",
+        "city": "West Deptford",
+        "state": "NJ",
+        "zip": "08096",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8583433,
+        "lon": -75.1422615
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3743203589
+    },
+    {
+      "id": "node_5650297532",
+      "name": "Masjid Muhammad Abdul Wahab",
+      "address": {
+        "street": "1032 Spruce Street",
+        "city": "Camden",
+        "state": "NJ",
+        "zip": "08103",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9358719,
+        "lon": -75.1094218
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5650297532
+    },
+    {
+      "id": "node_5683604584",
+      "name": "Masjid Al Fajr",
+      "address": {
+        "street": "2009 West 3rd Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8359963,
+        "lon": -75.3827538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5683604584
+    },
+    {
+      "id": "node_5689230420",
+      "name": "Nation of Islam Chester Study Group",
+      "address": {
+        "street": "1301 West 3rd Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8398645,
+        "lon": -75.3753176
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5689230420
+    },
+    {
+      "id": "node_5694876716",
+      "name": "Islamic Center of Chester",
+      "address": {
+        "street": "14 East 7th Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8504593,
+        "lon": -75.3617029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5694876716
+    },
+    {
+      "id": "node_5700951394",
+      "name": "Masjid As-Sabiqun",
+      "address": {
+        "street": "1105 Concord Avenue",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8499133,
+        "lon": -75.3759192
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5700951394
+    },
+    {
+      "id": "node_5703557369",
+      "name": "Central Mosque",
+      "address": {
+        "street": "1609 West 9th Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8429373,
+        "lon": -75.3825474
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5703557369
+    },
+    {
+      "id": "node_5791183952",
+      "name": "Islamic Society of Schuylkill County",
+      "address": {
+        "street": "1055 East Norwegian Street",
+        "city": "Mechanicsville",
+        "state": "PA",
+        "zip": "17901",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6918627,
+        "lon": -76.1809923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5791183952
+    },
+    {
+      "id": "node_6089115630",
+      "name": "Masjid At-Tawheed",
+      "address": {
+        "street": "48 Academy Street",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18702",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2405165,
+        "lon": -75.8943714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6089115630
+    },
+    {
+      "id": "node_6117337523",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "991 Scott Street",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18705",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2563961,
+        "lon": -75.8423619
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6117337523
+    },
+    {
+      "id": "node_6250810692",
+      "name": "Muhammad Mosque #12 Nation of Islam",
+      "address": {
+        "street": "2508 North Broad Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9913044,
+        "lon": -75.1553744
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250810692
+    },
+    {
+      "id": "node_6309887424",
+      "name": "Masjid Al-Hashar",
+      "address": {
+        "street": "2823 North 22nd Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9977346,
+        "lon": -75.1669861
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6309887424
+    },
+    {
+      "id": "node_6887218390",
+      "name": "Masjid Ahlil Hadeeth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidahlilhadeeth.wordpress.com",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9236016,
+        "lon": -75.2375683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6887218390
+    },
+    {
+      "id": "node_6943886027",
+      "name": "Masjid Mujahideen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9551035,
+        "lon": -75.2420037
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6943886027
+    },
+    {
+      "id": "node_6944071029",
+      "name": "Turning Paige's Islamic Learning Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9610248,
+        "lon": -75.2407538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6944071029
+    },
+    {
+      "id": "node_6959248910",
+      "name": "Masjid Ahlus-Sunnah Wal-Jammah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9249046,
+        "lon": -75.2292504
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6959248910
+    },
+    {
+      "id": "node_6964854800",
+      "name": "Germantown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0289319,
+        "lon": -75.1634755
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6964854800
+    },
+    {
+      "id": "node_7042943379",
+      "name": "Masjid Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9740949,
+        "lon": -75.2066478
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7042943379
+    },
+    {
+      "id": "node_7103491149",
+      "name": "Williamsport Islamic Centre",
+      "address": {
+        "street": "322 Locust Street",
+        "city": "Williamsport",
+        "state": "PA",
+        "zip": "17701",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2389646,
+        "lon": -77.0116699
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7103491149
+    },
+    {
+      "id": "node_7125069105",
+      "name": "Bawa Muhaiyaddeen Fellowship",
+      "address": {
+        "street": "5820 Overbrook Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19131",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9908888,
+        "lon": -75.2418653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7125069105
+    },
+    {
+      "id": "node_7295573614",
+      "name": "Masjid Muhammad",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0373118,
+        "lon": -75.1625574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7295573614
+    },
+    {
+      "id": "node_7297833449",
+      "name": "New Gethsemane Baptist Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0475166,
+        "lon": -75.1630546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7297833449
+    },
+    {
+      "id": "node_7324576793",
+      "name": "Nasir Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0306901,
+        "lon": -75.1396094
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7324576793
+    },
+    {
+      "id": "node_7324576818",
+      "name": "Grace and Peace Community Fellowship",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0213088,
+        "lon": -75.134363
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7324576818
+    },
+    {
+      "id": "node_7337269444",
+      "name": "Masjid Al-Hidayah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0109976,
+        "lon": -75.1244371
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7337269444
+    },
+    {
+      "id": "node_7560013588",
+      "name": "Istijabah Masjid",
+      "address": {
+        "street": "4 Montgomery Place",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08618",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.227927,
+        "lon": -74.7792859
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7560013588
+    },
+    {
+      "id": "node_7593611176",
+      "name": "Masjid Al Uthaymeen",
+      "address": {
+        "street": "39 East Paul Avenue",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08638",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2344514,
+        "lon": -74.7564339
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7593611176
+    },
+    {
+      "id": "node_7609159887",
+      "name": "Masjid As Saffat",
+      "address": {
+        "street": "25 Oxford Street",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08638",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2287837,
+        "lon": -74.7585426
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7609159887
+    },
+    {
+      "id": "node_7633177817",
+      "name": "Masjidut Taqwa",
+      "address": {
+        "street": "1001 East State Street",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08608",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2247878,
+        "lon": -74.7430689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7633177817
+    },
+    {
+      "id": "node_7758141369",
+      "name": "Islamic Cultural Center of East Erie",
+      "address": {
+        "street": "2426 Parade Street",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16503",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1160232,
+        "lon": -80.0660689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7758141369
+    },
+    {
+      "id": "node_8116626703",
+      "name": "Islamic Association of East Erie",
+      "address": {
+        "street": "2419 Holland Street",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16503",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1147701,
+        "lon": -80.0703704
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8116626703
+    },
+    {
+      "id": "node_9842130323",
+      "name": "Hershey Islamic Center",
+      "address": {
+        "street": "35 East 2nd Street",
+        "city": "Hummelstown",
+        "state": "PA",
+        "zip": "17036",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://hersheyislamiccenter.alminaret.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2665594,
+        "lon": -76.70675
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9842130323
+    },
+    {
+      "id": "node_9861007550",
+      "name": "Masjid Kamal-e-Rasool",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7884511,
+        "lon": -76.5483953
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9861007550
+    },
+    {
+      "id": "way_152725038",
+      "name": "Islamic Society of Chester County",
+      "address": {
+        "street": "1001 Pottstown Pike",
+        "city": "West Goshen Township",
+        "state": "PA",
+        "zip": "19380",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://isccpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9754058,
+        "lon": -75.6149654
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 152725038
+    },
+    {
+      "id": "way_259619435",
+      "name": "Islamic Center of Central Pennsylvania",
+      "address": {
+        "street": "709 West Park Avenue",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7917803,
+        "lon": -77.8782848
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 259619435
+    },
+    {
+      "id": "way_360964854",
+      "name": "Hadee Moque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2907266,
+        "lon": -76.9021427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 360964854
+    },
+    {
+      "id": "way_376480720",
+      "name": "Masjidullah",
+      "address": {
+        "street": "7401 Limekiln Pike",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19138",
+        "full": ""
+      },
+      "phone": "+1 215-424-8022",
+      "website": "https://www.masjidullah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0675889,
+        "lon": -75.1583902
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 376480720
+    },
+    {
+      "id": "way_458413618",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0617272,
+        "lon": -74.8479653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 458413618
+    },
+    {
+      "id": "way_504632332",
+      "name": "Shia Ithna'asheri Jamaat of PA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 610-398-1900",
+      "website": "https://sijpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6090979,
+        "lon": -75.5642584
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504632332
+    },
+    {
+      "id": "way_504636942",
+      "name": "Muslim Association of Lehigh Valley",
+      "address": {
+        "street": "1988 Schadt Avenue",
+        "city": "Whitehall",
+        "state": "PA",
+        "zip": "18052",
+        "full": ""
+      },
+      "phone": "+16107996224",
+      "website": "https://www.malv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6372905,
+        "lon": -75.5064551
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504636942
+    },
+    {
+      "id": "way_507110430",
+      "name": "Islamic Education Center of Pennsylvania",
+      "address": {
+        "street": "6635 Tilghman Street",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18106",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5895543,
+        "lon": -75.6042275
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 507110430
+    },
+    {
+      "id": "way_514600552",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "518 Green Street",
+        "city": "Norristown",
+        "state": "PA",
+        "zip": "19401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1153259,
+        "lon": -75.339815
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 514600552
+    },
+    {
+      "id": "way_535066260",
+      "name": "al-Masjid al-Awwal",
+      "address": {
+        "street": "1911 Wylie Avenue",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15219",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://firstmuslimmosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4441085,
+        "lon": -79.9817444
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 535066260
+    },
+    {
+      "id": "way_539611517",
+      "name": "Islamic Center of Pittsburgh",
+      "address": {
+        "street": "4100 Bigelow Boulevard",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15213",
+        "full": ""
+      },
+      "phone": "+1 412 682 5555",
+      "website": "https://www.icp-pgh.org/",
+      "email": "office@icp-pgh.org",
+      "coordinates": {
+        "lat": 40.4487826,
+        "lon": -79.9557498
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 539611517
+    },
+    {
+      "id": "way_544837927",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4093203,
+        "lon": -80.0832373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 544837927
+    },
+    {
+      "id": "way_546713922",
+      "name": "Masjid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2075879,
+        "lon": -74.8253724
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546713922
+    },
+    {
+      "id": "way_567070798",
+      "name": "A.I.C. Islamic Center",
+      "address": {
+        "street": "4431 Walnut Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19104",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.aicp.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9554733,
+        "lon": -75.2113489
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 567070798
+    },
+    {
+      "id": "way_673781690",
+      "name": "Albanian American Muslim Society",
+      "address": {
+        "street": "157 West Girard Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19123",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9695082,
+        "lon": -75.1382553
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673781690
+    },
+    {
+      "id": "way_673781910",
+      "name": "Al-Aqsa Islamic Society",
+      "address": {
+        "street": "1501 Germantown Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19122",
+        "full": ""
+      },
+      "phone": "+1 215-765-2743",
+      "website": "https://alaqsaislamicsociety.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9739113,
+        "lon": -75.1413619
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673781910
+    },
+    {
+      "id": "way_673782474",
+      "name": "Makkah Masjid",
+      "address": {
+        "street": "1319 West Susquehanna Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19122",
+        "full": ""
+      },
+      "phone": "+1 267-595-7324",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9863468,
+        "lon": -75.1547178
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673782474
+    },
+    {
+      "id": "way_673782795",
+      "name": "Nigerian Muslim Association of Philadelphia",
+      "address": {
+        "street": "2209 North Front Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19133",
+        "full": ""
+      },
+      "phone": "+1 215-634-1102",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9835574,
+        "lon": -75.1321298
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673782795
+    },
+    {
+      "id": "way_673786614",
+      "name": "Bait-ul-Aafiyat Mosque",
+      "address": {
+        "street": "1215 West Glenwood Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19133",
+        "full": ""
+      },
+      "phone": "+1 215-455-4655",
+      "website": "https://www.phillymosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9980563,
+        "lon": -75.1514575
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673786614
+    },
+    {
+      "id": "way_673938573",
+      "name": "Ridge Avenue Islamic Center",
+      "address": {
+        "street": "3116 Ridge Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19121",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9894949,
+        "lon": -75.184198
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673938573
+    },
+    {
+      "id": "way_673941114",
+      "name": "Masjid Muqbil Bin Hadee",
+      "address": {
+        "street": "2735 West Allegheny Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "+1 267-761-9430",
+      "website": "http://www.masjidmuqbilphl.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.004683,
+        "lon": -75.1748717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673941114
+    },
+    {
+      "id": "way_673941995",
+      "name": "United Muslim Movement",
+      "address": {
+        "street": "810 South 15th Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19146",
+        "full": ""
+      },
+      "phone": "+1 215-546-6555",
+      "website": "https://www.ummonline.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9407514,
+        "lon": -75.1680764
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673941995
+    },
+    {
+      "id": "way_700160241",
+      "name": "Islamic Society of Greater Valley Forge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0665886,
+        "lon": -75.434542
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 700160241
+    },
+    {
+      "id": "way_803144434",
+      "name": "Islamic Center of Stroudsburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9943959,
+        "lon": -75.1908453
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 803144434
+    },
+    {
+      "id": "way_948209178",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9562857,
+        "lon": -75.2575419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 948209178
+    },
+    {
+      "id": "way_973188274",
+      "name": "Masjid Al-Hidayah",
+      "address": {
+        "street": "223 East Luzerne Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0113294,
+        "lon": -75.1238286
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 973188274
+    },
+    {
+      "id": "way_1035490637",
+      "name": "North Penn Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2476612,
+        "lon": -75.2835695
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1035490637
+    },
+    {
+      "id": "way_1035490639",
+      "name": "Lansdale Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2478057,
+        "lon": -75.2845515
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1035490639
+    },
+    {
+      "id": "way_1057716545",
+      "name": "Masjid Al-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0527323,
+        "lon": -75.0665825
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1057716545
+    },
+    {
+      "id": "way_1155434772",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.458922,
+        "lon": -79.7357157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1155434772
+    },
+    {
+      "id": "way_1188755459",
+      "name": "Bait Al Qayem Mosque",
+      "address": {
+        "street": "337 Conrow Road",
+        "city": "Delran",
+        "state": "NJ",
+        "zip": "08075",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bqnj.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0137045,
+        "lon": -74.9398005
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1188755459
+    },
+    {
+      "id": "way_1273172941",
+      "name": "Al-Maqasid",
+      "address": {
+        "street": "7386 Alburtis Road",
+        "city": "Macungie",
+        "state": "PA",
+        "zip": "18062",
+        "full": ""
+      },
+      "phone": "+16109941622",
+      "website": "https://www.almaqasid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5157857,
+        "lon": -75.5832926
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1273172941
+    },
+    {
+      "id": "way_1392904863",
+      "name": "Baitul Ata Mosque",
+      "address": {
+        "street": "2860 South Pike Avenue",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18103",
+        "full": ""
+      },
+      "phone": "+14842218450",
+      "website": "https://sites.google.com/view/ahmadiyyamovementinislam/home",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5666813,
+        "lon": -75.450184
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1392904863
+    },
+    {
+      "id": "way_1429422950",
+      "name": "Islamic Center of Delaware County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9659183,
+        "lon": -75.2993167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1429422950
+    },
+    {
+      "id": "relation_19403803",
+      "name": "Al Rawdah Islamic Center",
+      "address": {
+        "street": "415 Howertown Road",
+        "city": "Catasauqua",
+        "state": "PA",
+        "zip": "18032",
+        "full": ""
+      },
+      "phone": "+18772744326",
+      "website": "https://alrcpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6554314,
+        "lon": -75.4695513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 19403803
+    }
+  ]
+}

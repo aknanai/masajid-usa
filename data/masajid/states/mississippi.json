@@ -1,0 +1,94 @@
+{
+  "state": "Mississippi",
+  "count": 4,
+  "masajid": [
+    {
+      "id": "way_165920038",
+      "name": "Biloxi Islamic Center",
+      "address": {
+        "street": "201 Keller Avenue",
+        "city": "Biloxi",
+        "state": "Mississippi",
+        "zip": "39501",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3997172,
+        "lon": -88.8785544
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 165920038
+    },
+    {
+      "id": "way_520337625",
+      "name": "Islamic Center of Baton Rouge",
+      "address": {
+        "street": "285 East Airport Avenue",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zip": "70806",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icbrsite.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4492363,
+        "lon": -91.1008717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 520337625
+    },
+    {
+      "id": "way_595935659",
+      "name": "Oxford Masjid",
+      "address": {
+        "street": "401 McElroy Drive",
+        "city": "Oxford",
+        "state": "MS",
+        "zip": "38655",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://oxfordmasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.3810653,
+        "lon": -89.5332006
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 595935659
+    },
+    {
+      "id": "way_1425907711",
+      "name": "American Islamic Center of Mobile",
+      "address": {
+        "street": "6702 Old Shell Road",
+        "city": "Mobile",
+        "state": "AL",
+        "zip": "36688",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.6914267,
+        "lon": -88.1982125
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1425907711
+    }
+  ]
+}

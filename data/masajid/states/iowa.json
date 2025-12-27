@@ -1,0 +1,358 @@
+{
+  "state": "Iowa",
+  "count": 16,
+  "masajid": [
+    {
+      "id": "node_354327903",
+      "name": "Clinton Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8460094,
+        "lon": -90.2211826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354327903
+    },
+    {
+      "id": "node_357793727",
+      "name": "Islamic Center of Omaha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2744428,
+        "lon": -96.02585
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357793727
+    },
+    {
+      "id": "node_4687805181",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.270358,
+        "lon": -95.9834131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4687805181
+    },
+    {
+      "id": "way_93015208",
+      "name": "Islamic and Education Center \"Ezan\"",
+      "address": {
+        "street": "6206 Douglas Avenue",
+        "city": "",
+        "state": "Iowa",
+        "zip": "50322",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6290809,
+        "lon": -93.7033072
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 93015208
+    },
+    {
+      "id": "way_115416108",
+      "name": "Islamic Center of Des Moines",
+      "address": {
+        "street": "6201 Franklin Avenue",
+        "city": "",
+        "state": "Iowa",
+        "zip": "50322",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6116282,
+        "lon": -93.7030668
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 115416108
+    },
+    {
+      "id": "way_206784110",
+      "name": "Mother Mosque of America",
+      "address": {
+        "street": "1335 9th Street Northwest",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "zip": "52405",
+        "full": ""
+      },
+      "phone": "+1-319-366-3150",
+      "website": "https://www.mothermosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9863539,
+        "lon": -91.6843056
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 206784110
+    },
+    {
+      "id": "way_560186517",
+      "name": "Islamic Center of Macomb",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4668779,
+        "lon": -90.6940969
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 560186517
+    },
+    {
+      "id": "way_584010247",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4987126,
+        "lon": -92.3942374
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 584010247
+    },
+    {
+      "id": "way_592750960",
+      "name": "Islamic Center of the Quad Cities",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4789601,
+        "lon": -90.4561161
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 592750960
+    },
+    {
+      "id": "way_614314674",
+      "name": "Millard Islamic Foundation",
+      "address": {
+        "street": "5135 Marshall Drive",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68137",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2058907,
+        "lon": -96.1311888
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 614314674
+    },
+    {
+      "id": "way_621294811",
+      "name": "American Muslim Institute",
+      "address": {
+        "street": "13140 Faith Plaza",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68144",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://americanmusliminstitute.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.243556,
+        "lon": -96.1183556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 621294811
+    },
+    {
+      "id": "way_652095881",
+      "name": "Darul Arqum Islamic Centre",
+      "address": {
+        "street": "1212 Iowa Avenue",
+        "city": "Ames",
+        "state": "IA",
+        "zip": "50014",
+        "full": ""
+      },
+      "phone": "+1-515-292-3683",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0338601,
+        "lon": -93.6585261
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 652095881
+    },
+    {
+      "id": "way_692238357",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5045824,
+        "lon": -90.7483693
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 692238357
+    },
+    {
+      "id": "way_702582140",
+      "name": "Islamic Center of Cedar Rapids",
+      "address": {
+        "street": "2999 1st Avenue West",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "zip": "52405",
+        "full": ""
+      },
+      "phone": "+1-319-362-0857",
+      "website": "https://www.crmosque.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9682976,
+        "lon": -91.7103187
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 702582140
+    },
+    {
+      "id": "way_1008760622",
+      "name": "Shafia Islamic and Cultural Center",
+      "address": {
+        "street": "1425 University Avenue",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.shafiaculturalcenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6006644,
+        "lon": -93.6364922
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1008760622
+    },
+    {
+      "id": "way_1022916704",
+      "name": "Iowa City Mosque",
+      "address": {
+        "street": "1812 West Benton Street",
+        "city": "Iowa City",
+        "state": "IA",
+        "zip": "52246",
+        "full": ""
+      },
+      "phone": "+1-319-354-6167",
+      "website": "http://www.iowacitymosque.org",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6499236,
+        "lon": -91.5652374
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1022916704
+    }
+  ]
+}

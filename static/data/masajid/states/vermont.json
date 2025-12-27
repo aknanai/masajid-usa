@@ -1,0 +1,50 @@
+{
+  "state": "Vermont",
+  "count": 2,
+  "masajid": [
+    {
+      "id": "node_4964659710",
+      "name": "Islamic Society of Vermont",
+      "address": {
+        "street": "182 Hegeman Avenue",
+        "city": "Colchester",
+        "state": "VT",
+        "zip": "05446",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.5074796,
+        "lon": -73.1495962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4964659710
+    },
+    {
+      "id": "way_667347361",
+      "name": "Islamic Society of Vermont",
+      "address": {
+        "street": "400 Swift Street",
+        "city": "South Burlington",
+        "state": "VT",
+        "zip": "05403",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.4435041,
+        "lon": -73.1794694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 667347361
+    }
+  ]
+}

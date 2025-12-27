@@ -1,0 +1,72 @@
+{
+  "state": "North Dakota",
+  "count": 3,
+  "masajid": [
+    {
+      "id": "node_3998473364",
+      "name": "Islamic Center of Grand Forks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Dakota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.9043667,
+        "lon": -97.0582233
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3998473364
+    },
+    {
+      "id": "way_133113176",
+      "name": "Islamic Center of Fargo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Dakota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 46.8684126,
+        "lon": -96.8254382
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 133113176
+    },
+    {
+      "id": "way_687388912",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Dakota",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.9385391,
+        "lon": -97.0209447
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 687388912
+    }
+  ]
+}

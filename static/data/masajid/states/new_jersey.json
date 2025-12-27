@@ -1,0 +1,3460 @@
+{
+  "state": "New Jersey",
+  "count": 157,
+  "masajid": [
+    {
+      "id": "node_357618658",
+      "name": "Islamic Society of Bayridge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.isbr.net/home-e.php",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6337294,
+        "lon": -74.0206856
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357618658
+    },
+    {
+      "id": "node_357624013",
+      "name": "Mosque of American Mohammedan Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7119444,
+        "lon": -73.9466667
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357624013
+    },
+    {
+      "id": "node_357624315",
+      "name": "Al-Mahdi Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6386111,
+        "lon": -73.9683333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357624315
+    },
+    {
+      "id": "node_357721272",
+      "name": "Muslim Community Center of Union County (MCCUC)",
+      "address": {
+        "street": "964 Magie Avenue",
+        "city": "Elizabeth",
+        "state": "NJ",
+        "zip": "07208",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6728438,
+        "lon": -74.2442538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357721272
+    },
+    {
+      "id": "node_357739618",
+      "name": "Dibra Community Center of New Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2560513,
+        "lon": -74.279479
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357739618
+    },
+    {
+      "id": "node_357740639",
+      "name": "Jam E-Masjid Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8995433,
+        "lon": -74.4082083
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357740639
+    },
+    {
+      "id": "node_357742128",
+      "name": "Islamic Center of Passaic County",
+      "address": {
+        "street": "152 Derrom Avenue",
+        "city": "Paterson",
+        "state": "New Jersey",
+        "zip": "07504",
+        "full": ""
+      },
+      "phone": "+1 973-278-7070",
+      "website": "https://www.icpcnj.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9175987,
+        "lon": -74.1401434
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357742128
+    },
+    {
+      "id": "node_357746847",
+      "name": "New Brunswick Islamic Center",
+      "address": {
+        "street": "1330 Livingston Avenue",
+        "city": "North Brunswick Township",
+        "state": "NJ",
+        "zip": "08902",
+        "full": ""
+      },
+      "phone": "+1 732-807-6242",
+      "website": "https://www.nbic.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4615447,
+        "lon": -74.4775427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357746847
+    },
+    {
+      "id": "node_357746943",
+      "name": "Islamic Center of Asbury Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2158333,
+        "lon": -74.0122222
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357746943
+    },
+    {
+      "id": "node_418810385",
+      "name": "Staten Island Islamic Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6352241,
+        "lon": -74.076386
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418810385
+    },
+    {
+      "id": "node_418811774",
+      "name": "Muslim Majlis of Staten Island",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6111875,
+        "lon": -74.0874469
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418811774
+    },
+    {
+      "id": "node_418812254",
+      "name": "Noor Al-Islam Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6380141,
+        "lon": -74.1619309
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418812254
+    },
+    {
+      "id": "node_418812766",
+      "name": "Masjid Al-Ihsan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6398052,
+        "lon": -74.0776046
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 418812766
+    },
+    {
+      "id": "node_419844665",
+      "name": "Al-Jamia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9547086,
+        "lon": -75.2085041
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 419844665
+    },
+    {
+      "id": "node_826496384",
+      "name": "Dar-ul-Islah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.darulislah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8716448,
+        "lon": -74.0013893
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 826496384
+    },
+    {
+      "id": "node_1568073395",
+      "name": "Birch Street Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9064028,
+        "lon": -74.4106151
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1568073395
+    },
+    {
+      "id": "node_2550149662",
+      "name": "Masjid At-Taqea",
+      "address": {
+        "street": "1266 Bedford Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6805342,
+        "lon": -73.9535427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2550149662
+    },
+    {
+      "id": "node_2561485136",
+      "name": "United American Muslim Association",
+      "address": {
+        "street": "5911 8th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "+1-718-438-6919",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6357055,
+        "lon": -74.0091295
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2561485136
+    },
+    {
+      "id": "node_2568275828",
+      "name": "Ibaadu'rrahman Central Mosque",
+      "address": {
+        "street": "380 Myrtle Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11205",
+        "full": ""
+      },
+      "phone": "+1-718-260-9618",
+      "website": "https://ibaadurahman.com",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6930569,
+        "lon": -73.9710254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2568275828
+    },
+    {
+      "id": "node_2710125755",
+      "name": "Islamic Society of North Jersey",
+      "address": {
+        "street": "354 US Hwy 46 W",
+        "city": "Hackettstown",
+        "state": "New Jersey",
+        "zip": "07840",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8573452,
+        "lon": -74.7701805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2710125755
+    },
+    {
+      "id": "node_2906594142",
+      "name": "Masjid Al-Furqaan",
+      "address": {
+        "street": "1208 Atlantic Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.362861,
+        "lon": -74.4258317
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2906594142
+    },
+    {
+      "id": "node_2976571845",
+      "name": "Masjid Nur Al Islam",
+      "address": {
+        "street": "21 Church Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6417191,
+        "lon": -73.9823825
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2976571845
+    },
+    {
+      "id": "node_3356350435",
+      "name": "Greenpoint Islamic Center",
+      "address": {
+        "street": "602 Leonard Street",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11222",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.725338,
+        "lon": -73.950519
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3356350435
+    },
+    {
+      "id": "node_3580663895",
+      "name": "Masjid Al-Salam Islamic Education and Information Center",
+      "address": {
+        "street": "John F. Kennedy Boulevard",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.731597,
+        "lon": -74.0663759
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3580663895
+    },
+    {
+      "id": "node_3743203589",
+      "name": "House of Peace",
+      "address": {
+        "street": "1420 Pilgrim Avenue",
+        "city": "West Deptford",
+        "state": "NJ",
+        "zip": "08096",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8583433,
+        "lon": -75.1422615
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3743203589
+    },
+    {
+      "id": "node_3784213865",
+      "name": "Masjid Manhattan",
+      "address": {
+        "street": "30 Cliff Street",
+        "city": "New York",
+        "state": "New Jersey",
+        "zip": "10038",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidmanhattan.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.708192,
+        "lon": -74.0050705
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3784213865
+    },
+    {
+      "id": "node_4204715198",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7683905,
+        "lon": -73.911567
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4204715198
+    },
+    {
+      "id": "node_4278223126",
+      "name": "Masjid Ar-Rahman",
+      "address": {
+        "street": "15 West 29th Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "10016",
+        "full": ""
+      },
+      "phone": "+1-212-686-6525",
+      "website": "https://masjidarrahmannyc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7458905,
+        "lon": -73.9879269
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4278223126
+    },
+    {
+      "id": "node_5514204632",
+      "name": "Islamic Center at NYU",
+      "address": {
+        "street": "238 Thompson Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-212-998-4712",
+      "website": "https://www.icnyu.org/",
+      "email": "info@icnyu.org",
+      "coordinates": {
+        "lat": 40.7300708,
+        "lon": -73.9980317
+      },
+      "denomination": "nondenominational",
+      "opening_hours": "Mo-Sa 08:00-00:00; Su 12:00-22:00",
+      "osm_type": "node",
+      "osm_id": 5514204632
+    },
+    {
+      "id": "node_5642678618",
+      "name": "Masjid Al Imam Al Albani",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 347 420 7003",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6710861,
+        "lon": -73.9911355
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5642678618
+    },
+    {
+      "id": "node_5650297532",
+      "name": "Masjid Muhammad Abdul Wahab",
+      "address": {
+        "street": "1032 Spruce Street",
+        "city": "Camden",
+        "state": "NJ",
+        "zip": "08103",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9358719,
+        "lon": -75.1094218
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5650297532
+    },
+    {
+      "id": "node_5683604584",
+      "name": "Masjid Al Fajr",
+      "address": {
+        "street": "2009 West 3rd Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8359963,
+        "lon": -75.3827538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5683604584
+    },
+    {
+      "id": "node_5689230420",
+      "name": "Nation of Islam Chester Study Group",
+      "address": {
+        "street": "1301 West 3rd Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8398645,
+        "lon": -75.3753176
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5689230420
+    },
+    {
+      "id": "node_5694876716",
+      "name": "Islamic Center of Chester",
+      "address": {
+        "street": "14 East 7th Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8504593,
+        "lon": -75.3617029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5694876716
+    },
+    {
+      "id": "node_5700951394",
+      "name": "Masjid As-Sabiqun",
+      "address": {
+        "street": "1105 Concord Avenue",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8499133,
+        "lon": -75.3759192
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5700951394
+    },
+    {
+      "id": "node_5703557369",
+      "name": "Central Mosque",
+      "address": {
+        "street": "1609 West 9th Street",
+        "city": "Chester",
+        "state": "PA",
+        "zip": "19013",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8429373,
+        "lon": -75.3825474
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5703557369
+    },
+    {
+      "id": "node_5717271758",
+      "name": "Sheepshead Bay Muslim Center",
+      "address": {
+        "street": "2812 Voorhies Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11235",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5869936,
+        "lon": -73.9408233
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5717271758
+    },
+    {
+      "id": "node_5747109932",
+      "name": "Baitul Jannah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6402086,
+        "lon": -73.9787331
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5747109932
+    },
+    {
+      "id": "node_5747110307",
+      "name": "Jame Masjid",
+      "address": {
+        "street": "503 McDonald Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6380962,
+        "lon": -73.9783502
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5747110307
+    },
+    {
+      "id": "node_5785579151",
+      "name": "masjid Al-kadir (mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1135261,
+        "lon": -74.047574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5785579151
+    },
+    {
+      "id": "node_5891692258",
+      "name": "Majid Tiba",
+      "address": {
+        "street": "25-01 48th Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7647483,
+        "lon": -73.905315
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891692258
+    },
+    {
+      "id": "node_5891693971",
+      "name": "Majid",
+      "address": {
+        "street": "32-13 57th Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7552963,
+        "lon": -73.9040665
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891693971
+    },
+    {
+      "id": "node_5891694701",
+      "name": "Majid al-Hikmah",
+      "address": {
+        "street": "48-01 31st Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11103",
+        "full": ""
+      },
+      "phone": "+1 718-721-8881",
+      "website": "https://www.masjidalhikmahnewyork.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7583509,
+        "lon": -73.9103293
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891694701
+    },
+    {
+      "id": "node_5891703233",
+      "name": "Majid Fatima",
+      "address": {
+        "street": "57-18 37th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7500945,
+        "lon": -73.9045663
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5891703233
+    },
+    {
+      "id": "node_5906840187",
+      "name": "Astoria Islamic Center",
+      "address": {
+        "street": "18-22 Astoria Boulevard",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7720415,
+        "lon": -73.9263246
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5906840187
+    },
+    {
+      "id": "node_6240117725",
+      "name": "Masjid Ul Kawthar",
+      "address": {
+        "street": "695 Nostrand Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6735367,
+        "lon": -73.9500175
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6240117725
+    },
+    {
+      "id": "node_6250810692",
+      "name": "Muhammad Mosque #12 Nation of Islam",
+      "address": {
+        "street": "2508 North Broad Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9913044,
+        "lon": -75.1553744
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250810692
+    },
+    {
+      "id": "node_6250836567",
+      "name": "Gawsiah Jame Masjid",
+      "address": {
+        "street": "25-86 31st Street",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7686036,
+        "lon": -73.9200494
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250836567
+    },
+    {
+      "id": "node_6250836568",
+      "name": "Shahjalal Masjid",
+      "address": {
+        "street": "25-67 31st Street",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11102",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.768726,
+        "lon": -73.9193541
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6250836568
+    },
+    {
+      "id": "node_6309887424",
+      "name": "Masjid Al-Hashar",
+      "address": {
+        "street": "2823 North 22nd Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9977346,
+        "lon": -75.1669861
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6309887424
+    },
+    {
+      "id": "node_6744726769",
+      "name": "Mimar Sinan Mosque",
+      "address": {
+        "street": "45-06 Skillman Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7464954,
+        "lon": -73.9186805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6744726769
+    },
+    {
+      "id": "node_6887218390",
+      "name": "Masjid Ahlil Hadeeth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidahlilhadeeth.wordpress.com",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9236016,
+        "lon": -75.2375683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6887218390
+    },
+    {
+      "id": "node_6943886027",
+      "name": "Masjid Mujahideen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9551035,
+        "lon": -75.2420037
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6943886027
+    },
+    {
+      "id": "node_6944071029",
+      "name": "Turning Paige's Islamic Learning Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9610248,
+        "lon": -75.2407538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6944071029
+    },
+    {
+      "id": "node_6959248910",
+      "name": "Masjid Ahlus-Sunnah Wal-Jammah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9249046,
+        "lon": -75.2292504
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6959248910
+    },
+    {
+      "id": "node_6964854800",
+      "name": "Germantown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0289319,
+        "lon": -75.1634755
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6964854800
+    },
+    {
+      "id": "node_7042943379",
+      "name": "Masjid Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9740949,
+        "lon": -75.2066478
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7042943379
+    },
+    {
+      "id": "node_7125069105",
+      "name": "Bawa Muhaiyaddeen Fellowship",
+      "address": {
+        "street": "5820 Overbrook Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19131",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9908888,
+        "lon": -75.2418653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7125069105
+    },
+    {
+      "id": "node_7164216214",
+      "name": "Masjid Quba",
+      "address": {
+        "street": "447 Jackson Avenue",
+        "city": "",
+        "state": "NY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8106316,
+        "lon": -73.9101564
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7164216214
+    },
+    {
+      "id": "node_7228492799",
+      "name": "Bay Ridge Islamic Center",
+      "address": {
+        "street": "9126 5th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11209",
+        "full": ""
+      },
+      "phone": "+1-843-433-0310",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6181424,
+        "lon": -74.029287
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7228492799
+    },
+    {
+      "id": "node_7295573614",
+      "name": "Masjid Muhammad",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0373118,
+        "lon": -75.1625574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7295573614
+    },
+    {
+      "id": "node_7297833449",
+      "name": "New Gethsemane Baptist Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0475166,
+        "lon": -75.1630546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7297833449
+    },
+    {
+      "id": "node_7324576793",
+      "name": "Nasir Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0306901,
+        "lon": -75.1396094
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7324576793
+    },
+    {
+      "id": "node_7324576818",
+      "name": "Grace and Peace Community Fellowship",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0213088,
+        "lon": -75.134363
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7324576818
+    },
+    {
+      "id": "node_7337269444",
+      "name": "Masjid Al-Hidayah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0109976,
+        "lon": -75.1244371
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7337269444
+    },
+    {
+      "id": "node_7560013588",
+      "name": "Istijabah Masjid",
+      "address": {
+        "street": "4 Montgomery Place",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08618",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.227927,
+        "lon": -74.7792859
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7560013588
+    },
+    {
+      "id": "node_7593611176",
+      "name": "Masjid Al Uthaymeen",
+      "address": {
+        "street": "39 East Paul Avenue",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08638",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2344514,
+        "lon": -74.7564339
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7593611176
+    },
+    {
+      "id": "node_7609159887",
+      "name": "Masjid As Saffat",
+      "address": {
+        "street": "25 Oxford Street",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08638",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2287837,
+        "lon": -74.7585426
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7609159887
+    },
+    {
+      "id": "node_7633177817",
+      "name": "Masjidut Taqwa",
+      "address": {
+        "street": "1001 East State Street",
+        "city": "Trenton",
+        "state": "NJ",
+        "zip": "08608",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2247878,
+        "lon": -74.7430689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7633177817
+    },
+    {
+      "id": "node_7833514984",
+      "name": "Albanian American Cultural Center Struga",
+      "address": {
+        "street": "90 Riverdale Road",
+        "city": "Riverdale",
+        "state": "NJ",
+        "zip": "07457",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9882397,
+        "lon": -74.2956461
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7833514984
+    },
+    {
+      "id": "node_8762021394",
+      "name": "Masjid Al-Nasr",
+      "address": {
+        "street": "383 Oldham Road",
+        "city": "Wayne",
+        "state": "NJ",
+        "zip": "07470",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9383038,
+        "lon": -74.2013319
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8762021394
+    },
+    {
+      "id": "node_9671893386",
+      "name": "Sunnyside Woodside Jame Masjid",
+      "address": {
+        "street": "45-18 48th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "+1 718-482-7364",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.739204,
+        "lon": -73.9197046
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9671893386
+    },
+    {
+      "id": "node_9762210756",
+      "name": "MCC Muslim Womens Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.645956,
+        "lon": -74.0168306
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9762210756
+    },
+    {
+      "id": "node_10797371351",
+      "name": "Bakhit Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6304932,
+        "lon": -74.0219538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10797371351
+    },
+    {
+      "id": "node_11468169222",
+      "name": "Masjid Al-Wadood",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6096773,
+        "lon": -74.147402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11468169222
+    },
+    {
+      "id": "node_11555201015",
+      "name": "Masjid Umm-al-qura",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-871-3930",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6419227,
+        "lon": -73.9697655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11555201015
+    },
+    {
+      "id": "node_11715036339",
+      "name": "Madina Masjid",
+      "address": {
+        "street": "401 East 11th Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://nycmadinamasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7293344,
+        "lon": -73.9836744
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11715036339
+    },
+    {
+      "id": "node_11771850460",
+      "name": "South Brooklyn Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-938-6823",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6304946,
+        "lon": -74.0283508
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11771850460
+    },
+    {
+      "id": "node_12129016851",
+      "name": "Masjid Al-Wali",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5663309,
+        "lon": -74.3884288
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12129016851
+    },
+    {
+      "id": "node_12133350294",
+      "name": "Iqra Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5513376,
+        "lon": -74.4332487
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12133350294
+    },
+    {
+      "id": "node_12650765087",
+      "name": "Fatih Mosque",
+      "address": {
+        "street": "5911 8th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6353757,
+        "lon": -74.0091126
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12650765087
+    },
+    {
+      "id": "node_12758066115",
+      "name": "Woodside Baitul Jannah Masjid",
+      "address": {
+        "street": "62-01 39th Avenue",
+        "city": "Woodside",
+        "state": "New Jersey",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7470533,
+        "lon": -73.9014014
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12758066115
+    },
+    {
+      "id": "node_13042969065",
+      "name": "Masjid-Al-Ihsaan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-718-783-5787",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.683021,
+        "lon": -73.9640484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13042969065
+    },
+    {
+      "id": "way_118764035",
+      "name": "Masjid Darul Ehsan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1155445,
+        "lon": -74.1498543
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 118764035
+    },
+    {
+      "id": "way_175494471",
+      "name": "Al-Masjid al-Zainee",
+      "address": {
+        "street": "349 Dunhams Corner Rd",
+        "city": "East Brunswick Township",
+        "state": "NJ",
+        "zip": "08816",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4146721,
+        "lon": -74.4437004
+      },
+      "denomination": "dawoodi_bohra",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 175494471
+    },
+    {
+      "id": "way_228771168",
+      "name": "Al-Mustafa Islamic Center",
+      "address": {
+        "street": "21 Passaic Avenue",
+        "city": "Pompton Lakes",
+        "state": "NJ",
+        "zip": "07442",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0001079,
+        "lon": -74.2879799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 228771168
+    },
+    {
+      "id": "way_241823103",
+      "name": "Masjid Zawiyat Sof'watful Islam",
+      "address": {
+        "street": "435 Franklin Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11216",
+        "full": ""
+      },
+      "phone": "+1-718-398-0745",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6839636,
+        "lon": -73.956033
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241823103
+    },
+    {
+      "id": "way_241828084",
+      "name": "Brooklyn Islamic Center",
+      "address": {
+        "street": "722 Church Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bicny.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6455069,
+        "lon": -73.9724694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241828084
+    },
+    {
+      "id": "way_241854614",
+      "name": "Masjid Al-Ikhlas",
+      "address": {
+        "street": "21-23 30th Drive",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11101",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.768169,
+        "lon": -73.9280542
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 241854614
+    },
+    {
+      "id": "way_244171946",
+      "name": "Albanian Islamic Cultural Center",
+      "address": {
+        "street": "307 Victory Boulevard",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "10301",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6347521,
+        "lon": -74.086084
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 244171946
+    },
+    {
+      "id": "way_248176848",
+      "name": "Masjid El-ijsan",
+      "address": {
+        "street": "65 Utica Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11233",
+        "full": ""
+      },
+      "phone": "+1-917-200-1415",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6768592,
+        "lon": -73.9300952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248176848
+    },
+    {
+      "id": "way_248510073",
+      "name": "American Turkish Eyup Sultan Cultural Center",
+      "address": {
+        "street": "2814 Brighton 3rd Street",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11235",
+        "full": ""
+      },
+      "phone": "+1-718-332-5747",
+      "website": "https://eyupsultan.business.site/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5826336,
+        "lon": -73.9657405
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248510073
+    },
+    {
+      "id": "way_248757361",
+      "name": "Assafa Islamic Center",
+      "address": {
+        "street": "172 Eldridge Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "10002",
+        "full": ""
+      },
+      "phone": "+1-212-253-1052",
+      "website": "http://assafaislamiccenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 40.72015,
+        "lon": -73.9906749
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248757361
+    },
+    {
+      "id": "way_248904935",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "2265 McDonald Avenue",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11223",
+        "full": ""
+      },
+      "phone": "+1-718-314-6482",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5973611,
+        "lon": -73.9728877
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 248904935
+    },
+    {
+      "id": "way_249113397",
+      "name": "Masjid Abou Bakr",
+      "address": {
+        "street": "115 Foster Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11230",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6280596,
+        "lon": -73.9761456
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249113397
+    },
+    {
+      "id": "way_249566228",
+      "name": "Al - Mustafa Islamic Center",
+      "address": {
+        "street": "4705 8th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6424816,
+        "lon": -74.0019139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249566228
+    },
+    {
+      "id": "way_249579846",
+      "name": "Beit El-Maqdis Islamic Center",
+      "address": {
+        "street": "6224 6th Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "+1-718-567-8885",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6368856,
+        "lon": -74.0156952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249579846
+    },
+    {
+      "id": "way_249587168",
+      "name": "MCC Brooklyn",
+      "address": {
+        "street": "5320 3rd Avenue",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6458078,
+        "lon": -74.0171732
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249587168
+    },
+    {
+      "id": "way_249613198",
+      "name": "Darul Jannah",
+      "address": {
+        "street": "6 Avenue C",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6400628,
+        "lon": -73.9796507
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 249613198
+    },
+    {
+      "id": "way_265732859",
+      "name": "Nigerian American Muslim Integrated Community",
+      "address": {
+        "street": "801 Dean Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11238",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6794868,
+        "lon": -73.9633826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265732859
+    },
+    {
+      "id": "way_265733654",
+      "name": "Baitush Sharf Jame Masjid & Islamic Center",
+      "address": {
+        "street": "769 Bergen Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11238",
+        "full": ""
+      },
+      "phone": "+1-718-398-4579",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6784902,
+        "lon": -73.9626948
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265733654
+    },
+    {
+      "id": "way_266921726",
+      "name": "Islamic Cultural Center of New York",
+      "address": {
+        "street": "1711 3rd Avenue",
+        "city": "New York",
+        "state": "New Jersey",
+        "zip": "10029",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icc-ny.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7854708,
+        "lon": -73.948571
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 266921726
+    },
+    {
+      "id": "way_271290369",
+      "name": "Masjid Malcolm Shabazz",
+      "address": {
+        "street": "102 West 116th Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10026",
+        "full": ""
+      },
+      "phone": "+1 212-662-2200",
+      "website": "https://www.themasjidmalcolmshabazz.com/",
+      "email": "msmosque@aol.com",
+      "coordinates": {
+        "lat": 40.8019891,
+        "lon": -73.9501962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 271290369
+    },
+    {
+      "id": "way_276121947",
+      "name": "Islamia Sunna Wal Jam'ah",
+      "address": {
+        "street": "24 Mt Hope Place",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "10453",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8489987,
+        "lon": -73.9101615
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 276121947
+    },
+    {
+      "id": "way_280372387",
+      "name": "Ahlul Bayt Mission Masjid",
+      "address": {
+        "street": "41-02 55th Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11377",
+        "full": ""
+      },
+      "phone": "+1 929-800-4188",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7451,
+        "lon": -73.9096921
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 280372387
+    },
+    {
+      "id": "way_280569756",
+      "name": "Al-Amin Jame Masjid",
+      "address": {
+        "street": "35-19 36th Street",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "11106",
+        "full": ""
+      },
+      "phone": "+1 718-729-6325",
+      "website": "https://alaminjamemasjid.com/",
+      "email": "al-aminjamemasjid@gmail.com",
+      "coordinates": {
+        "lat": 40.754973,
+        "lon": -73.9257415
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 280569756
+    },
+    {
+      "id": "way_304544724",
+      "name": "Masjid At-Taqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3509451,
+        "lon": -74.452693
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 304544724
+    },
+    {
+      "id": "way_332807105",
+      "name": "El-Zahra Islamic Center - Midland Park",
+      "address": {
+        "street": "218 Irving Street",
+        "city": "Midland Park",
+        "state": "NJ",
+        "zip": "07432",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0011911,
+        "lon": -74.1435654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 332807105
+    },
+    {
+      "id": "way_376480720",
+      "name": "Masjidullah",
+      "address": {
+        "street": "7401 Limekiln Pike",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19138",
+        "full": ""
+      },
+      "phone": "+1 215-424-8022",
+      "website": "https://www.masjidullah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0675889,
+        "lon": -75.1583902
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 376480720
+    },
+    {
+      "id": "way_379425927",
+      "name": "Masjid Jalalabad",
+      "address": {
+        "street": "61 Van Houten Street",
+        "city": "Paterson",
+        "state": "NJ",
+        "zip": "07505",
+        "full": ""
+      },
+      "phone": "+1-973-279-6408",
+      "website": "http://www.ifnj.org",
+      "email": "info@ifnj.org",
+      "coordinates": {
+        "lat": 40.918517,
+        "lon": -74.1741029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 379425927
+    },
+    {
+      "id": "way_405514732",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7184096,
+        "lon": -74.0432466
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 405514732
+    },
+    {
+      "id": "way_411202377",
+      "name": "Al-Tawheed Islamic Center",
+      "address": {
+        "street": "984 West Side Avenue",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zip": "07306",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7331815,
+        "lon": -74.0717844
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 411202377
+    },
+    {
+      "id": "way_415257443",
+      "name": "Islamic Center of Newark",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7348476,
+        "lon": -74.1737912
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 415257443
+    },
+    {
+      "id": "way_424418421",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7297496,
+        "lon": -74.2129234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 424418421
+    },
+    {
+      "id": "way_457786213",
+      "name": "Muslim Center of Middlesex",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5295875,
+        "lon": -74.4685166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 457786213
+    },
+    {
+      "id": "way_458413618",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0617272,
+        "lon": -74.8479653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 458413618
+    },
+    {
+      "id": "way_486690312",
+      "name": "North Hudson Islamic Educational Center",
+      "address": {
+        "street": "6413 Cottage Place",
+        "city": "Union City",
+        "state": "NJ",
+        "zip": "07087",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7812549,
+        "lon": -74.0234687
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 486690312
+    },
+    {
+      "id": "way_504632332",
+      "name": "Shia Ithna'asheri Jamaat of PA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 610-398-1900",
+      "website": "https://sijpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6090979,
+        "lon": -75.5642584
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504632332
+    },
+    {
+      "id": "way_504636942",
+      "name": "Muslim Association of Lehigh Valley",
+      "address": {
+        "street": "1988 Schadt Avenue",
+        "city": "Whitehall",
+        "state": "PA",
+        "zip": "18052",
+        "full": ""
+      },
+      "phone": "+16107996224",
+      "website": "https://www.malv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6372905,
+        "lon": -75.5064551
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 504636942
+    },
+    {
+      "id": "way_514600552",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "518 Green Street",
+        "city": "Norristown",
+        "state": "PA",
+        "zip": "19401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1153259,
+        "lon": -75.339815
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 514600552
+    },
+    {
+      "id": "way_542350652",
+      "name": "Masjid-e-Ali",
+      "address": {
+        "street": "47 Cedar Grove Lane",
+        "city": "Somerset",
+        "state": "NJ",
+        "zip": "08873",
+        "full": ""
+      },
+      "phone": "+1-732-564-1331",
+      "website": "https://masjid-e-ali.org/",
+      "email": "info@masjid-e-ali.org",
+      "coordinates": {
+        "lat": 40.5309738,
+        "lon": -74.5142459
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 542350652
+    },
+    {
+      "id": "way_546713922",
+      "name": "Masjid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2075879,
+        "lon": -74.8253724
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 546713922
+    },
+    {
+      "id": "way_567070798",
+      "name": "A.I.C. Islamic Center",
+      "address": {
+        "street": "4431 Walnut Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19104",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.aicp.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9554733,
+        "lon": -75.2113489
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 567070798
+    },
+    {
+      "id": "way_615689860",
+      "name": "Muslim Community Center of Paramus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9628953,
+        "lon": -74.0590488
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 615689860
+    },
+    {
+      "id": "way_617831875",
+      "name": "Bait-ul-Hadi Mosque",
+      "address": {
+        "street": "27 South Street",
+        "city": "Old Bridge",
+        "state": "NJ",
+        "zip": "08857",
+        "full": ""
+      },
+      "phone": "+1 732 360 2001",
+      "website": "https://cej.ahmadiyya.us/",
+      "email": "info.cej@ahmadiyya.us",
+      "coordinates": {
+        "lat": 40.3841807,
+        "lon": -74.3428879
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 617831875
+    },
+    {
+      "id": "way_627705142",
+      "name": "Masjid Al-Hira",
+      "address": {
+        "street": "2426 Atlantic Avenue",
+        "city": "Atlantic City",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3563001,
+        "lon": -74.4413042
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 627705142
+    },
+    {
+      "id": "way_673781690",
+      "name": "Albanian American Muslim Society",
+      "address": {
+        "street": "157 West Girard Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19123",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9695082,
+        "lon": -75.1382553
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673781690
+    },
+    {
+      "id": "way_673781910",
+      "name": "Al-Aqsa Islamic Society",
+      "address": {
+        "street": "1501 Germantown Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19122",
+        "full": ""
+      },
+      "phone": "+1 215-765-2743",
+      "website": "https://alaqsaislamicsociety.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9739113,
+        "lon": -75.1413619
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673781910
+    },
+    {
+      "id": "way_673782474",
+      "name": "Makkah Masjid",
+      "address": {
+        "street": "1319 West Susquehanna Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19122",
+        "full": ""
+      },
+      "phone": "+1 267-595-7324",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9863468,
+        "lon": -75.1547178
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673782474
+    },
+    {
+      "id": "way_673782795",
+      "name": "Nigerian Muslim Association of Philadelphia",
+      "address": {
+        "street": "2209 North Front Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19133",
+        "full": ""
+      },
+      "phone": "+1 215-634-1102",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9835574,
+        "lon": -75.1321298
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673782795
+    },
+    {
+      "id": "way_673786614",
+      "name": "Bait-ul-Aafiyat Mosque",
+      "address": {
+        "street": "1215 West Glenwood Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19133",
+        "full": ""
+      },
+      "phone": "+1 215-455-4655",
+      "website": "https://www.phillymosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9980563,
+        "lon": -75.1514575
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673786614
+    },
+    {
+      "id": "way_673938573",
+      "name": "Ridge Avenue Islamic Center",
+      "address": {
+        "street": "3116 Ridge Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19121",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9894949,
+        "lon": -75.184198
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673938573
+    },
+    {
+      "id": "way_673941114",
+      "name": "Masjid Muqbil Bin Hadee",
+      "address": {
+        "street": "2735 West Allegheny Avenue",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19132",
+        "full": ""
+      },
+      "phone": "+1 267-761-9430",
+      "website": "http://www.masjidmuqbilphl.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.004683,
+        "lon": -75.1748717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673941114
+    },
+    {
+      "id": "way_673941995",
+      "name": "United Muslim Movement",
+      "address": {
+        "street": "810 South 15th Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19146",
+        "full": ""
+      },
+      "phone": "+1 215-546-6555",
+      "website": "https://www.ummonline.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9407514,
+        "lon": -75.1680764
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 673941995
+    },
+    {
+      "id": "way_700160241",
+      "name": "Islamic Society of Greater Valley Forge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0665886,
+        "lon": -75.434542
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 700160241
+    },
+    {
+      "id": "way_726527518",
+      "name": "Islamic Society of Central Jersey",
+      "address": {
+        "street": "4145 US-1",
+        "city": "Monmouth Junction",
+        "state": "NJ",
+        "zip": "08852",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.3878313,
+        "lon": -74.5711398
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 726527518
+    },
+    {
+      "id": "way_751440860",
+      "name": "Muslim Community of New Jersey (MCNJ)",
+      "address": {
+        "street": "15 South 2nd Street",
+        "city": "Fords",
+        "state": "NJ",
+        "zip": "08863",
+        "full": ""
+      },
+      "phone": "+1 732-738-5100",
+      "website": "https://www.mcnjonline.com/",
+      "email": "info@mcnjonline.com",
+      "coordinates": {
+        "lat": 40.5298556,
+        "lon": -74.3152231
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 751440860
+    },
+    {
+      "id": "way_803144434",
+      "name": "Islamic Center of Stroudsburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9943959,
+        "lon": -75.1908453
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 803144434
+    },
+    {
+      "id": "way_948209178",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9562857,
+        "lon": -75.2575419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 948209178
+    },
+    {
+      "id": "way_964663630",
+      "name": "Al Falah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6164102,
+        "lon": -74.6270726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 964663630
+    },
+    {
+      "id": "way_973188274",
+      "name": "Masjid Al-Hidayah",
+      "address": {
+        "street": "223 East Luzerne Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0113294,
+        "lon": -75.1238286
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 973188274
+    },
+    {
+      "id": "way_1020326933",
+      "name": "Masjid Sadar & Community Center",
+      "address": {
+        "street": "216 Ernston Road",
+        "city": "Parlin",
+        "state": "NJ",
+        "zip": "08859",
+        "full": ""
+      },
+      "phone": "+1 732-925-0655",
+      "website": "https://masjidsadar.com",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4576385,
+        "lon": -74.3038115
+      },
+      "denomination": "",
+      "opening_hours": "24/7",
+      "osm_type": "way",
+      "osm_id": 1020326933
+    },
+    {
+      "id": "way_1035490637",
+      "name": "North Penn Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2476612,
+        "lon": -75.2835695
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1035490637
+    },
+    {
+      "id": "way_1035490639",
+      "name": "Lansdale Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2478057,
+        "lon": -75.2845515
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1035490639
+    },
+    {
+      "id": "way_1057716545",
+      "name": "Masjid Al-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0527323,
+        "lon": -75.0665825
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1057716545
+    },
+    {
+      "id": "way_1153571394",
+      "name": "Islamic Center of Verona",
+      "address": {
+        "street": "56 Grove Avenue",
+        "city": "Verona",
+        "state": "NJ",
+        "zip": "07044",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icverona.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8357543,
+        "lon": -74.2470397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1153571394
+    },
+    {
+      "id": "way_1169383451",
+      "name": "Ulu Cami",
+      "address": {
+        "street": "480 Knickerbocker Avenue",
+        "city": "Paterson",
+        "state": "NJ",
+        "zip": "07503",
+        "full": ""
+      },
+      "phone": "+1-973-345-6584",
+      "website": "https://www.ulucami.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8926311,
+        "lon": -74.1420138
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1169383451
+    },
+    {
+      "id": "way_1185711461",
+      "name": "Muslim Federation of NJ",
+      "address": {
+        "street": "530 Montgomery Street",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zip": "07302",
+        "full": ""
+      },
+      "phone": "+1-201-800-0770",
+      "website": "https://www.mfnj.net",
+      "email": "info@mfnj.net",
+      "coordinates": {
+        "lat": 40.7227603,
+        "lon": -74.0600819
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1185711461
+    },
+    {
+      "id": "way_1188755459",
+      "name": "Bait Al Qayem Mosque",
+      "address": {
+        "street": "337 Conrow Road",
+        "city": "Delran",
+        "state": "NJ",
+        "zip": "08075",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bqnj.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0137045,
+        "lon": -74.9398005
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1188755459
+    },
+    {
+      "id": "way_1190930381",
+      "name": "Masjid Al-Islam",
+      "address": {
+        "street": "525 Roosevelt Avenue",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "07008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5825278,
+        "lon": -74.2150813
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1190930381
+    },
+    {
+      "id": "way_1273172941",
+      "name": "Al-Maqasid",
+      "address": {
+        "street": "7386 Alburtis Road",
+        "city": "Macungie",
+        "state": "PA",
+        "zip": "18062",
+        "full": ""
+      },
+      "phone": "+16109941622",
+      "website": "https://www.almaqasid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5157857,
+        "lon": -75.5832926
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1273172941
+    },
+    {
+      "id": "way_1327844466",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "224 North 18th Street",
+        "city": "East Orange",
+        "state": "NJ",
+        "zip": "07017",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7651915,
+        "lon": -74.1953834
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1327844466
+    },
+    {
+      "id": "way_1348989043",
+      "name": "Albanian American Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8695713,
+        "lon": -74.1100552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1348989043
+    },
+    {
+      "id": "way_1392904863",
+      "name": "Baitul Ata Mosque",
+      "address": {
+        "street": "2860 South Pike Avenue",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18103",
+        "full": ""
+      },
+      "phone": "+14842218450",
+      "website": "https://sites.google.com/view/ahmadiyyamovementinislam/home",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5666813,
+        "lon": -75.450184
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1392904863
+    },
+    {
+      "id": "way_1429422950",
+      "name": "Islamic Center of Delaware County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9659183,
+        "lon": -75.2993167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1429422950
+    },
+    {
+      "id": "relation_14011700",
+      "name": "Masjid Mohammed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3543051,
+        "lon": -74.4578507
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 14011700
+    },
+    {
+      "id": "relation_19403803",
+      "name": "Al Rawdah Islamic Center",
+      "address": {
+        "street": "415 Howertown Road",
+        "city": "Catasauqua",
+        "state": "PA",
+        "zip": "18032",
+        "full": ""
+      },
+      "phone": "+18772744326",
+      "website": "https://alrcpa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6554314,
+        "lon": -75.4695513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 19403803
+    }
+  ]
+}

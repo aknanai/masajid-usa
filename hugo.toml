@@ -1,0 +1,13 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Masajid USA'
+theme = 'masajid-theme'
+
+[params]
+  description = "Find masajid (mosques) across the United States"
+  tagline = "Discover 1,700+ Masajid Across America"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

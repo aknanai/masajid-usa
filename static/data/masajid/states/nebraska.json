@@ -1,0 +1,182 @@
+{
+  "state": "Nebraska",
+  "count": 8,
+  "masajid": [
+    {
+      "id": "node_357793727",
+      "name": "Islamic Center of Omaha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2744428,
+        "lon": -96.02585
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357793727
+    },
+    {
+      "id": "node_4687805181",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.270358,
+        "lon": -95.9834131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4687805181
+    },
+    {
+      "id": "way_614314674",
+      "name": "Millard Islamic Foundation",
+      "address": {
+        "street": "5135 Marshall Drive",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68137",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2058907,
+        "lon": -96.1311888
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 614314674
+    },
+    {
+      "id": "way_621294811",
+      "name": "American Muslim Institute",
+      "address": {
+        "street": "13140 Faith Plaza",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68144",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://americanmusliminstitute.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.243556,
+        "lon": -96.1183556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 621294811
+    },
+    {
+      "id": "way_736949990",
+      "name": "Lincoln Islamic Foundation",
+      "address": {
+        "street": "129 West Belmont Avenue",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68521",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.838978,
+        "lon": -96.7213385
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 736949990
+    },
+    {
+      "id": "way_1155251245",
+      "name": "Islamic Foundation of Lincoln",
+      "address": {
+        "street": "3636 North 1st Street",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68521",
+        "full": ""
+      },
+      "phone": "+1-402-475-0475",
+      "website": "https://ifol.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8479286,
+        "lon": -96.7199791
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1155251245
+    },
+    {
+      "id": "way_1294466571",
+      "name": "Sabah Foundation - Masjid",
+      "address": {
+        "street": "1145 Furnas Avenue",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68521",
+        "full": ""
+      },
+      "phone": "+1-402-890-3424",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8408464,
+        "lon": -96.7044994
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1294466571
+    },
+    {
+      "id": "way_1330308979",
+      "name": "Nebraska Islamic Foundation",
+      "address": {
+        "street": "7125 Douglas Street",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68507",
+        "full": ""
+      },
+      "phone": "+1 402-467-3388",
+      "website": "http://nebraskaislamicfoundation.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8596252,
+        "lon": -96.6230447
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1330308979
+    }
+  ]
+}

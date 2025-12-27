@@ -1,0 +1,182 @@
+{
+  "state": "Colorado",
+  "count": 8,
+  "masajid": [
+    {
+      "id": "node_2825729648",
+      "name": "Masjid Shuhada",
+      "address": {
+        "street": "2952 Downing Street",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80205",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7592684,
+        "lon": -104.9728878
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2825729648
+    },
+    {
+      "id": "node_9910939668",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7458121,
+        "lon": -104.816675
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9910939668
+    },
+    {
+      "id": "way_192024135",
+      "name": "Islamic Center",
+      "address": {
+        "street": "2071 South Parker Road",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80231",
+        "full": ""
+      },
+      "phone": "+1-303-696-9800",
+      "website": "https://coloradomuslimsociety.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.678928,
+        "lon": -104.8770003
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 192024135
+    },
+    {
+      "id": "way_197866318",
+      "name": "Islamic Center of Boulder",
+      "address": {
+        "street": "5495 Baseline Road",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80303",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.bouldermuslims.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0005831,
+        "lon": -105.2259282
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 197866318
+    },
+    {
+      "id": "way_237029207",
+      "name": "Islamic Centre of Fort Collins",
+      "address": {
+        "street": "925 West Lake Street",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "full": ""
+      },
+      "phone": "+1-970-221-2425",
+      "website": "https://www.icfc.org/",
+      "email": "info@icfc.org",
+      "coordinates": {
+        "lat": 40.5684217,
+        "lon": -105.0943688
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 237029207
+    },
+    {
+      "id": "way_327689668",
+      "name": "Northeast Denver Islamic Center",
+      "address": {
+        "street": "3400 North Albion Street",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80207",
+        "full": ""
+      },
+      "phone": "+1-720-941-3819",
+      "website": "https://northeastdenverislamiccenter.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7646863,
+        "lon": -104.9389322
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 327689668
+    },
+    {
+      "id": "way_473707625",
+      "name": "Two Rivers Mosque",
+      "address": {
+        "street": "801 Gunnison Avenue",
+        "city": "Grand Junction",
+        "state": "CO",
+        "zip": "81501",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "gjislamiccenter@gmail.com",
+      "coordinates": {
+        "lat": 39.0731142,
+        "lon": -108.5591307
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473707625
+    },
+    {
+      "id": "relation_13284052",
+      "name": "Islamic Center of Golden",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7501497,
+        "lon": -105.213759
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 13284052
+    }
+  ]
+}

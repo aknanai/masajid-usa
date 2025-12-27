@@ -1,0 +1,336 @@
+{
+  "state": "West Virginia",
+  "count": 15,
+  "masajid": [
+    {
+      "id": "node_357356364",
+      "name": "Jaffa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5069979,
+        "lon": -78.409428
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357356364
+    },
+    {
+      "id": "node_2441939212",
+      "name": "Islamic Center of Ambridge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.582092,
+        "lon": -80.2249547
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2441939212
+    },
+    {
+      "id": "node_5272248955",
+      "name": "Martinsburg Mosque",
+      "address": {
+        "street": "312 Wilson Street",
+        "city": "Martinsburg",
+        "state": "WV",
+        "zip": "25401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4460058,
+        "lon": -77.9705781
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5272248955
+    },
+    {
+      "id": "node_8338950863",
+      "name": "Greater Lynchburg Islamic Association",
+      "address": {
+        "street": "1101 Airport Road",
+        "city": "Lynchburg",
+        "state": "VA",
+        "zip": "24502",
+        "full": ""
+      },
+      "phone": "+1 434 841 6829",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3309685,
+        "lon": -79.2035629
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8338950863
+    },
+    {
+      "id": "node_10056903753",
+      "name": "Masjid Aisha",
+      "address": {
+        "street": "12th Street",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.400699,
+        "lon": -79.1605581
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10056903753
+    },
+    {
+      "id": "way_54790416",
+      "name": "Masjid Al-Ihsan",
+      "address": {
+        "street": "1284 North Main Street",
+        "city": "Blacksburg",
+        "state": "VA",
+        "zip": "24060",
+        "full": ""
+      },
+      "phone": "+1 540-961-5210",
+      "website": "https://www.home.isnrv.org/",
+      "email": "info@isnrv.org",
+      "coordinates": {
+        "lat": 37.2434231,
+        "lon": -80.4159982
+      },
+      "denomination": "nondenominational",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 54790416
+    },
+    {
+      "id": "way_120257807",
+      "name": "Islamic Center of Morgantown",
+      "address": {
+        "street": "434 Harding Ave",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "26508",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icmorgantown.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6498265,
+        "lon": -79.9618458
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 120257807
+    },
+    {
+      "id": "way_382396947",
+      "name": "Islamic Society of Central Virginia",
+      "address": {
+        "street": "708 Pine Street",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22903",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0271505,
+        "lon": -78.4945099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 382396947
+    },
+    {
+      "id": "way_395709788",
+      "name": "An-noor Educational Foundation and Islamic Study Center",
+      "address": {
+        "street": "106 10th Street Northwest",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22903",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0329343,
+        "lon": -78.4944111
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 395709788
+    },
+    {
+      "id": "way_489620635",
+      "name": "The Islamic Center of the Shenandoah Valley",
+      "address": {
+        "street": "1330 Country Club Road",
+        "city": "Harrisonburg City",
+        "state": "VA",
+        "zip": "22802",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iasv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4406473,
+        "lon": -78.8482925
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 489620635
+    },
+    {
+      "id": "way_535066260",
+      "name": "al-Masjid al-Awwal",
+      "address": {
+        "street": "1911 Wylie Avenue",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15219",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://firstmuslimmosque.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4441085,
+        "lon": -79.9817444
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 535066260
+    },
+    {
+      "id": "way_539611517",
+      "name": "Islamic Center of Pittsburgh",
+      "address": {
+        "street": "4100 Bigelow Boulevard",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15213",
+        "full": ""
+      },
+      "phone": "+1 412 682 5555",
+      "website": "https://www.icp-pgh.org/",
+      "email": "office@icp-pgh.org",
+      "coordinates": {
+        "lat": 40.4487826,
+        "lon": -79.9557498
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 539611517
+    },
+    {
+      "id": "way_544837927",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4093203,
+        "lon": -80.0832373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 544837927
+    },
+    {
+      "id": "way_817033594",
+      "name": "Muslim Association of Huntington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.416404,
+        "lon": -82.4203969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 817033594
+    },
+    {
+      "id": "way_1155434772",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.458922,
+        "lon": -79.7357157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1155434772
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "state": "Indiana",
+  "count": 35,
+  "masajid": [
+    {
+      "id": "node_354245734",
+      "name": "Mosque of Umar",
+      "address": {
+        "street": "11407 South Michigan Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60628",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6867432,
+        "lon": -87.6206672
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354245734
+    },
+    {
+      "id": "node_354284026",
+      "name": "Markham Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5975341,
+        "lon": -87.7000479
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354284026
+    },
+    {
+      "id": "node_7573398885",
+      "name": "Louisville Islamic Center of Compassion",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2909274,
+        "lon": -85.6788157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7573398885
+    },
+    {
+      "id": "node_11991243212",
+      "name": "Islamic Society of North America",
+      "address": {
+        "street": "6555 S County Road 750 East",
+        "city": "Plainfield",
+        "state": "IN",
+        "zip": "46168",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://isna.net/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6630708,
+        "lon": -86.3857376
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11991243212
+    },
+    {
+      "id": "way_163522306",
+      "name": "Masjid Al Muhajireen",
+      "address": {
+        "street": "3777 West Columbus Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60652",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7397941,
+        "lon": -87.7155605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163522306
+    },
+    {
+      "id": "way_185057290",
+      "name": "Mosque Maryam",
+      "address": {
+        "street": "7351 South Stony Island Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60649",
+        "full": ""
+      },
+      "phone": "+1-773-324-6000",
+      "website": "https://www.noi.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7609068,
+        "lon": -87.5850184
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 185057290
+    },
+    {
+      "id": "way_219291475",
+      "name": "Masjid Al-Fajr",
+      "address": {
+        "street": "2846 Cold Spring Road",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "zip": "46222",
+        "full": ""
+      },
+      "phone": "+1 317 923 2847",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8049325,
+        "lon": -86.2042141
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 219291475
+    },
+    {
+      "id": "way_235939778",
+      "name": "Hometown Mercy Mosque",
+      "address": {
+        "street": "8925 South Kostner Avenue",
+        "city": "Hometown",
+        "state": "IL",
+        "zip": "60456",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://hometownmercymosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7301192,
+        "lon": -87.7333826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 235939778
+    },
+    {
+      "id": "way_238912964",
+      "name": "Northwest Indiana Islamic Center",
+      "address": {
+        "street": "9803 Colorado Street",
+        "city": "Crown Point",
+        "state": "IN",
+        "zip": "46307",
+        "full": ""
+      },
+      "phone": "+1 219 756 7622",
+      "website": "https://nwiic.org/",
+      "email": "info@nwiic.org",
+      "coordinates": {
+        "lat": 41.4396233,
+        "lon": -87.2948159
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 238912964
+    },
+    {
+      "id": "way_336614530",
+      "name": "The Muslim Communnity Center of Louisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2787133,
+        "lon": -85.5999067
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336614530
+    },
+    {
+      "id": "way_337087172",
+      "name": "Al-Nur Mosque",
+      "address": {
+        "street": "2815 South 4th Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip": "40208",
+        "full": ""
+      },
+      "phone": "+1-502-614-6790",
+      "website": "https://www.alnurmosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2084234,
+        "lon": -85.7646745
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 337087172
+    },
+    {
+      "id": "way_338201774",
+      "name": "Alzahrah Islamic Center",
+      "address": {
+        "street": "4010 Bishop Lane",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1885657,
+        "lon": -85.6927237
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 338201774
+    },
+    {
+      "id": "way_438017724",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5228108,
+        "lon": -87.8326917
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 438017724
+    },
+    {
+      "id": "way_473909629",
+      "name": "Islamic Society of Michiana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7014824,
+        "lon": -86.2027535
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473909629
+    },
+    {
+      "id": "way_497280668",
+      "name": "Anjuman-e-Saifee Chicago",
+      "address": {
+        "street": "10S252 Kingery Highway",
+        "city": "Willowbrook",
+        "state": "IL",
+        "zip": "60527",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7255269,
+        "lon": -87.9457946
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 497280668
+    },
+    {
+      "id": "way_662825023",
+      "name": "Mosque Foundation",
+      "address": {
+        "street": "7360 West 93rd Street",
+        "city": "Bridgeview",
+        "state": "IL",
+        "zip": "60455",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.mosquefoundation.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7228415,
+        "lon": -87.802971
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662825023
+    },
+    {
+      "id": "way_662826568",
+      "name": "The Prayer Center of Orland Park",
+      "address": {
+        "street": "16530 104th Avenue",
+        "city": "Orland Park",
+        "state": "IL",
+        "zip": "60467",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://orlandparkprayercenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5895674,
+        "lon": -87.872411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662826568
+    },
+    {
+      "id": "way_680336587",
+      "name": "Nur-Allah Islamic Center",
+      "address": {
+        "street": "2040 East 46th Street",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46205",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8403941,
+        "lon": -86.1260973
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 680336587
+    },
+    {
+      "id": "way_683260302",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "2248 East 38th Street",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46218",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8256697,
+        "lon": -86.1242006
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 683260302
+    },
+    {
+      "id": "way_770782359",
+      "name": "Masjid Al-Islam",
+      "address": {
+        "street": "560 East North Frontage Road",
+        "city": "Bolingbrook",
+        "state": "IL",
+        "zip": "60440",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6983591,
+        "lon": -88.04407
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 770782359
+    },
+    {
+      "id": "way_864644972",
+      "name": "Islamic Center of Muncie",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2178985,
+        "lon": -85.4459622
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 864644972
+    },
+    {
+      "id": "way_935008194",
+      "name": "Universal Education Foundation",
+      "address": {
+        "street": "2223 Goshen Road",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "zip": "46808",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://ueffw.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1086061,
+        "lon": -85.1715997
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 935008194
+    },
+    {
+      "id": "way_952171228",
+      "name": "Islamic Center of Bloomington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.163336,
+        "lon": -86.510008
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 952171228
+    },
+    {
+      "id": "way_1026529975",
+      "name": "Masjid Noor",
+      "address": {
+        "street": "5355 Lafayette Road",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46254",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8488163,
+        "lon": -86.2587576
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1026529975
+    },
+    {
+      "id": "way_1059729098",
+      "name": "Alhuda Islamic Center of Indiana (AICI)",
+      "address": {
+        "street": "12213 Lantern Road",
+        "city": "Fishers",
+        "state": "in",
+        "zip": "46038",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9655505,
+        "lon": -86.0129377
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1059729098
+    },
+    {
+      "id": "way_1060228232",
+      "name": "South Suburban Islamic Center Of Harvey",
+      "address": {
+        "street": "15200 Broadway Avenue",
+        "city": "Harvey",
+        "state": "IL",
+        "zip": "60426",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/HarveyMasjid/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.613416,
+        "lon": -87.6449288
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1060228232
+    },
+    {
+      "id": "way_1082213154",
+      "name": "Mecca Center",
+      "address": {
+        "street": "16W560 91st Street",
+        "city": "Willowbrook",
+        "state": "IL",
+        "zip": "60627",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://meccacenter.org/",
+      "email": "info@meccacenter.org",
+      "coordinates": {
+        "lat": 41.7239426,
+        "lon": -87.9479798
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1082213154
+    },
+    {
+      "id": "way_1152961418",
+      "name": "Bosnian Islamic Cultural Center",
+      "address": {
+        "street": "3828 Mobile Ave",
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "zip": "46805",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1126947,
+        "lon": -85.1435154
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1152961418
+    },
+    {
+      "id": "way_1152962157",
+      "name": "Burmese Muslim Education & Community Center",
+      "address": {
+        "street": "2121 Seddlemeyer Avenue",
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "zip": "46816",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0209898,
+        "lon": -85.1059516
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1152962157
+    },
+    {
+      "id": "way_1248925523",
+      "name": "Islamic Center of Evansville",
+      "address": {
+        "street": "4200 Grimm Road",
+        "city": "Newburgh",
+        "state": "IN",
+        "zip": "47630",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9741133,
+        "lon": -87.4314845
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1248925523
+    },
+    {
+      "id": "way_1284233628",
+      "name": "Masjid Al-Istiqamah",
+      "address": {
+        "street": "7950 South Central Avenue",
+        "city": "Burbank",
+        "state": "IL",
+        "zip": "60459",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7472597,
+        "lon": -87.7611991
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1284233628
+    },
+    {
+      "id": "way_1305828003",
+      "name": "Ghousia Islamic Center",
+      "address": {
+        "street": "188 East 147th Street",
+        "city": "Harvey",
+        "state": "IL",
+        "zip": "60426",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://gicharvey.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6223673,
+        "lon": -87.6452594
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1305828003
+    },
+    {
+      "id": "way_1339650368",
+      "name": "Light of Islam Masjid",
+      "address": {
+        "street": "46 East 147th Street",
+        "city": "Harvey",
+        "state": "IL",
+        "zip": "60426",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.lightofislammasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6224248,
+        "lon": -87.6533939
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1339650368
+    },
+    {
+      "id": "way_1359913156",
+      "name": "Palos Islamic Center",
+      "address": {
+        "street": "12300 South 80th Avenue",
+        "city": "Palos Park",
+        "state": "IL",
+        "zip": "60464",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://palosic.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6668818,
+        "lon": -87.8166097
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1359913156
+    },
+    {
+      "id": "way_1380453683",
+      "name": "Light of Islam Mosque",
+      "address": {
+        "street": "301 South Cottage Grove Avenue",
+        "city": "Glenwood",
+        "state": "IL",
+        "zip": "60425",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5411428,
+        "lon": -87.5968163
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1380453683
+    }
+  ]
+}

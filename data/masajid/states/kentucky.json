@@ -1,0 +1,226 @@
+{
+  "state": "Kentucky",
+  "count": 10,
+  "masajid": [
+    {
+      "id": "node_7573398885",
+      "name": "Louisville Islamic Center of Compassion",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2909274,
+        "lon": -85.6788157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7573398885
+    },
+    {
+      "id": "way_247773305",
+      "name": "ICNK Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0002587,
+        "lon": -84.6494719
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 247773305
+    },
+    {
+      "id": "way_336614530",
+      "name": "The Muslim Communnity Center of Louisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2787133,
+        "lon": -85.5999067
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 336614530
+    },
+    {
+      "id": "way_337087172",
+      "name": "Al-Nur Mosque",
+      "address": {
+        "street": "2815 South 4th Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip": "40208",
+        "full": ""
+      },
+      "phone": "+1-502-614-6790",
+      "website": "https://www.alnurmosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2084234,
+        "lon": -85.7646745
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 337087172
+    },
+    {
+      "id": "way_338201774",
+      "name": "Alzahrah Islamic Center",
+      "address": {
+        "street": "4010 Bishop Lane",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1885657,
+        "lon": -85.6927237
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 338201774
+    },
+    {
+      "id": "way_403754977",
+      "name": "Islamic Center of Lexington",
+      "address": {
+        "street": "1240 Armstrong Mill Road",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9782063,
+        "lon": -84.4857396
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 403754977
+    },
+    {
+      "id": "way_817033594",
+      "name": "Muslim Association of Huntington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.416404,
+        "lon": -82.4203969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 817033594
+    },
+    {
+      "id": "way_911543587",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "1545 Russell Cave Road",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40505",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidbilalky.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0736797,
+        "lon": -84.475228
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 911543587
+    },
+    {
+      "id": "way_1119685877",
+      "name": "Islamic Center of Elizabethtown",
+      "address": {
+        "street": "2710 Ring Road",
+        "city": "Elizabethtown",
+        "state": "KY",
+        "zip": "42701",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7247133,
+        "lon": -85.8381592
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1119685877
+    },
+    {
+      "id": "way_1248925523",
+      "name": "Islamic Center of Evansville",
+      "address": {
+        "street": "4200 Grimm Road",
+        "city": "Newburgh",
+        "state": "IN",
+        "zip": "47630",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9741133,
+        "lon": -87.4314845
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1248925523
+    }
+  ]
+}

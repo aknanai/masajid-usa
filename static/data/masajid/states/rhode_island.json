@@ -1,0 +1,28 @@
+{
+  "state": "Rhode Island",
+  "count": 1,
+  "masajid": [
+    {
+      "id": "node_357268214",
+      "name": "Muslim Community Center of Rhode Island",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Rhode Island",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7952603,
+        "lon": -71.4094042
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357268214
+    }
+  ]
+}

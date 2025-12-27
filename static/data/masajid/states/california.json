@@ -1,0 +1,2558 @@
+{
+  "state": "California",
+  "count": 116,
+  "masajid": [
+    {
+      "id": "node_347095196",
+      "name": "As-Salam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8030002,
+        "lon": -122.2852014
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 347095196
+    },
+    {
+      "id": "node_358820583",
+      "name": "Bay Area Islamic Center",
+      "address": {
+        "street": "330 Carlston Street",
+        "city": "Richmond",
+        "state": "CA",
+        "zip": "94805",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9326784,
+        "lon": -122.3210499
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358820583
+    },
+    {
+      "id": "node_358820826",
+      "name": "Muhammad Mosque 72",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.93548,
+        "lon": -122.365249
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358820826
+    },
+    {
+      "id": "node_358836008",
+      "name": "Islamic Center of Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5694664,
+        "lon": -121.5066257
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358836008
+    },
+    {
+      "id": "node_358836280",
+      "name": "Masjid Annur",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://masjidannur.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5393509,
+        "lon": -121.4174531
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358836280
+    },
+    {
+      "id": "node_358837222",
+      "name": "Masjid Ya Rasool Allah",
+      "address": {
+        "street": "825 S Central ave",
+        "city": "lodi",
+        "state": "CA",
+        "zip": "95240",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1238081,
+        "lon": -121.2655027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358837222
+    },
+    {
+      "id": "node_358837946",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9765903,
+        "lon": -121.2180006
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358837946
+    },
+    {
+      "id": "node_358843095",
+      "name": "Islamic Development Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.937517,
+        "lon": -117.2355947
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358843095
+    },
+    {
+      "id": "node_358849885",
+      "name": "Islamic Society of Monterey County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.5938242,
+        "lon": -121.8799762
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358849885
+    },
+    {
+      "id": "node_358856206",
+      "name": "Shia Ithnaasheri Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9683333,
+        "lon": -118.1022222
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358856206
+    },
+    {
+      "id": "node_358856715",
+      "name": "Ahmadiyya Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9125,
+        "lon": -118.3441667
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358856715
+    },
+    {
+      "id": "node_358856730",
+      "name": "Islamic Center of Hawthorne",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9213889,
+        "lon": -118.3538889
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358856730
+    },
+    {
+      "id": "node_358856812",
+      "name": "Masjid of Antelope Valley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://aiiav.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.5797222,
+        "lon": -118.1086111
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358856812
+    },
+    {
+      "id": "node_358859977",
+      "name": "Al Rribat Al Aslami",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7708073,
+        "lon": -117.043655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358859977
+    },
+    {
+      "id": "node_358860296",
+      "name": "Muhammad Mosque Eight",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7066577,
+        "lon": -117.1288173
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358860296
+    },
+    {
+      "id": "node_358860870",
+      "name": "Islamic Center of Lakeside",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.865053,
+        "lon": -116.956789
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358860870
+    },
+    {
+      "id": "node_919333938",
+      "name": "Masjid Al-Fatiha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1242029,
+        "lon": -117.8896045
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 919333938
+    },
+    {
+      "id": "node_1138636726",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1299338,
+        "lon": -115.071606
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1138636726
+    },
+    {
+      "id": "node_1562062770",
+      "name": "Islamic Center of Riverside",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.978857,
+        "lon": -117.33443
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1562062770
+    },
+    {
+      "id": "node_3291990034",
+      "name": "Islamic Center of Santa Cruz",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.9677011,
+        "lon": -121.984814
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3291990034
+    },
+    {
+      "id": "node_3888221045",
+      "name": "Islamic Center of Reseda",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamiccenterofreseda.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1863437,
+        "lon": -118.5296952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3888221045
+    },
+    {
+      "id": "node_4641017624",
+      "name": "Islamic Center of Inglewood",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9530392,
+        "lon": -118.3509708
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4641017624
+    },
+    {
+      "id": "node_4913887953",
+      "name": "Islamic Center of Mill Valley",
+      "address": {
+        "street": "62 Shell Road",
+        "city": "Mill Valley",
+        "state": "CA",
+        "zip": "94941",
+        "full": ""
+      },
+      "phone": "+1-415-383-0617",
+      "website": "https://mvmasjid.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9064825,
+        "lon": -122.5221382
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4913887953
+    },
+    {
+      "id": "node_4979088124",
+      "name": "Logia masónica Ignacio Zaragoza",
+      "address": {
+        "street": "Avenida Ignacio Zaragoza",
+        "city": "Tijuana",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5266961,
+        "lon": -117.0364753
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4979088124
+    },
+    {
+      "id": "node_5150854578",
+      "name": "Taha Services",
+      "address": {
+        "street": "1285 Hammerwood Avenue",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.tahausa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4096064,
+        "lon": -121.9906328
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5150854578
+    },
+    {
+      "id": "node_6180243168",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6801449,
+        "lon": -121.7670635
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6180243168
+    },
+    {
+      "id": "node_6611351232",
+      "name": "Masjid Abu Bakr Al-Siddiq",
+      "address": {
+        "street": "29414 Mission Boulevard",
+        "city": "Hayward",
+        "state": "CA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6321251,
+        "lon": -122.0485436
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6611351232
+    },
+    {
+      "id": "node_6768395461",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1398669,
+        "lon": -117.9810568
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6768395461
+    },
+    {
+      "id": "node_6989043449",
+      "name": "Ar-Rahman Islamic Center",
+      "address": {
+        "street": "7641 Sierra Avenue",
+        "city": "Fontana",
+        "state": "CA",
+        "zip": "92336",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1150035,
+        "lon": -117.434793
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6989043449
+    },
+    {
+      "id": "node_7831229814",
+      "name": "Islamic Center of Castroville in Castroville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7681875,
+        "lon": -121.76037
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7831229814
+    },
+    {
+      "id": "node_8226977174",
+      "name": "South Bay Islamic Association",
+      "address": {
+        "street": "2345 Harris Way",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95131",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4029072,
+        "lon": -121.9053011
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8226977174
+    },
+    {
+      "id": "node_8258604837",
+      "name": "Ismaili Cultural Center",
+      "address": {
+        "street": "691 South Milpitas Boulevard",
+        "city": "Milpitas",
+        "state": "CA",
+        "zip": "95035",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4235296,
+        "lon": -121.8944765
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8258604837
+    },
+    {
+      "id": "node_8262966505",
+      "name": "Milpitas Musallah",
+      "address": {
+        "street": "90 Dempsey Road",
+        "city": "Milpitas",
+        "state": "CA",
+        "zip": "95035",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4335176,
+        "lon": -121.8855331
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8262966505
+    },
+    {
+      "id": "node_8403520487",
+      "name": "King Fahad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0115344,
+        "lon": -118.4102487
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8403520487
+    },
+    {
+      "id": "node_8723308719",
+      "name": "Masjid Darus Salaam",
+      "address": {
+        "street": "374 Turquoise Street",
+        "city": "Milpitas",
+        "state": "CA",
+        "zip": "95035",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://alhilaal.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4266066,
+        "lon": -121.8962479
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8723308719
+    },
+    {
+      "id": "node_9333226913",
+      "name": "Masjidul Taqwa San Diego",
+      "address": {
+        "street": "2575 Imperial Avenue",
+        "city": "San Diego",
+        "state": "California",
+        "zip": "92113",
+        "full": ""
+      },
+      "phone": "+1-619-239-6738",
+      "website": "http://www.masjidultaqwasandiego.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7061023,
+        "lon": -117.138477
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9333226913
+    },
+    {
+      "id": "node_10117355746",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0109468,
+        "lon": -118.2562323
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10117355746
+    },
+    {
+      "id": "node_11409312098",
+      "name": "San Ramon Valley Islamic Center",
+      "address": {
+        "street": "2232",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7767909,
+        "lon": -121.9692118
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11409312098
+    },
+    {
+      "id": "node_12990212885",
+      "name": "Saba",
+      "address": {
+        "street": "4415 Fortran Court",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95134",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://saba-igc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4212243,
+        "lon": -121.9585473
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12990212885
+    },
+    {
+      "id": "node_13008501812",
+      "name": "Islamic Society Of Santa Barbara",
+      "address": {
+        "street": "302 North Los Carneros Road",
+        "city": "Goleta",
+        "state": "California",
+        "zip": "93117",
+        "full": ""
+      },
+      "phone": "+1-805-317-4277",
+      "website": "https://islamsb.org/",
+      "email": "Contactissb@gmail.com",
+      "coordinates": {
+        "lat": 34.4404737,
+        "lon": -119.852525
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13008501812
+    },
+    {
+      "id": "node_13099129562",
+      "name": "Muslim Community Association",
+      "address": {
+        "street": "3003 Scott Boulevard",
+        "city": "Santa Clara",
+        "state": "CA",
+        "zip": "95054",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.mcabayarea.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3772184,
+        "lon": -121.9594714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13099129562
+    },
+    {
+      "id": "node_13233657095",
+      "name": "Badr Islamic Center",
+      "address": {
+        "street": "7150 North Milburn Avenue",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93722",
+        "full": ""
+      },
+      "phone": "+1-559-274-0906",
+      "website": "https://masjidbadr.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8391824,
+        "lon": -119.8783759
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13233657095
+    },
+    {
+      "id": "node_13249026083",
+      "name": "Maryam Masjid ICNA Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8753012,
+        "lon": -117.5242568
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13249026083
+    },
+    {
+      "id": "node_13249030421",
+      "name": "Islamic Center of Jurupa Valley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9959902,
+        "lon": -117.5214227
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13249030421
+    },
+    {
+      "id": "node_13361415470",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "701 South Hutchins Street",
+        "city": "Lodi",
+        "state": "CA",
+        "zip": "95240",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.125926,
+        "lon": -121.2795343
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13361415470
+    },
+    {
+      "id": "way_32829570",
+      "name": "Islamic Cultural Center of Northern California",
+      "address": {
+        "street": "1453 Madison Street",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iccnc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8023404,
+        "lon": -122.2640805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 32829570
+    },
+    {
+      "id": "way_32864985",
+      "name": "Islamic Society of San Francisco",
+      "address": {
+        "street": "20 Jones Street",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamsf.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7814413,
+        "lon": -122.4118068
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 32864985
+    },
+    {
+      "id": "way_41171303",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.9676442,
+        "lon": -121.9847181
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 41171303
+    },
+    {
+      "id": "way_61465037",
+      "name": "Masjid Fresno",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8082712,
+        "lon": -119.7516539
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 61465037
+    },
+    {
+      "id": "way_93677010",
+      "name": "Yaseen Foundation",
+      "address": {
+        "street": "621 Masonic Way",
+        "city": "Belmont",
+        "state": "CA",
+        "zip": "94002",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://yaseen.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5226739,
+        "lon": -122.2745003
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 93677010
+    },
+    {
+      "id": "way_122089656",
+      "name": "Al Masjid Al Jamea",
+      "address": {
+        "street": "33330 Peace Terrace",
+        "city": "Fremont",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5808102,
+        "lon": -122.0547439
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 122089656
+    },
+    {
+      "id": "way_148428441",
+      "name": "Al Tawheed Mosque",
+      "address": {
+        "street": "1227 Sutter Street",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7874343,
+        "lon": -122.4206115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 148428441
+    },
+    {
+      "id": "way_178540646",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3504818,
+        "lon": -121.9554364
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 178540646
+    },
+    {
+      "id": "way_219428907",
+      "name": "Mosque of Nasreen",
+      "address": {
+        "street": "1136 Walnut",
+        "city": "",
+        "state": "CA",
+        "zip": "",
+        "full": "1136 Walnut"
+      },
+      "phone": "",
+      "website": "http://mosqueofnasreen.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2865496,
+        "lon": -120.6623532
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 219428907
+    },
+    {
+      "id": "way_254084682",
+      "name": "Islamic Center of Davis",
+      "address": {
+        "street": "539 Russell Boulevard",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.davismasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5465108,
+        "lon": -121.756333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 254084682
+    },
+    {
+      "id": "way_265367795",
+      "name": "Berkeley Masjid",
+      "address": {
+        "street": "2716 Derby Street",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.berkeleymasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8619319,
+        "lon": -122.2526933
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 265367795
+    },
+    {
+      "id": "way_273163284",
+      "name": "Islamic Center of San Francisco",
+      "address": {
+        "street": "400 Crescent Avenue",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94110",
+        "full": ""
+      },
+      "phone": "+1-415-282-1951",
+      "website": "https://www.icofsf.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7347308,
+        "lon": -122.4166813
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 273163284
+    },
+    {
+      "id": "way_285842331",
+      "name": "Islamic Center of Chico",
+      "address": {
+        "street": "1316 Nord Avenue",
+        "city": "Chico",
+        "state": "CA",
+        "zip": "95926",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.734023,
+        "lon": -121.8626478
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 285842331
+    },
+    {
+      "id": "way_288255550",
+      "name": "Masjid Al Eman",
+      "address": {
+        "street": "2842 Country Club Boulevard",
+        "city": "Stockton",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9630214,
+        "lon": -121.3389365
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 288255550
+    },
+    {
+      "id": "way_310320451",
+      "name": "Lighthouse Mosque",
+      "address": {
+        "street": "620 42nd Street",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.lighthousemosque.org/",
+      "email": "thelighthousemosque@gmail.com",
+      "coordinates": {
+        "lat": 37.831622,
+        "lon": -122.267671
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 310320451
+    },
+    {
+      "id": "way_311711045",
+      "name": "Islamic Center of Merced",
+      "address": {
+        "street": "2322 North Ashby Road",
+        "city": "Merced",
+        "state": "California",
+        "zip": "95348",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3218197,
+        "lon": -120.5395375
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 311711045
+    },
+    {
+      "id": "way_338211771",
+      "name": "South Valley Islamic Center",
+      "address": {
+        "street": "14770 Columbet Avenue",
+        "city": "San Martin",
+        "state": "CA",
+        "zip": "94046",
+        "full": ""
+      },
+      "phone": "+1-408-634-5660",
+      "website": "https://svic.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.1099885,
+        "lon": -121.6018155
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 338211771
+    },
+    {
+      "id": "way_362331030",
+      "name": "West Valley Muslim Association",
+      "address": {
+        "street": "16769 Farley Road",
+        "city": "Los Gatos",
+        "state": "CA",
+        "zip": "95032",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.wvmuslim.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2406589,
+        "lon": -121.9634745
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 362331030
+    },
+    {
+      "id": "way_372839965",
+      "name": "Islamic Center of Fremont",
+      "address": {
+        "street": "4039 Irvington Avenue",
+        "city": "Fremont",
+        "state": "CA",
+        "zip": "94538",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5313946,
+        "lon": -121.9597159
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 372839965
+    },
+    {
+      "id": "way_392332872",
+      "name": "SALAM",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.salamcenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6473448,
+        "lon": -121.351168
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 392332872
+    },
+    {
+      "id": "way_396116789",
+      "name": "Dawoodi Bohra Al Masjid Al Ezzi Anjuman-e-Burhanee",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1736493,
+        "lon": -118.6436906
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 396116789
+    },
+    {
+      "id": "way_397125289",
+      "name": "Oakland Islamic Center",
+      "address": {
+        "street": "515 31st Street",
+        "city": "Oakland",
+        "state": "California",
+        "zip": "94609",
+        "full": ""
+      },
+      "phone": "+1 510 808 5284",
+      "website": "http://oaklandislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8198018,
+        "lon": -122.2677563
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 397125289
+    },
+    {
+      "id": "way_412475901",
+      "name": "Masjid Omar ibn Al-Khattab",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0185669,
+        "lon": -118.2924402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 412475901
+    },
+    {
+      "id": "way_420968977",
+      "name": "Masjid Al-Falah",
+      "address": {
+        "street": "309 South Serrano Avenue",
+        "city": "",
+        "state": "CA",
+        "zip": "90020",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.068638,
+        "lon": -118.3069725
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 420968977
+    },
+    {
+      "id": "way_430318012",
+      "name": "MTO Shahmaghsoudi (School of Islamic Sufism)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.2018552,
+        "lon": -118.5257954
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 430318012
+    },
+    {
+      "id": "way_430509997",
+      "name": "Granada Hills Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.2785755,
+        "lon": -118.5165247
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 430509997
+    },
+    {
+      "id": "way_430780177",
+      "name": "Islamic Center Northridge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.223597,
+        "lon": -118.5531562
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 430780177
+    },
+    {
+      "id": "way_431416813",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1862886,
+        "lon": -118.5297164
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 431416813
+    },
+    {
+      "id": "way_431668025",
+      "name": "Imam Bukhari Mosque",
+      "address": {
+        "street": "Parthenia Street",
+        "city": "North Hills",
+        "state": "CA",
+        "zip": "91343",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.2280031,
+        "lon": -118.474704
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 431668025
+    },
+    {
+      "id": "way_432113452",
+      "name": "Islamic Center of Burbank",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.2136945,
+        "lon": -118.3597473
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 432113452
+    },
+    {
+      "id": "way_445857180",
+      "name": "Muslim Community Center (MCC) - East Bay",
+      "address": {
+        "street": "5724 West Las Positas Boulevard",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-925-485-1786",
+      "website": "https://mcceastbay.org",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6855217,
+        "lon": -121.8911404
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 445857180
+    },
+    {
+      "id": "way_449976625",
+      "name": "La Mirada Masjid",
+      "address": {
+        "street": "14225 Imperial Highway",
+        "city": "La Mirada",
+        "state": "CA",
+        "zip": "90638",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.masjidlamirada.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9174639,
+        "lon": -118.0283588
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 449976625
+    },
+    {
+      "id": "way_449978240",
+      "name": "Islamic Society of Downey",
+      "address": {
+        "street": "11022 Old River School Road",
+        "city": "Downey",
+        "state": "CA",
+        "zip": "90241",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "info@isodla.org",
+      "coordinates": {
+        "lat": 33.9490006,
+        "lon": -118.1470618
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 449978240
+    },
+    {
+      "id": "way_450374899",
+      "name": "Bab-Ul-Ilm Islamic Center",
+      "address": {
+        "street": "5950 Heliotrope Circle",
+        "city": "Maywood",
+        "state": "CA",
+        "zip": "90270",
+        "full": ""
+      },
+      "phone": "+1-213-909-6972",
+      "website": "http://www.babulilm.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9852914,
+        "lon": -118.1794611
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 450374899
+    },
+    {
+      "id": "way_450812084",
+      "name": "Islamic Center of Midcities",
+      "address": {
+        "street": "12428 Benedict Avenue",
+        "city": "Downey",
+        "state": "CA",
+        "zip": "90242",
+        "full": ""
+      },
+      "phone": "+1-562-583-9670",
+      "website": "https://downeymasjid.com/",
+      "email": "info@downeymasjid.com",
+      "coordinates": {
+        "lat": 33.917978,
+        "lon": -118.1186732
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 450812084
+    },
+    {
+      "id": "way_451192098",
+      "name": "Masroor Mosque",
+      "address": {
+        "street": "7419 Passons Boulevard",
+        "city": "Pico Rivera",
+        "state": "CA",
+        "zip": "90660",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9728578,
+        "lon": -118.0947939
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 451192098
+    },
+    {
+      "id": "way_460261835",
+      "name": "Baitus Salaam Mosque",
+      "address": {
+        "street": "520 Pacifica Avenue",
+        "city": "Bay Point",
+        "state": "CA",
+        "zip": "94565",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0346267,
+        "lon": -121.9758185
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 460261835
+    },
+    {
+      "id": "way_462266622",
+      "name": "Islamic Center of Alameda",
+      "address": {
+        "street": "901 Santa Clara Avenue",
+        "city": "Alameda",
+        "state": "California",
+        "zip": "94501",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icabayarea.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7733761,
+        "lon": -122.270209
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 462266622
+    },
+    {
+      "id": "way_471887812",
+      "name": "Islamic Center of Glendale",
+      "address": {
+        "street": "700 S. Adams St.",
+        "city": "Glendale",
+        "state": "CA",
+        "zip": "91205",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1387408,
+        "lon": -118.2414103
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 471887812
+    },
+    {
+      "id": "way_472619292",
+      "name": "Islamic Center of Santa Clarita Valley",
+      "address": {
+        "street": "28877 Bouquet Canyon Road",
+        "city": "Santa Clarita",
+        "state": "CA",
+        "zip": "91390",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icscv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.4620873,
+        "lon": -118.4837913
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 472619292
+    },
+    {
+      "id": "way_475900673",
+      "name": "Masjid Abu Bakar",
+      "address": {
+        "street": "948 62nd Street",
+        "city": "",
+        "state": "CA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8463325,
+        "lon": -122.2771532
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 475900673
+    },
+    {
+      "id": "way_480411836",
+      "name": "Masjid Al-Rahman",
+      "address": {
+        "street": "1110 36th Street",
+        "city": "Richmond",
+        "state": "CA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9495512,
+        "lon": -122.3326262
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 480411836
+    },
+    {
+      "id": "way_482430811",
+      "name": "Islamic Center of Manteca",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://icomanteca.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7886673,
+        "lon": -121.2334839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 482430811
+    },
+    {
+      "id": "way_544908009",
+      "name": "Islamic Society of Santa Rosa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4430969,
+        "lon": -122.7165293
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 544908009
+    },
+    {
+      "id": "way_550408108",
+      "name": "Al-Noor Foundation",
+      "address": {
+        "street": "14522 Goldenwest Street",
+        "city": "Westminster",
+        "state": "CA",
+        "zip": "92683",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7512827,
+        "lon": -118.0064907
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 550408108
+    },
+    {
+      "id": "way_649296505",
+      "name": "Jafaria Islamic Society",
+      "address": {
+        "street": "1546 East La Palma Avenue",
+        "city": "Anaheim",
+        "state": "CA",
+        "zip": "92805",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.jafaria.org/jafaria_site/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8469003,
+        "lon": -117.8956131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 649296505
+    },
+    {
+      "id": "way_651855302",
+      "name": "Masjid As-Sabur",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5383705,
+        "lon": -121.4480767
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 651855302
+    },
+    {
+      "id": "way_672821286",
+      "name": "Islamic Center of Vacaville",
+      "address": {
+        "street": "131 Bush Street",
+        "city": "Vacaville",
+        "state": "CA",
+        "zip": "95688",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.3579466,
+        "lon": -121.9821471
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 672821286
+    },
+    {
+      "id": "way_695638926",
+      "name": "Dawoodi Bohra Masjid",
+      "address": {
+        "street": "1121 Old Canyon Road",
+        "city": "Fremont",
+        "state": "CA",
+        "zip": "94536",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.582303,
+        "lon": -121.9634699
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 695638926
+    },
+    {
+      "id": "way_779735186",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.978936,
+        "lon": -117.3344796
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 779735186
+    },
+    {
+      "id": "way_878861561",
+      "name": "Evergreen Islamic Center",
+      "address": {
+        "street": "2486 Ruby Avenue",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95148",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3403783,
+        "lon": -121.7852242
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 878861561
+    },
+    {
+      "id": "way_942674800",
+      "name": "Alsabeel Masjid Noor Al Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7824382,
+        "lon": -122.4120676
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 942674800
+    },
+    {
+      "id": "way_1017985625",
+      "name": "Islamic Information Center - مسجد النور",
+      "address": {
+        "street": "1610 East Russell Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89119",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0894609,
+        "lon": -115.130642
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1017985625
+    },
+    {
+      "id": "way_1035022847",
+      "name": "Masjid Al-Ansar",
+      "address": {
+        "street": "4014 Winona Avenue",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92105",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7498311,
+        "lon": -117.0883013
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1035022847
+    },
+    {
+      "id": "way_1062187399",
+      "name": "Masjid Al-Ansar",
+      "address": {
+        "street": "1717 Brookhurst Street",
+        "city": "Anaheim",
+        "state": "CA",
+        "zip": "92804",
+        "full": ""
+      },
+      "phone": "+1-714-535-1100",
+      "website": "https://www.wcismasjid.com/",
+      "email": "office@wcismasjid.com",
+      "coordinates": {
+        "lat": 33.805618,
+        "lon": -117.9595158
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1062187399
+    },
+    {
+      "id": "way_1064747315",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1150046,
+        "lon": -117.4347528
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1064747315
+    },
+    {
+      "id": "way_1098746879",
+      "name": "Masjid Dar Al-Taqwa",
+      "address": {
+        "street": "6556 Hemlock Avenue",
+        "city": "Fontana",
+        "state": "CA",
+        "zip": "92336",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.daraltaqwa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1349899,
+        "lon": -117.4757273
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1098746879
+    },
+    {
+      "id": "way_1175149366",
+      "name": "Islamic Center of Livermore",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iclivermore.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.680156,
+        "lon": -121.7548274
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1175149366
+    },
+    {
+      "id": "way_1188708554",
+      "name": "Bell Islamic Center",
+      "address": {
+        "street": "5250 Gage Avenue",
+        "city": "Bell",
+        "state": "CA",
+        "zip": "90201",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.facebook.com/p/Bell-Islamic-Center-100066382398353/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9759458,
+        "lon": -118.1712145
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1188708554
+    },
+    {
+      "id": "way_1197300816",
+      "name": "Baitul Hameed Mosque",
+      "address": {
+        "street": "11941 Ramona Avenue",
+        "city": "Chino",
+        "state": "CA",
+        "zip": "91710",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0367423,
+        "lon": -117.7059005
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1197300816
+    },
+    {
+      "id": "way_1247400173",
+      "name": "Baitul Tauheed Mosque",
+      "address": {
+        "street": "6547 West Cheyenne Avenue",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2181669,
+        "lon": -115.2373845
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1247400173
+    },
+    {
+      "id": "way_1280732802",
+      "name": "Al-Mumtaz Institute",
+      "address": {
+        "street": "5056 Sunrise Boulevard",
+        "city": "Fair Oaks",
+        "state": "CA",
+        "zip": "95628",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6586027,
+        "lon": -121.271873
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1280732802
+    },
+    {
+      "id": "way_1314467251",
+      "name": "Lodi Mosque",
+      "address": {
+        "street": "210 Poplar Street",
+        "city": "lodi",
+        "state": "CA",
+        "zip": "95240",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.119147,
+        "lon": -121.2690746
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1314467251
+    },
+    {
+      "id": "way_1328293431",
+      "name": "Islamic Center of Conejo Valley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iccv.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1785103,
+        "lon": -118.9334178
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1328293431
+    },
+    {
+      "id": "way_1382146897",
+      "name": "Islamic Center of Modesto",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6566234,
+        "lon": -121.0330427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1382146897
+    },
+    {
+      "id": "way_1393089770",
+      "name": "Islamic Center of Victor Valley",
+      "address": {
+        "street": "15112 Mojave Drive",
+        "city": "Victorville",
+        "state": "CA",
+        "zip": "92395",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.5256215,
+        "lon": -117.3001628
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1393089770
+    },
+    {
+      "id": "way_1442629344",
+      "name": "Islamic Center of San Diego",
+      "address": {
+        "street": "7050 Eckstrom Avenue",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92111",
+        "full": ""
+      },
+      "phone": "+1-858-278-5240",
+      "website": "https://icsd.org",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8205876,
+        "lon": -117.1654603
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1442629344
+    },
+    {
+      "id": "way_1454283324",
+      "name": "Masjid An-Nur (Islamic Center Of Mid City)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7486932,
+        "lon": -117.087312
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1454283324
+    },
+    {
+      "id": "relation_2172108",
+      "name": "Islamic Society of Coachella Valley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6933467,
+        "lon": -116.1875924
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 2172108
+    },
+    {
+      "id": "relation_6336076",
+      "name": "Islamic Center of Southern California",
+      "address": {
+        "street": "434 South Vermont Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90020",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0664084,
+        "lon": -118.291235
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 6336076
+    },
+    {
+      "id": "relation_18239556",
+      "name": "Islamic Community Center of Redlands",
+      "address": {
+        "street": "26830 Beaumont Avenue",
+        "city": "Redlands",
+        "state": "CA",
+        "zip": "92373",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0385329,
+        "lon": -117.2177651
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 18239556
+    }
+  ]
+}

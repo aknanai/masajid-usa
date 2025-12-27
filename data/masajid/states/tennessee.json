@@ -1,0 +1,446 @@
+{
+  "state": "Tennessee",
+  "count": 20,
+  "masajid": [
+    {
+      "id": "node_356899643",
+      "name": "Masjid Al-MuMinun",
+      "address": {
+        "street": "4412 South Third Street",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38109",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidalmuminun.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.027537,
+        "lon": -90.080338
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356899643
+    },
+    {
+      "id": "node_356899645",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "3529 Mynders Avenue",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38111",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.117416,
+        "lon": -89.944375
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356899645
+    },
+    {
+      "id": "node_356899695",
+      "name": "Muslim Students Association of Memphis",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1175533,
+        "lon": -89.9445091
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 356899695
+    },
+    {
+      "id": "node_2302448321",
+      "name": "Islamic Center of Murfreesboro",
+      "address": {
+        "street": "2605 Veals Road",
+        "city": "Murfreesboro",
+        "state": "Tennessee",
+        "zip": "37129",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.8136895,
+        "lon": -86.3497098
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2302448321
+    },
+    {
+      "id": "node_4944717501",
+      "name": "Nation of Islam Muhammad Mosque",
+      "address": {
+        "street": "873 Vance Avenue",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38126",
+        "full": ""
+      },
+      "phone": "+1-901-523-2560",
+      "website": "https://www.noi.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1332565,
+        "lon": -90.0325041
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4944717501
+    },
+    {
+      "id": "node_4944717503",
+      "name": "Memphis Islamic Center",
+      "address": {
+        "street": "10225 Humphrey Road",
+        "city": "Cordova",
+        "state": "TN",
+        "zip": "38018",
+        "full": ""
+      },
+      "phone": "+1-901-231-9340",
+      "website": "https://www.memphisislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1453826,
+        "lon": -89.7217246
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4944717503
+    },
+    {
+      "id": "node_4944717504",
+      "name": "Masjid Al-Salam - Muslim Society of Memphis",
+      "address": {
+        "street": "1065 Stratford Road",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38122",
+        "full": ""
+      },
+      "phone": "+1-901-685-8906",
+      "website": "https://www.memphismuslims.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1602162,
+        "lon": -89.9065852
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4944717504
+    },
+    {
+      "id": "node_4944717507",
+      "name": "Masjid At-Taqwa",
+      "address": {
+        "street": "1819 Winchester Road",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38116",
+        "full": ""
+      },
+      "phone": "+1-901-348-0088",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0531701,
+        "lon": -90.0038814
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4944717507
+    },
+    {
+      "id": "node_4944717508",
+      "name": "Jamatkhana",
+      "address": {
+        "street": "10660 Collierville Road",
+        "city": "Collierville",
+        "state": "TN",
+        "zip": "38107",
+        "full": ""
+      },
+      "phone": "+1-901-853-9232",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0293299,
+        "lon": -89.707466
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4944717508
+    },
+    {
+      "id": "way_525062062",
+      "name": "The Islamic Center of Chattanooga",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0322701,
+        "lon": -85.2958168
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 525062062
+    },
+    {
+      "id": "way_626683128",
+      "name": "Knoxville Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-865-690-7755",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9435145,
+        "lon": -84.1565046
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 626683128
+    },
+    {
+      "id": "way_628819098",
+      "name": "Al-Mahdi Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1357141,
+        "lon": -86.761133
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 628819098
+    },
+    {
+      "id": "way_638083992",
+      "name": "Islamic Center of Nashville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1242804,
+        "lon": -86.7899956
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 638083992
+    },
+    {
+      "id": "way_693814875",
+      "name": "Islamic Society of Greater Chattanooga",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.048643,
+        "lon": -85.1465431
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 693814875
+    },
+    {
+      "id": "way_740008558",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "Mynders Avenue",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38111",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1174601,
+        "lon": -89.9445344
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 740008558
+    },
+    {
+      "id": "way_818841370",
+      "name": "Al Rasool Center",
+      "address": {
+        "street": "5315 Stage Road",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38134",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.alrasoolcenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2054028,
+        "lon": -89.8865007
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 818841370
+    },
+    {
+      "id": "way_914767710",
+      "name": "Mahmood Mosque",
+      "address": {
+        "street": "101 Maple Street",
+        "city": "Smyrna",
+        "state": "TN",
+        "zip": "37167",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://alislam.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9836808,
+        "lon": -86.5169042
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 914767710
+    },
+    {
+      "id": "way_945609002",
+      "name": "Islamic Center Of Asheville",
+      "address": {
+        "street": "941 Old Fairview Road",
+        "city": "Asheville",
+        "state": "NC",
+        "zip": "28803",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5645826,
+        "lon": -82.5038689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 945609002
+    },
+    {
+      "id": "way_1299129708",
+      "name": "Islamic Center of Johnson City",
+      "address": {
+        "street": "3010 Antioch Road",
+        "city": "Johnson City",
+        "state": "TN",
+        "zip": "37604",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2854465,
+        "lon": -82.4050609
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1299129708
+    },
+    {
+      "id": "way_1322145944",
+      "name": "Al-Farooq Islamic Center",
+      "address": {
+        "street": "67 Thompson Lane",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37211",
+        "full": ""
+      },
+      "phone": "+1-615-313-8844",
+      "website": "https://www.al-farooqcenter.org",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1083333,
+        "lon": -86.7303724
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1322145944
+    }
+  ]
+}

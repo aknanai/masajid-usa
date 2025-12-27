@@ -1,0 +1,138 @@
+{
+  "state": "Oklahoma",
+  "count": 6,
+  "masajid": [
+    {
+      "id": "node_359001701",
+      "name": "Masojid Religious Worship Temple",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3978685,
+        "lon": -94.4085477
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 359001701
+    },
+    {
+      "id": "node_1057208032",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6607971,
+        "lon": -97.4752765
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1057208032
+    },
+    {
+      "id": "node_4351595082",
+      "name": "Islamic Society of Norman",
+      "address": {
+        "street": "420 East Lindsey Street",
+        "city": "Norman",
+        "state": "OK",
+        "zip": "73069",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://isnok.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2035954,
+        "lon": -97.4371735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4351595082
+    },
+    {
+      "id": "way_428174400",
+      "name": "Islamic Center of Amarillo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2113128,
+        "lon": -101.9108193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 428174400
+    },
+    {
+      "id": "way_440409724",
+      "name": "Islamic Society of Stillwater",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1292743,
+        "lon": -97.0699697
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 440409724
+    },
+    {
+      "id": "way_1243245605",
+      "name": "Islamic Society of Tulsa: Masjid Al-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0959336,
+        "lon": -95.9118923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1243245605
+    }
+  ]
+}

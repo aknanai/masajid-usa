@@ -1,0 +1,138 @@
+{
+  "state": "Nevada",
+  "count": 6,
+  "masajid": [
+    {
+      "id": "node_1138636726",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1299338,
+        "lon": -115.071606
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1138636726
+    },
+    {
+      "id": "node_13233657095",
+      "name": "Badr Islamic Center",
+      "address": {
+        "street": "7150 North Milburn Avenue",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93722",
+        "full": ""
+      },
+      "phone": "+1-559-274-0906",
+      "website": "https://masjidbadr.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8391824,
+        "lon": -119.8783759
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13233657095
+    },
+    {
+      "id": "way_61465037",
+      "name": "Masjid Fresno",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8082712,
+        "lon": -119.7516539
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 61465037
+    },
+    {
+      "id": "way_1017985625",
+      "name": "Islamic Information Center - مسجد النور",
+      "address": {
+        "street": "1610 East Russell Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89119",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0894609,
+        "lon": -115.130642
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1017985625
+    },
+    {
+      "id": "way_1247400173",
+      "name": "Baitul Tauheed Mosque",
+      "address": {
+        "street": "6547 West Cheyenne Avenue",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2181669,
+        "lon": -115.2373845
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1247400173
+    },
+    {
+      "id": "way_1275869672",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "2075 Airway Avenue",
+        "city": "Kingman",
+        "state": "AZ",
+        "zip": "86409",
+        "full": ""
+      },
+      "phone": "+1-928-757-8822",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2252213,
+        "lon": -114.0295594
+      },
+      "denomination": "",
+      "opening_hours": "24/7",
+      "osm_type": "way",
+      "osm_id": 1275869672
+    }
+  ]
+}

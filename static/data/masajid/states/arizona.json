@@ -1,0 +1,468 @@
+{
+  "state": "Arizona",
+  "count": 21,
+  "masajid": [
+    {
+      "id": "node_11715606348",
+      "name": "Ibadurahman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4658117,
+        "lon": -111.9722747
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11715606348
+    },
+    {
+      "id": "node_11946151199",
+      "name": "Ismaili Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5061802,
+        "lon": -112.0349318
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11946151199
+    },
+    {
+      "id": "way_34992640",
+      "name": "Islamic Center of Tucson",
+      "address": {
+        "street": "901 East 1st Street",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85719",
+        "full": ""
+      },
+      "phone": "+1-520-624-3233",
+      "website": "https://www.ictucson.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2346345,
+        "lon": -110.9576512
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 34992640
+    },
+    {
+      "id": "way_339041927",
+      "name": "Islamic Community Center",
+      "address": {
+        "street": "131 East 6th Street",
+        "city": "Tempe",
+        "state": "AZ",
+        "zip": "85281",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.424044,
+        "lon": -111.9370514
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 339041927
+    },
+    {
+      "id": "way_397521621",
+      "name": "United Islamic Center of Arizona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6614922,
+        "lon": -112.1352308
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 397521621
+    },
+    {
+      "id": "way_514632233",
+      "name": "Islamic Center of East Valley",
+      "address": {
+        "street": "425 North Alma School Road",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85224",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3109725,
+        "lon": -111.8576136
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 514632233
+    },
+    {
+      "id": "way_516320452",
+      "name": "Bait-ul-Aman Mosque",
+      "address": {
+        "street": "2035 West Elliot Road",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85224",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.349196,
+        "lon": -111.8779535
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 516320452
+    },
+    {
+      "id": "way_739734737",
+      "name": "Muslim Community Center of Tucson",
+      "address": {
+        "street": "5100 N Kevy Pl",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85704",
+        "full": ""
+      },
+      "phone": "+1-520-329-8568",
+      "website": "https://www.mcctucson.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2997568,
+        "lon": -110.9978715
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 739734737
+    },
+    {
+      "id": "way_751357606",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2026986,
+        "lon": -110.9270366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 751357606
+    },
+    {
+      "id": "way_765866621",
+      "name": "Islamic Community Center of Phoenix",
+      "address": {
+        "street": "7516 North Black Canyon Highway",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85051",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iccpaz.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5465447,
+        "lon": -112.112878
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 765866621
+    },
+    {
+      "id": "way_833052037",
+      "name": "Husainiya Center of Tucson",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.husainiyatucson.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2300026,
+        "lon": -110.8927767
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 833052037
+    },
+    {
+      "id": "way_902492838",
+      "name": "Masjid Al Mustafa",
+      "address": {
+        "street": "24038 South Val Vista Drive",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85249",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.2287826,
+        "lon": -111.7560166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 902492838
+    },
+    {
+      "id": "way_926417663",
+      "name": "Masjid Al Noor",
+      "address": {
+        "street": "55 North Matlock Street",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85203",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.416734,
+        "lon": -111.807998
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 926417663
+    },
+    {
+      "id": "way_932264194",
+      "name": "IEFAZ",
+      "address": {
+        "street": "2434 East Southern Avenue",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85204",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3941495,
+        "lon": -111.7784501
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 932264194
+    },
+    {
+      "id": "way_961446909",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "9032 North 9th Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85020",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5687574,
+        "lon": -112.0617943
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 961446909
+    },
+    {
+      "id": "way_961446910",
+      "name": "Islamic Center of Arizona",
+      "address": {
+        "street": "9026 North 9th Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85020",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5689167,
+        "lon": -112.0618094
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 961446910
+    },
+    {
+      "id": "way_961448488",
+      "name": "Muslim Community Mosque",
+      "address": {
+        "street": "1818 North 32nd Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4681553,
+        "lon": -112.0132792
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 961448488
+    },
+    {
+      "id": "way_963519414",
+      "name": "Islamic Community Center of Phoenix Secondary",
+      "address": {
+        "street": "7362 North Black Canyon Highway",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85051",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iccpaz.com",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5454852,
+        "lon": -112.1129186
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 963519414
+    },
+    {
+      "id": "way_990208038",
+      "name": "Gilbert Mussalla",
+      "address": {
+        "street": "5635 East Baseline Road",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85206",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3787361,
+        "lon": -111.710765
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 990208038
+    },
+    {
+      "id": "way_1275869672",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "2075 Airway Avenue",
+        "city": "Kingman",
+        "state": "AZ",
+        "zip": "86409",
+        "full": ""
+      },
+      "phone": "+1-928-757-8822",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2252213,
+        "lon": -114.0295594
+      },
+      "denomination": "",
+      "opening_hours": "24/7",
+      "osm_type": "way",
+      "osm_id": 1275869672
+    },
+    {
+      "id": "way_1419529990",
+      "name": "es Salaam Mosque",
+      "address": {
+        "street": "1071 North Alma School Road",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85225",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3216782,
+        "lon": -111.8586716
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1419529990
+    }
+  ]
+}

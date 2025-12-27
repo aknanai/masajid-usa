@@ -1,0 +1,28 @@
+{
+  "state": "Hawaii",
+  "count": 1,
+  "masajid": [
+    {
+      "id": "way_155155850",
+      "name": "Muslim Association of Hawaii",
+      "address": {
+        "street": "1935 Aleo Place",
+        "city": "",
+        "state": "Hawaii",
+        "zip": "96822",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iio.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 21.3085134,
+        "lon": -157.8213766
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 155155850
+    }
+  ]
+}

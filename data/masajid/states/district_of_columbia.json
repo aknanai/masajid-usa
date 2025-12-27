@@ -1,0 +1,226 @@
+{
+  "state": "District Of Columbia",
+  "count": 10,
+  "masajid": [
+    {
+      "id": "node_358962220",
+      "name": "Muhammed Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.869851,
+        "lon": -76.960771
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358962220
+    },
+    {
+      "id": "node_4675269753",
+      "name": "Masjid Ahlul Quran Wal Hadeeth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9326931,
+        "lon": -76.979324
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4675269753
+    },
+    {
+      "id": "node_4675301557",
+      "name": "As-Sabiqun",
+      "address": {
+        "street": "4603 Benning Road",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20019",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8863361,
+        "lon": -76.9364289
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4675301557
+    },
+    {
+      "id": "node_9250987479",
+      "name": "Ali Khan Islamic Center",
+      "address": {
+        "street": "4831 Silver Hill Road",
+        "city": "Suitland",
+        "state": "MD",
+        "zip": "20746",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8500024,
+        "lon": -76.9230286
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9250987479
+    },
+    {
+      "id": "way_66790109",
+      "name": "American Fazl Mosque",
+      "address": {
+        "street": "2141 Leroy Place Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20008",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9155228,
+        "lon": -77.0482411
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 66790109
+    },
+    {
+      "id": "way_67247033",
+      "name": "Masjid Muhammad",
+      "address": {
+        "street": "1519 4th Street Northwest",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://thenationsmosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9103218,
+        "lon": -77.0158875
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 67247033
+    },
+    {
+      "id": "way_70070852",
+      "name": "First Hijrah Muslim Community Center",
+      "address": {
+        "street": "4324 Georgia Avenue Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20011-7122",
+        "full": ""
+      },
+      "phone": "+1 703-933-0501",
+      "website": "http://firsthijrah.org",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9436358,
+        "lon": -77.0262388
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 70070852
+    },
+    {
+      "id": "way_452437834",
+      "name": "Baitul Mukarram Masjid",
+      "address": {
+        "street": "2116 South Nelson Street",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "22204",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8495913,
+        "lon": -77.0905485
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 452437834
+    },
+    {
+      "id": "way_473409352",
+      "name": "Avondale Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9462968,
+        "lon": -76.977118
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473409352
+    },
+    {
+      "id": "relation_1049411",
+      "name": "Islamic Mosque and Cultural Center",
+      "address": {
+        "street": "2551 Massachusetts Avenue Northwest",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9170993,
+        "lon": -77.0567964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 1049411
+    }
+  ]
+}

@@ -1,0 +1,3020 @@
+{
+  "state": "Michigan",
+  "count": 137,
+  "masajid": [
+    {
+      "id": "node_354221267",
+      "name": "Uzbek American Association of Chicago",
+      "address": {
+        "street": "1111 Van Street",
+        "city": "Elgin",
+        "state": "IL",
+        "zip": "60123",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0329188,
+        "lon": -88.3063989
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354221267
+    },
+    {
+      "id": "node_354260960",
+      "name": "Ahmadiyya Movement In Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4569128,
+        "lon": -87.8387762
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354260960
+    },
+    {
+      "id": "node_354327903",
+      "name": "Clinton Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8460094,
+        "lon": -90.2211826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 354327903
+    },
+    {
+      "id": "node_368065535",
+      "name": "Islamic Cultural Center of Greater Chicago",
+      "address": {
+        "street": "1800 Pfingsten Road",
+        "city": "Northbrook",
+        "state": "IL",
+        "zip": "60062",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iccgreaterchicago.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1199314,
+        "lon": -87.8492547
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 368065535
+    },
+    {
+      "id": "node_1081258745",
+      "name": "Islamic Da'wa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1104915,
+        "lon": -87.9500654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1081258745
+    },
+    {
+      "id": "node_3373636357",
+      "name": "Ideal Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3933897,
+        "lon": -83.057236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 3373636357
+    },
+    {
+      "id": "node_4127107997",
+      "name": "Darul Imam Islamic Foundation",
+      "address": {
+        "street": "556 Grand Canyon Drive",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.054198,
+        "lon": -89.4969587
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4127107997
+    },
+    {
+      "id": "node_4342156990",
+      "name": "Imam Ali Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3434226,
+        "lon": -83.2012869
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4342156990
+    },
+    {
+      "id": "node_4630654612",
+      "name": "Muslim Shrine",
+      "address": {
+        "street": "Marne Avenue",
+        "city": "Sterling Heights",
+        "state": "MI",
+        "zip": "48313",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5867127,
+        "lon": -82.9895999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4630654612
+    },
+    {
+      "id": "node_4728740279",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1737739,
+        "lon": -88.3828016
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4728740279
+    },
+    {
+      "id": "node_5323138325",
+      "name": "Masjid Qamar Oshkosh Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.ahmadiyya.us/chapters/oshkosh",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0218524,
+        "lon": -88.5719326
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5323138325
+    },
+    {
+      "id": "node_5427813971",
+      "name": "The Nigerian Islamic Center of Chicago",
+      "address": {
+        "street": "932 West Sheridan Road",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60613",
+        "full": ""
+      },
+      "phone": "+1-773-665-2451",
+      "website": "https://ncnmo.org/about/chapters/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9528225,
+        "lon": -87.6534959
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5427813971
+    },
+    {
+      "id": "node_5871151685",
+      "name": "Flint Islamic Center",
+      "address": {
+        "street": "9447 West Corunna Road",
+        "city": "Flint",
+        "state": "Michigan",
+        "zip": "48473",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0002032,
+        "lon": -83.8679302
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5871151685
+    },
+    {
+      "id": "node_6007409598",
+      "name": "Adams Community Center",
+      "address": {
+        "street": "4700 Rochester Road",
+        "city": "Troy",
+        "state": "MI",
+        "zip": "48085",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5877927,
+        "lon": -83.1283441
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6007409598
+    },
+    {
+      "id": "node_6128534497",
+      "name": "The Muslim Unity Center",
+      "address": {
+        "street": "1830 West Square Lake Road",
+        "city": "Bloomfield Hills",
+        "state": "MI",
+        "zip": "48302",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6051386,
+        "lon": -83.3157039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6128534497
+    },
+    {
+      "id": "node_9137226650",
+      "name": "Masjid Darussalam",
+      "address": {
+        "street": "21W525 North Avenue",
+        "city": "Lombard",
+        "state": "IL",
+        "zip": "60148",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidds.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9028195,
+        "lon": -88.0470177
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9137226650
+    },
+    {
+      "id": "node_9930844093",
+      "name": "American Muslim Diversity Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6226261,
+        "lon": -83.0701799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9930844093
+    },
+    {
+      "id": "node_10754576061",
+      "name": "Masjid Al-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3163864,
+        "lon": -83.1747939
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10754576061
+    },
+    {
+      "id": "node_10919797080",
+      "name": "Masjid al-Huda South Milwaukee",
+      "address": {
+        "street": "1800 16th Avenue",
+        "city": "South Milwaukee",
+        "state": "WI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9130048,
+        "lon": -87.873437
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10919797080
+    },
+    {
+      "id": "node_10941257036",
+      "name": "Islamic Education Center",
+      "address": {
+        "street": "1269 Goodrich Avenue",
+        "city": "Glendale Heights",
+        "state": "IL",
+        "zip": "60139",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iechusaini.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9058275,
+        "lon": -88.057152
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10941257036
+    },
+    {
+      "id": "node_11999603218",
+      "name": "Masjid Bilal Ypsilanti",
+      "address": {
+        "street": "4891 West Michigan Avenue",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 734-489-1669",
+      "website": "https://www.masjidbilalmi.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2163044,
+        "lon": -83.6646623
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11999603218
+    },
+    {
+      "id": "node_12017410796",
+      "name": "Islamic Center of Lansing",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7462548,
+        "lon": -84.5374654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12017410796
+    },
+    {
+      "id": "node_13095370799",
+      "name": "Masjid Al Ihsan",
+      "address": {
+        "street": "321 East Pershing Road",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60653",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8236977,
+        "lon": -87.6183976
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13095370799
+    },
+    {
+      "id": "node_13265892797",
+      "name": "Masjid At-taqwa",
+      "address": {
+        "street": "2680 Golfside Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 734-757-8283",
+      "website": "https://masjidattaqwa.org/",
+      "email": "masjidattaqwaaa@gmail.com",
+      "coordinates": {
+        "lat": 42.2490613,
+        "lon": -83.6613279
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13265892797
+    },
+    {
+      "id": "way_142212552",
+      "name": "Makki Masjid",
+      "address": {
+        "street": "3418 West Ainslie Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60625",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.970391,
+        "lon": -87.7143636
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 142212552
+    },
+    {
+      "id": "way_148043641",
+      "name": "Downtown Islamic Center",
+      "address": {
+        "street": "231 South State Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60604",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.dtislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8786982,
+        "lon": -87.6272677
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 148043641
+    },
+    {
+      "id": "way_161176339",
+      "name": "Masjid Al-Faatir",
+      "address": {
+        "street": "1200 East 47th Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60653",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8100364,
+        "lon": -87.5964276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 161176339
+    },
+    {
+      "id": "way_162460792",
+      "name": "MASOM",
+      "address": {
+        "street": "4353 West Lawrence Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60630",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9678982,
+        "lon": -87.7374784
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 162460792
+    },
+    {
+      "id": "way_162463912",
+      "name": "Dar Al-Hadith",
+      "address": {
+        "street": "4809 North Elston Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60630",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9684706,
+        "lon": -87.7402953
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 162463912
+    },
+    {
+      "id": "way_163086840",
+      "name": "Islamic Community Center of Illinois (ICCI)",
+      "address": {
+        "street": "6435 West Belmont Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60634",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.93801,
+        "lon": -87.7877443
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163086840
+    },
+    {
+      "id": "way_163226157",
+      "name": "Chicago Mosque",
+      "address": {
+        "street": "6201 West Peterson Avenue",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.chicagomosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9898929,
+        "lon": -87.7830662
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163226157
+    },
+    {
+      "id": "way_163331065",
+      "name": "Rumija Islamic Center",
+      "address": {
+        "street": "6023 North Northwest Highway",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60631",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9909331,
+        "lon": -87.7959702
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163331065
+    },
+    {
+      "id": "way_163522306",
+      "name": "Masjid Al Muhajireen",
+      "address": {
+        "street": "3777 West Columbus Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60652",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7397941,
+        "lon": -87.7155605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163522306
+    },
+    {
+      "id": "way_163906896",
+      "name": "Chicago Central Mosque & Islamic Center",
+      "address": {
+        "street": "3617 West Belle Plaine Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60618",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://uama.us/en/chicago-central-mosque-islamic-center/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9554321,
+        "lon": -87.7187227
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163906896
+    },
+    {
+      "id": "way_163950538",
+      "name": "Madinah Masjid (sunni sufi qadri)",
+      "address": {
+        "street": "4850 North Saint Louis Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60625",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://madinahmasjid.us/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9699715,
+        "lon": -87.7162101
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 163950538
+    },
+    {
+      "id": "way_164021756",
+      "name": "Islamic Center of Chicago",
+      "address": {
+        "street": "5933 North Lincoln Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60659",
+        "full": ""
+      },
+      "phone": "+1 773 989 9330",
+      "website": "https://www.icconline.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9892167,
+        "lon": -87.7049563
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 164021756
+    },
+    {
+      "id": "way_183027690",
+      "name": "Dar-us-Sunnah Masjid and Community Center",
+      "address": {
+        "street": "2045 Brown Avenue",
+        "city": "Evanston",
+        "state": "IL",
+        "zip": "60201",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.darussunnah.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0553831,
+        "lon": -87.6999538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 183027690
+    },
+    {
+      "id": "way_183543515",
+      "name": "Masjid-E-Suffah",
+      "address": {
+        "street": "8201 Karlov Avenue",
+        "city": "Skokie",
+        "state": "IL",
+        "zip": "60076",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://suffaheducational.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0300502,
+        "lon": -87.730141
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 183543515
+    },
+    {
+      "id": "way_185057290",
+      "name": "Mosque Maryam",
+      "address": {
+        "street": "7351 South Stony Island Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60649",
+        "full": ""
+      },
+      "phone": "+1-773-324-6000",
+      "website": "https://www.noi.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7609068,
+        "lon": -87.5850184
+      },
+      "denomination": "nation_of_islam",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 185057290
+    },
+    {
+      "id": "way_190852658",
+      "name": "Islamic Center of Naperville Al-Hidayah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7682981,
+        "lon": -88.120145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 190852658
+    },
+    {
+      "id": "way_202352435",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "8601 Menard Avenue",
+        "city": "Morton Grove",
+        "state": "IL",
+        "zip": "60053",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0377323,
+        "lon": -87.7709727
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 202352435
+    },
+    {
+      "id": "way_209484648",
+      "name": "Masjid Darul-Qur'an",
+      "address": {
+        "street": "2514 West Thorndale Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60659",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.chicagoquran.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9887956,
+        "lon": -87.692774
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209484648
+    },
+    {
+      "id": "way_209569937",
+      "name": "Dar ul Eimaan Islamic Community Center",
+      "address": {
+        "street": "2315 West Devon Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60659",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://daruleimaan.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9975474,
+        "lon": -87.6880996
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209569937
+    },
+    {
+      "id": "way_209572304",
+      "name": "Jamia Masjid of Chicago",
+      "address": {
+        "street": "6340 North Campbell Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60659",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.northsidemosque.org/jama-masjid-chicago/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9970337,
+        "lon": -87.6929139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209572304
+    },
+    {
+      "id": "way_209574348",
+      "name": "Faizan-e-Madinah Mosque",
+      "address": {
+        "street": "6821 North Western Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60645",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.dawateislamiusa.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0058943,
+        "lon": -87.6896649
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209574348
+    },
+    {
+      "id": "way_209592141",
+      "name": "Bosnian Educational & Cultural Center of America",
+      "address": {
+        "street": "7022 North Western Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60645",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://bicc-chicago.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0093921,
+        "lon": -87.6905642
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209592141
+    },
+    {
+      "id": "way_209592172",
+      "name": "Rahmat E Alam Foundation",
+      "address": {
+        "street": "7045 North Western Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60645",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://rahmatealam.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0101538,
+        "lon": -87.6898552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209592172
+    },
+    {
+      "id": "way_209592941",
+      "name": "Mehdavia Islamic Center of Chicago",
+      "address": {
+        "street": "7419 North Western Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60645",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.miccusa.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0162675,
+        "lon": -87.6897998
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209592941
+    },
+    {
+      "id": "way_209951802",
+      "name": "Al-Madinah Islamic Center",
+      "address": {
+        "street": "1701-1709 West Wallen Avenue",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.002335,
+        "lon": -87.6729569
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209951802
+    },
+    {
+      "id": "way_209952584",
+      "name": "Masjid e Noor",
+      "address": {
+        "street": "6151 North Greenview Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60660",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.northsidemosque.org/noor-masjid-chicago/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.994182,
+        "lon": -87.6674771
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 209952584
+    },
+    {
+      "id": "way_210328566",
+      "name": "Masjid-e-Abubakr",
+      "address": {
+        "street": "1017 West Roscoe Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60657",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.northsidemosque.org/abu-bakr-masjid-roscoe/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.943426,
+        "lon": -87.6551329
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 210328566
+    },
+    {
+      "id": "way_210395773",
+      "name": "Ismaili Center",
+      "address": {
+        "street": "6259 North Broadway",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60660",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9961738,
+        "lon": -87.6599977
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 210395773
+    },
+    {
+      "id": "way_220012093",
+      "name": "American Albanian Islamic Center of Wisconsin",
+      "address": {
+        "street": "6001 88th Avenue",
+        "city": "Kenosha",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.aaicw.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5816878,
+        "lon": -87.914143
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 220012093
+    },
+    {
+      "id": "way_227821937",
+      "name": "Islamic Center of America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3303454,
+        "lon": -83.229784
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 227821937
+    },
+    {
+      "id": "way_229468332",
+      "name": "Islamic Institute of Knowledge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3364368,
+        "lon": -83.1776794
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 229468332
+    },
+    {
+      "id": "way_235939778",
+      "name": "Hometown Mercy Mosque",
+      "address": {
+        "street": "8925 South Kostner Avenue",
+        "city": "Hometown",
+        "state": "IL",
+        "zip": "60456",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://hometownmercymosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7301192,
+        "lon": -87.7333826
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 235939778
+    },
+    {
+      "id": "way_238849929",
+      "name": "Dar-Ul-Ilm Foundation",
+      "address": {
+        "street": "2360 Lakewood Boulevard",
+        "city": "Hoffman Estates",
+        "state": "IL",
+        "zip": "60195",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0747316,
+        "lon": -88.1388731
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 238849929
+    },
+    {
+      "id": "way_240113195",
+      "name": "Al Falah Institute & Masjid",
+      "address": {
+        "street": "38325 West 14 Mile Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.alfalahinstitute.org",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5256335,
+        "lon": -83.4279074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 240113195
+    },
+    {
+      "id": "way_243593681",
+      "name": "Muslim Community Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.498955,
+        "lon": -83.4012107
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 243593681
+    },
+    {
+      "id": "way_274866535",
+      "name": "Tawheed Center",
+      "address": {
+        "street": "29707 West 10 Mile Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4699077,
+        "lon": -83.3407089
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 274866535
+    },
+    {
+      "id": "way_276021140",
+      "name": "Kalamazoo Islamic Center",
+      "address": {
+        "street": "1520 West Michigan Avenue",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49006",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2864376,
+        "lon": -85.6058296
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 276021140
+    },
+    {
+      "id": "way_278572245",
+      "name": "Islamic Center of Naperville",
+      "address": {
+        "street": "25W530 75th Street",
+        "city": "Naperville",
+        "state": "IL",
+        "zip": "60565",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7492399,
+        "lon": -88.1215739
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 278572245
+    },
+    {
+      "id": "way_298729909",
+      "name": "Masjid Bait-ul-Ilm",
+      "address": {
+        "street": "485 South Bartlett Road",
+        "city": "Streamwood",
+        "state": "IL",
+        "zip": "60107",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0241085,
+        "lon": -88.180701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 298729909
+    },
+    {
+      "id": "way_299564564",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0683425,
+        "lon": -89.4069962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299564564
+    },
+    {
+      "id": "way_305285126",
+      "name": "Wheaton Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8876036,
+        "lon": -88.0933008
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 305285126
+    },
+    {
+      "id": "way_314035679",
+      "name": "Islamic Center",
+      "address": {
+        "street": "15571 Joy Road",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48228",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3574833,
+        "lon": -83.1991376
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 314035679
+    },
+    {
+      "id": "way_314668227",
+      "name": "Islamic Institute of America",
+      "address": {
+        "street": "26305 Ford Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iiofa.org",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3259517,
+        "lon": -83.2982527
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 314668227
+    },
+    {
+      "id": "way_318519031",
+      "name": "Anjuman-e-Najmi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4462657,
+        "lon": -83.35662
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 318519031
+    },
+    {
+      "id": "way_352670207",
+      "name": "Masjid Al-Fatiha",
+      "address": {
+        "street": "2844 Temple Street",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3399954,
+        "lon": -83.0636669
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 352670207
+    },
+    {
+      "id": "way_361648827",
+      "name": "Albanian-American Islamic Center",
+      "address": {
+        "street": "Saint Charles Road",
+        "city": "Berkeley",
+        "state": "IL",
+        "zip": "60163",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8890806,
+        "lon": -87.9141882
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 361648827
+    },
+    {
+      "id": "way_368975915",
+      "name": "The Muslim Center",
+      "address": {
+        "street": "1605 Davison Freeway",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48238",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3968182,
+        "lon": -83.1110833
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 368975915
+    },
+    {
+      "id": "way_369939488",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9026291,
+        "lon": -85.5691025
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 369939488
+    },
+    {
+      "id": "way_374987612",
+      "name": "Islamic Foundation North",
+      "address": {
+        "street": "1751 O'Plaine Road",
+        "city": "Libertyville",
+        "state": "IL",
+        "zip": "60048",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://ifnonline.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3279311,
+        "lon": -87.9131364
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 374987612
+    },
+    {
+      "id": "way_390273740",
+      "name": "The Islamic Society of Milwaukee University Center",
+      "address": {
+        "street": "2223 East Kenwood Boulevard",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53211",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.ismonline.org/index.php/about-us/new-mosque-by-uwm",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0743451,
+        "lon": -87.8819799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 390273740
+    },
+    {
+      "id": "way_414004498",
+      "name": "Al Sadiq Mosque",
+      "address": {
+        "street": "4448 South Wabash Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60653",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.ahmadiyya.us/chapters/chicagoeast/42-",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8132752,
+        "lon": -87.6249039
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 414004498
+    },
+    {
+      "id": "way_437100800",
+      "name": "Racine Islamic Center",
+      "address": {
+        "street": "419 High Street",
+        "city": "Racine",
+        "state": "WI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7422124,
+        "lon": -87.7857846
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 437100800
+    },
+    {
+      "id": "way_473909629",
+      "name": "Islamic Society of Michiana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7014824,
+        "lon": -86.2027535
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 473909629
+    },
+    {
+      "id": "way_479376242",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "1081 West Irving Park Road",
+        "city": "Schaumburg",
+        "state": "IL",
+        "zip": "60193",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9977793,
+        "lon": -88.1185722
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 479376242
+    },
+    {
+      "id": "way_490698765",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2275459,
+        "lon": -82.9965779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 490698765
+    },
+    {
+      "id": "way_497280668",
+      "name": "Anjuman-e-Saifee Chicago",
+      "address": {
+        "street": "10S252 Kingery Highway",
+        "city": "Willowbrook",
+        "state": "IL",
+        "zip": "60527",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7255269,
+        "lon": -87.9457946
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 497280668
+    },
+    {
+      "id": "way_502987119",
+      "name": "Masjid Ibraham",
+      "address": {
+        "street": "315 South Ford Boulevard",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "zip": "48197",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.islamicfinder.org/world/view-place/406/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2389606,
+        "lon": -83.579326
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 502987119
+    },
+    {
+      "id": "way_506312353",
+      "name": "Windsor Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2774203,
+        "lon": -83.0320469
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 506312353
+    },
+    {
+      "id": "way_548438371",
+      "name": "Al-Islah Islamic Center",
+      "address": {
+        "street": "2733 Caniff Street",
+        "city": "Hamtramck",
+        "state": "Michigan",
+        "zip": "48212",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3997798,
+        "lon": -83.0606739
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 548438371
+    },
+    {
+      "id": "way_559580128",
+      "name": "Islamic House of Wisdom",
+      "address": {
+        "street": "22575 Ann Arbor Trail",
+        "city": "Dearborn Heights",
+        "state": "MI",
+        "zip": "48127",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3397668,
+        "lon": -83.2617332
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 559580128
+    },
+    {
+      "id": "way_609031124",
+      "name": "Islamic Center of Hamtramck",
+      "address": {
+        "street": "11347 Joseph Campau Street",
+        "city": "Hamtramck",
+        "state": "MI",
+        "zip": "48212",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4003053,
+        "lon": -83.0606779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 609031124
+    },
+    {
+      "id": "way_625997510",
+      "name": "Islamic Center of East Lansing",
+      "address": {
+        "street": "920 South Harrison Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "48823-5164",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.lansingislam.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7241423,
+        "lon": -84.494678
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 625997510
+    },
+    {
+      "id": "way_637180526",
+      "name": "Adams Community Center",
+      "address": {
+        "street": "4700 Rochester Road",
+        "city": "Troy",
+        "state": "MI",
+        "zip": "48085",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.587775,
+        "lon": -83.1283464
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 637180526
+    },
+    {
+      "id": "way_638368504",
+      "name": "IAGD - Islamic Association of Greater Detroit",
+      "address": {
+        "street": "879 West Auburn Road",
+        "city": "Rochester Hills",
+        "state": "MI",
+        "zip": "48307",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6348092,
+        "lon": -83.1491766
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 638368504
+    },
+    {
+      "id": "way_644961689",
+      "name": "Noor-ul-Islam",
+      "address": {
+        "street": "Lincoln Road",
+        "city": "Windsor",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3210224,
+        "lon": -83.0159066
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 644961689
+    },
+    {
+      "id": "way_653770080",
+      "name": "Baitul Ehsaan Mosque",
+      "address": {
+        "street": "1957 Head Avenue",
+        "city": "Windsor",
+        "state": "Michigan",
+        "zip": "N8W 1V7",
+        "full": ""
+      },
+      "phone": "+1 519-256-4166",
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-ehsaan",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2910944,
+        "lon": -82.9919258
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 653770080
+    },
+    {
+      "id": "way_654454281",
+      "name": "Muslim Community of Western Suburbs",
+      "address": {
+        "street": "40440 Palmer Road",
+        "city": "Canton",
+        "state": "MI",
+        "zip": "48188",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2949872,
+        "lon": -83.4391904
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 654454281
+    },
+    {
+      "id": "way_658924678",
+      "name": "Masjid Al-Qur'an",
+      "address": {
+        "street": "11723 West Brown Deer Road",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53224",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1765827,
+        "lon": -88.0583411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 658924678
+    },
+    {
+      "id": "way_660359629",
+      "name": "Masjid Bilal Canton",
+      "address": {
+        "street": "1525 North Ridge Road",
+        "city": "Canton",
+        "state": "MI",
+        "zip": "48187",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidbilalcanton.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3165925,
+        "lon": -83.5301074
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 660359629
+    },
+    {
+      "id": "way_661502991",
+      "name": "Ismaili Community Center and Jamatkhana",
+      "address": {
+        "street": "3750 North 92nd Street",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53222",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0852776,
+        "lon": -88.0272866
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 661502991
+    },
+    {
+      "id": "way_662825023",
+      "name": "Mosque Foundation",
+      "address": {
+        "street": "7360 West 93rd Street",
+        "city": "Bridgeview",
+        "state": "IL",
+        "zip": "60455",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.mosquefoundation.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7228415,
+        "lon": -87.802971
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662825023
+    },
+    {
+      "id": "way_662826694",
+      "name": "Islamic Cultural Center of Des Plaines",
+      "address": {
+        "street": "480 Potter Road",
+        "city": "Des Plaines",
+        "state": "IL",
+        "zip": "60016",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iccofdesplaines.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0454958,
+        "lon": -87.8609254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 662826694
+    },
+    {
+      "id": "way_663925719",
+      "name": "Baitul Qadir Mosque",
+      "address": {
+        "street": "10401 West Oklahoma Avenue",
+        "city": "Greenfield",
+        "state": "WI",
+        "zip": "53227",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9876763,
+        "lon": -88.0419156
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 663925719
+    },
+    {
+      "id": "way_664010566",
+      "name": "Islamic Society of Milwaukee",
+      "address": {
+        "street": "4707 South 13th Street",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53221",
+        "full": ""
+      },
+      "phone": "+1-414-282-1812",
+      "website": "https://www.ismonline.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9589232,
+        "lon": -87.9299241
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 664010566
+    },
+    {
+      "id": "way_664051493",
+      "name": "Dar-ul-Hikmah",
+      "address": {
+        "street": "11615 West Layton Avenue",
+        "city": "Greenfield",
+        "state": "WI",
+        "zip": "53228",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9587589,
+        "lon": -88.0584031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 664051493
+    },
+    {
+      "id": "way_699116383",
+      "name": "Mahmood Mosque",
+      "address": {
+        "street": "1730 West Auburn Road",
+        "city": "Rochester Hills",
+        "state": "MI",
+        "zip": "48309",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6364453,
+        "lon": -83.1660125
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 699116383
+    },
+    {
+      "id": "way_700439620",
+      "name": "Masjid Saad Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-419-882-3339",
+      "website": "https://masjidsaad.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7170162,
+        "lon": -83.6686298
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 700439620
+    },
+    {
+      "id": "way_717835933",
+      "name": "Batavia Islamic Center",
+      "address": {
+        "street": "222 South Batavia Avenue",
+        "city": "Batavia",
+        "state": "IL",
+        "zip": "60510",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.bataviaislamiccenter.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.846575,
+        "lon": -88.311281
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 717835933
+    },
+    {
+      "id": "way_727337162",
+      "name": "Islamic Council of America",
+      "address": {
+        "street": "6941 Schaefer Road",
+        "city": "Dearborn",
+        "state": "MI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3418466,
+        "lon": -83.1771059
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 727337162
+    },
+    {
+      "id": "way_734251770",
+      "name": "Masjid Al-Furqan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3289798,
+        "lon": -83.1493448
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 734251770
+    },
+    {
+      "id": "way_764061421",
+      "name": "Masjid Madinatul Ilm",
+      "address": {
+        "street": "37775 Palmer Road",
+        "city": "Westland",
+        "state": "MI",
+        "zip": "48186",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2940183,
+        "lon": -83.4121588
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 764061421
+    },
+    {
+      "id": "way_765466185",
+      "name": "Masjid Tawheed",
+      "address": {
+        "street": "18640 West Warren Avenue",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48228",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3435913,
+        "lon": -83.2228296
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 765466185
+    },
+    {
+      "id": "way_785399687",
+      "name": "Windsor Islamic Association Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2743805,
+        "lon": -83.031353
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 785399687
+    },
+    {
+      "id": "way_787964229",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2733874,
+        "lon": -82.9051377
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 787964229
+    },
+    {
+      "id": "way_788320969",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5460248,
+        "lon": -83.4566511
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 788320969
+    },
+    {
+      "id": "way_805894557",
+      "name": "Sacred Learning Center",
+      "address": {
+        "street": "3900 West Devon Avenue",
+        "city": "Lincolnwood",
+        "state": "IL",
+        "zip": "60712",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.sacredlearning.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.998003,
+        "lon": -87.7261127
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 805894557
+    },
+    {
+      "id": "way_821661948",
+      "name": "Ismaili Jamatkhana Center",
+      "address": {
+        "street": "100 Shermer Road",
+        "city": "Glenview",
+        "state": "IL",
+        "zip": "60025",
+        "full": ""
+      },
+      "phone": "",
+      "website": "Ismaili Jamatkhana Center",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0579155,
+        "lon": -87.8146015
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 821661948
+    },
+    {
+      "id": "way_827376088",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1753615,
+        "lon": -83.2464082
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 827376088
+    },
+    {
+      "id": "way_839804368",
+      "name": "Islamic Center of Midland",
+      "address": {
+        "street": "1801 North Stark Road",
+        "city": "Midland",
+        "state": "MI",
+        "zip": "48642",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6654062,
+        "lon": -84.3107058
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 839804368
+    },
+    {
+      "id": "way_899499555",
+      "name": "Masjid As Salaam",
+      "address": {
+        "street": "21628 Fenkell Street",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48223",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4006369,
+        "lon": -83.2545897
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 899499555
+    },
+    {
+      "id": "way_992131702",
+      "name": "Baitul Islam Mosque",
+      "address": {
+        "street": "7826 Klein Street",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48211",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3870334,
+        "lon": -83.0394819
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 992131702
+    },
+    {
+      "id": "way_1019084725",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4569165,
+        "lon": -87.8387514
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1019084725
+    },
+    {
+      "id": "way_1022069820",
+      "name": "Muslim Community Association",
+      "address": {
+        "street": "2301 Plymouth Road",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "zip": "48105",
+        "full": ""
+      },
+      "phone": "+1-734-665-6772",
+      "website": "http://mca-a2.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3011908,
+        "lon": -83.7146225
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1022069820
+    },
+    {
+      "id": "way_1034630090",
+      "name": "Masjid Wali Muhammad",
+      "address": {
+        "street": "11529 Linwood Avenue",
+        "city": "",
+        "state": "MI",
+        "zip": "48206",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3816869,
+        "lon": -83.1145947
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1034630090
+    },
+    {
+      "id": "way_1042959561",
+      "name": "Albanian Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4343765,
+        "lon": -82.9230605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1042959561
+    },
+    {
+      "id": "way_1082213154",
+      "name": "Mecca Center",
+      "address": {
+        "street": "16W560 91st Street",
+        "city": "Willowbrook",
+        "state": "IL",
+        "zip": "60627",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://meccacenter.org/",
+      "email": "info@meccacenter.org",
+      "coordinates": {
+        "lat": 41.7239426,
+        "lon": -87.9479798
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1082213154
+    },
+    {
+      "id": "way_1099410008",
+      "name": "Fath-e-Azeem Mosque",
+      "address": {
+        "street": "2700 Lewis Avenue",
+        "city": "Zion",
+        "state": "IL",
+        "zip": "60099",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4458639,
+        "lon": -87.8552208
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1099410008
+    },
+    {
+      "id": "way_1099788122",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "4380 North Elston Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60641",
+        "full": ""
+      },
+      "phone": "+1-773-725-9047",
+      "website": "https://mccchicago.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9601203,
+        "lon": -87.7289276
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1099788122
+    },
+    {
+      "id": "way_1154047850",
+      "name": "Masjid Mu'ath Bin Jabal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.391159,
+        "lon": -83.0406388
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1154047850
+    },
+    {
+      "id": "way_1197549207",
+      "name": "Baitul Jaamay Mosque",
+      "address": {
+        "street": "2S510 IL 53",
+        "city": "Glen Ellyn",
+        "state": "IL",
+        "zip": "60137",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8355088,
+        "lon": -88.0549039
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1197549207
+    },
+    {
+      "id": "way_1234122528",
+      "name": "Wausau Masjid",
+      "address": {
+        "street": "629 South 36th Avenue",
+        "city": "Wausau",
+        "state": "WI",
+        "zip": "54401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9563685,
+        "lon": -89.6807048
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234122528
+    },
+    {
+      "id": "way_1234123907",
+      "name": "Marshfield Masjid",
+      "address": {
+        "street": "200560 Meadow Avenue",
+        "city": "Marshfield",
+        "state": "WI",
+        "zip": "54449",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.6891836,
+        "lon": -90.1856654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234123907
+    },
+    {
+      "id": "way_1236509631",
+      "name": "Masjid As-Sunnah",
+      "address": {
+        "street": "5114 Main Street",
+        "city": "Skokie",
+        "state": "IL",
+        "zip": "60077",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidsunnahchi.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0338616,
+        "lon": -87.7573039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1236509631
+    },
+    {
+      "id": "way_1244106841",
+      "name": "Masjid Al Rahma",
+      "address": {
+        "street": "13515 Plymouth Road",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48227",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3728162,
+        "lon": -83.1771466
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1244106841
+    },
+    {
+      "id": "way_1262037872",
+      "name": "Madani Muslim Community Service",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5050008,
+        "lon": -83.0800045
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1262037872
+    },
+    {
+      "id": "way_1276571375",
+      "name": "American Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2910594,
+        "lon": -83.2483366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1276571375
+    },
+    {
+      "id": "way_1280243390",
+      "name": "American Islamic Community Center",
+      "address": {
+        "street": "5005 15 Mile Road",
+        "city": "Sterling Heights",
+        "state": "MI",
+        "zip": "48310",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.550947,
+        "lon": -83.0575322
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1280243390
+    },
+    {
+      "id": "way_1284233628",
+      "name": "Masjid Al-Istiqamah",
+      "address": {
+        "street": "7950 South Central Avenue",
+        "city": "Burbank",
+        "state": "IL",
+        "zip": "60459",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7472597,
+        "lon": -87.7611991
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1284233628
+    },
+    {
+      "id": "way_1294583241",
+      "name": "Grand Blanc Islamic Center",
+      "address": {
+        "street": "1479 East Baldwin Road",
+        "city": "Grand Blanc",
+        "state": "MI",
+        "zip": "48439",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8870359,
+        "lon": -83.6724234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1294583241
+    },
+    {
+      "id": "way_1328029320",
+      "name": "Masjid Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.851893,
+        "lon": -88.0124397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1328029320
+    },
+    {
+      "id": "way_1328080970",
+      "name": "Masjid Uthman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8587671,
+        "lon": -88.0373767
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1328080970
+    },
+    {
+      "id": "way_1330653478",
+      "name": "SABAH Islmaic Cultural Center",
+      "address": {
+        "street": "9920 West Grand Avenue",
+        "city": "Franklin Park",
+        "state": "IL",
+        "zip": "60131",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.sabahchicago.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.930225,
+        "lon": -87.8731562
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1330653478
+    },
+    {
+      "id": "way_1420828306",
+      "name": "Masjid-ul-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0188574,
+        "lon": -88.2404327
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1420828306
+    }
+  ]
+}

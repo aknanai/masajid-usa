@@ -1,0 +1,864 @@
+{
+  "state": "Ohio",
+  "count": 39,
+  "masajid": [
+    {
+      "id": "node_357478018",
+      "name": "Youngstown Islamic Center",
+      "address": {
+        "street": "239 Trumbull Avenue",
+        "city": "Youngstown",
+        "state": "OH",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1406122,
+        "lon": -80.6581258
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357478018
+    },
+    {
+      "id": "node_357480254",
+      "name": "American Muslim Mission Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0811667,
+        "lon": -81.5528963
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357480254
+    },
+    {
+      "id": "node_357481061",
+      "name": "Masjid Omar Ibn El-Khattab",
+      "address": {
+        "street": "580 Riverside Drive",
+        "city": "Columbus",
+        "state": "Ohio",
+        "zip": "43202",
+        "full": ""
+      },
+      "phone": "+1-614-262-1310",
+      "website": "https://www.masjidomarohio.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0245085,
+        "lon": -83.0287955
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357481061
+    },
+    {
+      "id": "node_357485714",
+      "name": "Islamic Center of Cleveland",
+      "address": {
+        "street": "9400 Detroit Avenue",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4804985,
+        "lon": -81.747796
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357485714
+    },
+    {
+      "id": "node_357532595",
+      "name": "Masjid As-Sahaba",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0144444,
+        "lon": -82.9888889
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357532595
+    },
+    {
+      "id": "node_2374055898",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://masjidbilalofcleveland.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5043614,
+        "lon": -81.6367228
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2374055898
+    },
+    {
+      "id": "node_4264589831",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5761545,
+        "lon": -81.5721498
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4264589831
+    },
+    {
+      "id": "node_6991043877",
+      "name": "Islamic Association of Cincinnati",
+      "address": {
+        "street": "3668 Clifton Avenue",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1493473,
+        "lon": -84.5180047
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6991043877
+    },
+    {
+      "id": "node_8069975040",
+      "name": "Mohammed Temple #3",
+      "address": {
+        "street": "3341 Montgomery Road",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1391108,
+        "lon": -84.4745763
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 8069975040
+    },
+    {
+      "id": "node_9545830692",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8514614,
+        "lon": -81.4272712
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9545830692
+    },
+    {
+      "id": "node_12840170448",
+      "name": "The Ummah Center",
+      "address": {
+        "street": "24050 Royalton Road",
+        "city": "Columbia Station",
+        "state": "OH",
+        "zip": "44028",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3132922,
+        "lon": -81.8985447
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12840170448
+    },
+    {
+      "id": "way_172357339",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4301821,
+        "lon": -81.8254623
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 172357339
+    },
+    {
+      "id": "way_247773305",
+      "name": "ICNK Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0002587,
+        "lon": -84.6494719
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 247773305
+    },
+    {
+      "id": "way_260057834",
+      "name": "Masjed of Kent",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1576028,
+        "lon": -81.353845
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 260057834
+    },
+    {
+      "id": "way_287763514",
+      "name": "Findlay Masjid",
+      "address": {
+        "street": "",
+        "city": "Findlay",
+        "state": "OH",
+        "zip": "45840",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0517277,
+        "lon": -83.6507235
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 287763514
+    },
+    {
+      "id": "way_342392804",
+      "name": "Islamic Center of Greater Toldeo",
+      "address": {
+        "street": "25877 Scheider Road",
+        "city": "Perrysburg",
+        "state": "OH",
+        "zip": "43551",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5281761,
+        "lon": -83.6185684
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 342392804
+    },
+    {
+      "id": "way_350414944",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4979105,
+        "lon": -81.6092319
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 350414944
+    },
+    {
+      "id": "way_372529224",
+      "name": "Islamic Center of Greater Cincinnati",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://cincinnatiislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3477059,
+        "lon": -84.3837925
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 372529224
+    },
+    {
+      "id": "way_387208742",
+      "name": "Baitul Ahad",
+      "address": {
+        "street": "297 Center Road",
+        "city": "Bedford",
+        "state": "OH",
+        "zip": "44146",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4018353,
+        "lon": -81.5376438
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 387208742
+    },
+    {
+      "id": "way_428005283",
+      "name": "First Cleveland Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.460529,
+        "lon": -81.5908217
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 428005283
+    },
+    {
+      "id": "way_459082225",
+      "name": "Masjid Warith Deen",
+      "address": {
+        "street": "7301 Superior Avenue",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5196469,
+        "lon": -81.6379283
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 459082225
+    },
+    {
+      "id": "way_641916871",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9669717,
+        "lon": -82.962791
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 641916871
+    },
+    {
+      "id": "way_656797723",
+      "name": "Islamic Association of Cincinnati",
+      "address": {
+        "street": "3668 Clifton Avenue",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45220",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://cliftonmosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1493504,
+        "lon": -84.5180318
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 656797723
+    },
+    {
+      "id": "way_700439620",
+      "name": "Masjid Saad Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-419-882-3339",
+      "website": "https://masjidsaad.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7170162,
+        "lon": -83.6686298
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 700439620
+    },
+    {
+      "id": "way_718024395",
+      "name": "Al-Rahman Mosque - Islamic Society of Greater Dayton",
+      "address": {
+        "street": "26 Josie Street",
+        "city": "Dayton",
+        "state": "OH",
+        "zip": "45403",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7555655,
+        "lon": -84.1758655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 718024395
+    },
+    {
+      "id": "way_738694652",
+      "name": "Yunus Emre Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0670526,
+        "lon": -80.6635096
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 738694652
+    },
+    {
+      "id": "way_745945295",
+      "name": "Masjid Namarah Pakistani Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9146868,
+        "lon": -82.8762373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 745945295
+    },
+    {
+      "id": "way_762184288",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1097041,
+        "lon": -80.6557039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 762184288
+    },
+    {
+      "id": "way_762774418",
+      "name": "American Muslim Mission Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0934562,
+        "lon": -80.6576161
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 762774418
+    },
+    {
+      "id": "way_793035679",
+      "name": "Islamic Society of Greater Youngstown",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0769179,
+        "lon": -80.6268194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 793035679
+    },
+    {
+      "id": "way_817033594",
+      "name": "Muslim Association of Huntington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.416404,
+        "lon": -82.4203969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 817033594
+    },
+    {
+      "id": "way_836963097",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5460073,
+        "lon": -81.5863106
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 836963097
+    },
+    {
+      "id": "way_918369656",
+      "name": "Islamic Center of Cleveland",
+      "address": {
+        "street": "6055 W 130th Street",
+        "city": "Parma",
+        "state": "OH",
+        "zip": "44130",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3988821,
+        "lon": -81.7804326
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 918369656
+    },
+    {
+      "id": "way_923347518",
+      "name": "Masjid Abu Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.940513,
+        "lon": -83.1193535
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 923347518
+    },
+    {
+      "id": "way_996915734",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8542841,
+        "lon": -82.9238946
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 996915734
+    },
+    {
+      "id": "way_1097613012",
+      "name": "Fazl-i-Umar Mosque",
+      "address": {
+        "street": "637 Randolph Street",
+        "city": "Dayton",
+        "state": "OH",
+        "zip": "45417",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.745446,
+        "lon": -84.2294675
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1097613012
+    },
+    {
+      "id": "way_1263564291",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1804239,
+        "lon": -81.5031798
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1263564291
+    },
+    {
+      "id": "way_1278541802",
+      "name": "Akron Masjid",
+      "address": {
+        "street": "1147 Old Main Street",
+        "city": "Akron",
+        "state": "OH",
+        "zip": "44301",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0556992,
+        "lon": -81.5286819
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1278541802
+    },
+    {
+      "id": "way_1355276505",
+      "name": "Chagrin Valley Islamic Center",
+      "address": {
+        "street": "6909 Liberty Road",
+        "city": "Solon",
+        "state": "OH",
+        "zip": "44139",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.cvicohio.com",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3704577,
+        "lon": -81.4189876
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1355276505
+    }
+  ]
+}

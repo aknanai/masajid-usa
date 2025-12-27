@@ -1,0 +1,8 @@
+# Theme metadata
+name = "Masajid Theme"
+license = "MIT"
+description = "A modern, responsive theme for Masajid USA directory"
+min_version = "0.100.0"
+
+[author]
+  name = "Masajid USA"

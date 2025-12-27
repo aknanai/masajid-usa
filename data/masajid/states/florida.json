@@ -1,0 +1,886 @@
+{
+  "state": "Florida",
+  "count": 40,
+  "masajid": [
+    {
+      "id": "node_358746756",
+      "name": "Islamic Center of Southwest Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.6162,
+        "lon": -81.8674
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358746756
+    },
+    {
+      "id": "node_358749637",
+      "name": "Islamic Center of Central Brevard",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3511385,
+        "lon": -80.7008276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358749637
+    },
+    {
+      "id": "node_358749915",
+      "name": "Islamic Center of Osceola County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.317992,
+        "lon": -81.408632
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358749915
+    },
+    {
+      "id": "node_358751270",
+      "name": "Majid al-Ihsaan",
+      "address": {
+        "street": "6309 Pershing Avenue",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32822",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.498648,
+        "lon": -81.295457
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358751270
+    },
+    {
+      "id": "node_358757331",
+      "name": "Bosnian Muslim Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.96734,
+        "lon": -82.749069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 358757331
+    },
+    {
+      "id": "node_1155713302",
+      "name": "Islamic Center of NE Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3072373,
+        "lon": -81.5245228
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1155713302
+    },
+    {
+      "id": "node_2358538294",
+      "name": "Islamic Society of Tampa Bay Area",
+      "address": {
+        "street": "7326 East Sligh Avenue",
+        "city": "Tampa",
+        "state": "Florida",
+        "zip": "33610",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0111656,
+        "lon": -82.3736474
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2358538294
+    },
+    {
+      "id": "node_4348051600",
+      "name": "Islamic Center Hoda Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1-352-377-8080",
+      "website": "https://hodacenter.org/",
+      "email": "hodacenter@hotmail.com",
+      "coordinates": {
+        "lat": 29.6047795,
+        "lon": -82.3428435
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4348051600
+    },
+    {
+      "id": "node_5276284742",
+      "name": "Islamic Center of Hernando County",
+      "address": {
+        "street": "6307 Barclay Avenue",
+        "city": "Spring Hill",
+        "state": "FL",
+        "zip": "34609",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5224297,
+        "lon": -82.4923987
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5276284742
+    },
+    {
+      "id": "node_5317348918",
+      "name": "Masjid al Agha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3321898,
+        "lon": -81.4825885
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5317348918
+    },
+    {
+      "id": "node_6561122046",
+      "name": "Masjid Al-Mumin",
+      "address": {
+        "street": "1011 Washington Avenue",
+        "city": "Titusville",
+        "state": "Florida",
+        "zip": "32780",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6048777,
+        "lon": -80.8073473
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6561122046
+    },
+    {
+      "id": "node_10914246692",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "14362 Carlson Circle",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33626",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0631311,
+        "lon": -82.6481409
+      },
+      "denomination": "shia",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10914246692
+    },
+    {
+      "id": "node_11084745985",
+      "name": "Islamic Center of Cape Coral - Masjid Quba",
+      "address": {
+        "street": "1404 Del Prado Blvd S",
+        "city": "Cape Coral",
+        "state": "FL",
+        "zip": "33990",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.masjidquba.net/",
+      "email": "",
+      "coordinates": {
+        "lat": 26.6262457,
+        "lon": -81.942162
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 11084745985
+    },
+    {
+      "id": "node_13240108402",
+      "name": "Momin Community Center",
+      "address": {
+        "street": "6192 Race Track Road",
+        "city": "Saint Johns",
+        "state": "FL",
+        "zip": "32259",
+        "full": ""
+      },
+      "phone": "+1-786-372-0074",
+      "website": "https://momincc.org/",
+      "email": "info@momincc.org",
+      "coordinates": {
+        "lat": 30.101787,
+        "lon": -81.489107
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13240108402
+    },
+    {
+      "id": "way_227123545",
+      "name": "ISTABA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0126277,
+        "lon": -82.3742276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 227123545
+    },
+    {
+      "id": "way_329062264",
+      "name": "Albanian Islamic Cultural Center of Clearwater",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9689045,
+        "lon": -82.7996869
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 329062264
+    },
+    {
+      "id": "way_339439046",
+      "name": "Masjid al-Maalik",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 24.5507946,
+        "lon": -81.8037757
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 339439046
+    },
+    {
+      "id": "way_341740884",
+      "name": "Assalam Center",
+      "address": {
+        "street": "1499 Northwest 4th Avenue",
+        "city": "Boca Raton",
+        "state": "FL",
+        "zip": "33432",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.3644771,
+        "lon": -80.0942043
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 341740884
+    },
+    {
+      "id": "way_354217764",
+      "name": "Islamic Center of Northwest Florida",
+      "address": {
+        "street": "3445 East Johnson Avenue",
+        "city": "Pensacola",
+        "state": "FL",
+        "zip": "32514",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.5167218,
+        "lon": -87.1954481
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 354217764
+    },
+    {
+      "id": "way_436041460",
+      "name": "Masjid Al-Ihsaan",
+      "address": {
+        "street": "10180 Southwest 168th Street",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33157",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.6131666,
+        "lon": -80.3558929
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 436041460
+    },
+    {
+      "id": "way_448919655",
+      "name": "Masjid Al-Rahim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5423505,
+        "lon": -81.4460032
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 448919655
+    },
+    {
+      "id": "way_524312609",
+      "name": "IEC Masjid of Tampa",
+      "address": {
+        "street": "4450 West Ohio Avenue",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33614",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9771711,
+        "lon": -82.5179712
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 524312609
+    },
+    {
+      "id": "way_545933586",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5224586,
+        "lon": -82.4924617
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 545933586
+    },
+    {
+      "id": "way_549413163",
+      "name": "IEC of Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5753748,
+        "lon": -81.2685886
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 549413163
+    },
+    {
+      "id": "way_659137415",
+      "name": "Baymeadows Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.2200694,
+        "lon": -81.5725121
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 659137415
+    },
+    {
+      "id": "way_778921092",
+      "name": "Masjid Al-Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5422905,
+        "lon": -81.3868302
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 778921092
+    },
+    {
+      "id": "way_793295996",
+      "name": "Islamic Center of Brandon",
+      "address": {
+        "street": "1006 Victoria Street",
+        "city": "Brandon",
+        "state": "FL",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9455054,
+        "lon": -82.298403
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 793295996
+    },
+    {
+      "id": "way_827955769",
+      "name": "Muhammad Mosque 82",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.1296354,
+        "lon": -80.1558943
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 827955769
+    },
+    {
+      "id": "way_921097957",
+      "name": "Masjid Al-Malik",
+      "address": {
+        "street": "2042 Rouse Road",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32817",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5736651,
+        "lon": -81.2246121
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 921097957
+    },
+    {
+      "id": "way_946141256",
+      "name": "Husseini Islamic Center",
+      "address": {
+        "street": "5211 Hester Avenue",
+        "city": "Sanford",
+        "state": "FL",
+        "zip": "32773",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.7351965,
+        "lon": -81.288199
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 946141256
+    },
+    {
+      "id": "way_946143447",
+      "name": "Masjid Al Hayy",
+      "address": {
+        "street": "786 Myrtle Street",
+        "city": "Sanford",
+        "state": "FL",
+        "zip": "32773",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.7361765,
+        "lon": -81.276166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 946143447
+    },
+    {
+      "id": "way_951833528",
+      "name": "Islamic Center of Daytona Beach",
+      "address": {
+        "street": "347 South Keech Street",
+        "city": "Daytona Beach",
+        "state": "FL",
+        "zip": "32114",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.2005582,
+        "lon": -81.0344094
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 951833528
+    },
+    {
+      "id": "way_963306871",
+      "name": "Islamic Society of Sarasota and Bradenton",
+      "address": {
+        "street": "4350 North Lockwood Ridge Road",
+        "city": "Sarasota",
+        "state": "FL",
+        "zip": "34234",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.issb.net/",
+      "email": "",
+      "coordinates": {
+        "lat": 27.3723838,
+        "lon": -82.5047329
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 963306871
+    },
+    {
+      "id": "way_1030638510",
+      "name": "Masjid Al Rahman",
+      "address": {
+        "street": "2577 Keystone Road",
+        "city": "Tarpon Springs",
+        "state": "FL",
+        "zip": "34688",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.152389,
+        "lon": -82.712965
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1030638510
+    },
+    {
+      "id": "way_1059163681",
+      "name": "Islamic Center of Clermont",
+      "address": {
+        "street": "15020 Johns Lake Road",
+        "city": "Clermont",
+        "state": "FL",
+        "zip": "34711",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5235625,
+        "lon": -81.7064455
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1059163681
+    },
+    {
+      "id": "way_1083614786",
+      "name": "Islamic Society of New Tampa",
+      "address": {
+        "street": "15830 Morris Bridge Road",
+        "city": "Thonotosassa",
+        "state": "FL",
+        "zip": "33592",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.1483195,
+        "lon": -82.2806495
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1083614786
+    },
+    {
+      "id": "way_1201094761",
+      "name": "Masjid Omar Almokhtar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9470156,
+        "lon": -82.4731679
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1201094761
+    },
+    {
+      "id": "way_1233327764",
+      "name": "Islamic Center of Orlando - Jama Masjid",
+      "address": {
+        "street": "11543 Ruby Lake Road",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32826",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3985644,
+        "lon": -81.5025207
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1233327764
+    },
+    {
+      "id": "way_1383889508",
+      "name": "Masjid Al-Quddus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5387287,
+        "lon": -81.3891993
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1383889508
+    },
+    {
+      "id": "relation_7556404",
+      "name": "Bosanski Mesdžid",
+      "address": {
+        "street": "10999 60th Street",
+        "city": "Pinellas County",
+        "state": "FL",
+        "zip": "33782",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.8714831,
+        "lon": -82.7162254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "relation",
+      "osm_id": 7556404
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Delaware",
+  "count": 2,
+  "masajid": [
+    {
+      "id": "node_9422016207",
+      "name": "Islamic Society of Delmarva",
+      "address": {
+        "street": "7843 Jersey Road",
+        "city": "Salisbury",
+        "state": "MD",
+        "zip": "21801",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4079231,
+        "lon": -75.6024779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 9422016207
+    },
+    {
+      "id": "way_691062322",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6758881,
+        "lon": -75.6961698
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 691062322
+    }
+  ]
+}

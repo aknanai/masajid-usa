@@ -1,0 +1,402 @@
+{
+  "state": "Wisconsin",
+  "count": 18,
+  "masajid": [
+    {
+      "id": "node_1081258745",
+      "name": "Islamic Da'wa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1104915,
+        "lon": -87.9500654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 1081258745
+    },
+    {
+      "id": "node_4127107997",
+      "name": "Darul Imam Islamic Foundation",
+      "address": {
+        "street": "556 Grand Canyon Drive",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.054198,
+        "lon": -89.4969587
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4127107997
+    },
+    {
+      "id": "node_5323138325",
+      "name": "Masjid Qamar Oshkosh Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.ahmadiyya.us/chapters/oshkosh",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0218524,
+        "lon": -88.5719326
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 5323138325
+    },
+    {
+      "id": "node_10919797080",
+      "name": "Masjid al-Huda South Milwaukee",
+      "address": {
+        "street": "1800 16th Avenue",
+        "city": "South Milwaukee",
+        "state": "WI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9130048,
+        "lon": -87.873437
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 10919797080
+    },
+    {
+      "id": "way_193417105",
+      "name": "Masjid AbuBakr Al-Seddiq",
+      "address": {
+        "street": "17 North Broadway Avenue",
+        "city": "Rochester",
+        "state": "MN",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://rochestermosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.0241368,
+        "lon": -92.4634816
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 193417105
+    },
+    {
+      "id": "way_220012093",
+      "name": "American Albanian Islamic Center of Wisconsin",
+      "address": {
+        "street": "6001 88th Avenue",
+        "city": "Kenosha",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.aaicw.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5816878,
+        "lon": -87.914143
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 220012093
+    },
+    {
+      "id": "way_299564564",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0683425,
+        "lon": -89.4069962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 299564564
+    },
+    {
+      "id": "way_390273740",
+      "name": "The Islamic Society of Milwaukee University Center",
+      "address": {
+        "street": "2223 East Kenwood Boulevard",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53211",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.ismonline.org/index.php/about-us/new-mosque-by-uwm",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0743451,
+        "lon": -87.8819799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 390273740
+    },
+    {
+      "id": "way_437100800",
+      "name": "Racine Islamic Center",
+      "address": {
+        "street": "419 High Street",
+        "city": "Racine",
+        "state": "WI",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7422124,
+        "lon": -87.7857846
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 437100800
+    },
+    {
+      "id": "way_552092819",
+      "name": "Al Taqwa Masjid Islamic Center",
+      "address": {
+        "street": "1418 East la Salle Avenue",
+        "city": "Barron",
+        "state": "WI",
+        "zip": "54812",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.3995293,
+        "lon": -91.8368052
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 552092819
+    },
+    {
+      "id": "way_658924678",
+      "name": "Masjid Al-Qur'an",
+      "address": {
+        "street": "11723 West Brown Deer Road",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53224",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1765827,
+        "lon": -88.0583411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 658924678
+    },
+    {
+      "id": "way_661502991",
+      "name": "Ismaili Community Center and Jamatkhana",
+      "address": {
+        "street": "3750 North 92nd Street",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53222",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0852776,
+        "lon": -88.0272866
+      },
+      "denomination": "ismaili",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 661502991
+    },
+    {
+      "id": "way_663925719",
+      "name": "Baitul Qadir Mosque",
+      "address": {
+        "street": "10401 West Oklahoma Avenue",
+        "city": "Greenfield",
+        "state": "WI",
+        "zip": "53227",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9876763,
+        "lon": -88.0419156
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 663925719
+    },
+    {
+      "id": "way_664010566",
+      "name": "Islamic Society of Milwaukee",
+      "address": {
+        "street": "4707 South 13th Street",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53221",
+        "full": ""
+      },
+      "phone": "+1-414-282-1812",
+      "website": "https://www.ismonline.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9589232,
+        "lon": -87.9299241
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 664010566
+    },
+    {
+      "id": "way_664051493",
+      "name": "Dar-ul-Hikmah",
+      "address": {
+        "street": "11615 West Layton Avenue",
+        "city": "Greenfield",
+        "state": "WI",
+        "zip": "53228",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9587589,
+        "lon": -88.0584031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 664051493
+    },
+    {
+      "id": "way_692238357",
+      "name": "Unknown Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5045824,
+        "lon": -90.7483693
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 692238357
+    },
+    {
+      "id": "way_1234122528",
+      "name": "Wausau Masjid",
+      "address": {
+        "street": "629 South 36th Avenue",
+        "city": "Wausau",
+        "state": "WI",
+        "zip": "54401",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9563685,
+        "lon": -89.6807048
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234122528
+    },
+    {
+      "id": "way_1234123907",
+      "name": "Marshfield Masjid",
+      "address": {
+        "street": "200560 Meadow Avenue",
+        "city": "Marshfield",
+        "state": "WI",
+        "zip": "54449",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://theislamicsociety.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 44.6891836,
+        "lon": -90.1856654
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1234123907
+    }
+  ]
+}

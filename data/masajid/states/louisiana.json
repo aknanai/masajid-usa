@@ -1,0 +1,138 @@
+{
+  "state": "Louisiana",
+  "count": 6,
+  "masajid": [
+    {
+      "id": "node_2071876392",
+      "name": "Islamic Center of Natchitoches",
+      "address": {
+        "street": "125 Caspari Street",
+        "city": "Natchitoches",
+        "state": "LA",
+        "zip": "71457",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.7540139,
+        "lon": -93.0942445
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 2071876392
+    },
+    {
+      "id": "way_520337625",
+      "name": "Islamic Center of Baton Rouge",
+      "address": {
+        "street": "285 East Airport Avenue",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zip": "70806",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.icbrsite.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4492363,
+        "lon": -91.1008717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 520337625
+    },
+    {
+      "id": "way_857233972",
+      "name": "Masjid Al-Taqwa",
+      "address": {
+        "street": "5403 Virginia Avenue",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "zip": "71108",
+        "full": ""
+      },
+      "phone": "+1 318-636-1215",
+      "website": "http://www.altaqwamasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 32.459902,
+        "lon": -93.7772245
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 857233972
+    },
+    {
+      "id": "way_1074970223",
+      "name": "Islamic Center of North Louisiana",
+      "address": {
+        "street": "1000 West California Avenue",
+        "city": "Ruston",
+        "state": "LA",
+        "zip": "71270",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icnlruston.net",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5224621,
+        "lon": -92.6510383
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1074970223
+    },
+    {
+      "id": "way_1248980419",
+      "name": "Islamic Society of Central Louisiana",
+      "address": {
+        "street": "398 Windermere Boulevard",
+        "city": "Alexandria",
+        "state": "LA",
+        "zip": "71303",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.islamincenla.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 31.2881803,
+        "lon": -92.4913801
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1248980419
+    },
+    {
+      "id": "way_1272104800",
+      "name": "Masjid Muhammad",
+      "address": {
+        "street": "2414 Oak Street",
+        "city": "Monroe",
+        "state": "LA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5120341,
+        "lon": -92.0933531
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1272104800
+    }
+  ]
+}

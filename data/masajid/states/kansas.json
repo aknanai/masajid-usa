@@ -1,0 +1,160 @@
+{
+  "state": "Kansas",
+  "count": 7,
+  "masajid": [
+    {
+      "id": "node_696116234",
+      "name": "Islamic Society of Wichita",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kansas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7461752,
+        "lon": -97.2585406
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 696116234
+    },
+    {
+      "id": "way_201010995",
+      "name": "Islamic Center of Topeka",
+      "address": {
+        "street": "2701 Southeast Kentucky Avenue",
+        "city": "Topeka",
+        "state": "KS",
+        "zip": "66605",
+        "full": ""
+      },
+      "phone": "+1 785 233-1171",
+      "website": "http://topekamosque.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0187397,
+        "lon": -95.6626545
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 201010995
+    },
+    {
+      "id": "way_219102256",
+      "name": "Islamic Center of Lawrence",
+      "address": {
+        "street": "1917 Naismith Drive",
+        "city": "Lawrence",
+        "state": "KS",
+        "zip": "66046",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.iclks.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9495426,
+        "lon": -95.2516008
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 219102256
+    },
+    {
+      "id": "way_291837554",
+      "name": "Islamic Center of Johnson County",
+      "address": {
+        "street": "9001 West 151st Street",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "+1 913-239-0770",
+      "website": "https://www.icjc.org/contact.html",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8538343,
+        "lon": -94.6905556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 291837554
+    },
+    {
+      "id": "way_610927447",
+      "name": "Islamic Center of Greater Saint Joseph",
+      "address": {
+        "street": "2325 Messanie Street",
+        "city": "Saint Joseph",
+        "state": "MO",
+        "zip": "64501",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7627693,
+        "lon": -94.8318424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 610927447
+    },
+    {
+      "id": "way_621358312",
+      "name": "Islamic Center of Manhattan",
+      "address": {
+        "street": "1224 Hylton Heights Road",
+        "city": "Manhattan",
+        "state": "KS",
+        "zip": "66502",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icmks.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1926591,
+        "lon": -96.6042439
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 621358312
+    },
+    {
+      "id": "way_1431653409",
+      "name": "Masjid of Hays",
+      "address": {
+        "street": "1409 Pine Street",
+        "city": "",
+        "state": "Kansas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8738118,
+        "lon": -99.3254474
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1431653409
+    }
+  ]
+}
