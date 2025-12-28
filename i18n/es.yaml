@@ -1,0 +1,70 @@
+# Spanish translations - Español
+site_title: "Masajid USA"
+tagline: "Descubre más de 1,600 Mezquitas en América"
+site_description: "Encuentra mezquitas en los Estados Unidos"
+
+# Navigation
+nav_home: "Inicio"
+nav_browse_states: "Explorar Estados"
+nav_qibla: "Qibla"
+nav_saved: "Guardados"
+nav_about: "Acerca de"
+
+# Homepage
+hero_title: "Masajid USA"
+stats_masajid: "Mezquitas"
+stats_states: "Estados"
+search_placeholder: "Buscar por nombre de mezquita, ciudad o estado..."
+search_button: "Buscar"
+browse_by_state: "Explorar por Estado"
+search_results: "Resultados de Búsqueda"
+found_masajid: "Se encontraron {count} mezquitas que coinciden con \"{query}\""
+no_results: "No se encontraron mezquitas. Intenta con otro término de búsqueda."
+
+# State page
+masajid_count: "{count} Mezquitas"
+filter_placeholder: "Buscar mezquitas en {state}..."
+filter_button: "Filtrar"
+
+# Masjid card
+directions: "Direcciones"
+visit_website: "Visitar Sitio Web"
+save_to_favorites: "Guardar en favoritos"
+
+# Prayer times
+prayer_times: "Horarios de Oración"
+loading_prayer_times: "Cargando horarios de oración..."
+next_prayer: "Siguiente: {prayer} en"
+fajr: "Fajr"
+sunrise: "Amanecer"
+dhuhr: "Dhuhr"
+asr: "Asr"
+maghrib: "Maghrib"
+isha: "Isha"
+
+# Qibla
+qibla_title: "Buscador de Dirección de Qibla"
+qibla_subtitle: "Encuentra la dirección a la Kaaba desde tu ubicación"
+qibla_direction: "Dirección"
+qibla_distance: "Distancia a la Kaaba"
+qibla_note: "Apunta la flecha hacia el norte magnético para encontrar la dirección de Qibla."
+finding_location: "Buscando tu ubicación..."
+
+# Favorites
+favorites_title: "Mis Mezquitas Guardadas"
+favorites_subtitle: "Tus mezquitas marcadas"
+no_favorites: "Aún no has guardado ninguna mezquita."
+browse_masajid: "Explorar Mezquitas"
+saved_count: "{count} mezquita guardada"
+saved_count_plural: "{count} mezquitas guardadas"
+
+# Footer
+data_source: "Datos proporcionados por"
+bismillah: "En el nombre de Alá, el Más Misericordioso, el Más Compasivo"
+
+# Common
+home: "Inicio"
+states: "Estados"
+retry: "Reintentar"
+location_denied: "Acceso a ubicación denegado. Por favor habilita los servicios de ubicación."
+geolocation_unsupported: "Tu navegador no soporta geolocalización"

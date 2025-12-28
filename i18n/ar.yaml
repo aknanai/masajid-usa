@@ -1,0 +1,70 @@
+# Arabic translations - العربية
+site_title: "مساجد أمريكا"
+tagline: "اكتشف أكثر من 1,600 مسجد في أمريكا"
+site_description: "ابحث عن المساجد في الولايات المتحدة"
+
+# Navigation
+nav_home: "الرئيسية"
+nav_browse_states: "تصفح الولايات"
+nav_qibla: "القبلة"
+nav_saved: "المحفوظات"
+nav_about: "حول"
+
+# Homepage
+hero_title: "مساجد أمريكا"
+stats_masajid: "مسجد"
+stats_states: "ولاية"
+search_placeholder: "ابحث باسم المسجد أو المدينة أو الولاية..."
+search_button: "بحث"
+browse_by_state: "تصفح حسب الولاية"
+search_results: "نتائج البحث"
+found_masajid: "تم العثور على {count} مسجد مطابق لـ \"{query}\""
+no_results: "لم يتم العثور على مساجد. جرب مصطلح بحث مختلف."
+
+# State page
+masajid_count: "{count} مسجد"
+filter_placeholder: "ابحث عن مساجد في {state}..."
+filter_button: "تصفية"
+
+# Masjid card
+directions: "الاتجاهات"
+visit_website: "زيارة الموقع"
+save_to_favorites: "حفظ في المفضلة"
+
+# Prayer times
+prayer_times: "مواقيت الصلاة"
+loading_prayer_times: "جاري تحميل مواقيت الصلاة..."
+next_prayer: "التالي: {prayer} في"
+fajr: "الفجر"
+sunrise: "الشروق"
+dhuhr: "الظهر"
+asr: "العصر"
+maghrib: "المغرب"
+isha: "العشاء"
+
+# Qibla
+qibla_title: "محدد اتجاه القبلة"
+qibla_subtitle: "اعثر على اتجاه الكعبة من موقعك"
+qibla_direction: "الاتجاه"
+qibla_distance: "المسافة إلى الكعبة"
+qibla_note: "وجه السهم نحو الشمال المغناطيسي لتحديد اتجاه القبلة."
+finding_location: "جاري تحديد موقعك..."
+
+# Favorites
+favorites_title: "مساجدي المحفوظة"
+favorites_subtitle: "المساجد المفضلة لديك"
+no_favorites: "لم تحفظ أي مساجد بعد."
+browse_masajid: "تصفح المساجد"
+saved_count: "{count} مسجد محفوظ"
+saved_count_plural: "{count} مساجد محفوظة"
+
+# Footer
+data_source: "البيانات من"
+bismillah: "بسم الله الرحمن الرحيم"
+
+# Common
+home: "الرئيسية"
+states: "الولايات"
+retry: "إعادة المحاولة"
+location_denied: "تم رفض الوصول إلى الموقع. يرجى تفعيل خدمات الموقع."
+geolocation_unsupported: "المتصفح لا يدعم تحديد الموقع الجغرافي"

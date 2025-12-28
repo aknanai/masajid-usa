@@ -1,0 +1,70 @@
+# English translations
+site_title: "Masajid USA"
+tagline: "Discover 1,600+ Masajid Across America"
+site_description: "Find masajid (mosques) across the United States"
+
+# Navigation
+nav_home: "Home"
+nav_browse_states: "Browse States"
+nav_qibla: "Qibla"
+nav_saved: "Saved"
+nav_about: "About"
+
+# Homepage
+hero_title: "Masajid USA"
+stats_masajid: "Masajid"
+stats_states: "States"
+search_placeholder: "Search by masjid name, city, or state..."
+search_button: "Search"
+browse_by_state: "Browse by State"
+search_results: "Search Results"
+found_masajid: "Found {count} masajid matching \"{query}\""
+no_results: "No masajid found. Try a different search term."
+
+# State page
+masajid_count: "{count} Masajid"
+filter_placeholder: "Search masajid in {state}..."
+filter_button: "Filter"
+
+# Masjid card
+directions: "Directions"
+visit_website: "Visit Website"
+save_to_favorites: "Save to favorites"
+
+# Prayer times
+prayer_times: "Prayer Times"
+loading_prayer_times: "Loading prayer times..."
+next_prayer: "Next: {prayer} in"
+fajr: "Fajr"
+sunrise: "Sunrise"
+dhuhr: "Dhuhr"
+asr: "Asr"
+maghrib: "Maghrib"
+isha: "Isha"
+
+# Qibla
+qibla_title: "Qibla Direction Finder"
+qibla_subtitle: "Find the direction to the Kaaba from your location"
+qibla_direction: "Direction"
+qibla_distance: "Distance to Kaaba"
+qibla_note: "Point the arrow towards magnetic North to find the Qibla direction."
+finding_location: "Finding your location..."
+
+# Favorites
+favorites_title: "My Saved Masajid"
+favorites_subtitle: "Your bookmarked masajid"
+no_favorites: "You haven't saved any masajid yet."
+browse_masajid: "Browse Masajid"
+saved_count: "{count} saved masjid"
+saved_count_plural: "{count} saved masajids"
+
+# Footer
+data_source: "Data sourced from"
+bismillah: "In the name of Allah, the Most Gracious, the Most Merciful"
+
+# Common
+home: "Home"
+states: "States"
+retry: "Retry"
+location_denied: "Location access denied. Please enable location services."
+geolocation_unsupported: "Geolocation not supported by your browser"

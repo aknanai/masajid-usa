@@ -10,6 +10,19 @@ const Qibla = {
         lon: 39.8262
     },
 
+    // Get i18n strings (fallback to English if not available)
+    getI18n() {
+        return window.qiblaI18n || {
+            direction: "Direction",
+            distance: "Distance to Kaaba",
+            note: "Point the arrow towards magnetic North to find the Qibla direction.",
+            finding_location: "Finding your location...",
+            retry: "Retry",
+            location_denied: "Location access denied. Please enable location services.",
+            geolocation_unsupported: "Geolocation not supported by your browser"
+        };
+    },
+
     /**
      * Initialize the Qibla finder
      */
@@ -33,6 +46,8 @@ const Qibla = {
      * Get user's location
      */
     async getLocation() {
+        const i18n = this.getI18n();
+
         // Check localStorage cache
         const cached = localStorage.getItem('userLocation');
         if (cached) {
@@ -44,7 +59,7 @@ const Qibla = {
 
         return new Promise((resolve, reject) => {
             if (!navigator.geolocation) {
-                reject(new Error('Geolocation not supported by your browser'));
+                reject(new Error(i18n.geolocation_unsupported));
                 return;
             }
 
@@ -69,7 +84,7 @@ const Qibla = {
                     resolve(locationData);
                 },
                 (error) => {
-                    reject(new Error('Location access denied. Please enable location services.'));
+                    reject(new Error(i18n.location_denied));
                 },
                 { timeout: 10000 }
             );
@@ -125,6 +140,8 @@ const Qibla = {
      * Display the Qibla direction
      */
     displayQibla(data, city) {
+        const i18n = this.getI18n();
+
         this.container.innerHTML = `
             <div class="qibla-content">
                 <div class="compass-wrapper">
@@ -139,19 +156,19 @@ const Qibla = {
                 </div>
 
                 <div class="qibla-info">
-                    <h3>Qibla Direction from ${city}</h3>
+                    <h3>${city}</h3>
                     <div class="qibla-stat">
-                        <span class="qibla-stat-label">Direction</span>
+                        <span class="qibla-stat-label">${i18n.direction}</span>
                         <span class="qibla-stat-value">${data.bearing}&deg; ${data.compassDirection}</span>
                     </div>
                     <div class="qibla-stat">
-                        <span class="qibla-stat-label">Distance to Kaaba</span>
+                        <span class="qibla-stat-label">${i18n.distance}</span>
                         <span class="qibla-stat-value">${Number(data.distance).toLocaleString()} km (${Number(data.distanceMiles).toLocaleString()} mi)</span>
                     </div>
                 </div>
 
                 <p class="qibla-note" style="margin-top: 1.5rem; font-size: 0.875rem; color: var(--text-light); text-align: center;">
-                    Point the arrow towards magnetic North to find the Qibla direction.
+                    ${i18n.note}
                 </p>
             </div>
         `;
@@ -169,10 +186,12 @@ const Qibla = {
      * Show loading state
      */
     showLoading() {
+        const i18n = this.getI18n();
+
         this.container.innerHTML = `
             <div class="qibla-loading">
                 <div class="loading-spinner"></div>
-                <p>Finding your location...</p>
+                <p>${i18n.finding_location}</p>
             </div>
         `;
     },
@@ -181,10 +200,12 @@ const Qibla = {
      * Show error state
      */
     showError(message) {
+        const i18n = this.getI18n();
+
         this.container.innerHTML = `
             <div class="qibla-error">
                 <p>${message}</p>
-                <button onclick="Qibla.init()" class="btn btn-primary">Retry</button>
+                <button onclick="Qibla.init()" class="btn btn-primary">${i18n.retry}</button>
             </div>
         `;
     }

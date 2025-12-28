@@ -6,9 +6,9 @@
 <section class="page-header">
     <div class="container">
         <h1>{{ $stateName }}</h1>
-        <p class="subtitle">{{ $stateData.count }} Masajid</p>
+        <p class="subtitle">{{ $stateData.count }} {{ i18n "stats_masajid" }}</p>
         <div class="breadcrumb">
-            <a href="{{ "" | relURL }}">Home</a> / <a href="{{ "states/" | relURL }}">States</a> / <span>{{ $stateName }}</span>
+            <a href="{{ "" | relLangURL }}">{{ i18n "home" }}</a> / <a href="{{ "states/" | relLangURL }}">{{ i18n "states" }}</a> / <span>{{ $stateName }}</span>
         </div>
     </div>
 </section>
@@ -26,8 +26,8 @@
 <div class="container">
     <section class="search-section" style="margin-top: 2rem;">
         <div class="search-box">
-            <input type="text" id="state-search" class="search-input" placeholder="Search masajid in {{ $stateName }}...">
-            <button class="search-btn" onclick="filterMasajid()">Filter</button>
+            <input type="text" id="state-search" class="search-input" placeholder="{{ i18n "filter_placeholder" | replace "{state}" $stateName }}">
+            <button class="search-btn" onclick="filterMasajid()">{{ i18n "filter_button" }}</button>
         </div>
     </section>
 </div>
@@ -39,7 +39,7 @@
         <div class="masjid-card" data-name="{{ .name | lower }}" data-city="{{ .address.city | lower }}" data-id="{{ .id }}">
             <div class="masjid-card-header">
                 <h3 class="masjid-name">{{ .name }}</h3>
-                <button class="favorite-btn" data-id="{{ .id }}" onclick="handleFavoriteClick(this, {{ . | jsonify }})" title="Save to favorites">&#9825;</button>
+                <button class="favorite-btn" data-id="{{ .id }}" onclick="handleFavoriteClick(this, {{ . | jsonify | safeJS }})" title="{{ i18n "save_to_favorites" }}">&#9825;</button>
             </div>
             <div class="masjid-details">
                 {{ if .address.street }}
@@ -61,14 +61,14 @@
                 {{ if .website }}
                 <div class="masjid-detail">
                     <span class="icon">&#127760;</span>
-                    <a href="{{ .website }}" target="_blank">Visit Website</a>
+                    <a href="{{ .website }}" target="_blank">{{ i18n "visit_website" }}</a>
                 </div>
                 {{ end }}
             </div>
             <div class="masjid-actions">
                 {{ if and .coordinates .coordinates.lat .coordinates.lon }}
                 <a href="https://www.google.com/maps?q={{ .coordinates.lat }},{{ .coordinates.lon }}" target="_blank" class="btn btn-primary">
-                    &#128506; Directions
+                    &#128506; {{ i18n "directions" }}
                 </a>
                 {{ end }}
             </div>

@@ -1,8 +1,8 @@
 {{ define "main" }}
 <section class="page-header">
     <div class="container">
-        <h1>Qibla Direction Finder</h1>
-        <p class="subtitle">Find the direction to the Kaaba from your location</p>
+        <h1>{{ i18n "qibla_title" }}</h1>
+        <p class="subtitle">{{ i18n "qibla_subtitle" }}</p>
     </div>
 </section>
 
@@ -14,5 +14,17 @@
 {{ end }}
 
 {{ define "scripts" }}
+<script>
+// i18n strings for Qibla
+const qiblaI18n = {
+    direction: "{{ i18n "qibla_direction" }}",
+    distance: "{{ i18n "qibla_distance" }}",
+    note: "{{ i18n "qibla_note" }}",
+    finding_location: "{{ i18n "finding_location" }}",
+    retry: "{{ i18n "retry" }}",
+    location_denied: "{{ i18n "location_denied" }}",
+    geolocation_unsupported: "{{ i18n "geolocation_unsupported" }}"
+};
+</script>
 <script src="{{ "js/qibla.js" | relURL }}"></script>
 {{ end }}

@@ -1,0 +1,70 @@
+# Urdu translations - اردو
+site_title: "مساجد امریکہ"
+tagline: "امریکہ بھر میں 1,600 سے زیادہ مساجد دریافت کریں"
+site_description: "ریاستہائے متحدہ میں مساجد تلاش کریں"
+
+# Navigation
+nav_home: "ہوم"
+nav_browse_states: "ریاستیں دیکھیں"
+nav_qibla: "قبلہ"
+nav_saved: "محفوظ شدہ"
+nav_about: "تعارف"
+
+# Homepage
+hero_title: "مساجد امریکہ"
+stats_masajid: "مساجد"
+stats_states: "ریاستیں"
+search_placeholder: "مسجد کا نام، شہر، یا ریاست سے تلاش کریں..."
+search_button: "تلاش"
+browse_by_state: "ریاست کے لحاظ سے دیکھیں"
+search_results: "تلاش کے نتائج"
+found_masajid: "\"{query}\" سے ملتی {count} مساجد ملیں"
+no_results: "کوئی مسجد نہیں ملی۔ مختلف الفاظ سے تلاش کریں۔"
+
+# State page
+masajid_count: "{count} مساجد"
+filter_placeholder: "{state} میں مساجد تلاش کریں..."
+filter_button: "فلٹر"
+
+# Masjid card
+directions: "راستہ"
+visit_website: "ویب سائٹ دیکھیں"
+save_to_favorites: "پسندیدہ میں محفوظ کریں"
+
+# Prayer times
+prayer_times: "نماز کے اوقات"
+loading_prayer_times: "نماز کے اوقات لوڈ ہو رہے ہیں..."
+next_prayer: "اگلی: {prayer} میں"
+fajr: "فجر"
+sunrise: "طلوع آفتاب"
+dhuhr: "ظہر"
+asr: "عصر"
+maghrib: "مغرب"
+isha: "عشاء"
+
+# Qibla
+qibla_title: "قبلہ کی سمت معلوم کریں"
+qibla_subtitle: "اپنے مقام سے کعبہ کی سمت تلاش کریں"
+qibla_direction: "سمت"
+qibla_distance: "کعبہ تک فاصلہ"
+qibla_note: "قبلہ کی سمت معلوم کرنے کے لیے تیر کو مقناطیسی شمال کی طرف کریں۔"
+finding_location: "آپ کا مقام تلاش کیا جا رہا ہے..."
+
+# Favorites
+favorites_title: "میری محفوظ شدہ مساجد"
+favorites_subtitle: "آپ کی نشان زد مساجد"
+no_favorites: "آپ نے ابھی تک کوئی مسجد محفوظ نہیں کی۔"
+browse_masajid: "مساجد دیکھیں"
+saved_count: "{count} مسجد محفوظ"
+saved_count_plural: "{count} مساجد محفوظ"
+
+# Footer
+data_source: "ڈیٹا بشکریہ"
+bismillah: "بسم اللہ الرحمٰن الرحیم"
+
+# Common
+home: "ہوم"
+states: "ریاستیں"
+retry: "دوبارہ کوشش کریں"
+location_denied: "مقام کی اجازت نہیں دی گئی۔ براہ کرم لوکیشن سروسز فعال کریں۔"
+geolocation_unsupported: "آپ کا براؤزر جیو لوکیشن کو سپورٹ نہیں کرتا"

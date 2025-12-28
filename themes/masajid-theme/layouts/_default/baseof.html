@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.Language.Lang }}" {{ if .Site.Language.LanguageDirection }}dir="{{ .Site.Language.LanguageDirection }}"{{ end }}>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ .Title }} | {{ i18n "site_title" }}</title>
     <meta name="description" content="{{ .Site.Params.description }}">
 
     <!-- Leaflet CSS -->
@@ -12,25 +12,44 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
-<body>
+<body class="{{ if .Site.Language.LanguageDirection }}rtl{{ end }}">
     <header class="site-header">
         <div class="container">
-            <a href="{{ "" | relURL }}" class="logo">
+            <a href="{{ "" | relLangURL }}" class="logo">
                 <span class="logo-icon">&#9775;</span>
-                <span class="logo-text">Masajid USA</span>
+                <span class="logo-text">{{ i18n "site_title" }}</span>
             </a>
             <nav class="main-nav">
-                <a href="{{ "" | relURL }}">Home</a>
-                <a href="{{ "states/" | relURL }}">Browse States</a>
-                <a href="{{ "qibla/" | relURL }}">Qibla</a>
-                <a href="{{ "favorites/" | relURL }}">Saved</a>
-                <a href="{{ "about/" | relURL }}">About</a>
+                <a href="{{ "" | relLangURL }}">{{ i18n "nav_home" }}</a>
+                <a href="{{ "states/" | relLangURL }}">{{ i18n "nav_browse_states" }}</a>
+                <a href="{{ "qibla/" | relLangURL }}">{{ i18n "nav_qibla" }}</a>
+                <a href="{{ "favorites/" | relLangURL }}">{{ i18n "nav_saved" }}</a>
+                <a href="{{ "about/" | relLangURL }}">{{ i18n "nav_about" }}</a>
             </nav>
+            <!-- Language Switcher -->
+            <div class="language-switcher">
+                <button class="lang-toggle" aria-label="Select language">
+                    <span class="lang-icon">&#127760;</span>
+                    <span class="lang-current">{{ .Site.Language.LanguageName }}</span>
+                </button>
+                <div class="lang-dropdown">
+                    {{ $currentPage := . }}
+                    {{ range .Site.Languages }}
+                    {{ $langURL := printf "/%s/" .Lang }}
+                    {{ if eq .Lang "en" }}{{ $langURL = "/" }}{{ end }}
+                    <a href="{{ $langURL | relURL }}"
+                       class="{{ if eq . $currentPage.Site.Language }}active{{ end }}"
+                       hreflang="{{ .Lang }}">
+                        {{ .LanguageName }}
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
                 <span></span>
@@ -45,8 +64,8 @@
 
     <footer class="site-footer">
         <div class="container">
-            <p>Data sourced from <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a></p>
-            <p class="arabic">&#1576;&#1587;&#1605; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1585;&#1581;&#1605;&#1606; &#1575;&#1604;&#1585;&#1581;&#1610;&#1605;</p>
+            <p>{{ i18n "data_source" }} <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a></p>
+            <p class="arabic">{{ i18n "bismillah" }}</p>
         </div>
     </footer>
 
@@ -58,8 +77,12 @@
     <script src="{{ "js/prayer-times.js" | relURL }}"></script>
     <script src="{{ "js/favorites.js" | relURL }}"></script>
 
-    <!-- Base URL for JavaScript -->
-    <script>window.BASE_URL = "{{ "" | absURL }}";</script>
+    <!-- Base URL and Language for JavaScript -->
+    <script>
+        window.BASE_URL = "{{ "" | absURL }}";
+        window.LANG = "{{ .Site.Language.Lang }}";
+        window.IS_RTL = {{ if .Site.Language.LanguageDirection }}true{{ else }}false{{ end }};
+    </script>
 
     {{ block "scripts" . }}{{ end }}
 </body>

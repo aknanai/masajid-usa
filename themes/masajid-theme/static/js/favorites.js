@@ -108,11 +108,20 @@ const Favorites = {
 
         const favorites = this.getAll();
 
+        // Get i18n strings (fallback to English if not available)
+        const i18n = window.favoritesI18n || {
+            no_favorites: "You haven't saved any masajid yet.",
+            browse_masajid: "Browse Masajid",
+            saved_count: "{count} saved masajid",
+            directions: "Directions",
+            visit_website: "Visit Website"
+        };
+
         if (favorites.length === 0) {
             container.innerHTML = `
                 <div class="empty-favorites">
-                    <p>You haven't saved any masajid yet.</p>
-                    <a href="${window.BASE_URL || '/'}" class="btn btn-primary">Browse Masajid</a>
+                    <p>${i18n.no_favorites}</p>
+                    <a href="${window.BASE_URL || '/'}" class="btn btn-primary">${i18n.browse_masajid}</a>
                 </div>
             `;
             return;
@@ -131,12 +140,12 @@ const Favorites = {
                     ${m.address.street ? `<div class="masjid-detail"><span class="icon">&#128205;</span>${m.address.street}</div>` : ''}
                     <div class="masjid-detail"><span class="icon">&#127961;</span>${m.address.city || 'N/A'}, ${m.address.state || 'N/A'} ${m.address.zip || ''}</div>
                     ${m.phone ? `<div class="masjid-detail"><span class="icon">&#128222;</span><a href="tel:${m.phone}">${m.phone}</a></div>` : ''}
-                    ${m.website ? `<div class="masjid-detail"><span class="icon">&#127760;</span><a href="${m.website}" target="_blank">Visit Website</a></div>` : ''}
+                    ${m.website ? `<div class="masjid-detail"><span class="icon">&#127760;</span><a href="${m.website}" target="_blank">${i18n.visit_website}</a></div>` : ''}
                 </div>
                 <div class="masjid-actions">
                     ${m.coordinates && m.coordinates.lat && m.coordinates.lon ? `
                         <a href="https://www.google.com/maps?q=${m.coordinates.lat},${m.coordinates.lon}" target="_blank" class="btn btn-primary">
-                            &#128506; Directions
+                            &#128506; ${i18n.directions}
                         </a>
                     ` : ''}
                 </div>
@@ -146,7 +155,7 @@ const Favorites = {
         // Update count
         const countEl = document.getElementById('favorites-count');
         if (countEl) {
-            countEl.textContent = `${favorites.length} saved masjid${favorites.length === 1 ? '' : 's'}`;
+            countEl.textContent = i18n.saved_count.replace('{count}', favorites.length);
         }
     },
 

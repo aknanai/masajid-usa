@@ -2,17 +2,17 @@
 <!-- Hero Section -->
 <section class="hero">
     <div class="container">
-        <h1>Masajid USA</h1>
+        <h1>{{ i18n "hero_title" }}</h1>
         <p class="tagline">{{ .Site.Params.tagline }}</p>
         <div class="stats">
             {{ $index := .Site.Data.masajid._index }}
             <div class="stat">
                 <div class="stat-number">{{ $index.total_count }}</div>
-                <div class="stat-label">Masajid</div>
+                <div class="stat-label">{{ i18n "stats_masajid" }}</div>
             </div>
             <div class="stat">
                 <div class="stat-number">{{ len $index.state_counts }}</div>
-                <div class="stat-label">States</div>
+                <div class="stat-label">{{ i18n "stats_states" }}</div>
             </div>
         </div>
     </div>
@@ -22,8 +22,8 @@
 <div class="container">
     <section class="search-section">
         <div class="search-box">
-            <input type="text" id="search-input" class="search-input" placeholder="Search by masjid name, city, or state...">
-            <button class="search-btn" onclick="performSearch()">Search</button>
+            <input type="text" id="search-input" class="search-input" placeholder="{{ i18n "search_placeholder" }}">
+            <button class="search-btn" onclick="performSearch()">{{ i18n "search_button" }}</button>
         </div>
     </section>
 </div>
@@ -47,12 +47,12 @@
 <!-- States Grid -->
 <section class="states-section">
     <div class="container">
-        <h2 class="section-title">Browse by State</h2>
+        <h2 class="section-title">{{ i18n "browse_by_state" }}</h2>
         <div class="states-grid">
             {{ $index := .Site.Data.masajid._index }}
             {{ range $state, $count := $index.state_counts }}
             {{ $slug := $state | urlize }}
-            <a href="{{ printf "states/%s/" $slug | relURL }}" class="state-card">
+            <a href="{{ printf "states/%s/" $slug | relLangURL }}" class="state-card">
                 <span class="state-name">{{ $state }}</span>
                 <span class="state-count">{{ $count }}</span>
             </a>
@@ -63,7 +63,7 @@
 
 <!-- Search Results (hidden by default) -->
 <section class="search-results container" id="search-results" style="display: none;">
-    <h2 class="section-title">Search Results</h2>
+    <h2 class="section-title">{{ i18n "search_results" }}</h2>
     <div class="results-count" id="results-count"></div>
     <div class="masajid-grid" id="results-grid"></div>
 </section>
@@ -74,6 +74,15 @@
 // Load all masajid data for search and map
 let allMasajid = [];
 const baseUrl = window.BASE_URL || '/';
+
+// i18n strings for JavaScript
+const i18n = {
+    found_masajid: "{{ i18n "found_masajid" }}",
+    no_results: "{{ i18n "no_results" }}",
+    directions: "{{ i18n "directions" }}",
+    visit_website: "{{ i18n "visit_website" }}",
+    save_to_favorites: "{{ i18n "save_to_favorites" }}"
+};
 
 async function loadAllData() {
     try {
@@ -141,10 +150,10 @@ function displayResults(results, query) {
     const count = document.getElementById('results-count');
 
     container.style.display = 'block';
-    count.textContent = `Found ${results.length} masajid matching "${query}"`;
+    count.textContent = i18n.found_masajid.replace('{count}', results.length).replace('{query}', query);
 
     if (results.length === 0) {
-        grid.innerHTML = '<div class="no-results">No masajid found. Try a different search term.</div>';
+        grid.innerHTML = `<div class="no-results">${i18n.no_results}</div>`;
         return;
     }
 
@@ -152,18 +161,18 @@ function displayResults(results, query) {
         <div class="masjid-card" data-id="${m.id}">
             <div class="masjid-card-header">
                 <h3 class="masjid-name">${m.name}</h3>
-                <button class="favorite-btn" data-id="${m.id}" onclick="handleFavoriteClick(this, ${JSON.stringify(m).replace(/"/g, '&quot;')})" title="Save to favorites">&#9825;</button>
+                <button class="favorite-btn" data-id="${m.id}" onclick="handleFavoriteClick(this, ${JSON.stringify(m).replace(/"/g, '&quot;')})" title="${i18n.save_to_favorites}">&#9825;</button>
             </div>
             <div class="masjid-details">
                 ${m.address.street ? `<div class="masjid-detail"><span class="icon">&#128205;</span>${m.address.street}</div>` : ''}
                 <div class="masjid-detail"><span class="icon">&#127961;</span>${m.address.city || 'N/A'}, ${m.address.state || 'N/A'} ${m.address.zip || ''}</div>
                 ${m.phone ? `<div class="masjid-detail"><span class="icon">&#128222;</span><a href="tel:${m.phone}">${m.phone}</a></div>` : ''}
-                ${m.website ? `<div class="masjid-detail"><span class="icon">&#127760;</span><a href="${m.website}" target="_blank">Visit Website</a></div>` : ''}
+                ${m.website ? `<div class="masjid-detail"><span class="icon">&#127760;</span><a href="${m.website}" target="_blank">${i18n.visit_website}</a></div>` : ''}
             </div>
             <div class="masjid-actions">
                 ${m.coordinates && m.coordinates.lat && m.coordinates.lon ? `
                     <a href="https://www.google.com/maps?q=${m.coordinates.lat},${m.coordinates.lon}" target="_blank" class="btn btn-primary">
-                        &#128506; Directions
+                        &#128506; ${i18n.directions}
                     </a>
                 ` : ''}
             </div>

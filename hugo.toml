@@ -1,13 +1,50 @@
 baseURL = '/'
-languageCode = 'en-us'
 title = 'Masajid USA'
 theme = 'masajid-theme'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 
 [params]
   description = "Find masajid (mosques) across the United States"
-  tagline = "Discover 1,700+ Masajid Across America"
+  tagline = "Discover 1,600+ Masajid Across America"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Languages
+[languages]
+  [languages.en]
+    languageCode = 'en-us'
+    languageName = 'English'
+    weight = 1
+    [languages.en.params]
+      description = "Find masajid (mosques) across the United States"
+      tagline = "Discover 1,600+ Masajid Across America"
+
+  [languages.ar]
+    languageCode = 'ar'
+    languageName = 'العربية'
+    languageDirection = 'rtl'
+    weight = 2
+    [languages.ar.params]
+      description = "ابحث عن المساجد في الولايات المتحدة"
+      tagline = "اكتشف أكثر من 1,600 مسجد في أمريكا"
+
+  [languages.ur]
+    languageCode = 'ur'
+    languageName = 'اردو'
+    languageDirection = 'rtl'
+    weight = 3
+    [languages.ur.params]
+      description = "ریاستہائے متحدہ میں مساجد تلاش کریں"
+      tagline = "امریکہ بھر میں 1,600 سے زیادہ مساجد دریافت کریں"
+
+  [languages.es]
+    languageCode = 'es'
+    languageName = 'Español'
+    weight = 4
+    [languages.es.params]
+      description = "Encuentra mezquitas en los Estados Unidos"
+      tagline = "Descubre más de 1,600 Mezquitas en América"

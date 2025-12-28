@@ -1,8 +1,8 @@
 {{ define "main" }}
 <section class="page-header">
     <div class="container">
-        <h1>My Saved Masajid</h1>
-        <p class="subtitle" id="favorites-count">Your bookmarked masajid</p>
+        <h1>{{ i18n "favorites_title" }}</h1>
+        <p class="subtitle" id="favorites-count">{{ i18n "favorites_subtitle" }}</p>
     </div>
 </section>
 
@@ -14,5 +14,15 @@
 {{ end }}
 
 {{ define "scripts" }}
+<script>
+// i18n strings for Favorites
+const favoritesI18n = {
+    no_favorites: "{{ i18n "no_favorites" }}",
+    browse_masajid: "{{ i18n "browse_masajid" }}",
+    saved_count: "{{ i18n "saved_count" }}",
+    directions: "{{ i18n "directions" }}",
+    visit_website: "{{ i18n "visit_website" }}"
+};
+</script>
 <script src="{{ "js/favorites.js" | relURL }}"></script>
 {{ end }}
