@@ -150,16 +150,19 @@ document.getElementById('state-search').addEventListener('input', function(e) {
     }
 });
 
-initMap();
-
 // Handle favorite button clicks
 function handleFavoriteClick(btn, masjidData) {
     Favorites.handleClick(btn, masjidData);
 }
 
-// Initialize favorite buttons after page load
-document.addEventListener('DOMContentLoaded', function() {
+// Initialize map - called immediately since Leaflet is already loaded
+if (typeof L !== 'undefined') {
+    initMap();
+}
+
+// Initialize favorites
+if (typeof Favorites !== 'undefined') {
     Favorites.initButtons();
-});
+}
 </script>
 {{ end }}
