@@ -84,7 +84,7 @@
 
 <script>
 // Initialize map with state masajid
-const masajid = {{ $stateData.masajid | jsonify }};
+const masajid = {{ $stateData.masajid | jsonify | safeJS }};
 
 function initMap() {
     // Calculate center from masajid coordinates
