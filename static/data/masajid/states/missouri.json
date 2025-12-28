@@ -1,6 +1,6 @@
 {
   "state": "Missouri",
-  "count": 33,
+  "count": 32,
   "masajid": [
     {
       "id": "node_188938995",
@@ -507,28 +507,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 386469046
-    },
-    {
-      "id": "way_402282992",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "3000 South Stanton Street",
-        "city": "Springfield",
-        "state": "IL",
-        "zip": "62703",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.7619485,
-        "lon": -89.6248712
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 402282992
     },
     {
       "id": "way_474048074",

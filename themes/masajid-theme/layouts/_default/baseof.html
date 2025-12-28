@@ -27,6 +27,8 @@
             <nav class="main-nav">
                 <a href="{{ "" | relURL }}">Home</a>
                 <a href="{{ "states/" | relURL }}">Browse States</a>
+                <a href="{{ "qibla/" | relURL }}">Qibla</a>
+                <a href="{{ "favorites/" | relURL }}">Saved</a>
                 <a href="{{ "about/" | relURL }}">About</a>
             </nav>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
@@ -53,6 +55,8 @@
 
     <!-- Custom JS -->
     <script src="{{ "js/app.js" | relURL }}"></script>
+    <script src="{{ "js/prayer-times.js" | relURL }}"></script>
+    <script src="{{ "js/favorites.js" | relURL }}"></script>
 
     <!-- Base URL for JavaScript -->
     <script>window.BASE_URL = "{{ "" | absURL }}";</script>

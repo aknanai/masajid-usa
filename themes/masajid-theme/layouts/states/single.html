@@ -36,8 +36,11 @@
 <section class="container">
     <div class="masajid-grid" id="masajid-list">
         {{ range $stateData.masajid }}
-        <div class="masjid-card" data-name="{{ .name | lower }}" data-city="{{ .address.city | lower }}">
-            <h3 class="masjid-name">{{ .name }}</h3>
+        <div class="masjid-card" data-name="{{ .name | lower }}" data-city="{{ .address.city | lower }}" data-id="{{ .id }}">
+            <div class="masjid-card-header">
+                <h3 class="masjid-name">{{ .name }}</h3>
+                <button class="favorite-btn" data-id="{{ .id }}" onclick="handleFavoriteClick(this, {{ . | jsonify }})" title="Save to favorites">&#9825;</button>
+            </div>
             <div class="masjid-details">
                 {{ if .address.street }}
                 <div class="masjid-detail">
@@ -148,5 +151,15 @@ document.getElementById('state-search').addEventListener('input', function(e) {
 });
 
 initMap();
+
+// Handle favorite button clicks
+function handleFavoriteClick(btn, masjidData) {
+    Favorites.handleClick(btn, masjidData);
+}
+
+// Initialize favorite buttons after page load
+document.addEventListener('DOMContentLoaded', function() {
+    Favorites.initButtons();
+});
 </script>
 {{ end }}

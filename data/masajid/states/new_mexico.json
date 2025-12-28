@@ -1,6 +1,6 @@
 {
   "state": "New Mexico",
-  "count": 8,
+  "count": 5,
   "masajid": [
     {
       "id": "way_174267357",
@@ -47,50 +47,6 @@
       "osm_id": 176131489
     },
     {
-      "id": "way_265482606",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Mexico",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 31.8186808,
-        "lon": -106.5116745
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 265482606
-    },
-    {
-      "id": "way_316374303",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Mexico",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.1086611,
-        "lon": -106.5441461
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 316374303
-    },
-    {
       "id": "way_399315607",
       "name": "Islamic Center of New Mexico",
       "address": {
@@ -133,28 +89,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 554585288
-    },
-    {
-      "id": "way_683020107",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Mexico",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.1079413,
-        "lon": -106.5214028
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 683020107
     },
     {
       "id": "way_877949223",

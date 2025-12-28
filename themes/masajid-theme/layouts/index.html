@@ -28,6 +28,13 @@
     </section>
 </div>
 
+<!-- Prayer Times Widget -->
+<div class="container">
+    <div class="prayer-times-widget" id="prayer-times-widget">
+        <!-- Prayer times will be loaded here -->
+    </div>
+</div>
+
 <!-- Map Section -->
 <section class="map-section">
     <div class="container">
@@ -142,8 +149,11 @@ function displayResults(results, query) {
     }
 
     grid.innerHTML = results.slice(0, 50).map(m => `
-        <div class="masjid-card">
-            <h3 class="masjid-name">${m.name}</h3>
+        <div class="masjid-card" data-id="${m.id}">
+            <div class="masjid-card-header">
+                <h3 class="masjid-name">${m.name}</h3>
+                <button class="favorite-btn" data-id="${m.id}" onclick="handleFavoriteClick(this, ${JSON.stringify(m).replace(/"/g, '&quot;')})" title="Save to favorites">&#9825;</button>
+            </div>
             <div class="masjid-details">
                 ${m.address.street ? `<div class="masjid-detail"><span class="icon">&#128205;</span>${m.address.street}</div>` : ''}
                 <div class="masjid-detail"><span class="icon">&#127961;</span>${m.address.city || 'N/A'}, ${m.address.state || 'N/A'} ${m.address.zip || ''}</div>
@@ -151,14 +161,24 @@ function displayResults(results, query) {
                 ${m.website ? `<div class="masjid-detail"><span class="icon">&#127760;</span><a href="${m.website}" target="_blank">Visit Website</a></div>` : ''}
             </div>
             <div class="masjid-actions">
-                <a href="https://www.google.com/maps?q=${m.coordinates.lat},${m.coordinates.lon}" target="_blank" class="btn btn-primary">
-                    &#128506; Directions
-                </a>
+                ${m.coordinates && m.coordinates.lat && m.coordinates.lon ? `
+                    <a href="https://www.google.com/maps?q=${m.coordinates.lat},${m.coordinates.lon}" target="_blank" class="btn btn-primary">
+                        &#128506; Directions
+                    </a>
+                ` : ''}
             </div>
         </div>
     `).join('');
 
     container.scrollIntoView({ behavior: 'smooth' });
+
+    // Re-initialize favorite buttons for search results
+    Favorites.initButtons();
+}
+
+// Handle favorite button click
+function handleFavoriteClick(btn, masjidData) {
+    Favorites.handleClick(btn, masjidData);
 }
 
 // Search on Enter key

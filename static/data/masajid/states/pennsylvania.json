@@ -1,6 +1,6 @@
 {
   "state": "Pennsylvania",
-  "count": 72,
+  "count": 69,
   "masajid": [
     {
       "id": "node_357356364",
@@ -1059,28 +1059,6 @@
       "osm_id": 539611517
     },
     {
-      "id": "way_544837927",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Pennsylvania",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.4093203,
-        "lon": -80.0832373
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 544837927
-    },
-    {
       "id": "way_546713922",
       "name": "Masjid Mosque",
       "address": {
@@ -1345,28 +1323,6 @@
       "osm_id": 803144434
     },
     {
-      "id": "way_948209178",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Pennsylvania",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.9562857,
-        "lon": -75.2575419
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 948209178
-    },
-    {
       "id": "way_973188274",
       "name": "Masjid Al-Hidayah",
       "address": {
@@ -1453,28 +1409,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1057716545
-    },
-    {
-      "id": "way_1155434772",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Pennsylvania",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.458922,
-        "lon": -79.7357157
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1155434772
     },
     {
       "id": "way_1188755459",

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>My Saved Masajid</h1>
+        <p class="subtitle" id="favorites-count">Your bookmarked masajid</p>
+    </div>
+</section>
+
+<section class="container">
+    <div class="masajid-grid" id="favorites-list">
+        <!-- Favorites will be loaded here by JavaScript -->
+    </div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "js/favorites.js" | relURL }}"></script>
+{{ end }}

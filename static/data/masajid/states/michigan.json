@@ -1,6 +1,6 @@
 {
   "state": "Michigan",
-  "count": 137,
+  "count": 129,
   "masajid": [
     {
       "id": "node_354221267",
@@ -199,28 +199,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 4630654612
-    },
-    {
-      "id": "node_4728740279",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.1737739,
-        "lon": -88.3828016
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4728740279
     },
     {
       "id": "node_5323138325",
@@ -1389,28 +1367,6 @@
       "osm_id": 298729909
     },
     {
-      "id": "way_299564564",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 43.0683425,
-        "lon": -89.4069962
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 299564564
-    },
-    {
       "id": "way_305285126",
       "name": "Wheaton Islamic Center",
       "address": {
@@ -1565,28 +1521,6 @@
       "osm_id": 368975915
     },
     {
-      "id": "way_369939488",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.9026291,
-        "lon": -85.5691025
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 369939488
-    },
-    {
       "id": "way_374987612",
       "name": "Islamic Foundation North",
       "address": {
@@ -1717,28 +1651,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 479376242
-    },
-    {
-      "id": "way_490698765",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.2275459,
-        "lon": -82.9965779
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 490698765
     },
     {
       "id": "way_497280668",
@@ -2357,50 +2269,6 @@
       "osm_id": 785399687
     },
     {
-      "id": "way_787964229",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.2733874,
-        "lon": -82.9051377
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 787964229
-    },
-    {
-      "id": "way_788320969",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.5460248,
-        "lon": -83.4566511
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 788320969
-    },
-    {
       "id": "way_805894557",
       "name": "Sacred Learning Center",
       "address": {
@@ -2443,28 +2311,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 821661948
-    },
-    {
-      "id": "way_827376088",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.1753615,
-        "lon": -83.2464082
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 827376088
     },
     {
       "id": "way_839804368",
@@ -2531,28 +2377,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 992131702
-    },
-    {
-      "id": "way_1019084725",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.4569165,
-        "lon": -87.8387514
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1019084725
     },
     {
       "id": "way_1022069820",

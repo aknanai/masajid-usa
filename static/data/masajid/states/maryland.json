@@ -1,6 +1,6 @@
 {
   "state": "Maryland",
-  "count": 74,
+  "count": 71,
   "masajid": [
     {
       "id": "node_358244612",
@@ -133,28 +133,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 4675301557
-    },
-    {
-      "id": "node_4768817778",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Maryland",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 38.9977395,
-        "lon": -77.3372429
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4768817778
     },
     {
       "id": "node_5272248955",
@@ -509,28 +487,6 @@
       "osm_id": 135673011
     },
     {
-      "id": "way_143519832",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Maryland",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.1054888,
-        "lon": -77.0036123
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 143519832
-    },
-    {
       "id": "way_143519834",
       "name": "Muslim Community Center",
       "address": {
@@ -551,28 +507,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 143519834
-    },
-    {
-      "id": "way_146660989",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "10740 Clarksville Pike",
-        "city": "Ellicott City",
-        "state": "Maryland",
-        "zip": "21042",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://www.taqwa.net/",
-      "email": "",
-      "coordinates": {
-        "lat": 39.236701,
-        "lon": -76.8844992
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 146660989
     },
     {
       "id": "way_183872639",

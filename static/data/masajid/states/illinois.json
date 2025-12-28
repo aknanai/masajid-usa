@@ -1,6 +1,6 @@
 {
   "state": "Illinois",
-  "count": 97,
+  "count": 93,
   "masajid": [
     {
       "id": "node_354105786",
@@ -397,28 +397,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 4525103353
-    },
-    {
-      "id": "node_4728740279",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Illinois",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.1737739,
-        "lon": -88.3828016
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4728740279
     },
     {
       "id": "node_5427813971",
@@ -1411,28 +1389,6 @@
       "osm_id": 386469046
     },
     {
-      "id": "way_402282992",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "3000 South Stanton Street",
-        "city": "Springfield",
-        "state": "IL",
-        "zip": "62703",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.7619485,
-        "lon": -89.6248712
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 402282992
-    },
-    {
       "id": "way_414004498",
       "name": "Al Sadiq Mosque",
       "address": {
@@ -1453,28 +1409,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 414004498
-    },
-    {
-      "id": "way_438017724",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Illinois",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.5228108,
-        "lon": -87.8326917
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 438017724
     },
     {
       "id": "way_464622071",
@@ -1761,28 +1695,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 882572727
-    },
-    {
-      "id": "way_1019084725",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Illinois",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.4569165,
-        "lon": -87.8387514
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1019084725
     },
     {
       "id": "way_1060228232",

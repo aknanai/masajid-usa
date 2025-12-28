@@ -1,6 +1,6 @@
 {
   "state": "Tennessee",
-  "count": 20,
+  "count": 19,
   "masajid": [
     {
       "id": "node_356899643",
@@ -309,28 +309,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 693814875
-    },
-    {
-      "id": "way_740008558",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "Mynders Avenue",
-        "city": "Memphis",
-        "state": "TN",
-        "zip": "38111",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.1174601,
-        "lon": -89.9445344
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 740008558
     },
     {
       "id": "way_818841370",

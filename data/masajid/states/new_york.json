@@ -1,6 +1,6 @@
 {
   "state": "New York",
-  "count": 333,
+  "count": 317,
   "masajid": [
     {
       "id": "node_281671453",
@@ -905,28 +905,6 @@
       "osm_id": 3784213865
     },
     {
-      "id": "node_4204715198",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7683905,
-        "lon": -73.911567
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4204715198
-    },
-    {
       "id": "node_4253527907",
       "name": "Masjid Omar Bin Khatab",
       "address": {
@@ -1279,28 +1257,6 @@
       "osm_id": 5172768592
     },
     {
-      "id": "node_5179198664",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "1203 Virginia Avenue",
-        "city": "Bronx",
-        "state": "NY",
-        "zip": "10472",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.8307695,
-        "lon": -73.8607968
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 5179198664
-    },
-    {
       "id": "node_5514204632",
       "name": "Islamic Center at NYU",
       "address": {
@@ -1343,28 +1299,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 5552420224
-    },
-    {
-      "id": "node_5598586591",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "651 East 189th Street",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.8567056,
-        "lon": -73.8844155
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 5598586591
     },
     {
       "id": "node_5642678618",
@@ -2269,28 +2203,6 @@
       "osm_id": 8796640234
     },
     {
-      "id": "node_8952387978",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7430556,
-        "lon": -73.8955098
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 8952387978
-    },
-    {
       "id": "node_9062811515",
       "name": "Baitul Jannah Islamic Center",
       "address": {
@@ -2863,28 +2775,6 @@
       "osm_id": 13042969065
     },
     {
-      "id": "node_13189085033",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.6914662,
-        "lon": -73.5263429
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 13189085033
-    },
-    {
       "id": "node_13275652357",
       "name": "https://papemosque.ca/",
       "address": {
@@ -3213,50 +3103,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 43805181
-    },
-    {
-      "id": "way_43807049",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 43.721558,
-        "lon": -79.309026
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 43807049
-    },
-    {
-      "id": "way_56051752",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "110",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 44.6702968,
-        "lon": -74.9659172
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 56051752
     },
     {
       "id": "way_56202083",
@@ -5151,28 +4997,6 @@
       "osm_id": 391854003
     },
     {
-      "id": "way_405514732",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7184096,
-        "lon": -74.0432466
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 405514732
-    },
-    {
       "id": "way_411202377",
       "name": "Al-Tawheed Islamic Center",
       "address": {
@@ -5215,28 +5039,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 415257443
-    },
-    {
-      "id": "way_424418421",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7297496,
-        "lon": -74.2129234
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 424418421
     },
     {
       "id": "way_429006382",
@@ -5745,28 +5547,6 @@
       "osm_id": 589084882
     },
     {
-      "id": "way_590554173",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "595 Franklin Avenue",
-        "city": "Hartford",
-        "state": "CT",
-        "zip": "06114",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://www.facebook.com/bosnian-american-islamic-cultural-center-hartford-ct-346147188408",
-      "email": "",
-      "coordinates": {
-        "lat": 41.7319425,
-        "lon": -72.675069
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 590554173
-    },
-    {
       "id": "way_592852014",
       "name": "Al-Madany Islamic Center of Norwalk",
       "address": {
@@ -5787,28 +5567,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 592852014
-    },
-    {
-      "id": "way_615652676",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7738796,
-        "lon": -73.8974663
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 615652676
     },
     {
       "id": "way_615689860",
@@ -6933,28 +6691,6 @@
       "osm_id": 1189758763
     },
     {
-      "id": "way_1190581718",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 43.0701144,
-        "lon": -76.0591088
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1190581718
-    },
-    {
       "id": "way_1190930381",
       "name": "Masjid Al-Islam",
       "address": {
@@ -7109,28 +6845,6 @@
       "osm_id": 1314034151
     },
     {
-      "id": "way_1327844466",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "224 North 18th Street",
-        "city": "East Orange",
-        "state": "NJ",
-        "zip": "07017",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7651915,
-        "lon": -74.1953834
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1327844466
-    },
-    {
       "id": "way_1348989043",
       "name": "Albanian American Islamic Center",
       "address": {
@@ -7195,72 +6909,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1392904863
-    },
-    {
-      "id": "way_1434409698",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 43.9285348,
-        "lon": -78.9080424
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1434409698
-    },
-    {
-      "id": "way_1434893904",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.6914104,
-        "lon": -73.5263499
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1434893904
-    },
-    {
-      "id": "way_1456133816",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New York",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.7624323,
-        "lon": -73.8796668
-      },
-      "denomination": "sunni",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1456133816
     },
     {
       "id": "relation_1395514",

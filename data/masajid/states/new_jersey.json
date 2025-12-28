@@ -1,6 +1,6 @@
 {
   "state": "New Jersey",
-  "count": 157,
+  "count": 152,
   "masajid": [
     {
       "id": "node_357618658",
@@ -573,28 +573,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 3784213865
-    },
-    {
-      "id": "node_4204715198",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Jersey",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7683905,
-        "lon": -73.911567
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4204715198
     },
     {
       "id": "node_4278223126",
@@ -2423,28 +2401,6 @@
       "osm_id": 379425927
     },
     {
-      "id": "way_405514732",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Jersey",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7184096,
-        "lon": -74.0432466
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 405514732
-    },
-    {
       "id": "way_411202377",
       "name": "Al-Tawheed Islamic Center",
       "address": {
@@ -2487,28 +2443,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 415257443
-    },
-    {
-      "id": "way_424418421",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Jersey",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7297496,
-        "lon": -74.2129234
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 424418421
     },
     {
       "id": "way_457786213",
@@ -3039,28 +2973,6 @@
       "osm_id": 803144434
     },
     {
-      "id": "way_948209178",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "New Jersey",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.9562857,
-        "lon": -75.2575419
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 948209178
-    },
-    {
       "id": "way_964663630",
       "name": "Al Falah Islamic Center",
       "address": {
@@ -3323,28 +3235,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1273172941
-    },
-    {
-      "id": "way_1327844466",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "224 North 18th Street",
-        "city": "East Orange",
-        "state": "NJ",
-        "zip": "07017",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.7651915,
-        "lon": -74.1953834
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1327844466
     },
     {
       "id": "way_1348989043",

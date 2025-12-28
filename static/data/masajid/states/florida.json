@@ -1,6 +1,6 @@
 {
   "state": "Florida",
-  "count": 40,
+  "count": 39,
   "masajid": [
     {
       "id": "node_358746756",
@@ -485,28 +485,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 524312609
-    },
-    {
-      "id": "way_545933586",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Florida",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 28.5224586,
-        "lon": -82.4924617
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 545933586
     },
     {
       "id": "way_549413163",

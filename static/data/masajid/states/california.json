@@ -1,6 +1,6 @@
 {
   "state": "California",
-  "count": 116,
+  "count": 110,
   "masajid": [
     {
       "id": "node_347095196",
@@ -553,28 +553,6 @@
       "osm_id": 5150854578
     },
     {
-      "id": "node_6180243168",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 38.6801449,
-        "lon": -121.7670635
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 6180243168
-    },
-    {
       "id": "node_6611351232",
       "name": "Masjid Abu Bakr Al-Siddiq",
       "address": {
@@ -971,28 +949,6 @@
       "osm_id": 13249030421
     },
     {
-      "id": "node_13361415470",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "701 South Hutchins Street",
-        "city": "Lodi",
-        "state": "CA",
-        "zip": "95240",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 38.125926,
-        "lon": -121.2795343
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 13361415470
-    },
-    {
       "id": "way_32829570",
       "name": "Islamic Cultural Center of Northern California",
       "address": {
@@ -1035,28 +991,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 32864985
-    },
-    {
-      "id": "way_41171303",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 36.9676442,
-        "lon": -121.9847181
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 41171303
     },
     {
       "id": "way_61465037",
@@ -1587,28 +1521,6 @@
       "osm_id": 430780177
     },
     {
-      "id": "way_431416813",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 34.1862886,
-        "lon": -118.5297164
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 431416813
-    },
-    {
       "id": "way_431668025",
       "name": "Imam Bukhari Mosque",
       "address": {
@@ -2071,28 +1983,6 @@
       "osm_id": 695638926
     },
     {
-      "id": "way_779735186",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 33.978936,
-        "lon": -117.3344796
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 779735186
-    },
-    {
       "id": "way_878861561",
       "name": "Evergreen Islamic Center",
       "address": {
@@ -2201,28 +2091,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1062187399
-    },
-    {
-      "id": "way_1064747315",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 34.1150046,
-        "lon": -117.4347528
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1064747315
     },
     {
       "id": "way_1098746879",

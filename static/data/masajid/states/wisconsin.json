@@ -1,6 +1,6 @@
 {
   "state": "Wisconsin",
-  "count": 18,
+  "count": 16,
   "masajid": [
     {
       "id": "node_1081258745",
@@ -133,28 +133,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 220012093
-    },
-    {
-      "id": "way_299564564",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Wisconsin",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 43.0683425,
-        "lon": -89.4069962
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 299564564
     },
     {
       "id": "way_390273740",
@@ -331,28 +309,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 664051493
-    },
-    {
-      "id": "way_692238357",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Wisconsin",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.5045824,
-        "lon": -90.7483693
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 692238357
     },
     {
       "id": "way_1234122528",

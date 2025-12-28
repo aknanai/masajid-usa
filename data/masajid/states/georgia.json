@@ -1,6 +1,6 @@
 {
   "state": "Georgia",
-  "count": 25,
+  "count": 24,
   "masajid": [
     {
       "id": "node_357103072",
@@ -507,28 +507,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1051805335
-    },
-    {
-      "id": "way_1451781674",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Georgia",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 34.0191805,
-        "lon": -84.6252536
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1451781674
     },
     {
       "id": "relation_13754013",

@@ -1,6 +1,6 @@
 {
   "state": "Indiana",
-  "count": 35,
+  "count": 33,
   "masajid": [
     {
       "id": "node_354245734",
@@ -267,28 +267,6 @@
       "osm_id": 338201774
     },
     {
-      "id": "way_438017724",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Indiana",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.5228108,
-        "lon": -87.8326917
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 438017724
-    },
-    {
       "id": "way_473909629",
       "name": "Islamic Society of Michiana",
       "address": {
@@ -397,28 +375,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 680336587
-    },
-    {
-      "id": "way_683260302",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "2248 East 38th Street",
-        "city": "Indianapolis",
-        "state": "IN",
-        "zip": "46218",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.8256697,
-        "lon": -86.1242006
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 683260302
     },
     {
       "id": "way_770782359",

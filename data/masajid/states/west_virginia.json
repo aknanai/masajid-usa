@@ -1,6 +1,6 @@
 {
   "state": "West Virginia",
-  "count": 15,
+  "count": 13,
   "masajid": [
     {
       "id": "node_357356364",
@@ -267,28 +267,6 @@
       "osm_id": 539611517
     },
     {
-      "id": "way_544837927",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "West Virginia",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.4093203,
-        "lon": -80.0832373
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 544837927
-    },
-    {
       "id": "way_817033594",
       "name": "Muslim Association of Huntington",
       "address": {
@@ -309,28 +287,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 817033594
-    },
-    {
-      "id": "way_1155434772",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "West Virginia",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 40.458922,
-        "lon": -79.7357157
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1155434772
     }
   ]
 }

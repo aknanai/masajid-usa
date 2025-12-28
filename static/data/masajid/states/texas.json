@@ -1,6 +1,6 @@
 {
   "state": "Texas",
-  "count": 96,
+  "count": 78,
   "masajid": [
     {
       "id": "node_356855681",
@@ -155,28 +155,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 359001701
-    },
-    {
-      "id": "node_1057208032",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.6607971,
-        "lon": -97.4752765
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 1057208032
     },
     {
       "id": "node_1595716783",
@@ -421,28 +399,6 @@
       "osm_id": 10728837253
     },
     {
-      "id": "node_11201021741",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 31.5195702,
-        "lon": -97.1299858
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 11201021741
-    },
-    {
       "id": "node_12038368478",
       "name": "Islamic Center of Euless",
       "address": {
@@ -485,28 +441,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 12228560668
-    },
-    {
-      "id": "node_12767846634",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 29.7221185,
-        "lon": -95.6186281
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 12767846634
     },
     {
       "id": "node_12977682702",
@@ -641,72 +575,6 @@
       "osm_id": 260789761
     },
     {
-      "id": "way_265482606",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 31.8186808,
-        "lon": -106.5116745
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 265482606
-    },
-    {
-      "id": "way_303684340",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "8455 Stonebrook Parkway",
-        "city": "Frisco",
-        "state": "TX",
-        "zip": "75034",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 33.1389618,
-        "lon": -96.8112921
-      },
-      "denomination": "sufi",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 303684340
-    },
-    {
-      "id": "way_316374303",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.1086611,
-        "lon": -106.5441461
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 316374303
-    },
-    {
       "id": "way_380922453",
       "name": "Nueces Mosque",
       "address": {
@@ -793,28 +661,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 383004522
-    },
-    {
-      "id": "way_383025450",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 30.4710874,
-        "lon": -97.6348827
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 383025450
     },
     {
       "id": "way_411792297",
@@ -947,50 +793,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 440409724
-    },
-    {
-      "id": "way_460792404",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "909 Allen Central Drive",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 33.097137,
-        "lon": -96.6835313
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 460792404
-    },
-    {
-      "id": "way_465539048",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 33.5820272,
-        "lon": -101.8659502
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 465539048
     },
     {
       "id": "way_474048074",
@@ -1279,28 +1081,6 @@
       "osm_id": 654513276
     },
     {
-      "id": "way_655037002",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 30.0090993,
-        "lon": -95.5598974
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 655037002
-    },
-    {
       "id": "way_665708231",
       "name": "Ismaili Jamatkhana",
       "address": {
@@ -1343,28 +1123,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 670759640
-    },
-    {
-      "id": "way_683020107",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.1079413,
-        "lon": -106.5214028
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 683020107
     },
     {
       "id": "way_709095484",
@@ -1499,28 +1257,6 @@
       "osm_id": 902564780
     },
     {
-      "id": "way_995953052",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "119 Amy Street",
-        "city": "Longview",
-        "state": "TX",
-        "zip": "75605",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 32.573788,
-        "lon": -94.7501855
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 995953052
-    },
-    {
       "id": "way_1020215557",
       "name": "Islamic Society of Triplex – Beaumont Mosque",
       "address": {
@@ -1653,28 +1389,6 @@
       "osm_id": 1219421575
     },
     {
-      "id": "way_1225215246",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 30.4400444,
-        "lon": -97.7603608
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1225215246
-    },
-    {
       "id": "way_1243245605",
       "name": "Islamic Society of Tulsa: Masjid Al-Salam",
       "address": {
@@ -1763,28 +1477,6 @@
       "osm_id": 1306256992
     },
     {
-      "id": "way_1322380194",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 29.6581112,
-        "lon": -95.6576414
-      },
-      "denomination": "sunni",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1322380194
-    },
-    {
       "id": "way_1323719989",
       "name": "Maryam Islamic Center",
       "address": {
@@ -1829,28 +1521,6 @@
       "osm_id": 1346085110
     },
     {
-      "id": "way_1348862217",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "6719 Koeblen Road",
-        "city": "Rosenberg",
-        "state": "Texas",
-        "zip": "77469",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://rosenbergcommunitycenter.org",
-      "email": "",
-      "coordinates": {
-        "lat": 29.5061867,
-        "lon": -95.7629631
-      },
-      "denomination": "sunni",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1348862217
-    },
-    {
       "id": "way_1367143685",
       "name": "Masjid Istiqlal Houston",
       "address": {
@@ -1893,50 +1563,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1367143688
-    },
-    {
-      "id": "way_1369802877",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "9401 Farm-to-Market Road 1105",
-        "city": "Jarrell",
-        "state": "TX",
-        "zip": "76537",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 30.7813991,
-        "lon": -97.5881199
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1369802877
-    },
-    {
-      "id": "way_1385972314",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 32.0006562,
-        "lon": -102.1458846
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1385972314
     },
     {
       "id": "way_1394443121",
@@ -2047,28 +1673,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1418408830
-    },
-    {
-      "id": "way_1447830521",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "2323 Allen Parkway Frontage Road",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "77019",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 29.7591137,
-        "lon": -95.3917866
-      },
-      "denomination": "ismaili",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1447830521
     },
     {
       "id": "relation_5331156",

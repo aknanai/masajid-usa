@@ -1,6 +1,6 @@
 {
   "state": "Arizona",
-  "count": 21,
+  "count": 19,
   "masajid": [
     {
       "id": "node_11715606348",
@@ -179,28 +179,6 @@
       "osm_id": 739734737
     },
     {
-      "id": "way_751357606",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Arizona",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 32.2026986,
-        "lon": -110.9270366
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 751357606
-    },
-    {
       "id": "way_765866621",
       "name": "Islamic Community Center of Phoenix",
       "address": {
@@ -309,28 +287,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 932264194
-    },
-    {
-      "id": "way_961446909",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "9032 North 9th Street",
-        "city": "Phoenix",
-        "state": "AZ",
-        "zip": "85020",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 33.5687574,
-        "lon": -112.0617943
-      },
-      "denomination": "sunni",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 961446909
     },
     {
       "id": "way_961446910",

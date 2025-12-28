@@ -1,6 +1,6 @@
 {
   "state": "Nebraska",
-  "count": 8,
+  "count": 7,
   "masajid": [
     {
       "id": "node_357793727",
@@ -23,28 +23,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 357793727
-    },
-    {
-      "id": "node_4687805181",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Nebraska",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.270358,
-        "lon": -95.9834131
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4687805181
     },
     {
       "id": "way_614314674",

@@ -1,6 +1,6 @@
 {
   "state": "North Carolina",
-  "count": 34,
+  "count": 31,
   "masajid": [
     {
       "id": "node_2344426934",
@@ -155,28 +155,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13290005626
-    },
-    {
-      "id": "way_44321193",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "103 Stateside Drive",
-        "city": "Chapel Hill",
-        "state": "NC",
-        "zip": "27514",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.9555791,
-        "lon": -79.0564943
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 44321193
     },
     {
       "id": "way_47663959",
@@ -443,28 +421,6 @@
       "osm_id": 626683128
     },
     {
-      "id": "way_810036155",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "North Carolina",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.770379,
-        "lon": -78.8049155
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 810036155
-    },
-    {
       "id": "way_827174087",
       "name": "Alnoor Islamic Center",
       "address": {
@@ -639,28 +595,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1140188473
-    },
-    {
-      "id": "way_1178309613",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "North Carolina",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 35.0299909,
-        "lon": -79.120637
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1178309613
     },
     {
       "id": "way_1209255871",

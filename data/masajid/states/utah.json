@@ -1,6 +1,6 @@
 {
   "state": "Utah",
-  "count": 7,
+  "count": 6,
   "masajid": [
     {
       "id": "node_356682273",
@@ -23,28 +23,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 356682273
-    },
-    {
-      "id": "node_8079022397",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "984 West 9000 South",
-        "city": "West Jordan",
-        "state": "UT",
-        "zip": "84119",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://www.utislamiccenter.org/",
-      "email": "",
-      "coordinates": {
-        "lat": 40.5880443,
-        "lon": -111.9193516
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 8079022397
     },
     {
       "id": "node_10301620087",

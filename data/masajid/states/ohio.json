@@ -1,6 +1,6 @@
 {
   "state": "Ohio",
-  "count": 39,
+  "count": 33,
   "masajid": [
     {
       "id": "node_357478018",
@@ -135,28 +135,6 @@
       "osm_id": 2374055898
     },
     {
-      "id": "node_4264589831",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.5761545,
-        "lon": -81.5721498
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 4264589831
-    },
-    {
       "id": "node_6991043877",
       "name": "Islamic Association of Cincinnati",
       "address": {
@@ -245,28 +223,6 @@
       "osm_id": 12840170448
     },
     {
-      "id": "way_172357339",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.4301821,
-        "lon": -81.8254623
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 172357339
-    },
-    {
       "id": "way_247773305",
       "name": "ICNK Community Center",
       "address": {
@@ -353,28 +309,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 342392804
-    },
-    {
-      "id": "way_350414944",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.4979105,
-        "lon": -81.6092319
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 350414944
     },
     {
       "id": "way_372529224",
@@ -685,28 +619,6 @@
       "osm_id": 817033594
     },
     {
-      "id": "way_836963097",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.5460073,
-        "lon": -81.5863106
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 836963097
-    },
-    {
       "id": "way_918369656",
       "name": "Islamic Center of Cleveland",
       "address": {
@@ -751,28 +663,6 @@
       "osm_id": 923347518
     },
     {
-      "id": "way_996915734",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.8542841,
-        "lon": -82.9238946
-      },
-      "denomination": "ahmadiyya",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 996915734
-    },
-    {
       "id": "way_1097613012",
       "name": "Fazl-i-Umar Mosque",
       "address": {
@@ -793,28 +683,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1097613012
-    },
-    {
-      "id": "way_1263564291",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 41.1804239,
-        "lon": -81.5031798
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 1263564291
     },
     {
       "id": "way_1278541802",

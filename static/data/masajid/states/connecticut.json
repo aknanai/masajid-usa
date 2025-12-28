@@ -1,6 +1,6 @@
 {
   "state": "Connecticut",
-  "count": 37,
+  "count": 36,
   "masajid": [
     {
       "id": "node_359286170",
@@ -243,28 +243,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 570685776
-    },
-    {
-      "id": "way_590554173",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "595 Franklin Avenue",
-        "city": "Hartford",
-        "state": "CT",
-        "zip": "06114",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://www.facebook.com/bosnian-american-islamic-cultural-center-hartford-ct-346147188408",
-      "email": "",
-      "coordinates": {
-        "lat": 41.7319425,
-        "lon": -72.675069
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 590554173
     },
     {
       "id": "way_592852014",

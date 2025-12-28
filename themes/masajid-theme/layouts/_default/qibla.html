@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>Qibla Direction Finder</h1>
+        <p class="subtitle">Find the direction to the Kaaba from your location</p>
+    </div>
+</section>
+
+<section class="container">
+    <div class="qibla-container" id="qibla-container">
+        <!-- Qibla compass will be loaded here -->
+    </div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "js/qibla.js" | relURL }}"></script>
+{{ end }}

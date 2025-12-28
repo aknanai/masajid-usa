@@ -1,6 +1,6 @@
 {
   "state": "Colorado",
-  "count": 8,
+  "count": 7,
   "masajid": [
     {
       "id": "node_2825729648",
@@ -23,28 +23,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 2825729648
-    },
-    {
-      "id": "node_9910939668",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Colorado",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.7458121,
-        "lon": -104.816675
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 9910939668
     },
     {
       "id": "way_192024135",

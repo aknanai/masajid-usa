@@ -1,6 +1,6 @@
 {
   "state": "Minnesota",
-  "count": 31,
+  "count": 30,
   "masajid": [
     {
       "id": "node_2169668486",
@@ -529,28 +529,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 687388912
-    },
-    {
-      "id": "way_833725005",
-      "name": "Unknown Masjid",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Minnesota",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 45.5566867,
-        "lon": -94.1550553
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 833725005
     },
     {
       "id": "way_844831053",
