@@ -2,13 +2,16 @@
 {{ $stateName := .Params.state_name }}
 {{ $stateSlug := .Params.state_slug }}
 {{ $stateData := index .Site.Data.masajid.states $stateSlug }}
+{{ $stateKey := printf "state_%s" $stateSlug }}
+{{ $translatedState := i18n $stateKey }}
+{{ if not $translatedState }}{{ $translatedState = $stateName }}{{ end }}
 
 <section class="page-header">
     <div class="container">
-        <h1>{{ $stateName }}</h1>
+        <h1>{{ $translatedState }}</h1>
         <p class="subtitle">{{ $stateData.count }} {{ i18n "stats_masajid" }}</p>
         <div class="breadcrumb">
-            <a href="{{ "" | relLangURL }}">{{ i18n "home" }}</a> / <a href="{{ "states/" | relLangURL }}">{{ i18n "states" }}</a> / <span>{{ $stateName }}</span>
+            <a href="{{ "" | relLangURL }}">{{ i18n "home" }}</a> / <a href="{{ "states/" | relLangURL }}">{{ i18n "states" }}</a> / <span>{{ $translatedState }}</span>
         </div>
     </div>
 </section>
@@ -26,7 +29,7 @@
 <div class="container">
     <section class="search-section" style="margin-top: 2rem;">
         <div class="search-box">
-            <input type="text" id="state-search" class="search-input" placeholder="{{ i18n "filter_placeholder" | replace "{state}" $stateName }}">
+            <input type="text" id="state-search" class="search-input" placeholder="{{ i18n "filter_placeholder" | replace "{state}" $translatedState }}">
             <button class="search-btn" onclick="filterMasajid()">{{ i18n "filter_button" }}</button>
         </div>
     </section>
