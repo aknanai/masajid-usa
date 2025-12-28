@@ -1,26 +1,26 @@
 ---
-title: "About Masajid USA"
+title: "Acerca de Masajid USA"
 ---
 
-## Our Mission
+## Nuestra Misión
 
-Masajid USA is a comprehensive directory of Islamic places of worship across the United States. Our goal is to make it easy for Muslims to find masajid in their area, whether they're traveling, relocating, or simply looking for a new community.
+Masajid USA es un directorio completo de lugares de culto islámicos en los Estados Unidos. Nuestro objetivo es facilitar a los musulmanes encontrar mezquitas en su área, ya sea que estén viajando, reubicándose o simplemente buscando una nueva comunidad.
 
-## Data Source
+## Fuente de Datos
 
-All masjid data is sourced from [OpenStreetMap](https://www.openstreetmap.org/), an open-source mapping project. This means our data is community-maintained and freely available.
+Todos los datos de las mezquitas provienen de [OpenStreetMap](https://www.openstreetmap.org/), un proyecto de mapeo de código abierto. Esto significa que nuestros datos son mantenidos por la comunidad y están disponibles gratuitamente.
 
-## Contributing
+## Contribuir
 
-If you notice a masjid is missing or has incorrect information, you can help by:
+Si notas que falta una mezquita o tiene información incorrecta, puedes ayudar:
 
-1. Adding or updating the information on OpenStreetMap
-2. The changes will eventually be reflected in our directory
+1. Agregando o actualizando la información en OpenStreetMap
+2. Los cambios eventualmente se reflejarán en nuestro directorio
 
-## Contact
+## Contacto
 
-This is an open-source project. For questions or suggestions, please reach out through our repository.
+Este es un proyecto de código abierto. Para preguntas o sugerencias, por favor comunícate a través de nuestro repositorio.
 
 ---
 
-*May Allah guide us all to His houses of worship.*
+*Que Alá nos guíe a todos hacia Sus casas de adoración.*

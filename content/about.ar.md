@@ -1,26 +1,26 @@
 ---
-title: "About Masajid USA"
+title: "عن مساجد أمريكا"
 ---
 
-## Our Mission
+## مهمتنا
 
-Masajid USA is a comprehensive directory of Islamic places of worship across the United States. Our goal is to make it easy for Muslims to find masajid in their area, whether they're traveling, relocating, or simply looking for a new community.
+مساجد أمريكا هو دليل شامل لأماكن العبادة الإسلامية في جميع أنحاء الولايات المتحدة. هدفنا هو تسهيل العثور على المساجد للمسلمين في منطقتهم، سواء كانوا مسافرين أو منتقلين أو يبحثون ببساطة عن مجتمع جديد.
 
-## Data Source
+## مصدر البيانات
 
-All masjid data is sourced from [OpenStreetMap](https://www.openstreetmap.org/), an open-source mapping project. This means our data is community-maintained and freely available.
+جميع بيانات المساجد مستمدة من [OpenStreetMap](https://www.openstreetmap.org/)، وهو مشروع خرائط مفتوح المصدر. هذا يعني أن بياناتنا يتم صيانتها من قبل المجتمع ومتاحة مجاناً.
 
-## Contributing
+## المساهمة
 
-If you notice a masjid is missing or has incorrect information, you can help by:
+إذا لاحظت أن مسجداً مفقود أو يحتوي على معلومات غير صحيحة، يمكنك المساعدة من خلال:
 
-1. Adding or updating the information on OpenStreetMap
-2. The changes will eventually be reflected in our directory
+1. إضافة أو تحديث المعلومات على OpenStreetMap
+2. ستنعكس التغييرات في نهاية المطاف في دليلنا
 
-## Contact
+## التواصل
 
-This is an open-source project. For questions or suggestions, please reach out through our repository.
+هذا مشروع مفتوح المصدر. للأسئلة أو الاقتراحات، يرجى التواصل من خلال مستودعنا.
 
 ---
 
-*May Allah guide us all to His houses of worship.*
+*اللهم اهدنا جميعاً إلى بيوتك للعبادة*
