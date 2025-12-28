@@ -69,6 +69,14 @@ retry: "دوبارہ کوشش کریں"
 location_denied: "مقام کی اجازت نہیں دی گئی۔ براہ کرم لوکیشن سروسز فعال کریں۔"
 geolocation_unsupported: "آپ کا براؤزر جیو لوکیشن کو سپورٹ نہیں کرتا"
 
+# Nearby Masajid
+nearby_masajid: "قریبی مساجد"
+within_radius: "اندر"
+miles: "میل"
+no_nearby: "اس فاصلے میں کوئی مسجد نہیں ملی"
+enable_location: "قریبی مساجد تلاش کرنے کے لیے لوکیشن فعال کریں"
+enable_location_btn: "لوکیشن فعال کریں"
+
 # State names
 state_alabama: "الاباما"
 state_alaska: "الاسکا"

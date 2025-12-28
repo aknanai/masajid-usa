@@ -35,6 +35,28 @@
     </div>
 </div>
 
+<!-- Nearby Masajid Section -->
+<section class="nearby-section" id="nearby-section" style="display: none;">
+    <div class="container">
+        <div class="nearby-header">
+            <h2 class="section-title">{{ i18n "nearby_masajid" }}</h2>
+            <div class="radius-control">
+                <span class="radius-label">{{ i18n "within_radius" }}</span>
+                <select id="radius-select" class="radius-select">
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                </select>
+                <span class="radius-label">{{ i18n "miles" }}</span>
+            </div>
+        </div>
+        <div class="nearby-results" id="nearby-results">
+            <!-- Populated by JavaScript -->
+        </div>
+    </div>
+</section>
+
 <!-- Map Section -->
 <section class="map-section">
     <div class="container">
@@ -84,8 +106,15 @@ const i18n = {
     no_results: "{{ i18n "no_results" }}",
     directions: "{{ i18n "directions" }}",
     visit_website: "{{ i18n "visit_website" }}",
-    save_to_favorites: "{{ i18n "save_to_favorites" }}"
+    save_to_favorites: "{{ i18n "save_to_favorites" }}",
+    nearby_masajid: "{{ i18n "nearby_masajid" }}",
+    no_nearby: "{{ i18n "no_nearby" }}",
+    enable_location: "{{ i18n "enable_location" }}",
+    enable_location_btn: "{{ i18n "enable_location_btn" }}",
+    finding_location: "{{ i18n "finding_location" }}",
+    location_denied: "{{ i18n "location_denied" }}"
 };
+window.i18n = i18n;
 
 async function loadAllData() {
     try {
@@ -105,6 +134,11 @@ async function loadAllData() {
         }
 
         initMap();
+
+        // Initialize Nearby Masajid feature
+        if (typeof NearbyMasajid !== 'undefined') {
+            NearbyMasajid.init(allMasajid);
+        }
     } catch (e) {
         console.error('Error loading data:', e);
     }

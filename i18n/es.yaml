@@ -69,6 +69,14 @@ retry: "Reintentar"
 location_denied: "Acceso a ubicación denegado. Por favor habilita los servicios de ubicación."
 geolocation_unsupported: "Tu navegador no soporta geolocalización"
 
+# Nearby Masajid
+nearby_masajid: "Mezquitas Cercanas"
+within_radius: "Dentro de"
+miles: "millas"
+no_nearby: "No se encontraron mezquitas en este radio"
+enable_location: "Habilita la ubicación para encontrar mezquitas cercanas"
+enable_location_btn: "Habilitar Ubicación"
+
 # State names
 state_alabama: "Alabama"
 state_alaska: "Alaska"

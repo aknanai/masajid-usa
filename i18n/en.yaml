@@ -69,6 +69,14 @@ retry: "Retry"
 location_denied: "Location access denied. Please enable location services."
 geolocation_unsupported: "Geolocation not supported by your browser"
 
+# Nearby Masajid
+nearby_masajid: "Nearby Masajid"
+within_radius: "Within"
+miles: "miles"
+no_nearby: "No masajid found within this radius"
+enable_location: "Enable location to find nearby masajid"
+enable_location_btn: "Enable Location"
+
 # State names
 state_alabama: "Alabama"
 state_alaska: "Alaska"

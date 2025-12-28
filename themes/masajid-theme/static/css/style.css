@@ -233,6 +233,100 @@ body {
 }
 
 /* ============================================
+   Nearby Masajid
+   ============================================ */
+
+.nearby-section {
+    padding: 2rem 0;
+    background: var(--bg);
+}
+
+.nearby-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.nearby-header .section-title {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.radius-control {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--bg-card);
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow);
+}
+
+.radius-label {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+.radius-select {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: white;
+    font-size: 1rem;
+    color: var(--text);
+    cursor: pointer;
+}
+
+.radius-select:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+.nearby-results {
+    min-height: 100px;
+}
+
+.nearby-results .masajid-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.nearby-loading,
+.location-prompt,
+.location-error,
+.no-nearby-message {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-light);
+}
+
+.location-prompt .btn,
+.location-error .btn {
+    margin-top: 1rem;
+}
+
+.distance-badge {
+    background: var(--primary);
+    color: white;
+    padding: 0.25rem 0.6rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.masjid-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+/* ============================================
    States Grid
    ============================================ */
 

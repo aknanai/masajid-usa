@@ -69,6 +69,14 @@ retry: "إعادة المحاولة"
 location_denied: "تم رفض الوصول إلى الموقع. يرجى تفعيل خدمات الموقع."
 geolocation_unsupported: "المتصفح لا يدعم تحديد الموقع الجغرافي"
 
+# Nearby Masajid
+nearby_masajid: "المساجد القريبة"
+within_radius: "ضمن"
+miles: "ميل"
+no_nearby: "لا توجد مساجد ضمن هذا النطاق"
+enable_location: "فعّل الموقع للعثور على المساجد القريبة"
+enable_location_btn: "تفعيل الموقع"
+
 # State names
 state_alabama: "ألاباما"
 state_alaska: "ألاسكا"
