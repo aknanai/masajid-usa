@@ -321,8 +321,7 @@ body {
 }
 
 .masjid-name::before {
-    content: "\\2726";
-    color: var(--accent);
+    content: none;
 }
 
 .masjid-details {
@@ -981,9 +980,7 @@ body.rtl .masjid-name::before {
 }
 
 body.rtl .masjid-name::after {
-    content: "\\2726";
-    color: var(--accent);
-    margin-right: 0.5rem;
+    content: none;
 }
 
 body.rtl .masjid-detail {
