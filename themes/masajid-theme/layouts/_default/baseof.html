@@ -40,9 +40,13 @@
                 <div class="lang-dropdown">
                     {{ $currentPage := . }}
                     {{ range .Site.Languages }}
-                    {{ $langURL := printf "/%s/" .Lang }}
-                    {{ if eq .Lang "en" }}{{ $langURL = "/" }}{{ end }}
-                    <a href="{{ $langURL | relURL }}"
+                    {{ $langURL := "" }}
+                    {{ if eq .Lang "en" }}
+                        {{ $langURL = (printf "%s" $.Site.BaseURL) }}
+                    {{ else }}
+                        {{ $langURL = (printf "%s%s/" $.Site.BaseURL .Lang) }}
+                    {{ end }}
+                    <a href="{{ $langURL }}"
                        class="{{ if eq . $currentPage.Site.Language }}active{{ end }}"
                        hreflang="{{ .Lang }}">
                         {{ .LanguageName }}
