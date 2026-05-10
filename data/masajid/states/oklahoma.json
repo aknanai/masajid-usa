@@ -1,6 +1,7 @@
 {
   "state": "Oklahoma",
-  "count": 5,
+  "count": 6,
+  "generated_at": "2026-05-10 07:18:22 UTC",
   "masajid": [
     {
       "id": "node_359001701",
@@ -111,6 +112,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1243245605
+    },
+    {
+      "id": "node_357468432",
+      "name": "Islamic Center of Oklahoma City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.520891,
+        "lon": -97.5730961
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357468432
     }
   ]
 }

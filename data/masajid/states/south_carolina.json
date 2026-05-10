@@ -1,6 +1,7 @@
 {
   "state": "South Carolina",
-  "count": 9,
+  "count": 10,
+  "generated_at": "2026-05-10 07:34:37 UTC",
   "masajid": [
     {
       "id": "node_357103072",
@@ -199,6 +200,28 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 13754013
+    },
+    {
+      "id": "way_927274590",
+      "name": "Islamic Society of Augusta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.526125,
+        "lon": -82.1117595
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 927274590
     }
   ]
 }

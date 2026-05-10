@@ -1,6 +1,7 @@
 {
   "state": "California",
-  "count": 110,
+  "count": 122,
+  "generated_at": "2026-05-10 05:13:24 UTC",
   "masajid": [
     {
       "id": "node_347095196",
@@ -443,28 +444,6 @@
       "osm_id": 3291990034
     },
     {
-      "id": "node_3888221045",
-      "name": "Islamic Center of Reseda",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "California",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "https://islamiccenterofreseda.com/",
-      "email": "",
-      "coordinates": {
-        "lat": 34.1863437,
-        "lon": -118.5296952
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 3888221045
-    },
-    {
       "id": "node_4641017624",
       "name": "Islamic Center of Inglewood",
       "address": {
@@ -798,7 +777,7 @@
       "id": "node_11409312098",
       "name": "San Ramon Valley Islamic Center",
       "address": {
-        "street": "2232",
+        "street": "",
         "city": "",
         "state": "California",
         "zip": "",
@@ -947,6 +926,116 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13249030421
+    },
+    {
+      "id": "node_13610860284",
+      "name": "Chino Valley Islamic Center",
+      "address": {
+        "street": "4711 Chino Avenue",
+        "city": "Chino",
+        "state": "CA",
+        "zip": "91710",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0110309,
+        "lon": -117.701811
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13610860284
+    },
+    {
+      "id": "node_13632926707",
+      "name": "Ibrahim Khalilullah Islamic Center",
+      "address": {
+        "street": "43140 Osgood Road",
+        "city": "",
+        "state": "California",
+        "zip": "94539",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://ikicenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5205277,
+        "lon": -121.9446839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13632926707
+    },
+    {
+      "id": "node_13632926708",
+      "name": "Masjid Zakariya",
+      "address": {
+        "street": "42472 Albrae Street",
+        "city": "",
+        "state": "California",
+        "zip": "94538",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://icfbayarea.com",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5094493,
+        "lon": -121.972374
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13632926708
+    },
+    {
+      "id": "node_13637306603",
+      "name": "Peninsula Muslim Association",
+      "address": {
+        "street": "361 Villa Street",
+        "city": "",
+        "state": "California",
+        "zip": "94041",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://pmawebsite.org",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3908284,
+        "lon": -122.0736819
+      },
+      "denomination": "",
+      "opening_hours": "Fr 13:30-14:00",
+      "osm_type": "node",
+      "osm_id": 13637306603
+    },
+    {
+      "id": "node_13666107802",
+      "name": "Centerville Islamic Center",
+      "address": {
+        "street": "3667 Thornton Avenue",
+        "city": "",
+        "state": "California",
+        "zip": "94536",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://centervilleislamiccenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.562718,
+        "lon": -122.0104817
+      },
+      "denomination": "",
+      "opening_hours": "Mo-Su 12:00-20:00",
+      "osm_type": "node",
+      "osm_id": 13666107802
     },
     {
       "id": "way_32829570",
@@ -1333,11 +1422,11 @@
         "full": ""
       },
       "phone": "",
-      "website": "",
+      "website": "https://icfbayarea.com",
       "email": "",
       "coordinates": {
-        "lat": 37.5313946,
-        "lon": -121.9597159
+        "lat": 37.5313801,
+        "lon": -121.9598216
       },
       "denomination": "sunni",
       "opening_hours": "",
@@ -1399,7 +1488,7 @@
         "full": ""
       },
       "phone": "+1 510 808 5284",
-      "website": "http://oaklandislamiccenter.org/",
+      "website": "https://oaklandislamiccenter.org/",
       "email": "",
       "coordinates": {
         "lat": 37.8198018,
@@ -1519,6 +1608,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 430780177
+    },
+    {
+      "id": "way_431416813",
+      "name": "Islamic Center of Reseda",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamiccenterofreseda.com/",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1862886,
+        "lon": -118.5297164
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 431416813
     },
     {
       "id": "way_431668025",
@@ -1744,7 +1855,7 @@
       "id": "way_471887812",
       "name": "Islamic Center of Glendale",
       "address": {
-        "street": "700 S. Adams St.",
+        "street": "700 South Adams Street",
         "city": "Glendale",
         "state": "CA",
         "zip": "91205",
@@ -2103,7 +2214,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "http://www.daraltaqwa.org/",
+      "website": "https://daraltaqwa.org/",
       "email": "",
       "coordinates": {
         "lat": 34.1349899,
@@ -2421,6 +2532,160 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 18239556
+    },
+    {
+      "id": "way_161011035",
+      "name": "Islamic Society of Coachella Valley",
+      "address": {
+        "street": "84650 Avenue 49",
+        "city": "Coachella",
+        "state": "CA",
+        "zip": "92236",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6931881,
+        "lon": -116.1875012
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 161011035
+    },
+    {
+      "id": "way_1172902815",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "3880 Smith Street",
+        "city": "Union City",
+        "state": "CA",
+        "zip": "94587",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://masjidal-huda.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5961425,
+        "lon": -122.0786855
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1172902815
+    },
+    {
+      "id": "way_1289753024",
+      "name": "C12",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3429644,
+        "lon": -117.3524355
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1289753024
+    },
+    {
+      "id": "way_1426428002",
+      "name": "Orange County Islamic Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6206208,
+        "lon": -117.6759412
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1426428002
+    },
+    {
+      "id": "node_13099710501",
+      "name": "Masjid Zakariya (ICF-Albrae)",
+      "address": {
+        "street": "42412-42472 Albrae Street",
+        "city": "",
+        "state": "California",
+        "zip": "94538",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://icfbayarea.com",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5094556,
+        "lon": -121.9723807
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13099710501
+    },
+    {
+      "id": "way_441497391",
+      "name": "DarulFalah Islamic Center",
+      "address": {
+        "street": "14712 Bentley Circle",
+        "city": "Tustin",
+        "state": "California",
+        "zip": "92780",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7141085,
+        "lon": -117.8071783
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 441497391
+    },
+    {
+      "id": "node_6319917765",
+      "name": "Brentwood Muslim Community Center",
+      "address": {
+        "street": "7701 Lone Tree Way",
+        "city": "Brentwood",
+        "state": "CA",
+        "zip": "94513",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://brmcc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9612288,
+        "lon": -121.7105617
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 6319917765
     }
   ]
 }

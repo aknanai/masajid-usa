@@ -1,6 +1,7 @@
 {
   "state": "Wisconsin",
-  "count": 16,
+  "count": 18,
+  "generated_at": "2026-05-10 08:08:32 UTC",
   "masajid": [
     {
       "id": "node_1081258745",
@@ -353,6 +354,50 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1234123907
+    },
+    {
+      "id": "way_763765298",
+      "name": "Islamic Center of Wisconsin",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.278121,
+        "lon": -88.4166213
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 763765298
+    },
+    {
+      "id": "way_1391466228",
+      "name": "Whitewater Islamic Center",
+      "address": {
+        "street": "W4890 Tri-County Road",
+        "city": "Whitewater",
+        "state": "WI",
+        "zip": "53190",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8430477,
+        "lon": -88.7761976
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1391466228
     }
   ]
 }

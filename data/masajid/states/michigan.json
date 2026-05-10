@@ -1,6 +1,7 @@
 {
   "state": "Michigan",
-  "count": 129,
+  "count": 137,
+  "generated_at": "2026-05-10 06:21:09 UTC",
   "masajid": [
     {
       "id": "node_354221267",
@@ -333,28 +334,6 @@
       "osm_id": 9137226650
     },
     {
-      "id": "node_9930844093",
-      "name": "American Muslim Diversity Association",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Michigan",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.6226261,
-        "lon": -83.0701799
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 9930844093
-    },
-    {
       "id": "node_10754576061",
       "name": "Masjid Al-Salam",
       "address": {
@@ -509,6 +488,28 @@
       "osm_id": 13265892797
     },
     {
+      "id": "node_13685714870",
+      "name": "Traverse City Islamic Center",
+      "address": {
+        "street": "3139 Logan Valley Road",
+        "city": "Traverse City",
+        "state": "MI",
+        "zip": "49684",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7320506,
+        "lon": -85.6193591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13685714870
+    },
+    {
       "id": "way_142212552",
       "name": "Makki Masjid",
       "address": {
@@ -522,8 +523,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 41.970391,
-        "lon": -87.7143636
+        "lat": 41.9704093,
+        "lon": -87.7143554
       },
       "denomination": "",
       "opening_hours": "",
@@ -1480,14 +1481,14 @@
       "id": "way_361648827",
       "name": "Albanian-American Islamic Center",
       "address": {
-        "street": "Saint Charles Road",
+        "street": "5825 Saint Charles Road",
         "city": "Berkeley",
         "state": "IL",
         "zip": "60163",
         "full": ""
       },
       "phone": "",
-      "website": "",
+      "website": "https://albanianamericanislamiccenter.com/",
       "email": "",
       "coordinates": {
         "lat": 41.8890806,
@@ -1805,28 +1806,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 625997510
-    },
-    {
-      "id": "way_637180526",
-      "name": "Adams Community Center",
-      "address": {
-        "street": "4700 Rochester Road",
-        "city": "Troy",
-        "state": "MI",
-        "zip": "48085",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 42.587775,
-        "lon": -83.1283464
-      },
-      "denomination": "sunni",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 637180526
     },
     {
       "id": "way_638368504",
@@ -2301,7 +2280,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "Ismaili Jamatkhana Center",
+      "website": "https://the.ismaili/us/en/news/jamatkhana-glenview",
       "email": "",
       "coordinates": {
         "lat": 42.0579155,
@@ -2643,6 +2622,28 @@
       "osm_id": 1244106841
     },
     {
+      "id": "way_1252103005",
+      "name": "American Muslim Diversity Association",
+      "address": {
+        "street": "44760 Ryan Road",
+        "city": "Sterling Heights",
+        "state": "MI",
+        "zip": "48314",
+        "full": ""
+      },
+      "phone": "+1-586-804-7130",
+      "website": "https://www.amda.us/",
+      "email": "info@amda.us",
+      "coordinates": {
+        "lat": 42.6226489,
+        "lon": -83.0701694
+      },
+      "denomination": "muslim",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1252103005
+    },
+    {
       "id": "way_1262037872",
       "name": "Madani Muslim Community Service",
       "address": {
@@ -2700,8 +2701,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 42.550947,
-        "lon": -83.0575322
+        "lat": 42.5509411,
+        "lon": -83.0576201
       },
       "denomination": "",
       "opening_hours": "",
@@ -2798,7 +2799,7 @@
     },
     {
       "id": "way_1330653478",
-      "name": "SABAH Islmaic Cultural Center",
+      "name": "SABAH Islamic Cultural Center",
       "address": {
         "street": "9920 West Grand Avenue",
         "city": "Franklin Park",
@@ -2807,7 +2808,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "http://www.sabahchicago.com/",
+      "website": "https://www.sabahchicago.com/",
       "email": "",
       "coordinates": {
         "lat": 41.930225,
@@ -2839,6 +2840,182 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1420828306
+    },
+    {
+      "id": "way_1499452509",
+      "name": "Altaqwa Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.31057,
+        "lon": -83.3369956
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1499452509
+    },
+    {
+      "id": "way_653980814",
+      "name": "The Muslim Unity Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6051588,
+        "lon": -83.3156493
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 653980814
+    },
+    {
+      "id": "way_763765298",
+      "name": "Islamic Center of Wisconsin",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.278121,
+        "lon": -88.4166213
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 763765298
+    },
+    {
+      "id": "way_972579007",
+      "name": "Medina Activity Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2930133,
+        "lon": -83.4468317
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 972579007
+    },
+    {
+      "id": "way_1391466228",
+      "name": "Whitewater Islamic Center",
+      "address": {
+        "street": "W4890 Tri-County Road",
+        "city": "Whitewater",
+        "state": "WI",
+        "zip": "53190",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8430477,
+        "lon": -88.7761976
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1391466228
+    },
+    {
+      "id": "way_1461518494",
+      "name": "Madani Masjid",
+      "address": {
+        "street": "40 North Lincoln Street",
+        "city": "Westmont",
+        "state": "IL",
+        "zip": "60559",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7974727,
+        "lon": -87.977232
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1461518494
+    },
+    {
+      "id": "way_1465687111",
+      "name": "Islamic Foundation",
+      "address": {
+        "street": "300 West Highridge Road",
+        "city": "",
+        "state": "Michigan",
+        "zip": "60181",
+        "full": ""
+      },
+      "phone": "+1-630-941-8800",
+      "website": "https://www.islamicfoundation.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8680822,
+        "lon": -87.9858059
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1465687111
+    },
+    {
+      "id": "way_653496131",
+      "name": "Fox Valley Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7807966,
+        "lon": -88.3530779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 653496131
     }
   ]
 }

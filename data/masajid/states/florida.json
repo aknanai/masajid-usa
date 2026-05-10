@@ -1,6 +1,7 @@
 {
   "state": "Florida",
-  "count": 39,
+  "count": 41,
+  "generated_at": "2026-05-10 05:27:53 UTC",
   "masajid": [
     {
       "id": "node_358746756",
@@ -487,6 +488,28 @@
       "osm_id": 524312609
     },
     {
+      "id": "way_528547038",
+      "name": "Bait-un-Naseer Mosque",
+      "address": {
+        "street": "208 Northwest 7th Court",
+        "city": "Hallandale Beach",
+        "state": "FL",
+        "zip": "33009",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.993546,
+        "lon": -80.1511714
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 528547038
+    },
+    {
       "id": "way_549413163",
       "name": "IEC of Florida",
       "address": {
@@ -859,6 +882,28 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 7556404
+    },
+    {
+      "id": "node_12193939603",
+      "name": "Bay County Islamic Society (BCIS)",
+      "address": {
+        "street": "3312 Token Rd",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://baycountyislamicsociety.net",
+      "email": "",
+      "coordinates": {
+        "lat": 30.2080582,
+        "lon": -85.6700356
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12193939603
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "District Of Columbia",
   "count": 10,
+  "generated_at": "2026-05-10 08:13:07 UTC",
   "masajid": [
     {
       "id": "node_358962220",
@@ -182,18 +183,18 @@
       "id": "way_473409352",
       "name": "Avondale Islamic Center",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "District Of Columbia",
-        "zip": "",
+        "street": "4637 Eastern Avenue",
+        "city": "Mount Rainier",
+        "state": "MD",
+        "zip": "20712",
         "full": ""
       },
       "phone": "",
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 38.9462968,
-        "lon": -76.977118
+        "lat": 38.9462957,
+        "lon": -76.9771126
       },
       "denomination": "",
       "opening_hours": "",

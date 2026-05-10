@@ -1,6 +1,7 @@
 {
   "state": "Alabama",
-  "count": 7,
+  "count": 8,
+  "generated_at": "2026-05-10 04:58:47 UTC",
   "masajid": [
     {
       "id": "node_1314708253",
@@ -155,6 +156,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1425907711
+    },
+    {
+      "id": "node_12193939603",
+      "name": "Bay County Islamic Society (BCIS)",
+      "address": {
+        "street": "3312 Token Rd",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://baycountyislamicsociety.net",
+      "email": "",
+      "coordinates": {
+        "lat": 30.2080582,
+        "lon": -85.6700356
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12193939603
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "Oregon",
   "count": 9,
+  "generated_at": "2026-05-10 07:23:05 UTC",
   "masajid": [
     {
       "id": "node_3688670319",
@@ -148,8 +149,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 45.5722059,
-        "lon": -122.923113
+        "lat": 45.5722085,
+        "lon": -122.9231279
       },
       "denomination": "sunni",
       "opening_hours": "",
@@ -182,18 +183,18 @@
       "id": "way_479380219",
       "name": "Salman Alfarisi Islamic Center",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "Oregon",
-        "zip": "",
+        "street": "610 Northwest Kings Boulevard",
+        "city": "Corvallis",
+        "state": "OR",
+        "zip": "97330",
         "full": ""
       },
       "phone": "",
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 44.5739162,
-        "lon": -123.2755113
+        "lat": 44.5739151,
+        "lon": -123.2754802
       },
       "denomination": "sunni",
       "opening_hours": "",

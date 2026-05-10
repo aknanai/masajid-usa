@@ -1149,3 +1149,158 @@ body.rtl h1, body.rtl h2, body.rtl h3 {
         padding: 0.5rem;
     }
 }
+
+/* ============================================
+   PWA Install Banner (iOS + Desktop)
+   ============================================ */
+
+.pwa-install-banner {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: var(--primary-dark);
+    color: white;
+    padding: 1rem 1.25rem;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(100%);
+    transition: transform 0.4s ease;
+}
+
+.pwa-install-banner.visible {
+    display: block;
+    transform: translateY(0);
+}
+
+.pwa-install-banner .banner-content {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.pwa-install-banner .banner-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+    margin-top: 0.25rem;
+}
+
+.pwa-install-banner .banner-text {
+    flex: 1;
+}
+
+.pwa-install-banner .banner-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+}
+
+.pwa-install-banner .banner-subtitle {
+    font-size: 0.85rem;
+    opacity: 0.9;
+    line-height: 1.5;
+}
+
+.pwa-install-banner .banner-steps {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.pwa-install-banner .step {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 0.4rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.pwa-install-banner .step-icon {
+    font-size: 1rem;
+}
+
+.pwa-install-banner .step-arrow {
+    color: var(--accent);
+    font-size: 1.1rem;
+}
+
+.pwa-install-banner .banner-close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.25rem;
+    line-height: 1;
+    flex-shrink: 0;
+    transition: color 0.2s;
+}
+
+.pwa-install-banner .banner-close:hover {
+    color: white;
+}
+
+/* Android install banner (uses beforeinstallprompt) */
+.pwa-install-banner.android .banner-actions {
+    margin-top: 0.75rem;
+    display: flex;
+    gap: 0.75rem;
+}
+
+.pwa-install-banner .btn-install {
+    padding: 0.6rem 1.5rem;
+    background: var(--accent);
+    color: var(--primary-dark);
+    border: none;
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.pwa-install-banner .btn-install:hover {
+    background: var(--accent-light);
+}
+
+.pwa-install-banner .btn-dismiss {
+    padding: 0.6rem 1.5rem;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+/* Don't show banner when app is installed */
+@media (display-mode: standalone) {
+    .pwa-install-banner {
+        display: none !important;
+    }
+}
+
+@media (display-mode: fullscreen) {
+    .pwa-install-banner {
+        display: none !important;
+    }
+}
+
+@media (display-mode: minimal-ui) {
+    .pwa-install-banner {
+        display: none !important;
+    }
+}
+
+/* Hide on large screens if already visited before */
+.pwa-install-banner.dismissed {
+    display: none !important;
+}

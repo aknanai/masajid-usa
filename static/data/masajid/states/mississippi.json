@@ -1,6 +1,7 @@
 {
   "state": "Mississippi",
   "count": 4,
+  "generated_at": "2026-05-10 06:29:07 UTC",
   "masajid": [
     {
       "id": "way_165920038",
@@ -57,7 +58,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "http://oxfordmasjid.org/",
+      "website": "https://oxfordmasjid.org/",
       "email": "",
       "coordinates": {
         "lat": 34.3810653,

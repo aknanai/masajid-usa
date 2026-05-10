@@ -1,6 +1,7 @@
 {
   "state": "Tennessee",
-  "count": 19,
+  "count": 20,
+  "generated_at": "2026-05-10 07:41:35 UTC",
   "masajid": [
     {
       "id": "node_356899643",
@@ -419,6 +420,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1322145944
+    },
+    {
+      "id": "node_13040875973",
+      "name": "Islamic Center of Jackson",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6121979,
+        "lon": -88.9132571
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13040875973
     }
   ]
 }

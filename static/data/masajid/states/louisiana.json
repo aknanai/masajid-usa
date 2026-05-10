@@ -1,9 +1,10 @@
 {
   "state": "Louisiana",
   "count": 6,
+  "generated_at": "2026-05-10 06:04:27 UTC",
   "masajid": [
     {
-      "id": "node_2071876392",
+      "id": "way_187807496",
       "name": "Islamic Center of Natchitoches",
       "address": {
         "street": "125 Caspari Street",
@@ -16,13 +17,13 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 31.7540139,
-        "lon": -93.0942445
+        "lat": 31.7539692,
+        "lon": -93.0941304
       },
       "denomination": "",
       "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 2071876392
+      "osm_type": "way",
+      "osm_id": 187807496
     },
     {
       "id": "way_520337625",

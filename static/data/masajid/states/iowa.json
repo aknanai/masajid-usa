@@ -1,6 +1,7 @@
 {
   "state": "Iowa",
-  "count": 13,
+  "count": 15,
+  "generated_at": "2026-05-10 05:51:33 UTC",
   "masajid": [
     {
       "id": "node_354327903",
@@ -67,6 +68,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 93015208
+    },
+    {
+      "id": "way_109082848",
+      "name": "Muslim Community Organization",
+      "address": {
+        "street": "1117 42nd Street",
+        "city": "",
+        "state": "Iowa",
+        "zip": "50311",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5992012,
+        "lon": -93.6740137
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 109082848
     },
     {
       "id": "way_115416108",
@@ -148,8 +171,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 41.4789601,
-        "lon": -90.4561161
+        "lat": 41.4790745,
+        "lon": -90.4560273
       },
       "denomination": "",
       "opening_hours": "",
@@ -287,6 +310,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1022916704
+    },
+    {
+      "id": "way_1377091086",
+      "name": "Islamic Center of Omaha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2912413,
+        "lon": -96.025819
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1377091086
     }
   ]
 }

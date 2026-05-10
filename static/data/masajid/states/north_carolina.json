@@ -1,6 +1,7 @@
 {
   "state": "North Carolina",
-  "count": 31,
+  "count": 37,
+  "generated_at": "2026-05-10 07:05:35 UTC",
   "masajid": [
     {
       "id": "node_2344426934",
@@ -465,6 +466,28 @@
       "osm_id": 836907102
     },
     {
+      "id": "way_891032228",
+      "name": "Bait-ul-Ata Mosque",
+      "address": {
+        "street": "1800 Willow Trail Parkway",
+        "city": "Norcross",
+        "state": "GA",
+        "zip": "30093",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9313355,
+        "lon": -84.1669975
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 891032228
+    },
+    {
       "id": "way_891091840",
       "name": "Masjid Omar Bin Abdul Aziz Mosque",
       "address": {
@@ -683,6 +706,116 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 13754013
+    },
+    {
+      "id": "way_835585150",
+      "name": "Muslim Education Center",
+      "address": {
+        "street": "4301 Shamrock Drive",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28215",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://www.meccharlotte.org",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2299931,
+        "lon": -80.7504163
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 835585150
+    },
+    {
+      "id": "node_357813752",
+      "name": "Islamic Center of Raleigh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7897995,
+        "lon": -78.6913144
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357813752
+    },
+    {
+      "id": "node_10909800005",
+      "name": "Gwinett Islamic Circle",
+      "address": {
+        "street": "80 Celebration Drive",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "30024",
+        "full": ""
+      },
+      "phone": "+1-678-800-1199",
+      "website": "https://www.suwaneemasjid.org/",
+      "email": "info@masjidatsuwanee.org",
+      "coordinates": {
+        "lat": 34.0271182,
+        "lon": -84.0471825
+      },
+      "denomination": "",
+      "opening_hours": "Sa-Th 14:00-22:30; Fr 14:00-23:00",
+      "osm_type": "node",
+      "osm_id": 10909800005
+    },
+    {
+      "id": "node_13007438401",
+      "name": "Islamic Association of Raleigh - Page Campus",
+      "address": {
+        "street": "3104 Page Road",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "27560",
+        "full": ""
+      },
+      "phone": "+1-919-834-9572",
+      "website": "https://raleighmasjid.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9066885,
+        "lon": -78.8169239
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13007438401
+    },
+    {
+      "id": "node_13151387701",
+      "name": "Alnoor Islamic Center",
+      "address": {
+        "street": "6317 Sunset Lake Road",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "27526",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6322143,
+        "lon": -78.7817465
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13151387701
     }
   ]
 }

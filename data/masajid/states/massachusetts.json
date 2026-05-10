@@ -1,6 +1,7 @@
 {
   "state": "Massachusetts",
   "count": 46,
+  "generated_at": "2026-05-10 06:16:48 UTC",
   "masajid": [
     {
       "id": "node_357268214",
@@ -100,7 +101,7 @@
         "zip": "06457",
         "full": ""
       },
-      "phone": "+1 860 059 4521",
+      "phone": "+1-860-559-4521",
       "website": "https://oicct.org/",
       "email": "info@oicct.org",
       "coordinates": {
@@ -268,16 +269,16 @@
     },
     {
       "id": "way_29795740",
-      "name": "Islamic Center of Boston",
+      "name": "Islamic Society of Boston",
       "address": {
         "street": "204 Prospect Street",
-        "city": "",
-        "state": "Massachusetts",
-        "zip": "",
+        "city": "Cambridge",
+        "state": "MA",
+        "zip": "02139",
         "full": ""
       },
-      "phone": "",
-      "website": "",
+      "phone": "+1 617 876-3546",
+      "website": "https://isbcc.org/getting-here/#x-section-2",
       "email": "",
       "coordinates": {
         "lat": 42.3702733,
@@ -427,7 +428,7 @@
         "street": "1 Meriden Road",
         "city": "Middlefield",
         "state": "CT",
-        "zip": "06455",
+        "zip": "06455;06481",
         "full": ""
       },
       "phone": "+1 860 704 8472",
@@ -563,7 +564,7 @@
         "full": ""
       },
       "phone": "+1 203 304 1244",
-      "website": "http://www.hedayacenter.org",
+      "website": "https://www.hedayacenter.org/",
       "email": "",
       "coordinates": {
         "lat": 41.4179398,

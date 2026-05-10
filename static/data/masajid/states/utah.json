@@ -1,6 +1,7 @@
 {
   "state": "Utah",
-  "count": 6,
+  "count": 7,
+  "generated_at": "2026-05-10 07:49:02 UTC",
   "masajid": [
     {
       "id": "node_356682273",
@@ -72,7 +73,7 @@
       "id": "way_441542953",
       "name": "Islamic Society of Bosniaks in Utah",
       "address": {
-        "street": "425 700 West",
+        "street": "425 North 700 West",
         "city": "Salt Lake City",
         "state": "UT",
         "zip": "84116",
@@ -133,6 +134,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 679250126
+    },
+    {
+      "id": "way_51363895",
+      "name": "Islamic Center of Kuwait in Utah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1566047,
+        "lon": -111.9379119
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 51363895
     }
   ]
 }

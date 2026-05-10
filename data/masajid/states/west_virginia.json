@@ -1,6 +1,7 @@
 {
   "state": "West Virginia",
-  "count": 13,
+  "count": 16,
+  "generated_at": "2026-05-10 08:04:33 UTC",
   "masajid": [
     {
       "id": "node_357356364",
@@ -122,7 +123,7 @@
         "zip": "24060",
         "full": ""
       },
-      "phone": "+1 540-961-5210",
+      "phone": "+1-540-961-5210",
       "website": "https://www.home.isnrv.org/",
       "email": "info@isnrv.org",
       "coordinates": {
@@ -233,7 +234,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "http://firstmuslimmosque.com/",
+      "website": "https://firstmuslimmosque.com/",
       "email": "",
       "coordinates": {
         "lat": 40.4441085,
@@ -267,6 +268,28 @@
       "osm_id": 539611517
     },
     {
+      "id": "way_544837927",
+      "name": "Attawheed Islamic Center",
+      "address": {
+        "street": "401 Washington Avenue",
+        "city": "Carnegie",
+        "state": "PA",
+        "zip": "15106",
+        "full": ""
+      },
+      "phone": "+1-412-344-4404",
+      "website": "https://www.attawheed.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4093203,
+        "lon": -80.0832373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 544837927
+    },
+    {
       "id": "way_817033594",
       "name": "Muslim Association of Huntington",
       "address": {
@@ -287,6 +310,50 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 817033594
+    },
+    {
+      "id": "way_1328064254",
+      "name": "Muslim Community Center of Greater Pittsburgh",
+      "address": {
+        "street": "233 Seaman Lane",
+        "city": "Monroeville",
+        "state": "PA",
+        "zip": "15146",
+        "full": ""
+      },
+      "phone": "+1-412-373-0101",
+      "website": "https://mccgp.org/",
+      "email": "mccgpinfo@gmail.com",
+      "coordinates": {
+        "lat": 40.4368114,
+        "lon": -79.7895587
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1328064254
+    },
+    {
+      "id": "way_1411342573",
+      "name": "Islamic Center of Beckley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "West Virginia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7994332,
+        "lon": -81.1695577
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1411342573
     }
   ]
 }

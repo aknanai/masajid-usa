@@ -1,6 +1,7 @@
 {
   "state": "Washington",
-  "count": 26,
+  "count": 33,
+  "generated_at": "2026-05-10 08:00:15 UTC",
   "masajid": [
     {
       "id": "node_415826727",
@@ -45,6 +46,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 3688670319
+    },
+    {
+      "id": "node_4590210227",
+      "name": "ICMV",
+      "address": {
+        "street": "23745 225th Way Southeast",
+        "city": "Maple Valley",
+        "state": "WA",
+        "zip": "98038",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.388221,
+        "lon": -122.0424436
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 4590210227
     },
     {
       "id": "node_6346261277",
@@ -346,8 +369,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 45.5722059,
-        "lon": -122.923113
+        "lat": 45.5722085,
+        "lon": -122.9231279
       },
       "denomination": "sunni",
       "opening_hours": "",
@@ -498,7 +521,7 @@
       },
       "phone": "",
       "website": "https://www.kitsapmasjid.org/",
-      "email": "ickc1140@gmail.com",
+      "email": "info@kitsapmasjid.org",
       "coordinates": {
         "lat": 47.5734109,
         "lon": -122.6662584
@@ -566,13 +589,145 @@
       "website": "https://www.iman-wa.org/",
       "email": "",
       "coordinates": {
-        "lat": 47.671577,
-        "lon": -122.2026471
+        "lat": 47.671582,
+        "lon": -122.2026671
       },
       "denomination": "",
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 4553670
+    },
+    {
+      "id": "way_1340349436",
+      "name": "Jafaria Community Center",
+      "address": {
+        "street": "12217 North Market Street",
+        "city": "Mead",
+        "state": "WA",
+        "zip": "99021",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.7680083,
+        "lon": -117.3554137
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1340349436
+    },
+    {
+      "id": "way_1367412821",
+      "name": "Sammamish Mosque",
+      "address": {
+        "street": "22011 Southeast 20th Street",
+        "city": "Sammamish",
+        "state": "WA",
+        "zip": "98075",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://smamosque.org/",
+      "email": "secretary@smamosque.org",
+      "coordinates": {
+        "lat": 47.5911596,
+        "lon": -122.0457888
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1367412821
+    },
+    {
+      "id": "node_12839545501",
+      "name": "Masjid Abu-Bakr",
+      "address": {
+        "street": "2 Northeast 80th Avenue",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5229063,
+        "lon": -122.581287
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12839545501
+    },
+    {
+      "id": "node_12839545601",
+      "name": "Masjid Abu-Bakr",
+      "address": {
+        "street": "22 Northeast 80th Avenue",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.523112,
+        "lon": -122.5812142
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12839545601
+    },
+    {
+      "id": "node_13295427555",
+      "name": "Omar Bin Al-Khattab Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Washington",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.4909589,
+        "lon": -122.2392016
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13295427555
+    },
+    {
+      "id": "way_589946274",
+      "name": "Islamic center of Tacoma",
+      "address": {
+        "street": "2010 Bridgeport Way West",
+        "city": "University Place",
+        "state": "WA",
+        "zip": "98466",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 47.2414421,
+        "lon": -122.5378198
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 589946274
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "Maryland",
-  "count": 71,
+  "count": 74,
+  "generated_at": "2026-05-10 06:12:41 UTC",
   "masajid": [
     {
       "id": "node_358244612",
@@ -276,7 +277,7 @@
         "zip": "20151",
         "full": ""
       },
-      "phone": "+1 571-488-1112",
+      "phone": "+1-571-488-1112",
       "website": "https://uyghurislamiccenter.org/",
       "email": "",
       "coordinates": {
@@ -1161,7 +1162,7 @@
       "email": "",
       "coordinates": {
         "lat": 38.9834205,
-        "lon": -76.8438188
+        "lon": -76.8438279
       },
       "denomination": "",
       "opening_hours": "",
@@ -1172,18 +1173,18 @@
       "id": "way_473409352",
       "name": "Avondale Islamic Center",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "Maryland",
-        "zip": "",
+        "street": "4637 Eastern Avenue",
+        "city": "Mount Rainier",
+        "state": "MD",
+        "zip": "20712",
         "full": ""
       },
       "phone": "",
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 38.9462968,
-        "lon": -76.977118
+        "lat": 38.9462957,
+        "lon": -76.9771126
       },
       "denomination": "",
       "opening_hours": "",
@@ -1380,8 +1381,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 38.8803876,
-        "lon": -77.4363732
+        "lat": 38.8803772,
+        "lon": -77.4365396
       },
       "denomination": "ahmadiyya",
       "opening_hours": "",
@@ -1392,10 +1393,10 @@
       "id": "way_691062322",
       "name": "Masjid Ibrahim",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "Maryland",
-        "zip": "",
+        "street": "28 Salem Church Road",
+        "city": "Newark",
+        "state": "DE",
+        "zip": "19713",
         "full": ""
       },
       "phone": "",
@@ -1563,6 +1564,72 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 1049411
+    },
+    {
+      "id": "way_618792740",
+      "name": "Idara Jaferia Islamic Center",
+      "address": {
+        "street": "3140 Spencerville Road",
+        "city": "Burtonsville",
+        "state": "MD",
+        "zip": "20866",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://www.idara-e-jaferia.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1086514,
+        "lon": -76.9444734
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 618792740
+    },
+    {
+      "id": "way_1152288031",
+      "name": "Islamic Community Center of Potomac",
+      "address": {
+        "street": "10601 River Road",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0247878,
+        "lon": -77.2170118
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1152288031
+    },
+    {
+      "id": "way_1271544522",
+      "name": "Crescent Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9127564,
+        "lon": -77.4643898
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1271544522
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "Ohio",
-  "count": 33,
+  "count": 34,
+  "generated_at": "2026-05-10 07:13:53 UTC",
   "masajid": [
     {
       "id": "node_357478018",
@@ -157,28 +158,6 @@
       "osm_id": 6991043877
     },
     {
-      "id": "node_8069975040",
-      "name": "Mohammed Temple #3",
-      "address": {
-        "street": "3341 Montgomery Road",
-        "city": "",
-        "state": "Ohio",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.1391108,
-        "lon": -84.4745763
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 8069975040
-    },
-    {
       "id": "node_9545830692",
       "name": "Mosque",
       "address": {
@@ -221,6 +200,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 12840170448
+    },
+    {
+      "id": "way_83443569",
+      "name": "Mohammed Temple #3",
+      "address": {
+        "street": "3341 Montgomery Road",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45207",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1391457,
+        "lon": -84.4745501
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 83443569
     },
     {
       "id": "way_247773305",
@@ -463,6 +464,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 700439620
+    },
+    {
+      "id": "way_716947722",
+      "name": "Toledo Muslim Community Center",
+      "address": {
+        "street": "3319 Nebraska Avenue",
+        "city": "Toledo",
+        "state": "OH",
+        "zip": "43607",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://toledomcc.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6445103,
+        "lon": -83.6220759
+      },
+      "denomination": "muslim",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 716947722
     },
     {
       "id": "way_718024395",

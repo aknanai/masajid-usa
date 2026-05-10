@@ -90,6 +90,7 @@
     <script src="{{ "js/prayer-times.js" | relURL }}"></script>
     <script src="{{ "js/favorites.js" | relURL }}"></script>
     <script src="{{ "js/nearby-masajid.js" | relURL }}"></script>
+    <script src="{{ "js/pwa-install.js" | relURL }}"></script>
 
     <!-- Base URL and Language for JavaScript -->
     <script>
@@ -97,6 +98,23 @@
         window.LANG = "{{ .Site.Language.Lang }}";
         window.IS_RTL = {{ if .Site.Language.LanguageDirection }}true{{ else }}false{{ end }};
     </script>
+
+    <!-- PWA Install Banner -->
+    <div id="pwa-install-banner" class="pwa-install-banner">
+        <div class="banner-content">
+            <div class="banner-icon">📲</div>
+            <div class="banner-text">
+                <div class="banner-title">Install Masajid USA</div>
+                <div class="banner-subtitle">Add to your home screen for the best experience!</div>
+                <div class="banner-steps"></div>
+                <div class="banner-actions" style="display:none;">
+                    <button class="btn-install">Install App</button>
+                    <button class="btn-dismiss">Not now</button>
+                </div>
+            </div>
+            <button class="banner-close" aria-label="Close">&times;</button>
+        </div>
+    </div>
 
     <!-- Service Worker Registration -->
     <script>

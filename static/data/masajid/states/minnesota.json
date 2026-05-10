@@ -1,6 +1,7 @@
 {
   "state": "Minnesota",
-  "count": 30,
+  "count": 33,
+  "generated_at": "2026-05-10 06:24:57 UTC",
   "masajid": [
     {
       "id": "node_2169668486",
@@ -45,6 +46,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 3998473364
+    },
+    {
+      "id": "node_7196444434",
+      "name": "Masjid Da'wah",
+      "address": {
+        "street": "605 Fairview Avenue North",
+        "city": "Saint Paul",
+        "state": "MN",
+        "zip": "55104",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9594667,
+        "lon": -93.1779408
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 7196444434
     },
     {
       "id": "node_8170372976",
@@ -661,6 +684,50 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1234123907
+    },
+    {
+      "id": "way_92986445",
+      "name": "Dar Al-Qalam Islamic Center",
+      "address": {
+        "street": "81 Northeast Lowry Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55418",
+        "full": ""
+      },
+      "phone": "",
+      "website": "http://daralqalam.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0134331,
+        "lon": -93.2685465
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 92986445
+    },
+    {
+      "id": "way_1208085545",
+      "name": "Dar Al-Hijrah Mosque",
+      "address": {
+        "street": "504 Cedar Avenue South",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55454",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9685264,
+        "lon": -93.2475904
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1208085545
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "Delaware",
   "count": 2,
+  "generated_at": "2026-05-10 05:24:11 UTC",
   "masajid": [
     {
       "id": "node_9422016207",
@@ -28,10 +29,10 @@
       "id": "way_691062322",
       "name": "Masjid Ibrahim",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "Delaware",
-        "zip": "",
+        "street": "28 Salem Church Road",
+        "city": "Newark",
+        "state": "DE",
+        "zip": "19713",
         "full": ""
       },
       "phone": "",

@@ -1,6 +1,7 @@
 {
   "state": "Kansas",
-  "count": 7,
+  "count": 8,
+  "generated_at": "2026-05-10 05:55:54 UTC",
   "masajid": [
     {
       "id": "node_696116234",
@@ -155,6 +156,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1431653409
+    },
+    {
+      "id": "way_1492489145",
+      "name": "Islamic Center of Emporia",
+      "address": {
+        "street": "1125 Mechanic Street",
+        "city": "Emporia",
+        "state": "KS",
+        "zip": "66801",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://islamiccenteremporia.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4119465,
+        "lon": -96.1791236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1492489145
     }
   ]
 }

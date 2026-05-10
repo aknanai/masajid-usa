@@ -1,6 +1,7 @@
 {
   "state": "Pennsylvania",
-  "count": 69,
+  "count": 74,
+  "generated_at": "2026-05-10 07:28:37 UTC",
   "masajid": [
     {
       "id": "node_357356364",
@@ -23,28 +24,6 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 357356364
-    },
-    {
-      "id": "node_419844665",
-      "name": "Al-Jamia",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Pennsylvania",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 39.9547086,
-        "lon": -75.2085041
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "node",
-      "osm_id": 419844665
     },
     {
       "id": "node_2441939212",
@@ -730,7 +709,7 @@
     },
     {
       "id": "node_7758141369",
-      "name": "Islamic Cultural Center of East Erie",
+      "name": "Islamic Cultural Center of Erie",
       "address": {
         "street": "2426 Parade Street",
         "city": "Erie",
@@ -742,8 +721,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 42.1160232,
-        "lon": -80.0660689
+        "lat": 42.1159996,
+        "lon": -80.0660908
       },
       "denomination": "",
       "opening_hours": "",
@@ -1025,7 +1004,7 @@
         "full": ""
       },
       "phone": "",
-      "website": "http://firstmuslimmosque.com/",
+      "website": "https://firstmuslimmosque.com/",
       "email": "",
       "coordinates": {
         "lat": 40.4441085,
@@ -1057,6 +1036,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 539611517
+    },
+    {
+      "id": "way_544837927",
+      "name": "Attawheed Islamic Center",
+      "address": {
+        "street": "401 Washington Avenue",
+        "city": "Carnegie",
+        "state": "PA",
+        "zip": "15106",
+        "full": ""
+      },
+      "phone": "+1-412-344-4404",
+      "website": "https://www.attawheed.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4093203,
+        "lon": -80.0832373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 544837927
     },
     {
       "id": "way_546713922",
@@ -1323,6 +1324,28 @@
       "osm_id": 803144434
     },
     {
+      "id": "way_863864856",
+      "name": "Masjid Al-Jamia",
+      "address": {
+        "street": "4228 Walnut Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9546354,
+        "lon": -75.2083851
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 863864856
+    },
+    {
       "id": "way_973188274",
       "name": "Masjid Al-Hidayah",
       "address": {
@@ -1455,6 +1478,28 @@
       "osm_id": 1273172941
     },
     {
+      "id": "way_1328064254",
+      "name": "Muslim Community Center of Greater Pittsburgh",
+      "address": {
+        "street": "233 Seaman Lane",
+        "city": "Monroeville",
+        "state": "PA",
+        "zip": "15146",
+        "full": ""
+      },
+      "phone": "+1-412-373-0101",
+      "website": "https://mccgp.org/",
+      "email": "mccgpinfo@gmail.com",
+      "coordinates": {
+        "lat": 40.4368114,
+        "lon": -79.7895587
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1328064254
+    },
+    {
       "id": "way_1392904863",
       "name": "Baitul Ata Mosque",
       "address": {
@@ -1480,10 +1525,10 @@
       "id": "way_1429422950",
       "name": "Islamic Center of Delaware County",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "Pennsylvania",
-        "zip": "",
+        "street": "2502 Township Line Road",
+        "city": "Havertown",
+        "state": "PA",
+        "zip": "19083",
         "full": ""
       },
       "phone": "",
@@ -1497,6 +1542,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1429422950
+    },
+    {
+      "id": "way_1476234353",
+      "name": "Rihlatul Ilm Foundation Mosque",
+      "address": {
+        "street": "801 West 2nd Street",
+        "city": "Lansdale",
+        "state": "PA",
+        "zip": "19446",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2480406,
+        "lon": -75.2915766
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1476234353
     },
     {
       "id": "relation_19403803",
@@ -1519,6 +1586,50 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 19403803
+    },
+    {
+      "id": "way_1256319784",
+      "name": "Baitul Mukarram Masjid",
+      "address": {
+        "street": "18 South 43rd Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9571064,
+        "lon": -75.2085565
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1256319784
+    },
+    {
+      "id": "way_1305644359",
+      "name": "Islamic Association of the Finger Lakes",
+      "address": {
+        "street": "499 Hickory Grove Road",
+        "city": "Horseheads",
+        "state": "NY",
+        "zip": "14845",
+        "full": ""
+      },
+      "phone": "",
+      "website": "https://iaflcenter.org/",
+      "email": "",
+      "coordinates": {
+        "lat": 42.1690771,
+        "lon": -76.8646412
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1305644359
     }
   ]
 }

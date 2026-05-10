@@ -1,6 +1,7 @@
 {
   "state": "Georgia",
-  "count": 24,
+  "count": 27,
+  "generated_at": "2026-05-10 05:32:06 UTC",
   "masajid": [
     {
       "id": "node_357103072",
@@ -399,6 +400,28 @@
       "osm_id": 722666254
     },
     {
+      "id": "way_891032228",
+      "name": "Bait-ul-Ata Mosque",
+      "address": {
+        "street": "1800 Willow Trail Parkway",
+        "city": "Norcross",
+        "state": "GA",
+        "zip": "30093",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9313355,
+        "lon": -84.1669975
+      },
+      "denomination": "ahmadiyya",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 891032228
+    },
+    {
       "id": "way_891091840",
       "name": "Masjid Omar Bin Abdul Aziz Mosque",
       "address": {
@@ -509,6 +532,28 @@
       "osm_id": 1051805335
     },
     {
+      "id": "way_1498343983",
+      "name": "Islamic Center of North Fulton",
+      "address": {
+        "street": "1265 Rucker Road",
+        "city": "Alpharetta",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0735696,
+        "lon": -84.3233538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1498343983
+    },
+    {
       "id": "relation_13754013",
       "name": "Al-Huda Islamic Center",
       "address": {
@@ -529,6 +574,28 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 13754013
+    },
+    {
+      "id": "way_927274590",
+      "name": "Islamic Society of Augusta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.526125,
+        "lon": -82.1117595
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 927274590
     }
   ]
 }

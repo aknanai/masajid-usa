@@ -1,6 +1,7 @@
 {
   "state": "Indiana",
-  "count": 33,
+  "count": 35,
+  "generated_at": "2026-05-10 05:48:07 UTC",
   "masajid": [
     {
       "id": "node_354245734",
@@ -89,6 +90,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 11991243212
+    },
+    {
+      "id": "node_13535274546",
+      "name": "Masjid As-Sunnah Mosque",
+      "address": {
+        "street": "728 Court Street",
+        "city": "Evansville",
+        "state": "IN",
+        "zip": "47708",
+        "full": ""
+      },
+      "phone": "+1-812-459-9195",
+      "website": "https://muslimlistings.org/listing/masjid-as-sunnah-5/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9764081,
+        "lon": -87.5691178
+      },
+      "denomination": "",
+      "opening_hours": "Mo-Su 04:00-23:00",
+      "osm_type": "node",
+      "osm_id": 13535274546
     },
     {
       "id": "way_163522306",
@@ -606,9 +629,9 @@
         "zip": "47630",
         "full": ""
       },
-      "phone": "",
-      "website": "",
-      "email": "",
+      "phone": "+1-812-853-8806",
+      "website": "https://www.isevv.org/",
+      "email": "info@isevv.org",
       "coordinates": {
         "lat": 37.9741133,
         "lon": -87.4314845
@@ -727,6 +750,28 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1380453683
+    },
+    {
+      "id": "way_1461518494",
+      "name": "Madani Masjid",
+      "address": {
+        "street": "40 North Lincoln Street",
+        "city": "Westmont",
+        "state": "IL",
+        "zip": "60559",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7974727,
+        "lon": -87.977232
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1461518494
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "state": "Texas",
-  "count": 78,
+  "count": 83,
+  "generated_at": "2026-05-10 07:45:09 UTC",
   "masajid": [
     {
       "id": "node_356855681",
@@ -192,8 +193,8 @@
       "website": "",
       "email": "",
       "coordinates": {
-        "lat": 29.6187181,
-        "lon": -95.5791782
+        "lat": 29.6188085,
+        "lon": -95.5792684
       },
       "denomination": "",
       "opening_hours": "",
@@ -529,6 +530,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13097142249
+    },
+    {
+      "id": "node_13752992861",
+      "name": "HEB Masjid",
+      "address": {
+        "street": "901 Clinic Drive",
+        "city": "Euless",
+        "state": "TX",
+        "zip": "76039",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8483365,
+        "lon": -97.0969874
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 13752992861
     },
     {
       "id": "way_131590581",
@@ -947,28 +970,6 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 525184470
-    },
-    {
-      "id": "way_525184474",
-      "name": "Islamic Society of South Texas",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "Texas",
-        "zip": "",
-        "full": ""
-      },
-      "phone": "",
-      "website": "",
-      "email": "",
-      "coordinates": {
-        "lat": 27.6946377,
-        "lon": -97.3363631
-      },
-      "denomination": "",
-      "opening_hours": "",
-      "osm_type": "way",
-      "osm_id": 525184474
     },
     {
       "id": "way_534495235",
@@ -1477,6 +1478,28 @@
       "osm_id": 1306256992
     },
     {
+      "id": "way_1322380194",
+      "name": "Masjid Arafat",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6581112,
+        "lon": -95.6576414
+      },
+      "denomination": "sunni",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1322380194
+    },
+    {
       "id": "way_1323719989",
       "name": "Maryam Islamic Center",
       "address": {
@@ -1675,6 +1698,28 @@
       "osm_id": 1418408830
     },
     {
+      "id": "way_1484389803",
+      "name": "Dar-Un-Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6687462,
+        "lon": -95.6703729
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "way",
+      "osm_id": 1484389803
+    },
+    {
       "id": "relation_5331156",
       "name": "Muslim Children Education & Civic Center",
       "address": {
@@ -1717,6 +1762,72 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 9675813
+    },
+    {
+      "id": "node_357577397",
+      "name": "Mosquero Creek Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6989303,
+        "lon": -103.818856
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357577397
+    },
+    {
+      "id": "node_12809599401",
+      "name": "Masjidu Ttaqwa Mosque",
+      "address": {
+        "street": "5600 South Fort Hood Street",
+        "city": "",
+        "state": "Texas",
+        "zip": "76549",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 31.0703488,
+        "lon": -97.761
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 12809599401
+    },
+    {
+      "id": "node_357468432",
+      "name": "Islamic Center of Oklahoma City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": ""
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.520891,
+        "lon": -97.5730961
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "osm_type": "node",
+      "osm_id": 357468432
     }
   ]
 }

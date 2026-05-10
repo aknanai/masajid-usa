@@ -1,6 +1,7 @@
 {
   "state": "Kentucky",
-  "count": 10,
+  "count": 11,
+  "generated_at": "2026-05-10 05:59:41 UTC",
   "masajid": [
     {
       "id": "node_7573398885",
@@ -23,6 +24,28 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 7573398885
+    },
+    {
+      "id": "node_13535274546",
+      "name": "Masjid As-Sunnah Mosque",
+      "address": {
+        "street": "728 Court Street",
+        "city": "Evansville",
+        "state": "IN",
+        "zip": "47708",
+        "full": ""
+      },
+      "phone": "+1-812-459-9195",
+      "website": "https://muslimlistings.org/listing/masjid-as-sunnah-5/",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9764081,
+        "lon": -87.5691178
+      },
+      "denomination": "",
+      "opening_hours": "Mo-Su 04:00-23:00",
+      "osm_type": "node",
+      "osm_id": 13535274546
     },
     {
       "id": "way_247773305",
@@ -210,9 +233,9 @@
         "zip": "47630",
         "full": ""
       },
-      "phone": "",
-      "website": "",
-      "email": "",
+      "phone": "+1-812-853-8806",
+      "website": "https://www.isevv.org/",
+      "email": "info@isevv.org",
       "coordinates": {
         "lat": 37.9741133,
         "lon": -87.4314845
