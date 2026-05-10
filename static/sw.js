@@ -1,6 +1,9 @@
 // Masajid USA - Service Worker
 // This enables offline support and faster loading for returning visitors
 
+// Derive the base path dynamically (works on any subpath like /masajid-usa/)
+const BASE_PATH = self.location.pathname.replace(/\/sw\.js$/, '') || '';
+
 const CACHE_NAME = 'masajid-usa-v1';
 const STATIC_CACHE = 'masajid-usa-static-v1';
 const DATA_CACHE = 'masajid-usa-data-v1';
@@ -8,17 +11,17 @@ const EXTERNAL_CACHE = 'masajid-usa-external-v1';
 
 // App shell assets to pre-cache on install
 const PRECACHE_URLS = [
-  '/',
-  '/css/style.css',
-  '/js/app.js',
-  '/js/prayer-times.js',
-  '/js/favorites.js',
-  '/js/nearby-masajid.js',
-  '/js/qibla.js',
-  '/favicon.svg',
-  '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  BASE_PATH + '/',
+  BASE_PATH + '/css/style.css',
+  BASE_PATH + '/js/app.js',
+  BASE_PATH + '/js/prayer-times.js',
+  BASE_PATH + '/js/favorites.js',
+  BASE_PATH + '/js/nearby-masajid.js',
+  BASE_PATH + '/js/qibla.js',
+  BASE_PATH + '/favicon.svg',
+  BASE_PATH + '/manifest.json',
+  BASE_PATH + '/icons/icon-192x192.png',
+  BASE_PATH + '/icons/icon-512x512.png'
 ];
 
 // Install event - precache app shell
@@ -74,6 +77,12 @@ function isStaticAsset(url) {
   return extensions.some(ext => url.pathname.endsWith(ext));
 }
 
+// Helper: is this request within our app scope?
+function isInScope(url) {
+  return url.origin === self.location.origin &&
+         url.pathname.startsWith(BASE_PATH + '/');
+}
+
 // Fetch event - smart caching strategy
 self.addEventListener('fetch', event => {
   const request = event.request;
@@ -81,6 +90,9 @@ self.addEventListener('fetch', event => {
 
   // Skip non-GET requests
   if (request.method !== 'GET') return;
+
+  // Skip requests outside our scope
+  if (!isExternalResource(url) && !isInScope(url)) return;
 
   // Strategy 1: External CDN resources (stale-while-revalidate)
   if (isExternalResource(url)) {
@@ -156,7 +168,7 @@ self.addEventListener('fetch', event => {
         return caches.match(request).then(cachedResponse => {
           if (cachedResponse) return cachedResponse;
           // Fallback to cached root page
-          return caches.match('/');
+          return caches.match(BASE_PATH + '/');
         });
       })
     );
