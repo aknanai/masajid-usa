@@ -1,6 +1,6 @@
 {
   "state": "Tennessee",
-  "count": 20,
+  "count": 42,
   "generated_at": "2026-05-10 07:41:35 UTC",
   "masajid": [
     {
@@ -442,6 +442,535 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13040875973
+    },
+    {
+      "id": "google_ChIJqW4dpPZtZIgRZPIeSzaOdqs",
+      "name": "Islamic Center of Tennessee",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "5400 Bell Forge Ln E, Antioch, TN 37013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0467714,
+        "lon": -86.6463708
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqW4dpPZtZIgRZPIeSzaOdqs",
+      "rating": 4.8,
+      "user_ratings_total": 394
+    },
+    {
+      "id": "google_ChIJsSEj9zJvZIgRtkeSgZia07s",
+      "name": "As-Salaam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "1038 Murfreesboro Pike, Nashville, TN 37217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1289518,
+        "lon": -86.713318
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsSEj9zJvZIgRtkeSgZia07s",
+      "rating": 4.8,
+      "user_ratings_total": 148
+    },
+    {
+      "id": "google_ChIJ5WmZn51vZIgR-gHAT0SJiqk",
+      "name": "Salahadeen Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "364 Elysian Fields Ct, Nashville, TN 37211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0871595,
+        "lon": -86.72874740000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5WmZn51vZIgR-gHAT0SJiqk",
+      "rating": 4.8,
+      "user_ratings_total": 286
+    },
+    {
+      "id": "google_ChIJrdHzzZeJZIgR54n1bWVzeFE",
+      "name": "ICN Bellevue Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "7337 Charlotte Pike, Nashville, TN 37209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1172619,
+        "lon": -86.9199312
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrdHzzZeJZIgR54n1bWVzeFE",
+      "rating": 4.9,
+      "user_ratings_total": 144
+    },
+    {
+      "id": "google_ChIJTZ4i9CNvZIgR7Xzo-z5LPn0",
+      "name": "Tajweed Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "287 Plus Park Blvd Suite C, Nashville, TN 37217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1252393,
+        "lon": -86.7262851
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTZ4i9CNvZIgR7Xzo-z5LPn0",
+      "rating": 4.9,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJgT1-ld1mZIgRoD1Z9loFdp4",
+      "name": "Muslim American Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "1513 Jefferson St, Nashville, TN 37208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1701982,
+        "lon": -86.8032209
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgT1-ld1mZIgRoD1Z9loFdp4",
+      "rating": 4.6,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJS6aA4CtnZIgRFzHv68lG1B8",
+      "name": "Masjid Al-Islam Of Nashville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "3620 Buena Vista Pike, Nashville, TN 37218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2140308,
+        "lon": -86.816695
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS6aA4CtnZIgRFzHv68lG1B8",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJrRdmeABhZIgROrr4PuquvF4",
+      "name": "Masjid An Naas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "3111 Clarksville Pike, Nashville, TN 37218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1924013,
+        "lon": -86.8302313
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrRdmeABhZIgROrr4PuquvF4",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJK5yCX6t-ZIgRshfppu4BfNY",
+      "name": "Islamic Center of Williamson County (ICWC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "320 Mallory Station Rd, Franklin, TN 37067, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9549746,
+        "lon": -86.8231333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJK5yCX6t-ZIgRshfppu4BfNY",
+      "rating": 4.9,
+      "user_ratings_total": 116
+    },
+    {
+      "id": "google_ChIJE_cCXjRpZIgRlqsRvcFgXXI",
+      "name": "al-huda islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "252 Jackson Meadows Dr, Hermitage, TN 37076, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2186492,
+        "lon": -86.6002671
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE_cCXjRpZIgRlqsRvcFgXXI",
+      "rating": 4.7,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJRe3_HQBnZIgRcTus7SMve9A",
+      "name": "Méry",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "2004 Hayes St, Nashville, TN 37203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1520377,
+        "lon": -86.8011518
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRe3_HQBnZIgRcTus7SMve9A",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJNfuMHwBvZIgRiMvEQoEEnJc",
+      "name": "Al Zahra Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "3720 N Natchez Ct, Nashville, TN 37211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0942381,
+        "lon": -86.7346468
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNfuMHwBvZIgRiMvEQoEEnJc",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJ-zH5Fl9mZIgRGWJUjNv6bwg",
+      "name": "Nashville First Baptist Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "108 7th Ave S, Nashville, TN 37203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1590062,
+        "lon": -86.780576
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-zH5Fl9mZIgRGWJUjNv6bwg",
+      "rating": 4.5,
+      "user_ratings_total": 124
+    },
+    {
+      "id": "google_ChIJNbMmFABvZIgRy5UWgtkk5aQ",
+      "name": "Little Kurdistan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "364 Elysian Fields Ct, Nashville, TN 37211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0869887,
+        "lon": -86.72872129999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNbMmFABvZIgRy5UWgtkk5aQ",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJHZw4RfN7ZIgRx0561A9P80A",
+      "name": "Ismaili Jamatkhana - Nashville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "7106 Crossroads Blvd #203, Brentwood, TN 37027, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9604907,
+        "lon": -86.819053
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHZw4RfN7ZIgRx0561A9P80A",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJZUwkwDl-1YcR1JtWyoMGvUI",
+      "name": "Midtown Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "1288 Jackson Ave, Memphis, TN 38107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1585619,
+        "lon": -90.01518569999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZUwkwDl-1YcR1JtWyoMGvUI",
+      "rating": 4.9,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJOxdCpIyHf4gRRMEkLIGN9Mk",
+      "name": "Masjid Al-Muslimeen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "3131 Directors Row, Memphis, TN 38131, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0624819,
+        "lon": -89.9954027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOxdCpIyHf4gRRMEkLIGN9Mk",
+      "rating": 4.9,
+      "user_ratings_total": 102
+    },
+    {
+      "id": "google_ChIJA0CXOZyQf4gRR2rA7UyvTUw",
+      "name": "Masjid Ar-Rahman (Islamic Association of Greater Memphis)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "7906 Lowrance Rd, Memphis, TN 38125, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0363529,
+        "lon": -89.79989139999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA0CXOZyQf4gRR2rA7UyvTUw",
+      "rating": 4.8,
+      "user_ratings_total": 273
+    },
+    {
+      "id": "google_ChIJf77aKF991YcREfyH_cvq-Gs",
+      "name": "Masjid osmaniyah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "837 Craft Rd, Memphis, TN 38116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0441832,
+        "lon": -90.03596639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf77aKF991YcREfyH_cvq-Gs",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJcTZ7tt191YcRgxlMXtEBYOc",
+      "name": "Chinar Islamic Academy & Seminary",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "837 Craft Rd, Memphis, TN 38116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0442826,
+        "lon": -90.0360334
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcTZ7tt191YcRgxlMXtEBYOc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJZT1jYwJ3f4gRdUWGnjYHjHI",
+      "name": "Bartlett Muslim Socity",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "4210 Altruria Rd, Bartlett, TN 38135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2400782,
+        "lon": -89.8438516
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZT1jYwJ3f4gRdUWGnjYHjHI",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJLdSn-l9h1YcRptW87m_lbCo",
+      "name": "ABRAHAM HOUSE OF GOD AND CEMETERY مسجد سيدنا إبراهيم",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Tennessee",
+        "zip": "",
+        "full": "4600 Church Rd, Horn Lake, MS 38637, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.9334163,
+        "lon": -90.070432
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLdSn-l9h1YcRptW87m_lbCo",
+      "rating": 4.9,
+      "user_ratings_total": 9
     }
-  ]
+  ],
+  "google_places_added": 22
 }

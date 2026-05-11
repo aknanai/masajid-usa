@@ -1,6 +1,6 @@
 {
   "state": "Vermont",
-  "count": 2,
+  "count": 3,
   "generated_at": "2026-05-10 07:52:45 UTC",
   "masajid": [
     {
@@ -46,6 +46,31 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 667347361
+    },
+    {
+      "id": "google_ChIJfz3jE3t6ykwRViG93YfmhSo",
+      "name": "Islamic Community Center Of Vermont",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Vermont",
+        "zip": "",
+        "full": "88 Malletts Bay Ave, Winooski, VT 05404, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.493361,
+        "lon": -73.191208
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfz3jE3t6ykwRViG93YfmhSo",
+      "rating": 4.4,
+      "user_ratings_total": 31
     }
-  ]
+  ],
+  "google_places_added": 1
 }

@@ -1,6 +1,6 @@
 {
   "state": "Louisiana",
-  "count": 6,
+  "count": 22,
   "generated_at": "2026-05-10 06:04:27 UTC",
   "masajid": [
     {
@@ -134,6 +134,391 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1272104800
+    },
+    {
+      "id": "google_ChIJC4GLsh6mIIYRFwpJF-VIERM",
+      "name": "Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "1911 St Claude Ave, New Orleans, LA 70116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9685526,
+        "lon": -90.0600285
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC4GLsh6mIIYRFwpJF-VIERM",
+      "rating": 4.8,
+      "user_ratings_total": 127
+    },
+    {
+      "id": "google_ChIJFaXLQC6hIIYRAl-w8RAoF6U",
+      "name": "Omar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "1528 Pietro Ct, Harvey, LA 70058, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.874019,
+        "lon": -90.0453216
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFaXLQC6hIIYRAl-w8RAoF6U",
+      "rating": 4.9,
+      "user_ratings_total": 179
+    },
+    {
+      "id": "google_ChIJgzCs6iq3IIYRBUL4i_asDt8",
+      "name": "Masjid Abu Bakr Al Siddique",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "4425 David Dr, Metairie, LA 70003, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0184658,
+        "lon": -90.2252858
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgzCs6iq3IIYRBUL4i_asDt8",
+      "rating": 4.8,
+      "user_ratings_total": 180
+    },
+    {
+      "id": "google_ChIJkx0p-QCmIIYRLCKeOKPyvks",
+      "name": "Ur-Rahim Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "1238 N Johnson St, New Orleans, LA 70116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9710325,
+        "lon": -90.0726262
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkx0p-QCmIIYRLCKeOKPyvks",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJ3UehGAAdnogRSATkQGSY5tI",
+      "name": "Masjid Yaseen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "7525 W Judge Perez Dr, Arabi, LA 70032, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9597457,
+        "lon": -89.9937612
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3UehGAAdnogRSATkQGSY5tI",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJH929n0moIIYRv_ALcsygnhQ",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "4201 Downman Rd, New Orleans, LA 70126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0131751,
+        "lon": -90.02089439999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJH929n0moIIYRv_ALcsygnhQ",
+      "rating": 4.9,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJR-0CC_HHIIYRpvr6Vy6s-YQ",
+      "name": "Faizane madina New Orleans La",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "10932 River Rd, St Rose, LA 70087, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9582513,
+        "lon": -90.30675889999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR-0CC_HHIIYRpvr6Vy6s-YQ",
+      "rating": 5,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJ-QoNghClIIYRGQpVeGsMyDI",
+      "name": "Muslim Student Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "7103 Burthe St, New Orleans, LA 70118, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9395169,
+        "lon": -90.12417909999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-QoNghClIIYRGQpVeGsMyDI",
+      "rating": 4.5,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJnUjLSnKwIIYRNotLAxsHekI",
+      "name": "The Islamic Message Foundation Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "3929 W Metairie Ave, Metairie, LA 70001, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9826634,
+        "lon": -90.17156949999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnUjLSnKwIIYRNotLAxsHekI",
+      "rating": 4.9,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJMZvdTtm2IIYRSJB2utU1q80",
+      "name": "Ahmadiyya Muslim Community Center Kenner",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "2113 38th St, Kenner, LA 70065, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.02486619999999,
+        "lon": -90.2381145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMZvdTtm2IIYRSJB2utU1q80",
+      "rating": 4.4,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJPUmdYzqnJoYR03wAO0AphX0",
+      "name": "Islamic Center of Baton Rouge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "820 W Chimes St, Baton Rouge, LA 70802, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4179903,
+        "lon": -91.1859434
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPUmdYzqnJoYR03wAO0AphX0",
+      "rating": 4.8,
+      "user_ratings_total": 82
+    },
+    {
+      "id": "google_ChIJh_syyAihJoYRKbcCiar2_gw",
+      "name": "Muhammad Mosque #65",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "2600 Plank Rd, Baton Rouge, LA 70805, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4715144,
+        "lon": -91.1627718
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh_syyAihJoYRKbcCiar2_gw",
+      "rating": 4.8,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJo22Ed4ihJoYR11eRI-CbiRs",
+      "name": "Masjid Abdur Raqeeb",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "5241 Prescott Rd, Baton Rouge, LA 70805, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4879114,
+        "lon": -91.1370824
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo22Ed4ihJoYR11eRI-CbiRs",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJfRZvBjWhJoYRLBCzEbIFl_I",
+      "name": "Masjid Al Islahi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "1779 Government St, Baton Rouge, LA 70802, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4440251,
+        "lon": -91.1703653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfRZvBjWhJoYRLBCzEbIFl_I",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJvUDUkVWjJoYRqHrU8OJuZQQ",
+      "name": "Al-Hablulmateen Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "11056 N Harrells Ferry Rd, Baton Rouge, LA 70816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.432214,
+        "lon": -91.061799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvUDUkVWjJoYRqHrU8OJuZQQ",
+      "rating": 4.3,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJjzKKSQCjJoYR19Q0X2QC4mw",
+      "name": "Seera Association of Baton Rouge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Louisiana",
+        "zip": "",
+        "full": "2215 W Boardwalk Dr, Baton Rouge, LA 70816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4325864,
+        "lon": -91.06005979999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjzKKSQCjJoYR19Q0X2QC4mw",
+      "rating": 5,
+      "user_ratings_total": 8
     }
-  ]
+  ],
+  "google_places_added": 16
 }

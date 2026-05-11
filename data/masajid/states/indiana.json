@@ -1,6 +1,6 @@
 {
   "state": "Indiana",
-  "count": 35,
+  "count": 58,
   "generated_at": "2026-05-10 05:48:07 UTC",
   "masajid": [
     {
@@ -772,6 +772,559 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1461518494
+    },
+    {
+      "id": "google_ChIJZ7xQPIlRa4gR6NF3UxV9bNI",
+      "name": "Al Mumineen Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "4088 Millersville Rd, Indianapolis, IN 46205, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8303444,
+        "lon": -86.1208676
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ7xQPIlRa4gR6NF3UxV9bNI",
+      "rating": 4.8,
+      "user_ratings_total": 114
+    },
+    {
+      "id": "google_ChIJf2wjAuOnbIgRb7xzHZi8a-U",
+      "name": "Masjid As-Sahaba",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "711 S High School Rd, Indianapolis, IN 46241, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7542322,
+        "lon": -86.2685412
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf2wjAuOnbIgRb7xzHZi8a-U",
+      "rating": 4.8,
+      "user_ratings_total": 162
+    },
+    {
+      "id": "google_ChIJY835krxba4gR_l1qZQzUZXs",
+      "name": "Muslim Community Center - Masjid Al-Taqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "4836 Mt Vernon Dr, Indianapolis, IN 46227, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.69531629999999,
+        "lon": -86.14621149999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY835krxba4gR_l1qZQzUZXs",
+      "rating": 4.8,
+      "user_ratings_total": 160
+    },
+    {
+      "id": "google_ChIJkfX7y2pUa4gRofmzsHpZ2RY",
+      "name": "Al Hikmah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1800 W 57th St, Indianapolis, IN 46228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.85766,
+        "lon": -86.1933493
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkfX7y2pUa4gRofmzsHpZ2RY",
+      "rating": 4.8,
+      "user_ratings_total": 48
+    },
+    {
+      "id": "google_ChIJ2Y6Cio9Ra4gRGJADJk5MsVs",
+      "name": "Muhammad Mosque #74",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "2248 E 38th St, Indianapolis, IN 46218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8255804,
+        "lon": -86.12435719999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2Y6Cio9Ra4gRGJADJk5MsVs",
+      "rating": 4.5,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJYSfnQOlVa4gR_ky6eVPb1h8",
+      "name": "Al-Haqq Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "5554 Georgetown Rd, Indianapolis, IN 46254, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8522885,
+        "lon": -86.2431257
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYSfnQOlVa4gR_ky6eVPb1h8",
+      "rating": 4.8,
+      "user_ratings_total": 182
+    },
+    {
+      "id": "google_ChIJy1QUf_RRa4gRq4JZ8-6KlT8",
+      "name": "Bait-ur-Raheem Ahmadiyya Muslim Community Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "3520 N Washington Blvd, Indianapolis, IN 46205, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8197214,
+        "lon": -86.1526502
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy1QUf_RRa4gRq4JZ8-6KlT8",
+      "rating": 5,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJjxIvBTypbIgRR8V5RSKUmbk",
+      "name": "Masjid Sabeel'ul Faoz",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "9033 Crawfordsville Rd, Indianapolis, IN 46234, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8154294,
+        "lon": -86.3218935
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjxIvBTypbIgRR8V5RSKUmbk",
+      "rating": 4.8,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJixSnme9Wa4gRTg6EoSmaZn0",
+      "name": "Indianapolis Muslim Community Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "2846 Cold Spring Rd, Indianapolis, IN 46222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8073959,
+        "lon": -86.20422479999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJixSnme9Wa4gRTg6EoSmaZn0",
+      "rating": 4.8,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJ9WfdOi9Sa4gRu1O8PjrMY7U",
+      "name": "Nur-Allah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "830 N Mitthoefer Rd, Indianapolis, IN 46229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7794208,
+        "lon": -85.9907467
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9WfdOi9Sa4gRu1O8PjrMY7U",
+      "rating": 4.3,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ-xi0AtKqFIgR8SD8jtN9qo0",
+      "name": "Al Salam Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "9551 Valparaiso Ct, Indianapolis, IN 46268, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9250501,
+        "lon": -86.2254141
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-xi0AtKqFIgR8SD8jtN9qo0",
+      "rating": 4.7,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJB0Yf_-lVa4gR8pg9GFkt9JA",
+      "name": "Zainabia Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "4444 W 56th St, Indianapolis, IN 46254, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8540052,
+        "lon": -86.23605479999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB0Yf_-lVa4gR8pg9GFkt9JA",
+      "rating": 4.9,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJYRz1l-2nbIgRSAxAKQB2_Hc",
+      "name": "Masjid Al-Qalam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1146 S Mickley Ave, Indianapolis, IN 46241, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7507351,
+        "lon": -86.2606512
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYRz1l-2nbIgRSAxAKQB2_Hc",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJX0WpRACnbIgRgJPhN-51f2o",
+      "name": "Masjid Al-Qalam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1146 S Mickley Ave, Indianapolis, IN 46241, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7507351,
+        "lon": -86.2606512
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX0WpRACnbIgRgJPhN-51f2o",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJj0lDVr_kFYgRAi-u5KMu334",
+      "name": "Islamic Center of Fort Wayne",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1109 Chute St, Fort Wayne, IN 46803, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.077533,
+        "lon": -85.12241329999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj0lDVr_kFYgRAi-u5KMu334",
+      "rating": 4.8,
+      "user_ratings_total": 93
+    },
+    {
+      "id": "google_ChIJJQCAnoDlFYgRVOF5hjPFDCM",
+      "name": "Ahlus-Sunnah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1724 Lake Ave, Fort Wayne, IN 46805, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0894523,
+        "lon": -85.11555310000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJQCAnoDlFYgRVOF5hjPFDCM",
+      "rating": 4.9,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJu-QLKpTmFYgRDQUkqj1at9g",
+      "name": "Masjid Al Hidayah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "836 Lagro Dr, Fort Wayne, IN 46804, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.078042,
+        "lon": -85.2052963
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu-QLKpTmFYgRDQUkqj1at9g",
+      "rating": 4.7,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJm0kuslrlFYgRCbGv4IiUnbY",
+      "name": "Al Ansaar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "6810 S Hanna St, Fort Wayne, IN 46816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0224944,
+        "lon": -85.1276546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm0kuslrlFYgRCbGv4IiUnbY",
+      "rating": 4.7,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJH7T8WALlFYgR_sk-KVWvJ9M",
+      "name": "Masjid Al-Kauthar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1320 E Rudisill Blvd, Fort Wayne, IN 46806, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0498301,
+        "lon": -85.11908679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJH7T8WALlFYgR_sk-KVWvJ9M",
+      "rating": 4,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJGxajOAD7FYgRsCn3PjJa9O4",
+      "name": "Masjid Muhajireen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "5900 Turtle Creek Dr, Fort Wayne, IN 46816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0309023,
+        "lon": -85.10290470000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGxajOAD7FYgRsCn3PjJa9O4",
+      "rating": 3,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJRy-u8vfxFYgRj1yzjoll7ng",
+      "name": "Muslim community help center cemetery Association, Inc (MCHCCA) Masjid Quba",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "8631 Decatur Rd, Fort Wayne, IN 46816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.006358,
+        "lon": -85.1021964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRy-u8vfxFYgRj1yzjoll7ng",
+      "rating": 4.6,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJi9aBJwDlFYgRqSXz0SeQsx4",
+      "name": "Darul Uloom Al Ansar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "1420 Southdale Ave, Fort Wayne, IN 46816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0227786,
+        "lon": -85.1156207
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi9aBJwDlFYgRqSXz0SeQsx4",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJF3gjXWjlFYgRRFmE6cw-QZg",
+      "name": "Taqwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Indiana",
+        "zip": "",
+        "full": "2019 Chartwell Dr, Fort Wayne, IN 46816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0306424,
+        "lon": -85.108981
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF3gjXWjlFYgRRFmE6cw-QZg",
+      "rating": 3.7,
+      "user_ratings_total": 3
     }
-  ]
+  ],
+  "google_places_added": 23
 }

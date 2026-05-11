@@ -1,6 +1,6 @@
 {
   "state": "Illinois",
-  "count": 97,
+  "count": 128,
   "generated_at": "2026-05-10 05:43:57 UTC",
   "masajid": [
     {
@@ -2136,6 +2136,751 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 653496131
+    },
+    {
+      "id": "google_ChIJ4ZXGXc0xDogRkowOpYePJqE",
+      "name": "Chicago Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "3357 W 63rd St, Chicago, IL 60629, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7786111,
+        "lon": -87.7077778
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4ZXGXc0xDogRkowOpYePJqE",
+      "rating": 4.8,
+      "user_ratings_total": 141
+    },
+    {
+      "id": "google_ChIJhYadBQDTD4gR7aEDAWFeCk8",
+      "name": "mosque of bulsho",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "211 W Walton St, Chicago, IL 60610, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8996423,
+        "lon": -87.6349176
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhYadBQDTD4gR7aEDAWFeCk8",
+      "rating": 4.5,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJYV9ujczTD4gR3q-QFOSnG60",
+      "name": "New Zaiqa Musalla",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1312 N Clybourn Ave, Chicago, IL 60610, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9059005,
+        "lon": -87.64273469999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYV9ujczTD4gR3q-QFOSnG60",
+      "rating": 4.3,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJvwQtNroyDogRbWAFdL1PPCI",
+      "name": "Masjid Dawah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "5316 W Harrison St, Chicago, IL 60644, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8731164,
+        "lon": -87.75810849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvwQtNroyDogRbWAFdL1PPCI",
+      "rating": 4.7,
+      "user_ratings_total": 93
+    },
+    {
+      "id": "google_ChIJj17SPADND4gRMPY0z3q8lTw",
+      "name": "MASJID AL RAHMAN",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "4846 N Elston Ave, Chicago, IL 60630, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9688706,
+        "lon": -87.7420482
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj17SPADND4gRMPY0z3q8lTw",
+      "rating": 4.9,
+      "user_ratings_total": 151
+    },
+    {
+      "id": "google_ChIJ-0iicFgsDogRWFgp_dgQ8UE",
+      "name": "Taleef Collective Chicago",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1945 S Halsted St, Chicago, IL 60608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8556759,
+        "lon": -87.646429
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-0iicFgsDogRWFgp_dgQ8UE",
+      "rating": 4.7,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJG9bCiOfRD4gR_Y1VQRFHRig",
+      "name": "Islamic Oasis Center and Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "4201 N Monticello Ave, Chicago, IL 60618, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9576092,
+        "lon": -87.71879899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG9bCiOfRD4gR_Y1VQRFHRig",
+      "rating": 4.7,
+      "user_ratings_total": 139
+    },
+    {
+      "id": "google_ChIJHXOKFykmDogRwk7cbmZqngM",
+      "name": "Al Farooq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "8950 S Stony Island Ave, Chicago, IL 60617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7316667,
+        "lon": -87.58583329999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHXOKFykmDogRwk7cbmZqngM",
+      "rating": 4.9,
+      "user_ratings_total": 187
+    },
+    {
+      "id": "google_ChIJdQdsux_OD4gRkH5DT01BEpI",
+      "name": "Masjid Rahmat-e-Alam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "6201 N California Ave, Chicago, IL 60659, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9941745,
+        "lon": -87.6993128
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdQdsux_OD4gRkH5DT01BEpI",
+      "rating": 4.9,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJBb41vl0uDogR00GM0WGz4NY",
+      "name": "Masjid Ummiyyina",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "Chicago, IL 60609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7953505,
+        "lon": -87.66437069999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBb41vl0uDogR00GM0WGz4NY",
+      "rating": 4.8,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJie-jBaMsDogRCQv8catfwuM",
+      "name": "Council On American Islamic Relations",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "17 N State St Ste 1500, Chicago, IL 60602, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8827005,
+        "lon": -87.62739169999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJie-jBaMsDogRCQv8catfwuM",
+      "rating": 4.3,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJ4SJyCAQtDogRIpTRPvdUAfY",
+      "name": "Sacred Roots Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1758 W 21st Pl, Chicago, IL 60608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8532724,
+        "lon": -87.6707946
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4SJyCAQtDogRIpTRPvdUAfY",
+      "rating": 4.8,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJFe7XqN3RD4gR7DFHyMv0ECI",
+      "name": "Masjid-E-Ayesha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2409 W Devon Ave, Chicago, IL 60659, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9976247,
+        "lon": -87.6904139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFe7XqN3RD4gR7DFHyMv0ECI",
+      "rating": 4.9,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJkSjpFgAzDogRy_S0mEmd-bA",
+      "name": "Masjid Al Mina",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "Masjid Al Mina, 3840 W Roosevelt Rd, Chicago, IL 60624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8663832,
+        "lon": -87.72184709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkSjpFgAzDogRy_S0mEmd-bA",
+      "rating": 4,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJuUpXnh_OD4gROz4i4e6lwd4",
+      "name": "Da'wah Center Chicago",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "6224 N California Ave, Chicago, IL 60659, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9947653,
+        "lon": -87.6998205
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuUpXnh_OD4gROz4i4e6lwd4",
+      "rating": 4.8,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJX_KyZLosDogRhOy-fv2OGGw",
+      "name": "Chicago Central Illinois Secretary of State Facility",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "191 N Clark St, Chicago, IL 60601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8855785,
+        "lon": -87.6308115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX_KyZLosDogRhOy-fv2OGGw",
+      "rating": 4.1,
+      "user_ratings_total": 1017
+    },
+    {
+      "id": "google_ChIJTXhiYeIyDogR5hwUExj3-WI",
+      "name": "Masjed NationWide",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "4420 W 5th Ave, Chicago, IL 60624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8701418,
+        "lon": -87.7361493
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTXhiYeIyDogR5hwUExj3-WI",
+      "rating": 4.8,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJ89HgtMPRD4gRVbWPw8dwu34",
+      "name": "Lakeshore Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2150 W Devon Ave #1w, Chicago, IL 60659, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9980232,
+        "lon": -87.68457620000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ89HgtMPRD4gRVbWPw8dwu34",
+      "rating": 4.6,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJXRQ2B9qwD4gRYtTJ-nKIIdA",
+      "name": "Islamic Society of Midwest",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "501 Midway Dr, Mt Prospect, IL 60056, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.025141,
+        "lon": -87.9431469
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXRQ2B9qwD4gRYtTJ-nKIIdA",
+      "rating": 4.7,
+      "user_ratings_total": 92
+    },
+    {
+      "id": "google_ChIJj84qIiKlD4gRhLA-MMcAnAw",
+      "name": "Islamic Society of Northwest Suburbs",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1200 Hicks Rd, Rolling Meadows, IL 60008, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0970894,
+        "lon": -88.0331082
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj84qIiKlD4gRhLA-MMcAnAw",
+      "rating": 4.8,
+      "user_ratings_total": 484
+    },
+    {
+      "id": "google_ChIJR8rOLzSyD4gRZfdUuPF5B54",
+      "name": "Al Hira Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "190 Irving Park Rd, Wood Dale, IL 60191, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.96376860000001,
+        "lon": -87.9830468
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR8rOLzSyD4gRZfdUuPF5B54",
+      "rating": 4.9,
+      "user_ratings_total": 212
+    },
+    {
+      "id": "google_ChIJW6494XnLD4gRQO7sCru-jOw",
+      "name": "WBICC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2944 N Narragansett Ave, Chicago, IL 60634, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9341163,
+        "lon": -87.7860743
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW6494XnLD4gRQO7sCru-jOw",
+      "rating": 4.5,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJD199i7bPD4gRRO-1aIeqx_k",
+      "name": "Muslim Women Resource Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2828 W Devon Ave, Chicago, IL 60659, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9977315,
+        "lon": -87.7006724
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD199i7bPD4gRRO-1aIeqx_k",
+      "rating": 4.7,
+      "user_ratings_total": 339
+    },
+    {
+      "id": "google_ChIJ2zUzCDnRD4gRzwpzASP3_fw",
+      "name": "Barakah Chicago",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "5253 N Kenmore Ave, Chicago, IL 60640, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.977962,
+        "lon": -87.6562416
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2zUzCDnRD4gRzwpzASP3_fw",
+      "rating": 4.8,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJnyG3CUwiDogRauYf_sCgNNA",
+      "name": "Center For Islamic Teachings And Community Development",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "15240 Main St, Harvey, IL 60426, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6121563,
+        "lon": -87.6433022
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnyG3CUwiDogRauYf_sCgNNA",
+      "rating": 4.8,
+      "user_ratings_total": 131
+    },
+    {
+      "id": "google_ChIJXaewYnU5DogRP8MLmog2yJo",
+      "name": "Al-Nahda Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1250 10555 SW Hwy, Worth, IL 60482, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6996197,
+        "lon": -87.79451
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXaewYnU5DogRP8MLmog2yJo",
+      "rating": 4.8,
+      "user_ratings_total": 385
+    },
+    {
+      "id": "google_ChIJ3UwZKHpNDogRUj6fNs7zmrg",
+      "name": "ICNA Center & Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "1S270 Summit Ave, Oakbrook Terrace, IL 60181, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.85555189999999,
+        "lon": -87.97317369999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3UwZKHpNDogRUj6fNs7zmrg",
+      "rating": 4.8,
+      "user_ratings_total": 96
+    },
+    {
+      "id": "google_ChIJNQRw3MQvDogRJd2SVxAr2o8",
+      "name": "Ephraim Bahar Cultural Center (EBCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2525 W 71st St, Chicago, IL 60629, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.764375,
+        "lon": -87.686736
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNQRw3MQvDogRJd2SVxAr2o8",
+      "rating": 4.6,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJoTo9ERrID4gR_YkrA4L_Yh4",
+      "name": "SABEEL CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "8800 Ballard Rd, Des Plaines, IL 60016, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0440344,
+        "lon": -87.84621240000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJoTo9ERrID4gR_YkrA4L_Yh4",
+      "rating": 4.7,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ7zOlfSsuDogRrZqvveWbWVY",
+      "name": "IMAN Health Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "2744 W 63rd St, Chicago, IL 60629, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7793251,
+        "lon": -87.6927932
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7zOlfSsuDogRrZqvveWbWVY",
+      "rating": 4.1,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJL0NYNutHdYgR2uU2oPGLWIw",
+      "name": "An-Noor Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Illinois",
+        "zip": "",
+        "full": "3255 Mathers Rd, Springfield, IL 62711, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7429172,
+        "lon": -89.71095670000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL0NYNutHdYgR2uU2oPGLWIw",
+      "rating": 4.8,
+      "user_ratings_total": 16
     }
-  ]
+  ],
+  "google_places_added": 31
 }

@@ -1,6 +1,6 @@
 {
   "state": "District Of Columbia",
-  "count": 10,
+  "count": 65,
   "generated_at": "2026-05-10 08:13:07 UTC",
   "masajid": [
     {
@@ -222,6 +222,1327 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 1049411
+    },
+    {
+      "id": "google_ChIJwUH13iC3t4kRWYQ0E-bt7i4",
+      "name": "Center DC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1426 9th St NW Suite 200, Washington, DC 20001, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9094203,
+        "lon": -77.0242739
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwUH13iC3t4kRWYQ0E-bt7i4",
+      "rating": 4.9,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJe-NPtyC3t4kRe6FdMJhZYDk",
+      "name": "Georgetown University: Masjid Yarrow Mamout",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1350 Tondorf Rd, Washington, DC 20057, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.907052,
+        "lon": -77.07456049999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe-NPtyC3t4kRe6FdMJhZYDk",
+      "rating": 4.9,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJQd16A3O4t4kRa62zKCYZ_iI",
+      "name": "Ivy City Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "2001 Gallaudet St NE, Washington, DC 20002, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9136641,
+        "lon": -76.9849079
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQd16A3O4t4kRa62zKCYZ_iI",
+      "rating": 4.9,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJ3Ym93svIt4kRRtIAyoKOOlI",
+      "name": "IMAAM Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "9100 Georgia Ave, Silver Spring, MD 20910, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0043266,
+        "lon": -77.03748709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3Ym93svIt4kRRtIAyoKOOlI",
+      "rating": 4.9,
+      "user_ratings_total": 377
+    },
+    {
+      "id": "google_ChIJq6revqa4t4kRMqPf57AB3t8",
+      "name": "Ar Rashidun Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1605 Kenilworth Avenue Northeast, Washington, DC 20019, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9113357,
+        "lon": -76.9343641
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq6revqa4t4kRMqPf57AB3t8",
+      "rating": 4.6,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJf2QaVwC3t4kRholhVM4EdUo",
+      "name": "Memet prayer room",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "2412 Wisconsin Ave NW, Washington, DC 20007, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9213751,
+        "lon": -77.07252419999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf2QaVwC3t4kRholhVM4EdUo",
+      "rating": 4,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJRcPofwC5t4kRaN0Yzk_Rzms",
+      "name": "Masjid Dar Ul Arqam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1021 44th St NE, Washington, DC 20019, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9034779,
+        "lon": -76.9388417
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRcPofwC5t4kRaN0Yzk_Rzms",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJKZHrdH60t4kRDYVdiyL8Gps",
+      "name": "Dar Al Hijrah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "3159 Row St, Falls Church, VA 22044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8614433,
+        "lon": -77.1466465
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKZHrdH60t4kRDYVdiyL8Gps",
+      "rating": 4.7,
+      "user_ratings_total": 1156
+    },
+    {
+      "id": "google_ChIJESDuZsLBt4kR2QX9OAUp6vQ",
+      "name": "Diyanet Center of America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "9610 Good Luck Rd, Lanham, MD 20706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9834196,
+        "lon": -76.8435394
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJESDuZsLBt4kR2QX9OAUp6vQ",
+      "rating": 4.8,
+      "user_ratings_total": 1824
+    },
+    {
+      "id": "google_ChIJ0VMY517At4kRs7cKKaBZ-FE",
+      "name": "Ibn Taymiyyah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "8000 Martin Luther King Jr Hwy, Glenarden, MD 20706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9321737,
+        "lon": -76.8690901
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0VMY517At4kRs7cKKaBZ-FE",
+      "rating": 4.8,
+      "user_ratings_total": 122
+    },
+    {
+      "id": "google_ChIJ00azKLi3t4kRLpWUD0eucfo",
+      "name": "Foundation for Defense of Democracies",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1800 M St NW, Washington, DC 20036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9051408,
+        "lon": -77.0423239
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ00azKLi3t4kRLpWUD0eucfo",
+      "rating": 3.4,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJcdEtV2C7t4kRhm5iNDQu79k",
+      "name": "Masjid Khadija",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "3402 Captain Wendell Pruitt Way, Fort Washington, MD 20744, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7952941,
+        "lon": -76.94983529999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcdEtV2C7t4kRhm5iNDQu79k",
+      "rating": 5,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJnbMMS7-3t4kRymC-DyYMako",
+      "name": "American Islamic Congress",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1030 15th St NW, Washington, DC 20005, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9034383,
+        "lon": -77.03503719999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnbMMS7-3t4kRymC-DyYMako",
+      "rating": 3.4,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJA8XQ5LCzt4kRbD40joCNGEs",
+      "name": "Darul Hikmah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "5220 Fillmore Ave, Alexandria, VA 22311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8386783,
+        "lon": -77.1187407
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA8XQ5LCzt4kRbD40joCNGEs",
+      "rating": 4.9,
+      "user_ratings_total": 93
+    },
+    {
+      "id": "google_ChIJ4dTJMRLHt4kR-bHc8nhFDck",
+      "name": "Nigerian Muslim Council of USA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "4411 41st St, North Brentwood, MD 20722, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.94201270000001,
+        "lon": -76.9504781
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4dTJMRLHt4kR-bHc8nhFDck",
+      "rating": 4.5,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJRVjEFQC7t4kRfdK4XLOrl74",
+      "name": "Masjid E Bilal Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "4814 St Barnabas Rd, Temple Hills, MD 20748, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8228525,
+        "lon": -76.9504366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRVjEFQC7t4kRfdK4XLOrl74",
+      "rating": 5,
+      "user_ratings_total": 59
+    },
+    {
+      "id": "google_ChIJufAZgdCyt4kRRs3ejdgPBDQ",
+      "name": "Mustafa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6844 Braddock Rd, Annandale, VA 22003, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8125,
+        "lon": -77.1833333
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJufAZgdCyt4kRRs3ejdgPBDQ",
+      "rating": 4.8,
+      "user_ratings_total": 442
+    },
+    {
+      "id": "google_ChIJFYIN-EGlt4kR9z0m7USKKFI",
+      "name": "Masjid Hikmah - Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "11064 Livingston Rd, Fort Washington, MD 20744, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7377382,
+        "lon": -76.9937076
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFYIN-EGlt4kR9z0m7USKKFI",
+      "rating": 4.8,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJl2nIW_Cyt4kRQHNIy86vKnc",
+      "name": "Muslim American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6408 Edsall Rd, Alexandria, VA 22312, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.80509,
+        "lon": -77.1577497
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl2nIW_Cyt4kRQHNIy86vKnc",
+      "rating": 4.8,
+      "user_ratings_total": 273
+    },
+    {
+      "id": "google_ChIJXavSAr-3t4kRQULmrN26Gu4",
+      "name": "Sultan Qaboos Cultural Center (SQCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1100 16th St NW, Washington, DC 20036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.903927,
+        "lon": -77.036962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXavSAr-3t4kRQULmrN26Gu4",
+      "rating": 4.9,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJnc0FcuXJt4kRiRQoyJ7K0X4",
+      "name": "Maqaame Ibrahim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "7805 Old Georgetown Rd, Bethesda, MD 20814, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.98774100000001,
+        "lon": -77.0988509
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnc0FcuXJt4kRiRQoyJ7K0X4",
+      "rating": 3.4,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJB3xk3aCyt4kRsfPHQUkEXgk",
+      "name": "Darul Huda",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6666 Commerce St, Springfield, VA 22150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7799415,
+        "lon": -77.1757916
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB3xk3aCyt4kRsfPHQUkEXgk",
+      "rating": 4.8,
+      "user_ratings_total": 197
+    },
+    {
+      "id": "google_ChIJMT3_Wpu3t4kRQScGokyrCDo",
+      "name": "National Mall",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "Washington, DC, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8875144,
+        "lon": -77.0363934
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMT3_Wpu3t4kRQScGokyrCDo",
+      "rating": 4.8,
+      "user_ratings_total": 139579
+    },
+    {
+      "id": "google_ChIJh0bOZCe2t4kR0D-OlXJdB5o",
+      "name": "Washington National Cathedral",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "3101 Wisconsin Ave NW, Washington, DC 20016, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9305946,
+        "lon": -77.0707808
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh0bOZCe2t4kR0D-OlXJdB5o",
+      "rating": 4.8,
+      "user_ratings_total": 7105
+    },
+    {
+      "id": "google_ChIJZXrLS_PDt4kRFnzV6QTr4rQ",
+      "name": "Dar-us-Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "5301 Edgewood Rd, College Park, MD 20740, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.015049,
+        "lon": -76.91119499999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZXrLS_PDt4kRFnzV6QTr4rQ",
+      "rating": 4.3,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJTdDjjRLIt4kRw6ZuogS1Mwk",
+      "name": "Moorish Science Temple of America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "732 Webster St NW, Washington, DC 20011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.943905,
+        "lon": -77.0230461
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTdDjjRLIt4kRw6ZuogS1Mwk",
+      "rating": 4.9,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJZXeZ64Oyt4kRPT8jNDblz5Y",
+      "name": "Umm Ul Qura Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6287 Franconia Rd, Alexandria, VA 22310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7798192,
+        "lon": -77.1554467
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZXeZ64Oyt4kRPT8jNDblz5Y",
+      "rating": 4.9,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJx_qbY1Ctt4kRXafDSP5aR9Q",
+      "name": "Madina Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6805 Backlick Rd, Springfield, VA 22150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7707861,
+        "lon": -77.1836306
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx_qbY1Ctt4kRXafDSP5aR9Q",
+      "rating": 4.8,
+      "user_ratings_total": 245
+    },
+    {
+      "id": "google_ChIJc6y3g8Hat4kR_2AcgevMAz4",
+      "name": "Bait-ur-Rehman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "15000 Good Hope Rd, Silver Spring, MD 20905, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1028417,
+        "lon": -76.9821722
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc6y3g8Hat4kR_2AcgevMAz4",
+      "rating": 4.9,
+      "user_ratings_total": 337
+    },
+    {
+      "id": "google_ChIJR2wC8C3bt4kRdti25mHS4os",
+      "name": "Islamic Society of the Washington Area (ISWA)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "2701 Briggs Chaney Rd, Silver Spring, MD 20905, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0858333,
+        "lon": -76.95472219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR2wC8C3bt4kRdti25mHS4os",
+      "rating": 4.9,
+      "user_ratings_total": 282
+    },
+    {
+      "id": "google_ChIJZXWuROO3t4kRqoSSLVRkNxw",
+      "name": "Al Noor Arabic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1333 New Hampshire Ave NW, Washington, DC 20036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9083718,
+        "lon": -77.04395749999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZXWuROO3t4kRqoSSLVRkNxw",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJyy3PmHfTt4kR1xQsf_drUQ8",
+      "name": "Islamic Center of Maryland",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "19411 Woodfield Rd, Gaithersburg, MD 20879, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.174688,
+        "lon": -77.150639
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyy3PmHfTt4kR1xQsf_drUQ8",
+      "rating": 4.8,
+      "user_ratings_total": 398
+    },
+    {
+      "id": "google_ChIJT4ucM0e2t4kRn258vwgt7hU",
+      "name": "Alwaleed Center for Muslim-Christian Understanding (ACMCU)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "ACMCU, ICC, 260 Georgetown University, Washington, DC 20057, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.90867739999999,
+        "lon": -77.0738077
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT4ucM0e2t4kRn258vwgt7hU",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJL04gSqLat4kRdFork7aKdGI",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "15200 New Hampshire Ave, Silver Spring, MD 20905, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1055556,
+        "lon": -77.00361110000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL04gSqLat4kRdFork7aKdGI",
+      "rating": 4.7,
+      "user_ratings_total": 590
+    },
+    {
+      "id": "google_ChIJMz5a5aE0tokROYG8WhgpAiI",
+      "name": "Islamic Community Center of Potomac",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "10601 River Rd, Potomac, MD 20854, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.024695,
+        "lon": -77.2168291
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMz5a5aE0tokROYG8WhgpAiI",
+      "rating": 4.9,
+      "user_ratings_total": 183
+    },
+    {
+      "id": "google_ChIJCQzQpF61t4kRYD9H56t-xBw",
+      "name": "McLean Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "8800 Jarrett Valley Dr, Vienna, VA 22182, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9355803,
+        "lon": -77.24885069999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCQzQpF61t4kRYD9H56t-xBw",
+      "rating": 4.7,
+      "user_ratings_total": 470
+    },
+    {
+      "id": "google_ChIJERDH4dDct4kRP7ptkJvmB1k",
+      "name": "Islamic Community Center of Laurel",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "7306 Contee Rd, Laurel, MD 20707, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0806231,
+        "lon": -76.8800237
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJERDH4dDct4kRP7ptkJvmB1k",
+      "rating": 4.8,
+      "user_ratings_total": 286
+    },
+    {
+      "id": "google_ChIJddUxO4e1t4kRif4vD5gz9L0",
+      "name": "Mclean Islamic Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "Lower Level, 1340 Old Chain Bridge Rd, McLean, VA 22101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9379873,
+        "lon": -77.1763302
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJddUxO4e1t4kRif4vD5gz9L0",
+      "rating": 4.9,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJfXnmmObMt4kR5BFdDS8_KPY",
+      "name": "Islamic Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "7917 Montrose Rd, Potomac, MD 20854, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.057755,
+        "lon": -77.1654685
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfXnmmObMt4kR5BFdDS8_KPY",
+      "rating": 4.4,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJHQIvNemyt4kR9G-L1b4fSq0",
+      "name": "Imam al-Asr Masjid (Shahe Najaf Islamic Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "5501 Cherokee Ave, Alexandria, VA 22312, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8039777,
+        "lon": -77.1658087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHQIvNemyt4kR9G-L1b4fSq0",
+      "rating": 4.6,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJB0mhQIkstokRK6EqRZDG6xk",
+      "name": "Islamic Society of Germantown",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "19825 Blunt Rd, Germantown, MD 20876, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1811634,
+        "lon": -77.2359295
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB0mhQIkstokRK6EqRZDG6xk",
+      "rating": 4.8,
+      "user_ratings_total": 362
+    },
+    {
+      "id": "google_ChIJYYlF55jPt4kRcn8rncj_wWk",
+      "name": "Silver Spring Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1523 Forest Glen Rd, Silver Spring, MD 20902, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.016232,
+        "lon": -77.03587809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYYlF55jPt4kRcn8rncj_wWk",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJ2RtayhWut4kRNZnQNbBijg8",
+      "name": "ICNA Virgina Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "2913 Woodlawn Trail, Alexandria, VA 22306, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7507105,
+        "lon": -77.0821886
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2RtayhWut4kRNZnQNbBijg8",
+      "rating": 4.9,
+      "user_ratings_total": 224
+    },
+    {
+      "id": "google_ChIJRdei_9fNt4kRzlD5RQ1kSSs",
+      "name": "Alsabeel Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6155 Executive Blvd, Rockville, MD 20852, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0492173,
+        "lon": -77.1255406
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRdei_9fNt4kRzlD5RQ1kSSs",
+      "rating": 5,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJU3q244Wvt4kRe7ESSeLA6pA",
+      "name": "AMANA Sunni Madani community center of Alexandria. Last green building on driveway",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "8127 Richmond Hwy, Alexandria, VA 22309, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.736944,
+        "lon": -77.092131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU3q244Wvt4kRe7ESSeLA6pA",
+      "rating": 5,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJCTgvjXhXtokRmacDmgv-62o",
+      "name": "Dar Alnoor Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "5404 Hoadly Rd, Manassas, VA 20112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6766028,
+        "lon": -77.3702714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCTgvjXhXtokRmacDmgv-62o",
+      "rating": 4.8,
+      "user_ratings_total": 778
+    },
+    {
+      "id": "google_ChIJU-rDNOa3t4kRo7gjzK7jAcA",
+      "name": "The DC LGBTQ+ Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1827 Wiltberger St NW, Washington, DC 20001, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9147075,
+        "lon": -77.0207862
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU-rDNOa3t4kRo7gjzK7jAcA",
+      "rating": 4.3,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJHWDjzb63t4kRwuc5e72aUpA",
+      "name": "Shia rights watch",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1627 K St NW #400, Washington, DC 20006, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9029117,
+        "lon": -77.0376686
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHWDjzb63t4kRwuc5e72aUpA",
+      "rating": 3,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ4cR9Iyu4t4kRhhMCrqd5D4U",
+      "name": "CAIR",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "453 New Jersey Ave SE, Washington, DC 20003, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8833981,
+        "lon": -77.0070167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4cR9Iyu4t4kRhhMCrqd5D4U",
+      "rating": 3.9,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJs-qqDtW3t4kROSNO2hszAPs",
+      "name": "Washington DC Turkish House",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1526 18th St NW #200, Washington, DC 20036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9104254,
+        "lon": -77.041928
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs-qqDtW3t4kROSNO2hszAPs",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJW9VHHAVPtokRpLC4ENiNUwQ",
+      "name": "Islamic Center Northern Virginia Trust",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "4420 Shirley Gate Rd, Fairfax, VA 22030, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8459325,
+        "lon": -77.341039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW9VHHAVPtokRpLC4ENiNUwQ",
+      "rating": 4.9,
+      "user_ratings_total": 494
+    },
+    {
+      "id": "google_ChIJCd_mSb6yt4kRt2H0opsA0BY",
+      "name": "IFA Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "6606 Electronic Dr, Springfield, VA 22151, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7952349,
+        "lon": -77.1729879
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCd_mSb6yt4kRt2H0opsA0BY",
+      "rating": 4.9,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJUy_qaMe3t4kRUaF2vwZK8KA",
+      "name": "Middle East Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "1763 N St NW, Washington, DC 20036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9073986,
+        "lon": -77.04093329999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUy_qaMe3t4kRUaF2vwZK8KA",
+      "rating": 4.3,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJ4bovSvOzt4kRivGWCcKXd4E",
+      "name": "Moroccan American Community Organization",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "5667 Columbia Pike Unit 200, Falls Church, VA 22041, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.851565,
+        "lon": -77.124494
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4bovSvOzt4kRivGWCcKXd4E",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJOXOTI2A3tokRavupfBGkSHo",
+      "name": "مسجد الاستقامة - Reston Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "District Of Columbia",
+        "zip": "",
+        "full": "11701 Bowman Green Dr, Reston, VA 20190, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.962107,
+        "lon": -77.352255
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOXOTI2A3tokRavupfBGkSHo",
+      "rating": 4.9,
+      "user_ratings_total": 88
     }
-  ]
+  ],
+  "google_places_added": 8
 }

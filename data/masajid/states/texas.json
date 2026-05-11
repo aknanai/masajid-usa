@@ -1,6 +1,6 @@
 {
   "state": "Texas",
-  "count": 83,
+  "count": 208,
   "generated_at": "2026-05-10 07:45:09 UTC",
   "masajid": [
     {
@@ -1828,6 +1828,3007 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 357468432
+    },
+    {
+      "id": "google_ChIJkWw53ae_QIYRfYljIHCR2KI",
+      "name": "Al-Muhaiman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3103 Cleburne St, Houston, TX 77004, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7253305,
+        "lon": -95.3631693
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkWw53ae_QIYRfYljIHCR2KI",
+      "rating": 4.1,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJ-TJp29PdQIYRNdzKNKoBtrE",
+      "name": "ISGH Masjid Hamza - Mission Bend Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6233 Tres Lagunas Dr, Houston, TX 77083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7100411,
+        "lon": -95.6380552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-TJp29PdQIYRNdzKNKoBtrE",
+      "rating": 4.8,
+      "user_ratings_total": 496
+    },
+    {
+      "id": "google_ChIJMzgaXJ3SQIYRm1GiuP2fH78",
+      "name": "Masjid AlSalam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "16700 Old Louetta Rd, Spring, TX 77379, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0090816,
+        "lon": -95.5601962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMzgaXJ3SQIYRm1GiuP2fH78",
+      "rating": 4.8,
+      "user_ratings_total": 751
+    },
+    {
+      "id": "google_ChIJQQwcS52_QIYRuJIJjlqs4Xw",
+      "name": "The Ismaili Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2323 Allen Pkwy, Houston, TX 77019, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7590352,
+        "lon": -95.39185669999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQQwcS52_QIYRuJIJjlqs4Xw",
+      "rating": 4.9,
+      "user_ratings_total": 375
+    },
+    {
+      "id": "google_ChIJd1bnesvYQIYRrEJpZOmYGUk",
+      "name": "MAS Katy Center (Masjid Al-Rahman)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1800 Baker Rd, Houston, TX 77094, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7608964,
+        "lon": -95.7037417
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd1bnesvYQIYRrEJpZOmYGUk",
+      "rating": 4.8,
+      "user_ratings_total": 680
+    },
+    {
+      "id": "google_ChIJA45yor_DQIYR4Tfpnfcz1tE",
+      "name": "Islamic Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2313 S Voss Rd, Houston, TX 77057, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7419895,
+        "lon": -95.5002063
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA45yor_DQIYR4Tfpnfcz1tE",
+      "rating": 4.7,
+      "user_ratings_total": 345
+    },
+    {
+      "id": "google_ChIJhWZiuUm-QIYRwERB1itxzsg",
+      "name": "Muhammad Mosque No.45",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4443 Old Spanish Trl, Houston, TX 77021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.706294,
+        "lon": -95.34511099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhWZiuUm-QIYRwERB1itxzsg",
+      "rating": 4.4,
+      "user_ratings_total": 88
+    },
+    {
+      "id": "google_ChIJ9elw5vK_QIYRBR_KvgSMakg",
+      "name": "Almeda Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6923 Almeda Rd, Houston, TX 77021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7010349,
+        "lon": -95.3855885
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9elw5vK_QIYRBR_KvgSMakg",
+      "rating": 4.5,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJp23SZnK5QIYRCtg_7nf2H_w",
+      "name": "At-Tawhid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5514 Hirsch Rd, Houston, TX 77026, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8106048,
+        "lon": -95.3280556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp23SZnK5QIYRCtg_7nf2H_w",
+      "rating": 4.8,
+      "user_ratings_total": 210
+    },
+    {
+      "id": "google_ChIJqzKZWeKVQIYRZYOAl7uZSc0",
+      "name": "Houston Masjid of Al-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6641 Bellfort Ave, Houston, TX 77087, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6677189,
+        "lon": -95.3121646
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqzKZWeKVQIYRZYOAl7uZSc0",
+      "rating": 4.6,
+      "user_ratings_total": 116
+    },
+    {
+      "id": "google_ChIJ21QXJJy_QIYRIJ_OAjTifwE",
+      "name": "Ibrahim Islamic Center & Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7563 South Fwy, Houston, TX 77021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6844288,
+        "lon": -95.3784325
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ21QXJJy_QIYRIJ_OAjTifwE",
+      "rating": 4.7,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJueQXSVacQIYR2MnuD8WRWjI",
+      "name": "Clear Lake Islamic Center - Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "17511 El Camino Real, Houston, TX 77058, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5535386,
+        "lon": -95.1087754
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJueQXSVacQIYR2MnuD8WRWjI",
+      "rating": 4.9,
+      "user_ratings_total": 313
+    },
+    {
+      "id": "google_ChIJfV9wUtjLQIYRG0UPxjF2Nis",
+      "name": "Masjid Bilal - ISGH",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11815 Adel Rd, Houston, TX 77067, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.95739159999999,
+        "lon": -95.44862479999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfV9wUtjLQIYRG0UPxjF2Nis",
+      "rating": 4.9,
+      "user_ratings_total": 556
+    },
+    {
+      "id": "google_ChIJTXLoE1bcQIYRBmniSIaPRfU",
+      "name": "Makkah Masjid-Greater Houston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3505 S Dairy Ashford Rd, Houston, TX 77082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7221931,
+        "lon": -95.6042992
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTXLoE1bcQIYRBmniSIaPRfU",
+      "rating": 4.7,
+      "user_ratings_total": 124
+    },
+    {
+      "id": "google_ChIJRRzS3BnRQIYRGdz9roTXldw",
+      "name": "Flaah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "9203 Jackrabbit Rd, Houston, TX 77095, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9115468,
+        "lon": -95.620965
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRRzS3BnRQIYRGdz9roTXldw",
+      "rating": 4.7,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJOb8sQ0rCQIYRFaVwPi00z5w",
+      "name": "Mercy Community Center - Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5922 Hillcroft St # C, Houston, TX 77036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7172727,
+        "lon": -95.500812
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOb8sQ0rCQIYRFaVwPi00z5w",
+      "rating": 4.8,
+      "user_ratings_total": 178
+    },
+    {
+      "id": "google_ChIJy98Wv-u5QIYRX33dQsHcGMU",
+      "name": "5th Ward Islamic Center for Human Development",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5303 Lyons Ave, Houston, TX 77020, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7765369,
+        "lon": -95.31746509999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy98Wv-u5QIYRX33dQsHcGMU",
+      "rating": 4.8,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJjx0xVPHNQIYRx9Q3KHgd4t0",
+      "name": "Haj Nabih Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "14420 Sylvanfield Dr Suite 100, Houston, TX 77014, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9851677,
+        "lon": -95.4935027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjx0xVPHNQIYRx9Q3KHgd4t0",
+      "rating": 4.7,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJPQW35dXdQIYRPlKTD2uFyuw",
+      "name": "IslamInSpanish Centro Islamico",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "12703 Brant Rock Dr, Houston, TX 77082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7147537,
+        "lon": -95.6076726
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPQW35dXdQIYRPlKTD2uFyuw",
+      "rating": 4.9,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJk4BAmMmZQIYRhVO9oHNTof0",
+      "name": "Masjid Abu Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "8830 Galveston Rd, Houston, TX 77034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6318253,
+        "lon": -95.2076761
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk4BAmMmZQIYRhVO9oHNTof0",
+      "rating": 4.8,
+      "user_ratings_total": 226
+    },
+    {
+      "id": "google_ChIJyT2tpfCTQIYRBGH5egIE5EY",
+      "name": "Pearland Islamic Center (PIC) - ISGH",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1530 Garden Rd, Pearland, TX 77581, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5823118,
+        "lon": -95.3218577
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyT2tpfCTQIYRBGH5egIE5EY",
+      "rating": 4.8,
+      "user_ratings_total": 95
+    },
+    {
+      "id": "google_ChIJrZYAlJnsQIYRbej7GCn3dzo",
+      "name": "Shadow Creek Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "12234 Shadow Creek Pkwy #9, Pearland, TX 77584, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5746148,
+        "lon": -95.40820120000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrZYAlJnsQIYRbej7GCn3dzo",
+      "rating": 4.5,
+      "user_ratings_total": 135
+    },
+    {
+      "id": "google_ChIJV69dV3-4QIYRTKNfVQ3mdS8",
+      "name": "Taleem Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "511 E 40th 1/2 St, Houston, TX 77022, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.8231109,
+        "lon": -95.39342429999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV69dV3-4QIYRTKNfVQ3mdS8",
+      "rating": 4.4,
+      "user_ratings_total": 106
+    },
+    {
+      "id": "google_ChIJO7QBTLUmQYYRvlcNw8VQUQk",
+      "name": "Masjid Aqsa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2810 Saddlehorn Trail, Katy, TX 77494, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.75469709999999,
+        "lon": -95.79475130000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO7QBTLUmQYYRvlcNw8VQUQk",
+      "rating": 4.8,
+      "user_ratings_total": 405
+    },
+    {
+      "id": "google_ChIJBeB2jYi5QIYRVX7X9KWxj9I",
+      "name": "Masjid Al-Rasul No. 2 Fifth Ward",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3204 Jensen Dr, Houston, TX 77026, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7919019,
+        "lon": -95.3417063
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBeB2jYi5QIYRVX7X9KWxj9I",
+      "rating": 3.7,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJk2Pn2djCQIYRDkWYa6wRhGo",
+      "name": "Al Muhajreen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "10301 Harwin Dr. a, Houston, TX 77036, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.71670469999999,
+        "lon": -95.54666209999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk2Pn2djCQIYRDkWYa6wRhGo",
+      "rating": 4.8,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJMfSqp_beQIYRLsim47oAwfo",
+      "name": "Tajweed Institute Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "16205 Westheimer Rd, Houston, TX 77082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.718933,
+        "lon": -95.6723947
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMfSqp_beQIYRLsim47oAwfo",
+      "rating": 4.8,
+      "user_ratings_total": 208
+    },
+    {
+      "id": "google_ChIJ5TrvoFTdQIYRf_6GyuwSxlU",
+      "name": "Masjid AlRasool AlAkram",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "9300 S Course Dr, Houston, TX 77099, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6782221,
+        "lon": -95.56324819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5TrvoFTdQIYRf_6GyuwSxlU",
+      "rating": 4.7,
+      "user_ratings_total": 249
+    },
+    {
+      "id": "google_ChIJW3VXc-XnQIYRq6ceAg1ASEg",
+      "name": "ISGH Masjid Savoy Wilcrest",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11246 Wilcrest Dr UNIT 110, Houston, TX 77099, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6583545,
+        "lon": -95.57081430000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW3VXc-XnQIYRq6ceAg1ASEg",
+      "rating": 4.8,
+      "user_ratings_total": 87
+    },
+    {
+      "id": "google_ChIJR-wBynikQIYRozwQYprdmYY",
+      "name": "ISGH Isa ibn Maryam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "13818 Brownsville St, Houston, TX 77015, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7817475,
+        "lon": -95.1796547
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR-wBynikQIYRozwQYprdmYY",
+      "rating": 4.9,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJFzz-LsHcQIYRRoiHa94octc",
+      "name": "Expo Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11322 Westheimer Rd # F, Houston, TX 77077, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7378155,
+        "lon": -95.57813639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFzz-LsHcQIYRRoiHa94octc",
+      "rating": 4.8,
+      "user_ratings_total": 153
+    },
+    {
+      "id": "google_ChIJZV9ZDZXRQIYRXXI_xkfLM3Q",
+      "name": "Al Furqan Islamic Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "10602 Jones Rd, Houston, TX 77065, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.9269278,
+        "lon": -95.5835389
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZV9ZDZXRQIYRXXI_xkfLM3Q",
+      "rating": 4.8,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJsRsidAveQIYRbAH45S3Jipg",
+      "name": "Jama Mecca Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "15001 Beechnut St, Houston, TX 77083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6891826,
+        "lon": -95.65086679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsRsidAveQIYRbAH45S3Jipg",
+      "rating": 4.7,
+      "user_ratings_total": 143
+    },
+    {
+      "id": "google_ChIJ96Kt0GacQIYREtlAd3KqAX4",
+      "name": "Clear Lake Jama Masjid IQRA Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "16400 Sea Lark Rd, Houston, TX 77062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5578937,
+        "lon": -95.1253845
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ96Kt0GacQIYREtlAd3KqAX4",
+      "rating": 4.8,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJ5_0u79khQYYRBG1OKPHbk_o",
+      "name": "Richmond Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5530 Long Prairie Trace #100, Richmond, TX 77407, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.673648,
+        "lon": -95.75236439999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5_0u79khQYYRBG1OKPHbk_o",
+      "rating": 4.8,
+      "user_ratings_total": 158
+    },
+    {
+      "id": "google_ChIJ6TqVqe-_QIYRirXkdN2T5cg",
+      "name": "UH MSA Ramadan Tent",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3841 Cullen Blvd, Houston, TX 77004, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7193319,
+        "lon": -95.34505250000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6TqVqe-_QIYRirXkdN2T5cg",
+      "rating": 4.9,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJdU4l9wbfQIYRZ4RfeElbJDg",
+      "name": "AL-RAHMA COMMUNITY CENTER OF HOUSTON",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7003 Addicks Clodine Rd, Houston, TX 77083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.7009877,
+        "lon": -95.6635829
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdU4l9wbfQIYRZ4RfeElbJDg",
+      "rating": 5,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJhS0UVoyYToYR71EUkTLRQjM",
+      "name": "Islamic Center of South Dallas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2806 Martin Luther King Jr Blvd, Dallas, TX 75215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7691205,
+        "lon": -96.76800899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhS0UVoyYToYR71EUkTLRQjM",
+      "rating": 4.6,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJPQjmm_SYToYRI0Z_SNsyqlA",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2429 Martin Luther King Jr Blvd, Dallas, TX 75215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7661341,
+        "lon": -96.7725316
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPQjmm_SYToYRI0Z_SNsyqlA",
+      "rating": 4.2,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJfegQy4aBToYRcINprM4zk7M",
+      "name": "Islamic Center of Irving",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2555 Esters Rd, Irving, TX 75062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8433971,
+        "lon": -97.0106522
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfegQy4aBToYRcINprM4zk7M",
+      "rating": 4.8,
+      "user_ratings_total": 1524
+    },
+    {
+      "id": "google_ChIJCTle0DSYToYRTNhGbvt_b34",
+      "name": "Masjid Al Quran",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2420 Cedar Crest Blvd, Dallas, TX 75203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7343289,
+        "lon": -96.7920007
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCTle0DSYToYRTNhGbvt_b34",
+      "rating": 4.5,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJJ7Bj_J4fTIYRfWVohOA_w60",
+      "name": "Islamic Association of North Texas (IANT Masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "840 Abrams Rd, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9392353,
+        "lon": -96.73053709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJ7Bj_J4fTIYRfWVohOA_w60",
+      "rating": 4.7,
+      "user_ratings_total": 404
+    },
+    {
+      "id": "google_ChIJBfo8m8ulToYR9ohwTEuA7Dw",
+      "name": "Mesquite Islamic Center (MIC Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2403 Franklin Dr, Mesquite, TX 75150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7960502,
+        "lon": -96.6177553
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBfo8m8ulToYR9ohwTEuA7Dw",
+      "rating": 4.9,
+      "user_ratings_total": 268
+    },
+    {
+      "id": "google_ChIJ2emwLuYeTIYRj1XCg6y4Adk",
+      "name": "MAS Islamic Center Of Dallas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1515 Blake Dr, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9640177,
+        "lon": -96.6963504
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2emwLuYeTIYRj1XCg6y4Adk",
+      "rating": 4.8,
+      "user_ratings_total": 432
+    },
+    {
+      "id": "google_ChIJq9bOLqciTIYRCcB6F30aiXQ",
+      "name": "Islamic Association of Collin County (Plano Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6401 Independence Pkwy, Plano, TX 75023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0598122,
+        "lon": -96.7515566
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq9bOLqciTIYRCcB6F30aiXQ",
+      "rating": 4.8,
+      "user_ratings_total": 783
+    },
+    {
+      "id": "google_ChIJs59GV60-TIYRaz2IAca7nV8",
+      "name": "Islamic Center of Frisco",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11137 Frisco St, Frisco, TX 75033, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1723774,
+        "lon": -96.8348068
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs59GV60-TIYRaz2IAca7nV8",
+      "rating": 4.8,
+      "user_ratings_total": 761
+    },
+    {
+      "id": "google_ChIJJewiC4omTIYRVeJ0orRW5_k",
+      "name": "Islamic Association of Carrollton (IAC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1901 Kelly Blvd, Carrollton, TX 75006, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.961052,
+        "lon": -96.87812199999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJewiC4omTIYRVeJ0orRW5_k",
+      "rating": 4.8,
+      "user_ratings_total": 343
+    },
+    {
+      "id": "google_ChIJE9I-zjukToYRg0U6GJ0BgmU",
+      "name": "Islamic Association-Mesquite",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2409 Gus Thomasson Rd, Mesquite, TX 75150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7973832,
+        "lon": -96.6345372
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE9I-zjukToYRg0U6GJ0BgmU",
+      "rating": 4.6,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJcTPQKG8eTIYRMds5yfnGyBA",
+      "name": "Makkah Masjid (Garland Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3301 W Buckingham Rd, Garland, TX 75042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9317238,
+        "lon": -96.67934849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcTPQKG8eTIYRMds5yfnGyBA",
+      "rating": 4.8,
+      "user_ratings_total": 291
+    },
+    {
+      "id": "google_ChIJtVUyaD-TToYRmnUU4LeSnDo",
+      "name": "Dar Al-Arqam Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2001 S Hampton Rd, Glenn Heights, TX 75154, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5501954,
+        "lon": -96.857569
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtVUyaD-TToYRmnUU4LeSnDo",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJfQxsNTYXTIYRg-Qg7f_gLeo",
+      "name": "Islamic Association of Allen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "909 Allen Central Dr, Allen, TX 75013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0971585,
+        "lon": -96.6836093
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfQxsNTYXTIYRg-Qg7f_gLeo",
+      "rating": 4.8,
+      "user_ratings_total": 533
+    },
+    {
+      "id": "google_ChIJ-d64F2OdToYR7U9f4nkD2YQ",
+      "name": "Al Razzaq Islamic Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11132 Shady Trail, Dallas, TX 75229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8856418,
+        "lon": -96.8901573
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-d64F2OdToYR7U9f4nkD2YQ",
+      "rating": 4.4,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJ5cE5lSKDToYRk1ih8_E7zes",
+      "name": "Dawoodi Bohra Al Masjid Al Saifee Anjuman-e-Najmi, Dallas Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1320 S Nursery Rd, Irving, TX 75060, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7995066,
+        "lon": -96.9342487
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5cE5lSKDToYRk1ih8_E7zes",
+      "rating": 4.6,
+      "user_ratings_total": 65
+    },
+    {
+      "id": "google_ChIJWxSOxgKDToYR_NAzFqEPFd4",
+      "name": "Barkaat-Ul-Quran",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "555 W Airport Fwy #178, Irving, TX 75062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8391533,
+        "lon": -96.9544969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWxSOxgKDToYR_NAzFqEPFd4",
+      "rating": 4.8,
+      "user_ratings_total": 128
+    },
+    {
+      "id": "google_ChIJSwjCeDB9ToYRjEDvhF8cM_A",
+      "name": "Qalam Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4200 International Pkwy, Carrollton, TX 75007, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0227466,
+        "lon": -96.8474119
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSwjCeDB9ToYRjEDvhF8cM_A",
+      "rating": 4.9,
+      "user_ratings_total": 235
+    },
+    {
+      "id": "google_ChIJ6VzXiIGRToYR2g49pkoyHxQ",
+      "name": "Dallas Islamic Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "301 Frank Keasler Blvd, Duncanville, TX 75116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.66812360000001,
+        "lon": -96.9107849
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6VzXiIGRToYR2g49pkoyHxQ",
+      "rating": 4.6,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJ28z7rVMDTIYRpmW_HmWfCgs",
+      "name": "Sachse Muslim Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2416 3rd St, Sachse, TX 75048, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9773609,
+        "lon": -96.59918809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ28z7rVMDTIYRpmW_HmWfCgs",
+      "rating": 4.9,
+      "user_ratings_total": 269
+    },
+    {
+      "id": "google_ChIJe0f7xgeXToYRAkyvX3zK5Go",
+      "name": "Oak Cliff Empowerment Center (OCEC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3436 Sunnyvale St, Dallas, TX 75216, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7127416,
+        "lon": -96.7842352
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe0f7xgeXToYRAkyvX3zK5Go",
+      "rating": 4.9,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJqZaI3l8ZTIYRmMxb3T6YAhg",
+      "name": "Noori Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1251 Shiloh Rd, Plano, TX 75074, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0133333,
+        "lon": -96.6652778
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqZaI3l8ZTIYRmMxb3T6YAhg",
+      "rating": 4.5,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJzfstvCOHToYReBF9QBZrDNI",
+      "name": "Grand Prairie Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "802 Greenview Dr suite b, Grand Prairie, TX 75050, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.771873,
+        "lon": -97.057057
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzfstvCOHToYReBF9QBZrDNI",
+      "rating": 4.9,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJwY1-576pToYRnj4p_ZFrHno",
+      "name": "Islamic Center of Rowlett",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6710 Garner Rd, Rowlett, TX 75088, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8860693,
+        "lon": -96.5367583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwY1-576pToYRnj4p_ZFrHno",
+      "rating": 4.8,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJAfkWbFiGToYR03w5w3eZNZY",
+      "name": "Imam Ali Islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2330 Dalworth St, Grand Prairie, TX 75050, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7450634,
+        "lon": -97.03743349999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAfkWbFiGToYR03w5w3eZNZY",
+      "rating": 4.5,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJhwzKcFyTToYRhNZhbqvtquY",
+      "name": "Islamic Association Of Desoto Texas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1120 W Belt Line Rd, DeSoto, TX 75115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.589488,
+        "lon": -96.8851799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhwzKcFyTToYRhNZhbqvtquY",
+      "rating": 5,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJ-1L4S8sDTIYRVI4fe-0z_ZM",
+      "name": "Dallas Muslim Community Center (DMCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7340 S State Hwy 78 #280, Sachse, TX 75048, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9878767,
+        "lon": -96.5750841
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-1L4S8sDTIYRVI4fe-0z_ZM",
+      "rating": 4.6,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJhwlMxw8cTIYRcIJztNht0iM",
+      "name": "Masjid Yaseen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1601 W Campbell Rd, Garland, TX 75044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9831421,
+        "lon": -96.6507932
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhwlMxw8cTIYRcIJztNht0iM",
+      "rating": 4.8,
+      "user_ratings_total": 344
+    },
+    {
+      "id": "google_ChIJQyJgdVuGToYRWJ6vboguRNY",
+      "name": "Masjid Faruq of Grand Prairie TX",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2202 San Antonio St bldg b, Grand Prairie, TX 75051, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7383353,
+        "lon": -97.0347939
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQyJgdVuGToYRWJ6vboguRNY",
+      "rating": 4.9,
+      "user_ratings_total": 82
+    },
+    {
+      "id": "google_ChIJe3bVAwJjToYRxUtZ8R51FmE",
+      "name": "Dar El-Eman Islamic Center (DEIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5511 Mansfield Rd, Arlington, TX 76017, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.65665,
+        "lon": -97.13627799999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe3bVAwJjToYRxUtZ8R51FmE",
+      "rating": 4.8,
+      "user_ratings_total": 286
+    },
+    {
+      "id": "google_ChIJ1b4omjwfTIYRC_lxnK8hXCo",
+      "name": "Al-Ansar Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1059 S Sherman St Suit #110, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9369449,
+        "lon": -96.7404528
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1b4omjwfTIYRC_lxnK8hXCo",
+      "rating": 4.8,
+      "user_ratings_total": 100
+    },
+    {
+      "id": "google_ChIJn9twlN2nToYRAjfD4g68e_s",
+      "name": "Islamic Society Of Mesquite",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5906 Duck Creek Dr Apartment 14, Garland, TX 75043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8475053,
+        "lon": -96.6021274
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn9twlN2nToYRAjfD4g68e_s",
+      "rating": 4.7,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJ94C-zkgfTIYRJPgZs2ZKyUE",
+      "name": "Abu Hanifa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "132 N Glenville Dr, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9467175,
+        "lon": -96.7044566
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ94C-zkgfTIYRJPgZs2ZKyUE",
+      "rating": 4.9,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJb3UXcdQfTIYRm2348usauFE",
+      "name": "Islamic Association Texas (Masjid Ahsan)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "132 N Glenville Dr, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9467311,
+        "lon": -96.7044653
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb3UXcdQfTIYRm2348usauFE",
+      "rating": 4.9,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJDVkqam8pTIYRwFkIgo5UFzE",
+      "name": "Las Colinas Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6210 N Belt Line Rd #160, Irving, TX 75063, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8926834,
+        "lon": -96.99034259999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDVkqam8pTIYRwFkIgo5UFzE",
+      "rating": 4.8,
+      "user_ratings_total": 59
+    },
+    {
+      "id": "google_ChIJafCy8OQ9TIYRiFcDnkLVFNo",
+      "name": "Islamic Center of Quad Cities",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "14800 Lebanon Rd, Frisco, TX 75035, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.123203,
+        "lon": -96.7471806
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJafCy8OQ9TIYRiFcDnkLVFNo",
+      "rating": 4.8,
+      "user_ratings_total": 167
+    },
+    {
+      "id": "google_ChIJe7bQJAkDTIYRVV161pzkUPo",
+      "name": "Bosniaks Islamic Center Dallas-Fort Worth (BIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2749 Elm Grove Rd, Wylie, TX 75098, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.967629,
+        "lon": -96.5401392
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe7bQJAkDTIYRVV161pzkUPo",
+      "rating": 5,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJbboF0r0YTIYRPwvyKYXpqec",
+      "name": "IILM Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2101 W Plano Pkwy, Plano, TX 75075, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.00799,
+        "lon": -96.7346371
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbboF0r0YTIYRPwvyKYXpqec",
+      "rating": 4.8,
+      "user_ratings_total": 244
+    },
+    {
+      "id": "google_ChIJ43br4gJ5ToYRZ8ZqJqxa-ws",
+      "name": "Muslim Community Center for Human Services",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7600 Glenview Dr Ste B, Richland Hills, TX 76180, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8234847,
+        "lon": -97.2143681
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ43br4gJ5ToYRZ8ZqJqxa-ws",
+      "rating": 4.5,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJ2cvkQYyBToYRkAdCBRyEs4I",
+      "name": "Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1219 Salma Jameel Ct, Irving, TX 75061, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8259562,
+        "lon": -97.0163706
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2cvkQYyBToYRkAdCBRyEs4I",
+      "rating": 4.9,
+      "user_ratings_total": 71
+    },
+    {
+      "id": "google_ChIJfadB1MIfTIYRbn4tZk1opxo",
+      "name": "The Islamic Complex and Youth Center of DFW",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1101 Executive Dr, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9618068,
+        "lon": -96.7112215
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfadB1MIfTIYRbn4tZk1opxo",
+      "rating": 5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJWchfunQfTIYR8gS9VAFbDF8",
+      "name": "Rahmania Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "331 E Polk St, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9475735,
+        "lon": -96.7287305
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWchfunQfTIYR8gS9VAFbDF8",
+      "rating": 5,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJWfYs1mwfTIYRSdoSPTVq7zQ",
+      "name": "ICNA Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1600 N Plano Rd #200, Richardson, TX 75081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9681868,
+        "lon": -96.6989679
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWfYs1mwfTIYRSdoSPTVq7zQ",
+      "rating": 4.8,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ6d1mYIQfTIYReo5mgJihTuI",
+      "name": "Bilal Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1120 Main St, Garland, TX 75040, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9124159,
+        "lon": -96.64463549999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6d1mYIQfTIYReo5mgJihTuI",
+      "rating": 4.9,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJ8XYl5f6tToYRBSvO0QJOvlc",
+      "name": "Islamic Center of Forney - ICF",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "13980 FM 548 suite 170, Forney, TX 75126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7593026,
+        "lon": -96.43249039999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8XYl5f6tToYRBSvO0QJOvlc",
+      "rating": 4.8,
+      "user_ratings_total": 57
+    },
+    {
+      "id": "google_ChIJ45pPk99cXIYRgp2ods-oG30",
+      "name": "Masjid Beit El-Maqdes",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7627 Culebra Rd, San Antonio, TX 78251, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.4609059,
+        "lon": -98.6396029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ45pPk99cXIYRgp2ods-oG30",
+      "rating": 4.9,
+      "user_ratings_total": 213
+    },
+    {
+      "id": "google_ChIJiVNJiO33XIYRPZ9bzZ_zmcM",
+      "name": "Alfalah Downtown Center (Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2554 E Houston St, San Antonio, TX 78202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.4248549,
+        "lon": -98.4524472
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiVNJiO33XIYRPZ9bzZ_zmcM",
+      "rating": 4.6,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJucSLLb2JXIYRYDqkSgE2BpE",
+      "name": "Northside Islamic Center of San Antonio",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "21003 Encino Commons #110, San Antonio, TX 78259, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6371636,
+        "lon": -98.45150679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJucSLLb2JXIYRYDqkSgE2BpE",
+      "rating": 4.3,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJZyGJpL1dXIYRtYNXZKVbb7o",
+      "name": "Rahmani Masjid and Learning Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5403 Jackwood Dr, San Antonio, TX 78238, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.4854007,
+        "lon": -98.6017801
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZyGJpL1dXIYRtYNXZKVbb7o",
+      "rating": 4.7,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJJRtNHj33XIYRK4KjNLshjjA",
+      "name": "Masjid Bilal Ibn Rabah of San Antonio (MBIR)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "530 S WW White Rd, San Antonio, TX 78220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.4228891,
+        "lon": -98.4051507
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJRtNHj33XIYRK4KjNLshjjA",
+      "rating": 4.5,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJPZNRQwBpXIYRixjDxzoxT4M",
+      "name": "Muslim Center of San Antonio",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "10915 FM1560, Helotes, TX 78023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5454094,
+        "lon": -98.7078042
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPZNRQwBpXIYRixjDxzoxT4M",
+      "rating": 4.6,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJlywcFQCLXIYRKuR2-_w7_Kc",
+      "name": "Masjid Al-Ikhlas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "9323 Perrin Beitel, San Antonio, TX 78217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5247911,
+        "lon": -98.4122803
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlywcFQCLXIYRKuR2-_w7_Kc",
+      "rating": 5,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJw0MeBRJdXIYRkk4pR84QwSM",
+      "name": "Zainabia-SA Islamic Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "5005 Timberhill Dr, San Antonio, TX 78238, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.4804156,
+        "lon": -98.62784669999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw0MeBRJdXIYRkk4pR84QwSM",
+      "rating": 4.5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJf2JFBgBnXIYRrfXvDKV54xw",
+      "name": "Islamic Education Center - IEC-SA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6819 Whitby Rd, San Antonio, TX 78240, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5235901,
+        "lon": -98.6222403
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf2JFBgBnXIYRrfXvDKV54xw",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJgQttFLdhXIYRe8XZe5J_vng",
+      "name": "American Muslim Community Center San Antonio Texas (Afghan Community SA TX)افغان ټولنه سن آنټونیو ټکساس",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4139 Gardendale Rd, San Antonio, TX 78229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.5224838,
+        "lon": -98.5667433
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgQttFLdhXIYRe8XZe5J_vng",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ1_x1vg3PRIYRp4YG3iCgNB8",
+      "name": "Islamic Center of Pflugerville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "920 W Pflugerville Pkwy, Pflugerville, TX 78660, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4710513,
+        "lon": -97.6348407
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1_x1vg3PRIYRp4YG3iCgNB8",
+      "rating": 4.9,
+      "user_ratings_total": 208
+    },
+    {
+      "id": "google_ChIJiSwDVVsxW4YRqUIzdZz8jNE",
+      "name": "Islamic Center Of Lake Travis",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4701 Doss Rd, Austin, TX 78734, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.41114619999999,
+        "lon": -97.9301119
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiSwDVVsxW4YRqUIzdZz8jNE",
+      "rating": 4,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJQbbLEQTHRIYRFTwSwH8Omwk",
+      "name": "Al-Noor Mosque (MCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1300 Old Hwy 20, Manor, TX 78653, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.344424,
+        "lon": -97.54356969999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQbbLEQTHRIYRFTwSwH8Omwk",
+      "rating": 4.9,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJqyQCPtTRRIYRQ7fYz_GHJag",
+      "name": "Islamic Center of Round Rock",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1951 Hampton Ln, Round Rock, TX 78664, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4913273,
+        "lon": -97.65914819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqyQCPtTRRIYRQ7fYz_GHJag",
+      "rating": 4.8,
+      "user_ratings_total": 174
+    },
+    {
+      "id": "google_ChIJP_n6vcovW4YR0Nvlq0Ip0Oc",
+      "name": "Quad City Islamic Center of North Austin Leander",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "17317 RM 1431, Leander, TX 78641, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.51495539999999,
+        "lon": -97.8878403
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJP_n6vcovW4YR0Nvlq0Ip0Oc",
+      "rating": 4.8,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJNUVP2B7NRIYRRqBy-FDvSPU",
+      "name": "Islamic Ahlul Bayt Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "12460 Los Indios Trail, Austin, TX 78729, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.43974489999999,
+        "lon": -97.76110829999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNUVP2B7NRIYRRqBy-FDvSPU",
+      "rating": 4.6,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJA8WofQDLRIYRilodKuEaI2s",
+      "name": "Saniatul Bida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6901 N Lamar Blvd, Austin, TX 78752, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3365934,
+        "lon": -97.71932969999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA8WofQDLRIYRilodKuEaI2s",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJ2ybksqbbRIYRuDk4mUBP8Yc",
+      "name": "Georgetown Islamic Center (GIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "7275 Co Rd 110, Round Rock, TX 78665, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.5604067,
+        "lon": -97.6042633
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2ybksqbbRIYRuDk4mUBP8Yc",
+      "rating": 4.9,
+      "user_ratings_total": 139
+    },
+    {
+      "id": "google_ChIJCZh6DwDNRIYRyeqzdWD_UjM",
+      "name": "Turkish American Religious Foundation Diyanet Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6810 McNeil Dr, Austin, TX 78729, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.438113,
+        "lon": -97.7591781
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCZh6DwDNRIYRyeqzdWD_UjM",
+      "rating": 5,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJW9_HLTHFRIYRXK60SOPsX90",
+      "name": "Masjid Al Huda",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "19529 Melber Ln, Manor, TX 78653, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.4523561,
+        "lon": -97.5289154
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW9_HLTHFRIYRXK60SOPsX90",
+      "rating": 4.8,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJObD4iRXPRIYRh2P8JDcsvaE",
+      "name": "Dawoodi Bohra Markaz Anjuman-e-Burhani (Austin)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "13209 Old Gregg Ln, Pflugerville, TX 78660, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3995356,
+        "lon": -97.63616270000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJObD4iRXPRIYRh2P8JDcsvaE",
+      "rating": 4.8,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJQXYciplTW4YRFi2caZ5c-7A",
+      "name": "Islamic Center of Hays County (Masjid Bilal)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2400 Windy Hill Rd, Kyle, TX 78640, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.0317508,
+        "lon": -97.8077984
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQXYciplTW4YRFi2caZ5c-7A",
+      "rating": 5,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJK3T2QkPJRIYRG10rC1zOSIk",
+      "name": "Darul Uloom Austin",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "11900 N Lamar Blvd, Austin, TX 78758, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.389896,
+        "lon": -97.682946
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJK3T2QkPJRIYRG10rC1zOSIk",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJlXeQsapzToYRwEjS8DROgDw",
+      "name": "Islamic Association of Tarrant County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4901 Diaz Ave, Fort Worth, TX 76107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.726706,
+        "lon": -97.3938914
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlXeQsapzToYRwEjS8DROgDw",
+      "rating": 4.8,
+      "user_ratings_total": 352
+    },
+    {
+      "id": "google_ChIJtd0eGQB1ToYRRysGfU6zuMc",
+      "name": "Islamic Center of Lake Worth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6100 Shady Oaks Manor Dr, Fort Worth, TX 76135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8051806,
+        "lon": -97.4150536
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtd0eGQB1ToYRRysGfU6zuMc",
+      "rating": 4.8,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJKSMtZ6hxToYR1BsQJmvVvdo",
+      "name": "Muhammad Mosque #52",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2401 Scott Ave, Fort Worth, TX 76103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7481335,
+        "lon": -97.2930185
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKSMtZ6hxToYR1BsQJmvVvdo",
+      "rating": 4.1,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJmXE3eOzZTYYRcW4Q-KnsbVE",
+      "name": "Keller Islamic Center (KIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3601 W Keller Hicks Rd, Fort Worth, TX 76244, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9395257,
+        "lon": -97.2838562
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmXE3eOzZTYYRcW4Q-KnsbVE",
+      "rating": 4.9,
+      "user_ratings_total": 81
+    },
+    {
+      "id": "google_ChIJ74IXvGZtToYRuRw-MeI24D4",
+      "name": "Al-Mu'min Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "3528 Westfield Ave, Fort Worth, TX 76133, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.672123,
+        "lon": -97.3669425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ74IXvGZtToYRuRw-MeI24D4",
+      "rating": 4.6,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJiw3b8RF8ToYRzzbkDiTmCos",
+      "name": "Al-Hedayah Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "8601 Randol Mill Rd, Fort Worth, TX 76120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7677225,
+        "lon": -97.1672259
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiw3b8RF8ToYRzzbkDiTmCos",
+      "rating": 4.7,
+      "user_ratings_total": 158
+    },
+    {
+      "id": "google_ChIJZd5jDhkLToYR8SDe3qFTZxM",
+      "name": "Mosque Point Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "8375 Cahoba Dr, Fort Worth, TX 76135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.803665,
+        "lon": -97.46350009999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZd5jDhkLToYR8SDe3qFTZxM",
+      "rating": 4.4,
+      "user_ratings_total": 216
+    },
+    {
+      "id": "google_ChIJC1hNWyt_ToYRAZM_rWwLe6w",
+      "name": "Dar Alhuda Inc مسجد",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1245 Karla Dr, Hurst, TX 76053, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8331572,
+        "lon": -97.17820780000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC1hNWyt_ToYRAZM_rWwLe6w",
+      "rating": 4.9,
+      "user_ratings_total": 164
+    },
+    {
+      "id": "google_ChIJawtfz0J9ToYR9MihBOCNEyE",
+      "name": "Arlington Central Mosque (Islamic Society of Arlington - ISAT Masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1700 S Center St, Arlington, TX 76010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7184923,
+        "lon": -97.104419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJawtfz0J9ToYR9MihBOCNEyE",
+      "rating": 4.7,
+      "user_ratings_total": 270
+    },
+    {
+      "id": "google_ChIJI4_9YEJ3ToYRP5AEKNw2tkM",
+      "name": "Islamic Center of Haltom City (ICHC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4421 Jerri Ln, Haltom City, TX 76117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8172351,
+        "lon": -97.28090979999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI4_9YEJ3ToYRP5AEKNw2tkM",
+      "rating": 4.5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJlcJtrBkLToYR04fmRLJ3AGU",
+      "name": "Mosque Point",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "8399 Cahoba Dr, Fort Worth, TX 76135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.802706,
+        "lon": -97.4627131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlcJtrBkLToYR04fmRLJ3AGU",
+      "rating": 4.5,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJpecTce17ToYR3fgzMvLyb1E",
+      "name": "Islamic Unity Center (IUC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1205 Country Club Ln, Fort Worth, TX 76112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7631011,
+        "lon": -97.2327449
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpecTce17ToYR3fgzMvLyb1E",
+      "rating": 4.6,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJC1hNWyt_ToYRaSbx4MhVHhk",
+      "name": "Islamic Association of Colleyville مسجد",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "500 Cheek-Sparger Rd, Colleyville, TX 76034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8687749,
+        "lon": -97.1608555
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC1hNWyt_ToYRaSbx4MhVHhk",
+      "rating": 4.7,
+      "user_ratings_total": 161
+    },
+    {
+      "id": "google_ChIJK0qoyDthToYRNkX07NLUvfU",
+      "name": "Unity Islamic Center - Mansfield Masjid Official",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "651 E Debbie Ln Building 400, Mansfield, TX 76063, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6006532,
+        "lon": -97.12977060000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJK0qoyDthToYRNkX07NLUvfU",
+      "rating": 4.9,
+      "user_ratings_total": 141
+    },
+    {
+      "id": "google_ChIJeTgrLsaJToYRtcOVJIVkLBw",
+      "name": "Mansfield Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "6401 New York Ave #135, Arlington, TX 76018, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6424609,
+        "lon": -97.074488
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeTgrLsaJToYRtcOVJIVkLBw",
+      "rating": 4.9,
+      "user_ratings_total": 76
+    },
+    {
+      "id": "google_ChIJ3w6tbYfUTYYRiPZYFIgogMM",
+      "name": "Islamic Center of Southlake",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1280 N Carroll Ave, Southlake, TX 76092, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9577441,
+        "lon": -97.1348427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3w6tbYfUTYYRiPZYFIgogMM",
+      "rating": 4.6,
+      "user_ratings_total": 158
+    },
+    {
+      "id": "google_ChIJY4gTGvl8ToYRZ_gG3qeOng0",
+      "name": "Dar El-Quran",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "110 N Davis Dr, Arlington, TX 76013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7371373,
+        "lon": -97.12369900000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY4gTGvl8ToYRZ_gG3qeOng0",
+      "rating": 4.9,
+      "user_ratings_total": 92
+    },
+    {
+      "id": "google_ChIJUQiT5IJwToYR55UyiFHcQYM",
+      "name": "Community Life Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "2529 Mount View Ave, Fort Worth, TX 76103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7422454,
+        "lon": -97.2671136
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUQiT5IJwToYR55UyiFHcQYM",
+      "rating": 4.5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJn4UxtbZ2ToYRpB0HJv8gWek",
+      "name": "Moslah Temple Shrine",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "1100 Henderson St, Fort Worth, TX 76102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7472471,
+        "lon": -97.3383715
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn4UxtbZ2ToYRpB0HJv8gWek",
+      "rating": 4.8,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJvWxo9kFvToYRe-J0BoFhWic",
+      "name": "Al Ittihad Islamic Studies",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Texas",
+        "zip": "",
+        "full": "4516 Cathedral Dr #1709, Fort Worth, TX 76119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6828277,
+        "lon": -97.2995115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvWxo9kFvToYRe-J0BoFhWic",
+      "rating": 0,
+      "user_ratings_total": 0
     }
-  ]
+  ],
+  "google_places_added": 125
 }

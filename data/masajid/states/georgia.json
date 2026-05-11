@@ -1,6 +1,6 @@
 {
   "state": "Georgia",
-  "count": 27,
+  "count": 71,
   "generated_at": "2026-05-10 05:32:06 UTC",
   "masajid": [
     {
@@ -596,6 +596,1063 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 927274590
+    },
+    {
+      "id": "google_ChIJ8e_rBkcD9YgRSFad0FyXZu8",
+      "name": "Community Mosque of Atlanta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "547 West End Pl SW, Atlanta, GA 30310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7402192,
+        "lon": -84.4250058
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8e_rBkcD9YgRSFad0FyXZu8",
+      "rating": 4.6,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJw1wdOF0b9YgRdQMmb70iUu4",
+      "name": "Vine City Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "146 Graves St NW, Atlanta, GA 30314, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7586905,
+        "lon": -84.4073796
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw1wdOF0b9YgRdQMmb70iUu4",
+      "rating": 4.8,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJN5exaGsD9YgRNJQp93aO_AU",
+      "name": "Al-Etihad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "568 Poole Pl SW, Atlanta, GA 30310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7391397,
+        "lon": -84.41323899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN5exaGsD9YgRNJQp93aO_AU",
+      "rating": 4.9,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJX6Kd8e4d9YgRi1OERztji1I",
+      "name": "Muhammad Mosque #15",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "2175 Metropolitan Pkwy SW, Atlanta, GA 30315, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.69461,
+        "lon": -84.4091723
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX6Kd8e4d9YgRi1OERztji1I",
+      "rating": 4.7,
+      "user_ratings_total": 128
+    },
+    {
+      "id": "google_ChIJWZr_AFKo9YgRvbuhMbSjWCE",
+      "name": "Al-Momineen Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "837 N Indian Creek Dr, Clarkston, GA 30021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8013637,
+        "lon": -84.23752019999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWZr_AFKo9YgRvbuhMbSjWCE",
+      "rating": 4.8,
+      "user_ratings_total": 368
+    },
+    {
+      "id": "google_ChIJ0xVEzicG9YgRwlOHIohRWGA",
+      "name": "Masjid Abu Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1775 Briarwood Rd NE, Atlanta, GA 30329, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8422834,
+        "lon": -84.32349049999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0xVEzicG9YgRwlOHIohRWGA",
+      "rating": 4.9,
+      "user_ratings_total": 221
+    },
+    {
+      "id": "google_ChIJ8X60e8wc9YgRLGCAKjX6YVE",
+      "name": "Ar-Rahman Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1631 Westhaven Dr SW, Atlanta, GA 30311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7328046,
+        "lon": -84.4411128
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8X60e8wc9YgRLGCAKjX6YVE",
+      "rating": 4.8,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ95pvIZED9YgRbJ-9ZQu0QVw",
+      "name": "West End Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1193 Lucile Ave SW, Atlanta, GA 30310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7425452,
+        "lon": -84.42689000000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ95pvIZED9YgRbJ-9ZQu0QVw",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJCarB2zzj9IgR2URzef-zl8g",
+      "name": "Masjid Ibn Abbas (Upon the Salaf)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "2051 Godby Rd #20, College Park, GA 30349, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6158347,
+        "lon": -84.455023
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCarB2zzj9IgR2URzef-zl8g",
+      "rating": 4.7,
+      "user_ratings_total": 94
+    },
+    {
+      "id": "google_ChIJzZlQYiQd9YgR8k9smUiqy1E",
+      "name": "Masjid Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "2860 Campbellton Rd SW, Atlanta, GA 30311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6984108,
+        "lon": -84.4820807
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzZlQYiQd9YgR8k9smUiqy1E",
+      "rating": 4.7,
+      "user_ratings_total": 66
+    },
+    {
+      "id": "google_ChIJaUghpVPj9IgR4MOSspyiR48",
+      "name": "Masjid Al Ihsaan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1585 E Fayetteville Rd, Riverdale, GA 30296, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5903979,
+        "lon": -84.4409773
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJaUghpVPj9IgR4MOSspyiR48",
+      "rating": 4.9,
+      "user_ratings_total": 123
+    },
+    {
+      "id": "google_ChIJ37-FvgoC9YgR8FZaHZjkBEo",
+      "name": "Ash Shura Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3095 Jonesboro Rd SE, Atlanta, GA 30354, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6697855,
+        "lon": -84.3741136
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ37-FvgoC9YgR8FZaHZjkBEo",
+      "rating": 4.5,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJXdyTIOUJ9YgRHWgJVZXToEE",
+      "name": "At-Taqwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "2674 Woodwin Rd, Doraville, GA 30360, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.919024,
+        "lon": -84.2780396
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXdyTIOUJ9YgRHWgJVZXToEE",
+      "rating": 4.8,
+      "user_ratings_total": 225
+    },
+    {
+      "id": "google_ChIJLYP70Mv89IgRTeHoQxczpZA",
+      "name": "Masjid Badrudeen Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1350 Crystal Lake Rd, Atlanta, GA 30349, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6077564,
+        "lon": -84.43343639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLYP70Mv89IgRTeHoQxczpZA",
+      "rating": 4.8,
+      "user_ratings_total": 102
+    },
+    {
+      "id": "google_ChIJn_hahNmp9YgReRUrz7rH-uY",
+      "name": "Jaffari Center of Atlanta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "295 Patterson Ave, Scottdale, GA 30079, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7838005,
+        "lon": -84.2654967
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn_hahNmp9YgReRUrz7rH-uY",
+      "rating": 4.6,
+      "user_ratings_total": 111
+    },
+    {
+      "id": "google_ChIJJayRS6ni9IgRWZCP9RJuY5A",
+      "name": "Masjid Al-Bayyinah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3270 E Main St, College Park, GA 30337, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6666302,
+        "lon": -84.4443683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJayRS6ni9IgRWZCP9RJuY5A",
+      "rating": 4.9,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJewEtM83v9IgRXwOV34ysehw",
+      "name": "ICCA-Islamic Community Center-Atlanta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "288 E Lanier Ave, Fayetteville, GA 30214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4492431,
+        "lon": -84.4504643
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJewEtM83v9IgRXwOV34ysehw",
+      "rating": 4.9,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJ__Mh6MIL9YgR2CyKiUA7w2Y",
+      "name": "Masjid Uthman (Dunwoody Community Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "11 Dunwoody Park, Dunwoody, GA 30338, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9248211,
+        "lon": -84.3105764
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ__Mh6MIL9YgR2CyKiUA7w2Y",
+      "rating": 4.9,
+      "user_ratings_total": 183
+    },
+    {
+      "id": "google_ChIJTVAR2rmm9YgR99-QgWUk3Mk",
+      "name": "Al-Madinah Mosque of North Atlanta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "6014 Goshen Springs Rd, Norcross, GA 30071, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.916002,
+        "lon": -84.20537580000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTVAR2rmm9YgR99-QgWUk3Mk",
+      "rating": 4.9,
+      "user_ratings_total": 260
+    },
+    {
+      "id": "google_ChIJiVq_MugQ9YgRjPMKjETI818",
+      "name": "Al Iman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1820 Spring Rd SE, Smyrna, GA 30080, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8832028,
+        "lon": -84.50055019999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiVq_MugQ9YgRjPMKjETI818",
+      "rating": 4.9,
+      "user_ratings_total": 147
+    },
+    {
+      "id": "google_ChIJxVeZKmwR9YgRjGxCJuMayAQ",
+      "name": "Masjid Al Athar East Cobb Islamic Center Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1180 Franklin Gateway SE, Marietta, GA 30067, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9237008,
+        "lon": -84.49244420000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxVeZKmwR9YgRjGxCJuMayAQ",
+      "rating": 4.5,
+      "user_ratings_total": 91
+    },
+    {
+      "id": "google_ChIJUx7a6a4T9YgRYqxHgdhwV1M",
+      "name": "East Cobb Islamic Center - ECIC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1111 Braswell Rd, Marietta, GA 30062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9785128,
+        "lon": -84.4869566
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUx7a6a4T9YgRYqxHgdhwV1M",
+      "rating": 4.5,
+      "user_ratings_total": 110
+    },
+    {
+      "id": "google_ChIJlTzwQwAH9YgRbuFjII0Qyt0",
+      "name": "Nazam Center Decatur",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "701 Reverend D L Edwards Dr, Decatur, GA 30033, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7993449,
+        "lon": -84.2766139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlTzwQwAH9YgRbuFjII0Qyt0",
+      "rating": 4.8,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJwcZwyduo9YgRfckQh7-_I1w",
+      "name": "Tawheed Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "5848 Memorial Dr, Stone Mountain, GA 30083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8008809,
+        "lon": -84.19911730000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwcZwyduo9YgRfckQh7-_I1w",
+      "rating": 4.8,
+      "user_ratings_total": 335
+    },
+    {
+      "id": "google_ChIJG0NJKVAn9YgRNU1_U1nBO3Y",
+      "name": "Islamic Center of West Georgia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "4055 Anneewakee Rd, Douglasville, GA 30135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.69395660000001,
+        "lon": -84.69785209999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG0NJKVAn9YgRNU1_U1nBO3Y",
+      "rating": 4.7,
+      "user_ratings_total": 66
+    },
+    {
+      "id": "google_ChIJV-F8KECj9YgRcgrEW5AnLIs",
+      "name": "Madina Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3580 Sweetwater Rd, Duluth, GA 30096, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.944238,
+        "lon": -84.12219759999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV-F8KECj9YgRcgrEW5AnLIs",
+      "rating": 4.8,
+      "user_ratings_total": 221
+    },
+    {
+      "id": "google_ChIJS8iz3wG14RQRc78x7CKKeZk",
+      "name": "Hamzah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "665 Tidwell Rd, Alpharetta, GA 30004, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1173793,
+        "lon": -84.2486425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS8iz3wG14RQRc78x7CKKeZk",
+      "rating": 4.8,
+      "user_ratings_total": 236
+    },
+    {
+      "id": "google_ChIJV7PEE7F09YgRu7rwPi9gs7Q",
+      "name": "Roswell Community Masjid (RCM)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "345 Market Pl, Roswell, GA 30075, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0305056,
+        "lon": -84.3402242
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV7PEE7F09YgRu7rwPi9gs7Q",
+      "rating": 4.6,
+      "user_ratings_total": 107
+    },
+    {
+      "id": "google_ChIJXV452nAd9YgR5zeaBVI3EJI",
+      "name": "Masjid Sidq wa Ikhlas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1677 Dorsey Ave, East Point, GA 30344, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6774754,
+        "lon": -84.4437207
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXV452nAd9YgR5zeaBVI3EJI",
+      "rating": 4.7,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJRSWoH5ZX9IgRBOWlgYYxjjg",
+      "name": "Henry County Islamic Center - Stockbridge Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "620 E Atlanta Rd, Stockbridge, GA 30281, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5636921,
+        "lon": -84.2346883
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRSWoH5ZX9IgRBOWlgYYxjjg",
+      "rating": 4.8,
+      "user_ratings_total": 59
+    },
+    {
+      "id": "google_ChIJ31gIXN--9YgRQChhNkfhMwo",
+      "name": "Georgia Islamic Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "177 Simonton Rd SW, Lawrenceville, GA 30046, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9338534,
+        "lon": -83.9719223
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ31gIXN--9YgRQChhNkfhMwo",
+      "rating": 4.7,
+      "user_ratings_total": 376
+    },
+    {
+      "id": "google_ChIJx9_82EKh9YgR2jEPcYBLk6M",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "6991 Peachtree Industrial Blvd Suite 310, Norcross, GA 30092, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9341951,
+        "lon": -84.2589084
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx9_82EKh9YgR2jEPcYBLk6M",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJO34fQjyp9YgR4F3B-vwzXMo",
+      "name": "Masjid Assunnah & Dawah Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "4565 Elam Rd, Stone Mountain, GA 30083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7792556,
+        "lon": -84.2028945
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO34fQjyp9YgR4F3B-vwzXMo",
+      "rating": 4.8,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJU4UYzk2o9YgRE3QETlR_oSk",
+      "name": "Negashi Community Center-Atlanta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "803 Jolly Ave S, Clarkston, GA 30021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8010744,
+        "lon": -84.2411805
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU4UYzk2o9YgRE3QETlR_oSk",
+      "rating": 4.8,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJuQJFqDF19YgR81a2fL7n9P8",
+      "name": "Muslim Wellness Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1080 Holcomb Bridge Rd Bldg 200-Unit 275, Roswell, GA 30076, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0236249,
+        "lon": -84.3275614
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuQJFqDF19YgR81a2fL7n9P8",
+      "rating": 5,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJ93Cu-vJp9YgRhMVr0PK3vXY",
+      "name": "Allatoona Masjid & Community Center [AMCC]",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "103 Victoria N Ct, Woodstock, GA 30189, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1321248,
+        "lon": -84.5870788
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ93Cu-vJp9YgRhMVr0PK3vXY",
+      "rating": 4.7,
+      "user_ratings_total": 94
+    },
+    {
+      "id": "google_ChIJq_nEc3AR9YgRVBmZgy4vKj4",
+      "name": "One Ummah Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3200 Cobb Galleria Pkwy Suite 102, Atlanta, GA 30339, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8814225,
+        "lon": -84.4557828
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq_nEc3AR9YgRVBmZgy4vKj4",
+      "rating": 4.8,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJb2tGzpGp9YgRor7TqemUpBM",
+      "name": "Masjid Rahman Islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "775 Rays Rd, Stone Mountain, GA 30083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.80051110000001,
+        "lon": -84.219934
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb2tGzpGp9YgRor7TqemUpBM",
+      "rating": 4.9,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJOepqfUqp9YgRMdHeGofgy1c",
+      "name": "Muad Bin Jabal Islamic Center - Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "6204 Memorial Dr STE B, Stone Mountain, GA 30083, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8077092,
+        "lon": -84.1877741
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOepqfUqp9YgRMdHeGofgy1c",
+      "rating": 4.8,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJPdQ7XPFW9IgRY9iTWLOZeqE",
+      "name": "Islamic Society of South Atlanta - Stockbridge Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "4340 N Henry Blvd Suite 300, Stockbridge, GA 30281, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5440968,
+        "lon": -84.22135089999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPdQ7XPFW9IgRY9iTWLOZeqE",
+      "rating": 4.7,
+      "user_ratings_total": 81
+    },
+    {
+      "id": "google_ChIJu1jqq87N-YgRvlaShMzJQv0",
+      "name": "Muslim Community Center-Augusta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "1821 Slaton St, Augusta, GA 30904, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4652375,
+        "lon": -82.0029984
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu1jqq87N-YgRvlaShMzJQv0",
+      "rating": 4.7,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJiz-ahuXS-YgRv-Cx8qmZA9w",
+      "name": "First Islamic Center of Augusta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3416 Middleton Dr, Augusta, GA 30907, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5123861,
+        "lon": -82.0737942
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiz-ahuXS-YgRv-Cx8qmZA9w",
+      "rating": 4.2,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJ0a7kiuXS-YgReZ8wnC8bF1Q",
+      "name": "Muslim Community Services of Augusta",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "120 Davant St, Augusta, GA 30907, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.513328,
+        "lon": -82.0735459
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0a7kiuXS-YgReZ8wnC8bF1Q",
+      "rating": 4.5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJC8xD8BKi9YgR69GWgiT_yg0",
+      "name": "Islamic Circle of North America GA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Georgia",
+        "zip": "",
+        "full": "3650 Savannah Pl Dr, Duluth, GA 30096, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0021405,
+        "lon": -84.166838
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC8xD8BKi9YgR69GWgiT_yg0",
+      "rating": 4.8,
+      "user_ratings_total": 39
     }
-  ]
+  ],
+  "google_places_added": 1
 }

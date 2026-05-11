@@ -1,6 +1,6 @@
 {
   "state": "Massachusetts",
-  "count": 46,
+  "count": 86,
   "generated_at": "2026-05-10 06:16:48 UTC",
   "masajid": [
     {
@@ -1014,6 +1014,967 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 959961625
+    },
+    {
+      "id": "google_ChIJ80Mdpmdx44kRwWOaocBKFBo",
+      "name": "Mosque for Friday Prayers",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "138 Tremont St, Boston, MA 02111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3557386,
+        "lon": -71.06243490000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ80Mdpmdx44kRwWOaocBKFBo",
+      "rating": 4.5,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJDb0AZjt644kR3ZWX_P_H8CA",
+      "name": "Mosque for Praising Allah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "724 Shawmut Ave, Boston, MA 02119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3327587,
+        "lon": -71.08329440000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDb0AZjt644kR3ZWX_P_H8CA",
+      "rating": 4.7,
+      "user_ratings_total": 113
+    },
+    {
+      "id": "google_ChIJpS60CuyBt4cRoM33OhJGN_s",
+      "name": "Dar al-Islam of Boston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "138 Tremont St, Boston, MA 02111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3558183,
+        "lon": -71.06238379999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpS60CuyBt4cRoM33OhJGN_s",
+      "rating": 4.5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJSfEdO2R544kRbYDe8CAuRvM",
+      "name": "Boston Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "2870 Washington St, Roxbury, MA 02119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3204012,
+        "lon": -71.0933446
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSfEdO2R544kRbYDe8CAuRvM",
+      "rating": 4.9,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJfRCgorVx44kRkXHAIDCEY3c",
+      "name": "Al Huda Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "60 Willow St, Chelsea, MA 02150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3879379,
+        "lon": -71.02756459999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfRCgorVx44kRkXHAIDCEY3c",
+      "rating": 4.8,
+      "user_ratings_total": 287
+    },
+    {
+      "id": "google_ChIJZ4S1YGFx44kR0CXtabZ4x6M",
+      "name": "Malden Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "405 Pearl St # 1, Malden, MA 02148, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4161072,
+        "lon": -71.0782368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ4S1YGFx44kR0CXtabZ4x6M",
+      "rating": 4.9,
+      "user_ratings_total": 149
+    },
+    {
+      "id": "google_ChIJo2UR-i1644kRLtvI8YggBmE",
+      "name": "An Nur Mosque (Boston Markaz)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "28 Circuit St, Boston, MA 02119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3232448,
+        "lon": -71.0859901
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo2UR-i1644kRLtvI8YggBmE",
+      "rating": 4.8,
+      "user_ratings_total": 58
+    },
+    {
+      "id": "google_ChIJK5xc4gtx44kREnD_Fy46va8",
+      "name": "American Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "82 Spring St, Everett, MA 02149, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4022409,
+        "lon": -71.051743
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJK5xc4gtx44kREnD_Fy46va8",
+      "rating": 4.9,
+      "user_ratings_total": 206
+    },
+    {
+      "id": "google_ChIJ3Xi-dqpw44kR1DdHgn0GkH0",
+      "name": "MIT MSA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "40 Massachusetts Ave, Cambridge, MA 02139, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3581892,
+        "lon": -71.0934558
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3Xi-dqpw44kR1DdHgn0GkH0",
+      "rating": 4.9,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJXwSbz85744kR6gQaQC5dLd8",
+      "name": "Al-Quran Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "35 Intervale St #37, Boston, MA 02121, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3115483,
+        "lon": -71.08036899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXwSbz85744kR6gQaQC5dLd8",
+      "rating": 4.6,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJZZ40YXR344kRqqZLu_I1yIM",
+      "name": "Islamic Culture Center of Medford",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "43 High St, Medford, MA 02155, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.418764,
+        "lon": -71.1108259
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZZ40YXR344kRqqZLu_I1yIM",
+      "rating": 4.8,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJi5HVeBly44kRr_d_vfwL2WI",
+      "name": "Association of Islamic Charitable Projects - Revere",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "41 Marble St, Revere, MA 02151, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4287976,
+        "lon": -71.02042759999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi5HVeBly44kRr_d_vfwL2WI",
+      "rating": 4.8,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJ-zF2d8V744kRm0U1kfJ9PKU",
+      "name": "Muhammad's Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "10 Washington St, Dorchester, MA 02121, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.30830690000001,
+        "lon": -71.08268509999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-zF2d8V744kRm0U1kfJ9PKU",
+      "rating": 4.1,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJT7mQ7z9j44kRrOwJbjU09N4",
+      "name": "Islamic Center of New England",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "470 South St, Quincy, MA 02169, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2433376,
+        "lon": -70.9793163
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT7mQ7z9j44kRrOwJbjU09N4",
+      "rating": 4.8,
+      "user_ratings_total": 187
+    },
+    {
+      "id": "google_ChIJHwmroPx744kRVhbILILRxx0",
+      "name": "Masjid Ar-Rahman (Nigeria Islamic Society of Massachusetts)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "396 Harvard St, Boston, MA 02124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.29056300000001,
+        "lon": -71.0913875
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHwmroPx744kRVhbILILRxx0",
+      "rating": 4.9,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJb534s85744kRQ4FcHYyLiF8",
+      "name": "Alrowda Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "5 Creston St, Dorchester, MA 02121, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3123382,
+        "lon": -71.07980309999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb534s85744kRQ4FcHYyLiF8",
+      "rating": 4.7,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJOZAH0pxw44kRQ9YGfgAqkRM",
+      "name": "The Cathedral Church of Saint Paul",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "138 Tremont St, Boston, MA 02111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3558232,
+        "lon": -71.06221950000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOZAH0pxw44kRQ9YGfgAqkRM",
+      "rating": 4.6,
+      "user_ratings_total": 124
+    },
+    {
+      "id": "google_ChIJnaA7LgBz44kRClOBCfIkDJk",
+      "name": "At-Taqwa Society Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "88 Broadway, Malden, MA 02148, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4262467,
+        "lon": -71.0420692
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnaA7LgBz44kRClOBCfIkDJk",
+      "rating": 5,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJ99iR2Ztw44kRUhFFz4czpS8",
+      "name": "The Vilna Shul",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "Vilna Shul, 18 Phillips St, Boston, MA 02114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3601032,
+        "lon": -71.0672119
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ99iR2Ztw44kRUhFFz4czpS8",
+      "rating": 4.6,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJ9dqliHdv44kRshs8FKeC-LM",
+      "name": "Bosniaks Society of Boston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "101 Atlantic Ave, Revere, MA 02151, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4000086,
+        "lon": -70.9898856
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9dqliHdv44kRshs8FKeC-LM",
+      "rating": 4.5,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJ76KFZQB544kRYK03feeIDMY",
+      "name": "Ismaili Center & Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "1089 Commonwealth Ave, Boston, MA 02215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3523994,
+        "lon": -71.1249629
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ76KFZQB544kRYK03feeIDMY",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJXacQHDpj44kRgc2eGW8BBcw",
+      "name": "Iman Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "5 Altamont Rd, Quincy, MA 02169, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2403171,
+        "lon": -70.9894558
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXacQHDpj44kRgc2eGW8BBcw",
+      "rating": 4.4,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJeUz60mN95IkR8h_uX2-rIU4",
+      "name": "Islamic Center of New England Mosque (ICNE) at Sharon",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "74 Chase Dr, Sharon, MA 02067, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0957079,
+        "lon": -71.1951754
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeUz60mN95IkR8h_uX2-rIU4",
+      "rating": 4.8,
+      "user_ratings_total": 218
+    },
+    {
+      "id": "google_ChIJ4XnHV49w44kRMFhOU4zNvQo",
+      "name": "Garden Halal Meat Market",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "96 Blackstone St, Boston, MA 02109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3614538,
+        "lon": -71.0563643
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4XnHV49w44kRMFhOU4zNvQo",
+      "rating": 4.5,
+      "user_ratings_total": 268
+    },
+    {
+      "id": "google_ChIJua692X9644kRkxTb4ecXmvU",
+      "name": "Muslim Justice League",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "89 South St, Boston, MA 02111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3518327,
+        "lon": -71.0574347
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJua692X9644kRkxTb4ecXmvU",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJIQOepeud44kRnORDAw8NKsc",
+      "name": "Lexington Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "166 Spring St, Lexington, MA 02421, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4214197,
+        "lon": -71.2509472
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIQOepeud44kRnORDAw8NKsc",
+      "rating": 4.6,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJW-brkixt44kRr-AVXmPDY2E",
+      "name": "Alsalam-Islamic Society of the North Shore",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "35 Lynnfield St, Lynn, MA 01904, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4859886,
+        "lon": -70.9620173
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW-brkixt44kRr-AVXmPDY2E",
+      "rating": 4.6,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJH5B_JEmI44kR8U1M08re8og",
+      "name": "Islamic Society of Framingham (Masjid E Basheer )",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "234 Union Ave, Framingham, MA 01702, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.28441100000001,
+        "lon": -71.42143740000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJH5B_JEmI44kR8U1M08re8og",
+      "rating": 4.9,
+      "user_ratings_total": 88
+    },
+    {
+      "id": "google_ChIJqaF6i1Kf44kRUyGLlsCpuew",
+      "name": "Billerica Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "880 Boston Rd #3, Billerica, MA 01821, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5272191,
+        "lon": -71.2253782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqaF6i1Kf44kRUyGLlsCpuew",
+      "rating": 4.9,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJ4ZaDpN9544kRneD_ve0s1Gg",
+      "name": "Islamic Center of Boston University",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "775 Commonwealth Ave, Boston, MA 02215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3506947,
+        "lon": -71.10892510000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4ZaDpN9544kRneD_ve0s1Gg",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJsdK7WKKF5IkRLbWKhQs4aIw",
+      "name": "ISLAMIC SOCIETY OF SOUTH SHORE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "500 Forest Ave, Brockton, MA 02301, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.070575,
+        "lon": -71.0418741
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsdK7WKKF5IkRLbWKhQs4aIw",
+      "rating": 4.8,
+      "user_ratings_total": 45
+    },
+    {
+      "id": "google_ChIJ071AwRl644kRn4LD2Fx3UIM",
+      "name": "Symphony Market / Halal / postmate",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "291 Huntington Ave, Boston, MA 02115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3415202,
+        "lon": -71.0868242
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ071AwRl644kRn4LD2Fx3UIM",
+      "rating": 3.6,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJVVWVAINw44kRviMMY0gi__0",
+      "name": "CAIR-Massachusetts",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "800 Boylston St #990445, Boston, MA 02199, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3473046,
+        "lon": -71.0819042
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVWVAINw44kRviMMY0gi__0",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJzYxMiGui44kRj7fwKp0Jiyw",
+      "name": "Dawoodi Bohra Anjuman-e-Ezzi (Boston)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "246 Rangeway Rd, North Billerica, MA 01862, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5626075,
+        "lon": -71.3160908
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzYxMiGui44kRj7fwKp0Jiyw",
+      "rating": 4.8,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJvc2VWwAL44kRuLo9b_Oxi9M",
+      "name": "NAFIS Reading Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "25 Haven St, Reading, MA 01867, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5219681,
+        "lon": -71.10646229999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvc2VWwAL44kRuLo9b_Oxi9M",
+      "rating": 5,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJNW-kYjt644kRR8cL6LIcndE",
+      "name": "imso boston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "722 Shawmut Ave, Boston, MA 02119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3328058,
+        "lon": -71.0832602
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNW-kYjt644kRR8cL6LIcndE",
+      "rating": 4,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJm16O8eHg5okRpOC13NaepQA",
+      "name": "Islamic Society of Western Massachusetts",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "377 Amostown Rd, West Springfield, MA 01089, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.11553540000001,
+        "lon": -72.64294459999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm16O8eHg5okRpOC13NaepQA",
+      "rating": 4.9,
+      "user_ratings_total": 134
+    },
+    {
+      "id": "google_ChIJEaQydLsb44kRhfV-LFKFLNw",
+      "name": "Northshore Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "430 Boston St #208, Topsfield, MA 01983, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6597345,
+        "lon": -70.9319706
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEaQydLsb44kRhfV-LFKFLNw",
+      "rating": 4.9,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJacEaRsKj44kRzW3OnvJG0U0",
+      "name": "ISGL - Islamic Society of Greater Lowell",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "5 Courthouse Ln, Chelmsford, MA 01824, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6233288,
+        "lon": -71.3581638
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJacEaRsKj44kRzW3OnvJG0U0",
+      "rating": 4.8,
+      "user_ratings_total": 170
+    },
+    {
+      "id": "google_ChIJMxhNNaML5IkRqDBkoGSF9vs",
+      "name": "Boroughs Islamic Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Massachusetts",
+        "zip": "",
+        "full": "6 Bellows Rd, Westborough, MA 01581, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2843457,
+        "lon": -71.6012788
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMxhNNaML5IkRqDBkoGSF9vs",
+      "rating": 4.9,
+      "user_ratings_total": 69
     }
-  ]
+  ],
+  "google_places_added": 4
 }

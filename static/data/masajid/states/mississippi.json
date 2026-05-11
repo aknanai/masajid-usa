@@ -1,6 +1,6 @@
 {
   "state": "Mississippi",
-  "count": 4,
+  "count": 10,
   "generated_at": "2026-05-10 06:29:07 UTC",
   "masajid": [
     {
@@ -90,6 +90,151 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1425907711
+    },
+    {
+      "id": "google_ChIJi4wwUQvNKYYRpwwPpwYF8xA",
+      "name": "Masjid Muhammad Islamic Comple",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "6100 Floral Dr, Jackson, MS 39206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.3953466,
+        "lon": -90.16765149999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi4wwUQvNKYYRpwwPpwYF8xA",
+      "rating": 4.8,
+      "user_ratings_total": 45
+    },
+    {
+      "id": "google_ChIJk_W_m-DQKYYRhDJYzSPK-xI",
+      "name": "Magnolia Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "1465 US-51, Madison, MS 39110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.4900852,
+        "lon": -90.0977169
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk_W_m-DQKYYRhDJYzSPK-xI",
+      "rating": 4.9,
+      "user_ratings_total": 90
+    },
+    {
+      "id": "google_ChIJSeM-Nk0yKIYRVNqlQIEFdGg",
+      "name": "International Museum of Muslim Cultures",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "201 E Pascagoula St, Jackson, MS 39201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2976268,
+        "lon": -90.18660659999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSeM-Nk0yKIYRVNqlQIEFdGg",
+      "rating": 4.6,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJaRHS5oLSKYYRjwe1wZCP678",
+      "name": "Tougaloo Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "318 Vine St, Jackson, MS 39213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.3887557,
+        "lon": -90.1472244
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJaRHS5oLSKYYRjwe1wZCP678",
+      "rating": 4.3,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJVw8qDMwyKIYR7K86ZJ73g9I",
+      "name": "Genesis and Light Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "4914 N State St, Jackson, MS 39206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.364353,
+        "lon": -90.170188
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVw8qDMwyKIYR7K86ZJ73g9I",
+      "rating": 3.2,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJ1ZW0iVE0KIYREFm54DcIebQ",
+      "name": "Kingdom Kabod Outpour Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Mississippi",
+        "zip": "",
+        "full": "4267 Robinson Rd, Jackson, MS 39209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.3021379,
+        "lon": -90.25738799999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1ZW0iVE0KIYREFm54DcIebQ",
+      "rating": 4.2,
+      "user_ratings_total": 5
     }
-  ]
+  ],
+  "google_places_added": 6
 }

@@ -1,6 +1,6 @@
 {
   "state": "Wisconsin",
-  "count": 18,
+  "count": 36,
   "generated_at": "2026-05-10 08:08:32 UTC",
   "masajid": [
     {
@@ -398,6 +398,439 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1391466228
+    },
+    {
+      "id": "google_ChIJ_dMp2BscBYgRmxKDVH7YfcQ",
+      "name": "Muhammad Mosque #3",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "925 W Burleigh St, Milwaukee, WI 53206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0746583,
+        "lon": -87.9233446
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_dMp2BscBYgRmxKDVH7YfcQ",
+      "rating": 5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJ8d4ATMMGBYgR-wMaKrJER0w",
+      "name": "Masjid Al-Noor, ISM West",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "16670 Pheasant Dr, Brookfield, WI 53005, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0663022,
+        "lon": -88.1193728
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8d4ATMMGBYgR-wMaKrJER0w",
+      "rating": 4.9,
+      "user_ratings_total": 213
+    },
+    {
+      "id": "google_ChIJubt4pAgRBYgR2ZfSrC2sV-s",
+      "name": "Al-Huda Mosque | Greenfield Campus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "5075 S 43rd St, Greenfield, WI 53220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9525211,
+        "lon": -87.96905249999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJubt4pAgRBYgR2ZfSrC2sV-s",
+      "rating": 4.5,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJwwG2BQAbBYgRH50KPoXtdvM",
+      "name": "Masjid Nursi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "2009 S 19th St #2013, Milwaukee, WI 53204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0081894,
+        "lon": -87.93694699999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwwG2BQAbBYgRH50KPoXtdvM",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJMwP52bIbBYgRPAWgX_WeXmI",
+      "name": "Al-Taqwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "2330 W Scott St, Milwaukee, WI 53204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0192488,
+        "lon": -87.9432454
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMwP52bIbBYgRPAWgX_WeXmI",
+      "rating": 4.8,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJu71P044XBYgRN1B9ueF5fbU",
+      "name": "ISM Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "815 W Layton Ave, Milwaukee, WI 53221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.956703,
+        "lon": -87.92277659999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu71P044XBYgRN1B9ueF5fbU",
+      "rating": 4.9,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJHUxMZjwRBYgR2hBaDRiiE2M",
+      "name": "Islamic Resource Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "5235 S 27th St, Greenfield, WI 53221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9494778,
+        "lon": -87.94934049999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHUxMZjwRBYgR2hBaDRiiE2M",
+      "rating": 4.7,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJpdTtfT0XBYgRbDHgh-9NzEw",
+      "name": "Burmese Islamic Center of Milwaukee",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "4379 S Howell Ave #14, Milwaukee, WI 53207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.96475230000001,
+        "lon": -87.9100411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpdTtfT0XBYgRbDHgh-9NzEw",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJj2G-5mQFBYgRJkwqaf132iw",
+      "name": "Al Zehra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "2200 N Mayfair Rd, Wauwatosa, WI 53226, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0585004,
+        "lon": -88.0470941
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj2G-5mQFBYgRJkwqaf132iw",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJn_dUEQARBYgREz-RXQgj_FY",
+      "name": "Masjid Madinah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "3500 W Oklahoma Ave, Milwaukee, WI 53215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9887671,
+        "lon": -87.9583689
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn_dUEQARBYgREz-RXQgj_FY",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJG3WsitkWBYgR0MV-hmWMfQs",
+      "name": "MCHC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "803 W Layton Ave, Milwaukee, WI 53221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9574661,
+        "lon": -87.92207309999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG3WsitkWBYgR0MV-hmWMfQs",
+      "rating": 4.4,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJgUETZjwRBYgRLS4qj7Zu93Y",
+      "name": "Milwaukee Muslim Women's Coalition",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "5235 S 27th St, Greenfield, WI 53221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9494778,
+        "lon": -87.94934049999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgUETZjwRBYgRLS4qj7Zu93Y",
+      "rating": 4.6,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJU9taLbMQBYgRgm_jlAE61bE",
+      "name": "Rohingya American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "1575 W Oklahoma Ave, Milwaukee, WI 53215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9881784,
+        "lon": -87.9335258
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU9taLbMQBYgRgm_jlAE61bE",
+      "rating": 4.5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ07hWZQAZBYgRvisRdYy6XKs",
+      "name": "Community Center for Immigrants",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "1433 N Water St Suite 400, Milwaukee, WI 53202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0487652,
+        "lon": -87.91007359999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ07hWZQAZBYgRvisRdYy6XKs",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJBecMZBkXBYgRf95wptqvh-s",
+      "name": "International Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "4204 S Howell Ave, Milwaukee, WI 53207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9680314,
+        "lon": -87.90929589999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBecMZBkXBYgRf95wptqvh-s",
+      "rating": 4.6,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJPyYmmM-sB4gRq6ojRg3lMis",
+      "name": "Islamic Center of Madison",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "21 N Orchard St, Madison, WI 53715, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0683881,
+        "lon": -89.40701560000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPyYmmM-sB4gRq6ojRg3lMis",
+      "rating": 4.9,
+      "user_ratings_total": 130
+    },
+    {
+      "id": "google_ChIJh6XVQDMbBYgRmzCFlnMAqR8",
+      "name": "National Somali Bantu Quran competition",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "3020 W Vliet St, Milwaukee, WI 53208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0489453,
+        "lon": -87.9518679
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh6XVQDMbBYgRmzCFlnMAqR8",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJUUIhTMCtB4gRzQ_OZJM0Ggc",
+      "name": "Madinah Community Center (MCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wisconsin",
+        "zip": "",
+        "full": "6514 Watts Rd, Madison, WI 53719, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.0505745,
+        "lon": -89.4939637
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUUIhTMCtB4gRzQ_OZJM0Ggc",
+      "rating": 4.9,
+      "user_ratings_total": 61
     }
-  ]
+  ],
+  "google_places_added": 18
 }

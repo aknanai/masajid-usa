@@ -1,6 +1,6 @@
 {
   "state": "New Jersey",
-  "count": 160,
+  "count": 229,
   "generated_at": "2026-05-10 06:52:20 UTC",
   "masajid": [
     {
@@ -3522,6 +3522,1663 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13017339363
+    },
+    {
+      "id": "google_ChIJJ8Nc5HFTwokRJuRXGv387uM",
+      "name": "Masjid Rahmah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "483 Washington St, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7283128,
+        "lon": -74.1799863
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJ8Nc5HFTwokRJuRXGv387uM",
+      "rating": 4.8,
+      "user_ratings_total": 361
+    },
+    {
+      "id": "google_ChIJhTZVXmdTwokR-U_AGfVxDIc",
+      "name": "Mosque Muhammad-Newark",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "255 S Orange Ave #253, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7392694,
+        "lon": -74.1943008
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhTZVXmdTwokR-U_AGfVxDIc",
+      "rating": 4.6,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJn38npZZUwokRwMMnjrBAjeY",
+      "name": "NIA Masjid & Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "231 Roseville Ave, Newark, NJ 07107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7587236,
+        "lon": -74.1894234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn38npZZUwokRwMMnjrBAjeY",
+      "rating": 4.8,
+      "user_ratings_total": 317
+    },
+    {
+      "id": "google_ChIJvaJetXBUwokRPhzfspysI5g",
+      "name": "Islamic Center of Harrison",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "301 Jersey St, Harrison, NJ 07029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7451972,
+        "lon": -74.1578254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvaJetXBUwokRPhzfspysI5g",
+      "rating": 4.8,
+      "user_ratings_total": 130
+    },
+    {
+      "id": "google_ChIJ5zXB979UwokRU02BrEIHIbQ",
+      "name": "Masjid As-Habul Yameen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "224 N 18th St, East Orange, NJ 07017, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7651062,
+        "lon": -74.1954422
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5zXB979UwokRU02BrEIHIbQ",
+      "rating": 4.9,
+      "user_ratings_total": 228
+    },
+    {
+      "id": "google_ChIJe6GuJrhUwokR1yr91Gbaj1Y",
+      "name": "Islamic Center of America-NJ",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "215 N Oraton Pkwy, East Orange, NJ 07017, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7652076,
+        "lon": -74.20628040000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe6GuJrhUwokR1yr91Gbaj1Y",
+      "rating": 4.8,
+      "user_ratings_total": 181
+    },
+    {
+      "id": "google_ChIJ7zdbXwBTwokRAF9V80-78IE",
+      "name": "Futa Islamic center of New Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "475 Springfield Ave, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7318192,
+        "lon": -74.2012908
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7zdbXwBTwokRAF9V80-78IE",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJg1EnB9FTwokRcFdzB_53hhM",
+      "name": "Islamic Society of Essex County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "9 Hill St, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7318152,
+        "lon": -74.17504749999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg1EnB9FTwokRcFdzB_53hhM",
+      "rating": 2.6,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJydV6PEpTwokRXNoF5pUjXnQ",
+      "name": "Masjid Al-Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "687 Springfield Ave, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7297379,
+        "lon": -74.2128694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJydV6PEpTwokRXNoF5pUjXnQ",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJjSb9AwBTwokRjy3HwFLC3Ck",
+      "name": "Masjid Fallahee",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "673 Clinton Ave, Newark, NJ 07108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7232282,
+        "lon": -74.2087203
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjSb9AwBTwokRjy3HwFLC3Ck",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJjYQcWD9TwokRZau38d6oFAs",
+      "name": "Islamic Public Library - Newark N.J.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "495 Washington St, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7277476,
+        "lon": -74.18021809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjYQcWD9TwokRZau38d6oFAs",
+      "rating": 4.9,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJ5VFsJNBTwokR0PufLZtgzNY",
+      "name": "Nigerian American Islamic Mission",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "221 Bergen St, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.73782260000001,
+        "lon": -74.1937753
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5VFsJNBTwokR0PufLZtgzNY",
+      "rating": 5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJZyVVVnhTwokRm2lES7hD95I",
+      "name": "Al-Amana Muslim Merchants",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "60 Branford Pl, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7354035,
+        "lon": -74.1756229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZyVVVnhTwokRm2lES7hD95I",
+      "rating": 4.8,
+      "user_ratings_total": 401
+    },
+    {
+      "id": "google_ChIJqVxqe7usw4kRM2CImFl5KHg",
+      "name": "Bani Adam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "656 Sanford Ave, Newark, NJ 07106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7391998,
+        "lon": -74.2349693
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqVxqe7usw4kRM2CImFl5KHg",
+      "rating": 4.8,
+      "user_ratings_total": 59
+    },
+    {
+      "id": "google_ChIJV-HnrK1SwokR0aUBVbEfrSA",
+      "name": "Dar-Ul Islam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "602-616 Salem Ave, Elizabeth, NJ 07208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6764903,
+        "lon": -74.2147531
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV-HnrK1SwokR0aUBVbEfrSA",
+      "rating": 4.9,
+      "user_ratings_total": 285
+    },
+    {
+      "id": "google_ChIJrVoiCdasw4kRSSonvw7vNYs",
+      "name": "Ibrahim Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "392 Chancellor Ave, Newark, NJ 07112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7106217,
+        "lon": -74.22416199999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrVoiCdasw4kRSSonvw7vNYs",
+      "rating": 4.7,
+      "user_ratings_total": 66
+    },
+    {
+      "id": "google_ChIJgZ1g3z-4w4kRakwpnjj13c8",
+      "name": "CAIR-NJ",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "570 Broad St Suite 703, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7420093,
+        "lon": -74.1685392
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgZ1g3z-4w4kRakwpnjj13c8",
+      "rating": 4.6,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJv0rYrYWtw4kRVormjMcFRJM",
+      "name": "Al-Madina Islamic Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "basement, 55 Manor Dr, Newark, NJ 07106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.736451,
+        "lon": -74.247591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv0rYrYWtw4kRVormjMcFRJM",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJSZgXuEVTwokRPcY-PwPCazM",
+      "name": "Nigerian Muslim Council New Jersey Chapter",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "582-584 S 11th St, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7332066,
+        "lon": -74.2040444
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSZgXuEVTwokRPcY-PwPCazM",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJAQBQMMmsw4kRB_Mu5GzwxYA",
+      "name": "Zainabia Center New Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "1049 Clinton Ave, Irvington, NJ 07111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7256667,
+        "lon": -74.22572219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAQBQMMmsw4kRB_Mu5GzwxYA",
+      "rating": 4.6,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJnatx-dVTwokRzrqucIsrH60",
+      "name": "Muhammad Mosque No. 25",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "498 Ferry St, Newark, NJ 07105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7317542,
+        "lon": -74.1404597
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnatx-dVTwokRzrqucIsrH60",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJwwEcJIBTwokR5A5DPwpNdtU",
+      "name": "NJIT MSA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "Bleeker St, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7430762,
+        "lon": -74.17835470000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwwEcJIBTwokR5A5DPwpNdtU",
+      "rating": 5,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJg3VXM_FRwokRiLfxreU0cJI",
+      "name": "Bayonne Mosque and Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "109 E 24th St, Bayonne, NJ 07002, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6625259,
+        "lon": -74.1118061
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg3VXM_FRwokRiLfxreU0cJI",
+      "rating": 4.9,
+      "user_ratings_total": 239
+    },
+    {
+      "id": "google_ChIJy9iZxw5RwokRXdqCu22PGps",
+      "name": "Bilal Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "219 Old Bergen Rd, Jersey City, NJ 07305, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.697251,
+        "lon": -74.0930867
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy9iZxw5RwokRXdqCu22PGps",
+      "rating": 4.8,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJMSHYadpQwokRpfLK98spdQI",
+      "name": "Islamic Center of Jersey City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "17 Park St, Jersey City, NJ 07304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7168242,
+        "lon": -74.06925679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMSHYadpQwokRpfLK98spdQI",
+      "rating": 4.6,
+      "user_ratings_total": 98
+    },
+    {
+      "id": "google_ChIJnVIS_J5UwokRfUIAiOgS4aE",
+      "name": "Masjid Taqwa Community Center Of New Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "Newark, NJ 07107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7477613,
+        "lon": -74.1912076
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnVIS_J5UwokRfUIAiOgS4aE",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJlUb0UABVwokRtE6bFsHYIqE",
+      "name": "Ibn Khaldun Cultural Center masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "390 Schuyler Ave, Kearny, NJ 07032, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7619446,
+        "lon": -74.1413427
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlUb0UABVwokRtE6bFsHYIqE",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJ_wwoFQBTwokRlkF7-DuqfoY",
+      "name": "Masjid nurun nabi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "219 Clinton Pl, Newark, NJ 07112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7156454,
+        "lon": -74.2131701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_wwoFQBTwokRlkF7-DuqfoY",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJe6GuJrhUwokRuOEvW-SQH54",
+      "name": "Madrasatu Ahlis Sunnah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "215 N Oraton Pkwy, East Orange, NJ 07017, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7649699,
+        "lon": -74.2056593
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe6GuJrhUwokRuOEvW-SQH54",
+      "rating": 4.6,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJRRE1qHZTwokRVSwWH957Ozw",
+      "name": "Newark Symphony Hall",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "1020 Broad St, Newark, NJ 07102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7279269,
+        "lon": -74.1760665
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRRE1qHZTwokRVSwWH957Ozw",
+      "rating": 4.3,
+      "user_ratings_total": 833
+    },
+    {
+      "id": "google_ChIJ9VXIgzlTwokRW2kZw2H3aV4",
+      "name": "Masjid Ahlu Atawheed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "553 Clinton Ave, Newark, NJ 07108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7222964,
+        "lon": -74.20352989999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9VXIgzlTwokRW2kZw2H3aV4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJW7o3nWdTwokRGgV7xD2eFYM",
+      "name": "Muslim Social Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "221 Bergen St, Newark, NJ 07103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.73782260000001,
+        "lon": -74.1937753
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW7o3nWdTwokRGgV7xD2eFYM",
+      "rating": 4.7,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJM5By-iNRwokRYKe8m8QRen4",
+      "name": "Islamic Circle of North America (ICNA-NJ)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "180 Ege Ave, Jersey City, NJ 07304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7148048,
+        "lon": -74.0835766
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM5By-iNRwokRYKe8m8QRen4",
+      "rating": 4.6,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJy9I9LgCrw4kRyVWAsFQt-Bg",
+      "name": "Muslim Community Center of Livingston (MCCL)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "343 E Cedar St, Livingston, NJ 07039, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7719999,
+        "lon": -74.3005688
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy9I9LgCrw4kRyVWAsFQt-Bg",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJCSAVwBRXwokRctU4-9_dtf4",
+      "name": "Al-Hoda Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "3424 John F. Kennedy Blvd, Jersey City, NJ 07307, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.749154,
+        "lon": -74.054895
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCSAVwBRXwokRctU4-9_dtf4",
+      "rating": 4.9,
+      "user_ratings_total": 220
+    },
+    {
+      "id": "google_ChIJI8wBqqr_wokR-cAFGiZf-GE",
+      "name": "Islamic Center of Passaic County (Clifton)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "259 Pershing Rd, Clifton, NJ 07013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8596921,
+        "lon": -74.1701442
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI8wBqqr_wokR-cAFGiZf-GE",
+      "rating": 4.9,
+      "user_ratings_total": 461
+    },
+    {
+      "id": "google_ChIJXf_rwMepw4kRCqctZw86rKw",
+      "name": "Islamic Community Cultural Center (ICCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "879 S Beverwyck Rd, Parsippany, NJ 07054, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8427622,
+        "lon": -74.3920795
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXf_rwMepw4kRCqctZw86rKw",
+      "rating": 4.7,
+      "user_ratings_total": 178
+    },
+    {
+      "id": "google_ChIJhT_soO9PwokRGgYYQKdHnZI",
+      "name": "MCC: Muslim Community Center (Staten Island)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "332 Broadway, Staten Island, NY 10310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6330633,
+        "lon": -74.11713689999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhT_soO9PwokRGgYYQKdHnZI",
+      "rating": 4.8,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJV780-KKww4kRGRIkPR6biBE",
+      "name": "Albaseerah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "1345 South Ave, Plainfield, NJ 07062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6328974,
+        "lon": -74.3966252
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV780-KKww4kRGRIkPR6biBE",
+      "rating": 4.9,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJM6LkkrFQwokRtXjj3Y81Zs4",
+      "name": "Sunni Rizvi Jamia Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "294-298 Grove St, Jersey City, NJ 07302, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7184192,
+        "lon": -74.0433642
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM6LkkrFQwokRtXjj3Y81Zs4",
+      "rating": 4.5,
+      "user_ratings_total": 179
+    },
+    {
+      "id": "google_ChIJmQ2wJdhQwokRvN_KTKpP8Ng",
+      "name": "Al-Iman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "598 Communipaw Ave, Jersey City, NJ 07304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7175257,
+        "lon": -74.07290689999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmQ2wJdhQwokRvN_KTKpP8Ng",
+      "rating": 4.2,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJ2TsIQh9RwokRfl74Y92wZQ8",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "297 Martin Luther King Dr, Jersey City, NJ 07305, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7091514,
+        "lon": -74.08119099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2TsIQh9RwokRfl74Y92wZQ8",
+      "rating": 4.8,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJb4VVWcZRwokRs1IDV8lRIZ4",
+      "name": "Khatoon E Jannat Azadari Council",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "779 Bergen Ave, Jersey City, NJ 07306, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7260284,
+        "lon": -74.0679031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb4VVWcZRwokRs1IDV8lRIZ4",
+      "rating": 4,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJHXUy2GNXwokRVWM58remPZg",
+      "name": "Oulel Albab Masjed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "15 Van Reipen Ave, Jersey City, NJ 07306, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7332839,
+        "lon": -74.0601373
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHXUy2GNXwokRVWM58remPZg",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ-RFMdABRwokRgUhh1nKonP8",
+      "name": "Masjid Darul Khair Quraan Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "3 Chopin Ct, Jersey City, NJ 07302, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7217023,
+        "lon": -74.05676849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-RFMdABRwokRgUhh1nKonP8",
+      "rating": 4.5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJOTbnztL9wokRDX5dvl81Un4",
+      "name": "Mohammadia Islamic Associates-Afghan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "140 Marshall St, Paterson, NJ 07501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9087404,
+        "lon": -74.1723011
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOTbnztL9wokRDX5dvl81Un4",
+      "rating": 4.6,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJPwzCh8b9wokRW-v0fnJyUdk",
+      "name": "Masjid Adam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "340 Totowa Ave, Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9174229,
+        "lon": -74.1857145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPwzCh8b9wokRW-v0fnJyUdk",
+      "rating": 4.8,
+      "user_ratings_total": 118
+    },
+    {
+      "id": "google_ChIJZRk8C739wokR1q3fpF_31hI",
+      "name": "Islamic Center of Passaic County (Masjid Younis)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "190 Haledon Ave, Prospect Park, NJ 07508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9324088,
+        "lon": -74.175169
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZRk8C739wokR1q3fpF_31hI",
+      "rating": 5,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJhQ2w98r9wokROKdfZqD9kks",
+      "name": "Darul Uloom New Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "86 Marion St, Paterson, NJ 07522, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9214869,
+        "lon": -74.18002160000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhQ2w98r9wokROKdfZqD9kks",
+      "rating": 4.9,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJ_7TuTMD9wokRNtqr8GO5W64",
+      "name": "Islamic Congregation of North Jersey - Masjid Abu Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "300-306 Preakness Ave, Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9204613,
+        "lon": -74.19248619999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_7TuTMD9wokRNtqr8GO5W64",
+      "rating": 4.8,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJ4-a5IQD9wokR2b0IlRUjt00",
+      "name": "Masjid Salahuddin",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "247 Broadway, Paterson, NJ 07501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9188292,
+        "lon": -74.164283
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4-a5IQD9wokR2b0IlRUjt00",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJpyuNZZn-wokRdOJyMMGiNnw",
+      "name": "Omar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "501 Getty Ave, Paterson, NJ 07503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8909607,
+        "lon": -74.1527176
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpyuNZZn-wokRdOJyMMGiNnw",
+      "rating": 4.8,
+      "user_ratings_total": 720
+    },
+    {
+      "id": "google_ChIJAQCMZFD8wokRk5IlksN1tTk",
+      "name": "Ansar As-Sunnah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "456 River St, Paterson, NJ 07524, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9302222,
+        "lon": -74.1601234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAQCMZFD8wokRk5IlksN1tTk",
+      "rating": 4.8,
+      "user_ratings_total": 91
+    },
+    {
+      "id": "google_ChIJwURJagD9wokRz04H4ZC9F8w",
+      "name": "Masjid Al-Ferdous",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "438 Union Ave, Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9215766,
+        "lon": -74.184386
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwURJagD9wokRz04H4ZC9F8w",
+      "rating": 4.7,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJb6oQzzH8wokRC1Q_2-hU40A",
+      "name": "Muslim Mosque Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "32 Chestnut St, Paterson, NJ 07501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9095412,
+        "lon": -74.1629145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb6oQzzH8wokRC1Q_2-hU40A",
+      "rating": 4.5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJJUWofAD9wokRA_hWolQ86jM",
+      "name": "Talha Learning Center [TLC] Masjid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "86 Murray Ave, Paterson, NJ 07501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9093892,
+        "lon": -74.1869087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJUWofAD9wokRA_hWolQ86jM",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJhTuyh8b9wokR85vi7yG6ex8",
+      "name": "MUNA Center Of Paterson",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "338 Totowa Ave, Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9174504,
+        "lon": -74.1858115
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhTuyh8b9wokR85vi7yG6ex8",
+      "rating": 4.8,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJwQdtGgf8wokR1Ahkx3MHJng",
+      "name": "Mosque Boshniak American Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "1 Locust St, Elmwood Park, NJ 07407, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9004324,
+        "lon": -74.12622259999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwQdtGgf8wokR1Ahkx3MHJng",
+      "rating": 4.8,
+      "user_ratings_total": 78
+    },
+    {
+      "id": "google_ChIJla_-BgD_wokRuGQfLkeOAaA",
+      "name": "Mevlana Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "291 Sussex St, Paterson, NJ 07503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.89571670000001,
+        "lon": -74.1631912
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJla_-BgD_wokRuGQfLkeOAaA",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJsX974sv9wokR74Be_bEafMc",
+      "name": "East Sunapur jame mosjid, Balaganj",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9201889,
+        "lon": -74.1914958
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsX974sv9wokR74Be_bEafMc",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJEdwAh_b_wokRZxsLxu0A0JA",
+      "name": "Darul Hikma/Wisdom House",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "53-55 Bloomfield Ave, Paterson, NJ 07503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8957716,
+        "lon": -74.164067
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEdwAh_b_wokRZxsLxu0A0JA",
+      "rating": 5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJVVWpTcD9wokRGQywJYl5U60",
+      "name": "Islamic Congregation of North Jersey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "300-306 Preakness Ave, Paterson, NJ 07502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9205066,
+        "lon": -74.19241199999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVWpTcD9wokRGQywJYl5U60",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJbZ1nNPj8wokR6rLnA-89Ypc",
+      "name": "Ahmadiyya Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "131 Wagaraw Rd, Hawthorne, NJ 07506, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.9402829,
+        "lon": -74.1604358
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbZ1nNPj8wokR6rLnA-89Ypc",
+      "rating": 4.8,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJozRFVqT-wokRE8LoWajPXSg",
+      "name": "Palestinian American Community Center (PACC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "388 Lakeview Ave, Clifton, NJ 07011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8883284,
+        "lon": -74.13917909999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJozRFVqT-wokRE8LoWajPXSg",
+      "rating": 4.7,
+      "user_ratings_total": 233
+    },
+    {
+      "id": "google_ChIJXw8KsR36wokRtwptiWcEBCE",
+      "name": "Bergen County Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "78 Trinity Pl, Hackensack, NJ 07601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.88445470000001,
+        "lon": -74.04557559999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXw8KsR36wokRtwptiWcEBCE",
+      "rating": 4.8,
+      "user_ratings_total": 317
+    },
+    {
+      "id": "google_ChIJv_GfLkpFwokR-0f2uobt4KM",
+      "name": "United American Muslim Association Clifton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "492 Clifton Ave, Clifton, NJ 07011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8743004,
+        "lon": -74.146828
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv_GfLkpFwokR-0f2uobt4KM",
+      "rating": 4.8,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJGT-rhrX_wokRvta50hLCwLE",
+      "name": "Islamic Fashions Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "76 Gould Ave 2nd Floor, Paterson, NJ 07503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8939052,
+        "lon": -74.1593261
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGT-rhrX_wokRvta50hLCwLE",
+      "rating": 4.7,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJdTNnQM79wokRizmDbyeB3XQ",
+      "name": "New Jersey Community Development Corporation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "32 Spruce St, Paterson, NJ 07501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.912934,
+        "lon": -74.179172
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdTNnQM79wokRizmDbyeB3XQ",
+      "rating": 4.5,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJ7YBV9xbhwokRBJ2kKdg8PYI",
+      "name": "Noble Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Jersey",
+        "zip": "",
+        "full": "Jummah Prayer - Fellowship Hall 109 W Ramapo Ave Taraweeh, 38 Hines Ave, Mahwah, NJ 07430, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.0949138,
+        "lon": -74.15310889999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7YBV9xbhwokRBJ2kKdg8PYI",
+      "rating": 5,
+      "user_ratings_total": 1
     }
-  ]
+  ],
+  "google_places_added": 69
 }

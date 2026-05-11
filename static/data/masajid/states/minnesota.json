@@ -1,6 +1,6 @@
 {
   "state": "Minnesota",
-  "count": 33,
+  "count": 76,
   "generated_at": "2026-05-10 06:24:57 UTC",
   "masajid": [
     {
@@ -728,6 +728,1039 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1208085545
+    },
+    {
+      "id": "google_ChIJ2VB2MmIts1IRXlCMEWT2Nl4",
+      "name": "Nurul-Iman Mosque and Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2222 Park Ave, Minneapolis, MN 55404, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9602754,
+        "lon": -93.2657772
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2VB2MmIts1IRXlCMEWT2Nl4",
+      "rating": 4.8,
+      "user_ratings_total": 99
+    },
+    {
+      "id": "google_ChIJWTfVuFwts1IRN6q0UkhYjb0",
+      "name": "Darul Quba Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1501 S 6th St, Minneapolis, MN 55454, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9689874,
+        "lon": -93.2508258
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWTfVuFwts1IRN6q0UkhYjb0",
+      "rating": 4.4,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJTcmh5fMn9ocRCmPUDjvIqSs",
+      "name": "Umatul Islam Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "3015 2nd Ave S, Minneapolis, MN 55408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.94772440000001,
+        "lon": -93.2738899
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTcmh5fMn9ocRCmPUDjvIqSs",
+      "rating": 4.7,
+      "user_ratings_total": 76
+    },
+    {
+      "id": "google_ChIJ-7G5dT8ys1IRspFegUQS8SU",
+      "name": "UthmanIslamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2900 N Lyndale Ave, Minneapolis, MN 55411, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0097589,
+        "lon": -93.2876047
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-7G5dT8ys1IRspFegUQS8SU",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJI54x7xMn9ocRWHBA__ejoLw",
+      "name": "Alhikma Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "116 E 32nd St, Minneapolis, MN 55408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9452609,
+        "lon": -93.27569249999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI54x7xMn9ocRWHBA__ejoLw",
+      "rating": 4.4,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJVUC5eIsn9ocRdHLefxqUDC0",
+      "name": "Khalid Binu Walid Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "124 W Lake St, Minneapolis, MN 55408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9486955,
+        "lon": -93.28093969999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVUC5eIsn9ocRdHLefxqUDC0",
+      "rating": 4.6,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJKbxqI4Ats1IRm-mGQ2ehiy0",
+      "name": "Tawhid Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1001 Westgate Dr, St Paul, MN 55114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9710221,
+        "lon": -93.2059537
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKbxqI4Ats1IRm-mGQ2ehiy0",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJ6_qC2iMss1IRr9XduY9px6w",
+      "name": "Abu Huraira Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "3055 Old Hwy 8, Minneapolis, MN 55418, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0240798,
+        "lon": -93.2095452
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6_qC2iMss1IRr9XduY9px6w",
+      "rating": 4.7,
+      "user_ratings_total": 67
+    },
+    {
+      "id": "google_ChIJv9h_IoUts1IRWdQYStFJ1oA",
+      "name": "ICBMN-Islamic Community of Bosniaks in Minnesota",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "668 Broadway St NE, Minneapolis, MN 55413, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.99854999999999,
+        "lon": -93.2545389
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv9h_IoUts1IRWdQYStFJ1oA",
+      "rating": 4.7,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ-XFeBtTT94cR2sahmB76Ps8",
+      "name": "MAS Masjid At Taqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1608 Como Ave, St Paul, MN 55108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9771243,
+        "lon": -93.1685006
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-XFeBtTT94cR2sahmB76Ps8",
+      "rating": 4.6,
+      "user_ratings_total": 125
+    },
+    {
+      "id": "google_ChIJU9PUmeAts1IR635ykZ8eBPM",
+      "name": "Salaam Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "3141 Central Ave NE, Minneapolis, MN 55418, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.02529630000001,
+        "lon": -93.2469666
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU9PUmeAts1IR635ykZ8eBPM",
+      "rating": 4.8,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJubAGqikrs1IRtTeQSdobjPU",
+      "name": "Al-Ihsan Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "955 W Minnehaha Ave, St Paul, MN 55104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.96365249999999,
+        "lon": -93.1408797
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJubAGqikrs1IRtTeQSdobjPU",
+      "rating": 4.7,
+      "user_ratings_total": 180
+    },
+    {
+      "id": "google_ChIJX49s_K4ys1IRnvtiHpt7XbU",
+      "name": "Nurul-Iman Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2219 Oakland Ave, Minneapolis, MN 55404, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9601929,
+        "lon": -93.2663199
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX49s_K4ys1IRnvtiHpt7XbU",
+      "rating": 4.4,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJ2yoQ9-Ih9ocRQBeJrTD1hns",
+      "name": "Al-Amaan Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "5620 Smetana Dr, Minnetonka, MN 55343, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9010942,
+        "lon": -93.4049825
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2yoQ9-Ih9ocRQBeJrTD1hns",
+      "rating": 4.9,
+      "user_ratings_total": 301
+    },
+    {
+      "id": "google_ChIJLbfmXAAts1IR3TYqr-hZPjU",
+      "name": "Al-Salam Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1723 Adams St NE, Minneapolis, MN 55413, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.00616,
+        "lon": -93.256056
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLbfmXAAts1IR3TYqr-hZPjU",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJdXQgX_cvs1IRl3f7TTUTOIw",
+      "name": "Bilal Oromo Dawa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "7200 University Ave NE, Minneapolis, MN 55432, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.09931479999999,
+        "lon": -93.2647211
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdXQgX_cvs1IRl3f7TTUTOIw",
+      "rating": 4.8,
+      "user_ratings_total": 113
+    },
+    {
+      "id": "google_ChIJgXqNFJovs1IRcadqqvjeRh0",
+      "name": "Al-Israa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "6831 Hwy 65 NE, Fridley, MN 55432, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0905751,
+        "lon": -93.2425634
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgXqNFJovs1IRcadqqvjeRh0",
+      "rating": 4.8,
+      "user_ratings_total": 265
+    },
+    {
+      "id": "google_ChIJ6-TpsOMws1IRjjT5RdrjQRc",
+      "name": "Imam Husain Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "6120 Brooklyn Blvd, Minneapolis, MN 55429, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.066593,
+        "lon": -93.32586239999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6-TpsOMws1IRjjT5RdrjQRc",
+      "rating": 4.5,
+      "user_ratings_total": 86
+    },
+    {
+      "id": "google_ChIJ2bLu45sxs1IRENOk0KdOuDI",
+      "name": "Masjid-Al-Ansar Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "4900 France Ave N, Minneapolis, MN 55429, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0447255,
+        "lon": -93.3291521
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2bLu45sxs1IRENOk0KdOuDI",
+      "rating": 3.9,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJ3dyVqZQts1IRbUSE2-LcQ3Q",
+      "name": "Al- Hikmah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2323 E Franklin Ave, Minneapolis, MN 55406, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9624878,
+        "lon": -93.238312
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3dyVqZQts1IRbUSE2-LcQ3Q",
+      "rating": 4.4,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJU2b8AHgv9ocRvlmPNikY9zA",
+      "name": "(Muslim Community Center) Al Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "8910 Old Cedar Ave S #2049, Bloomington, MN 55425, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.8420212,
+        "lon": -93.248531
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU2b8AHgv9ocRvlmPNikY9zA",
+      "rating": 4.8,
+      "user_ratings_total": 245
+    },
+    {
+      "id": "google_ChIJ-3feGdRLs1IRFz6UYPmqIK8",
+      "name": "Northwest Islamic Community Center - NWICC - Masjid Al-Kareem",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "3300 Plymouth Blvd, Plymouth, MN 55447, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0184625,
+        "lon": -93.47306549999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-3feGdRLs1IRFz6UYPmqIK8",
+      "rating": 4.6,
+      "user_ratings_total": 96
+    },
+    {
+      "id": "google_ChIJLzZxDwAts1IRE-85xGtTrQg",
+      "name": "Darul Mustafa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1723 Adams St NE, Minneapolis, MN 55413, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0061486,
+        "lon": -93.2560635
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLzZxDwAts1IRE-85xGtTrQg",
+      "rating": 4.2,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJjx60uYsn9ocRfoUvygbFJpg",
+      "name": "Karmel Mall",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2910 Pleasant Ave, Minneapolis, MN 55408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9497937,
+        "lon": -93.2816161
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjx60uYsn9ocRfoUvygbFJpg",
+      "rating": 4.1,
+      "user_ratings_total": 1547
+    },
+    {
+      "id": "google_ChIJvazMTKIn9ocRtbdQZp3COKQ",
+      "name": "Karmel Community Prayer Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2910 Pillsbury Ave, Minneapolis, MN 55408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9494172,
+        "lon": -93.2821969
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvazMTKIn9ocRtbdQZp3COKQ",
+      "rating": 4.4,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJZVobhG4xs1IRmVibF0HdG4o",
+      "name": "Masjid Ar-Rahim Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "5820 74th Ave N, Brooklyn Park, MN 55443, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.09028470000001,
+        "lon": -93.35423379999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZVobhG4xs1IRmVibF0HdG4o",
+      "rating": 4.9,
+      "user_ratings_total": 122
+    },
+    {
+      "id": "google_ChIJM1Qw0yrVslIRxteXd_kTZ1c",
+      "name": "Darul Uloom Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "977 5th St E, St Paul, MN 55106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.959591,
+        "lon": -93.05973209999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM1Qw0yrVslIRxteXd_kTZ1c",
+      "rating": 4.6,
+      "user_ratings_total": 82
+    },
+    {
+      "id": "google_ChIJCTH9Yqgvs1IRo5ha3bqZXLE",
+      "name": "Islamic Center of Minnesota",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1401 Gardena Ave NE, Fridley, MN 55432, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0750849,
+        "lon": -93.23553460000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCTH9Yqgvs1IRo5ha3bqZXLE",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJVQOI2UHY94cRulCcIkUIVf0",
+      "name": "Eastern Twin Cities Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "12585 Hudson Rd S, Afton, MN 55001, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9447464,
+        "lon": -92.8520116
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVQOI2UHY94cRulCcIkUIVf0",
+      "rating": 4.9,
+      "user_ratings_total": 233
+    },
+    {
+      "id": "google_ChIJf69Kzkgo9ocR86cLOdEu_50",
+      "name": "Minnesota Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "12119 16th Ave S, Burnsville, MN 55337, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7838285,
+        "lon": -93.2512053
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf69Kzkgo9ocR86cLOdEu_50",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJqd_z6o07s1IRp9rEshp-WlU",
+      "name": "Brooklyn Park Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2100 93rd Way, Brooklyn Park, MN 55444, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.1245503,
+        "lon": -93.3068459
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqd_z6o07s1IRp9rEshp-WlU",
+      "rating": 4.8,
+      "user_ratings_total": 71
+    },
+    {
+      "id": "google_ChIJf3FiJPk69ocRjO9qaiOMKdw",
+      "name": "Dar-us-Salam Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "190 River Ridge Cir S, Burnsville, MN 55337, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.7778405,
+        "lon": -93.28338819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf3FiJPk69ocRjO9qaiOMKdw",
+      "rating": 4.8,
+      "user_ratings_total": 138
+    },
+    {
+      "id": "google_ChIJk5_-s343s1IRV3N9FxMi5vU",
+      "name": "Somali community islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "6001 78th Ave N, Minneapolis, MN 55443, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.0959484,
+        "lon": -93.3578963
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk5_-s343s1IRV3N9FxMi5vU",
+      "rating": 4.4,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ96ixBQDVslIRkEq121MPmxo",
+      "name": "Masjid Al Wahyain",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "670 Payne Ave, St Paul, MN 55130, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9613334,
+        "lon": -93.0757764
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ96ixBQDVslIRkEq121MPmxo",
+      "rating": 5,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJq6o6bgbW94cRpfmmj_D78j0",
+      "name": "As-Sunnah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "373 Pedersen St, St Paul, MN 55119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.95261439999999,
+        "lon": -93.0132812
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq6o6bgbW94cRpfmmj_D78j0",
+      "rating": 4.8,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJ3RsqXcDX94cRb7TD1f0Rb9g",
+      "name": "Darul Iman Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "291 McKnight Rd S, St Paul, MN 55119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9324909,
+        "lon": -93.0054229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3RsqXcDX94cRb7TD1f0Rb9g",
+      "rating": 5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJYWc2WwAr9ocRTeWA9glXaB4",
+      "name": "Iqra community center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1044 7th St W, St Paul, MN 55102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9261242,
+        "lon": -93.12837809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYWc2WwAr9ocRTeWA9glXaB4",
+      "rating": 4.8,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJLQ1ZvffX94cR7SSy1rfEVyc",
+      "name": "Ramadan Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "291 McKnight Rd S, St Paul, MN 55119, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9324677,
+        "lon": -93.0054913
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLQ1ZvffX94cR7SSy1rfEVyc",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJw-leA9st9ocRAILKSEllokc",
+      "name": "As-Sahabah Cultural Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "3435 Washington Dr #200, St Paul, MN 55122, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.832164,
+        "lon": -93.1698459
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw-leA9st9ocRAILKSEllokc",
+      "rating": 4.5,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJAQAAO1Urs1IRz42GBcGNQXs",
+      "name": "Minnesota Deaf Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1821 University Ave W, St Paul, MN 55104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9566844,
+        "lon": -93.17632069999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAQAAO1Urs1IRz42GBcGNQXs",
+      "rating": 4,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJkadzVN05s1IRfIufOnxLvgI",
+      "name": "Maple Grove Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "10186 Lancaster Ln N, Maple Grove, MN 55369, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.1393017,
+        "lon": -93.4025776
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkadzVN05s1IRfIufOnxLvgI",
+      "rating": 4.9,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJM2v0D6sss1IRz-Bivn3Yl_A",
+      "name": "Eritrean Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "1935 University Ave W, St Paul, MN 55104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.9577816,
+        "lon": -93.1814088
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM2v0D6sss1IRz-Bivn3Yl_A",
+      "rating": 4.6,
+      "user_ratings_total": 57
+    },
+    {
+      "id": "google_ChIJpSoWAcgss1IRTNWW87V-flM",
+      "name": "Mizna, Arab arts organization",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Minnesota",
+        "zip": "",
+        "full": "2446 University Ave W #115, St Paul, MN 55114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 44.96396559999999,
+        "lon": -93.1994248
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpSoWAcgss1IRTNWW87V-flM",
+      "rating": 4.6,
+      "user_ratings_total": 10
     }
-  ]
+  ],
+  "google_places_added": 3
 }

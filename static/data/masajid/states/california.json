@@ -1,6 +1,6 @@
 {
   "state": "California",
-  "count": 122,
+  "count": 270,
   "generated_at": "2026-05-10 05:13:24 UTC",
   "masajid": [
     {
@@ -2686,6 +2686,3559 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 6319917765
+    },
+    {
+      "id": "google_ChIJqYJYQMfHwoARM8qHGXRmqS0",
+      "name": "Akber Masjid- Islamic Center Downtown Los Angeles",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1013 San Julian St A, Los Angeles, CA 90015, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0366997,
+        "lon": -118.2526292
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqYJYQMfHwoARM8qHGXRmqS0",
+      "rating": 4.9,
+      "user_ratings_total": 86
+    },
+    {
+      "id": "google_ChIJ1z31J4fHwoARsdKDG9bclpc",
+      "name": "Masjid At-Thohir",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1200 S Kenmore Ave, Los Angeles, CA 90006, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0489294,
+        "lon": -118.296517
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1z31J4fHwoARsdKDG9bclpc",
+      "rating": 4.4,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJO7b4MGW4woAR6WVGnOnkk3Y",
+      "name": "Masjid Al-Mu'min",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1635 S St Andrews Pl, Los Angeles, CA 90019, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0425306,
+        "lon": -118.3119825
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO7b4MGW4woAR6WVGnOnkk3Y",
+      "rating": 4.8,
+      "user_ratings_total": 133
+    },
+    {
+      "id": "google_ChIJ0WK3Csu7woAR8S35v_q8XBk",
+      "name": "New Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "10510 Rose Ave, Los Angeles, CA 90034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0283623,
+        "lon": -118.411973
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0WK3Csu7woAR8S35v_q8XBk",
+      "rating": 4.7,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJE2hztvSVwoARn717qwHim1c",
+      "name": "Islamic Center of North Hollywood",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5645 Strohm Ave, North Hollywood, CA 91601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1734278,
+        "lon": -118.3594093
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE2hztvSVwoARn717qwHim1c",
+      "rating": 4.7,
+      "user_ratings_total": 138
+    },
+    {
+      "id": "google_ChIJ28RklUvHwoAROrqSWQ_jAHc",
+      "name": "HOLLYWOOD Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4430 Fountain Ave Suite 3 & 4, Los Angeles, CA 90029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0954921,
+        "lon": -118.2861926
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ28RklUvHwoAROrqSWQ_jAHc",
+      "rating": 4.8,
+      "user_ratings_total": 96
+    },
+    {
+      "id": "google_ChIJbV3W7Te4woARbmVEScSCgDg",
+      "name": "Abubakr As Siddiq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3611 Crenshaw Blvd, Los Angeles, CA 90016, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0235936,
+        "lon": -118.3353904
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbV3W7Te4woARbmVEScSCgDg",
+      "rating": 4.4,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJjbOLHZW3woARbhTK2ME3Hqo",
+      "name": "Islah LA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2900 W Slauson Ave, Los Angeles, CA 90043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9889065,
+        "lon": -118.3251788
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjbOLHZW3woARbhTK2ME3Hqo",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJgxiB9xK5woAR1XL00uvJ6aI",
+      "name": "El-Hajj Malik El Shabazz Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2914 W Jefferson Blvd, Los Angeles, CA 90018, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0254189,
+        "lon": -118.327741
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgxiB9xK5woAR1XL00uvJ6aI",
+      "rating": 4.8,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJE_guube3woARdataNAeflw4",
+      "name": "As-Salaam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2900 W Florence Ave, Los Angeles, CA 90043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9743924,
+        "lon": -118.3245498
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE_guube3woARdataNAeflw4",
+      "rating": 4.7,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJ3VtKfePawoARjw9OrIweF0M",
+      "name": "Masjid Gibrael",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1301 E Las Tunas Dr, San Gabriel, CA 91776, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1040102,
+        "lon": -118.0793975
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3VtKfePawoARjw9OrIweF0M",
+      "rating": 4.7,
+      "user_ratings_total": 116
+    },
+    {
+      "id": "google_ChIJw-YMkcy7woAR6s8_V1r2vG8",
+      "name": "IMAN Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3376 Motor Ave, Los Angeles, CA 90034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0281667,
+        "lon": -118.409725
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw-YMkcy7woAR6s8_V1r2vG8",
+      "rating": 3.7,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJMVNM6oLJwoAR2peH4iwuqgw",
+      "name": "Masjid Al-Zahra",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "8152 Seville Ave, South Gate, CA 90280, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9630491,
+        "lon": -118.2223091
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMVNM6oLJwoAR2peH4iwuqgw",
+      "rating": 4.6,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJh7C3jNvJwoARxckp970JnWE",
+      "name": "The Nation of Islam Muhammad Mosque #27",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "8039 S Vermont Ave, Los Angeles, CA 90044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9656573,
+        "lon": -118.2921872
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh7C3jNvJwoARxckp970JnWE",
+      "rating": 4.2,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJRxx8Gf7JwoAR-tn23qmUpx0",
+      "name": "Ebrahim Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7014 S Vermont Ave, Los Angeles, CA 90044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9758364,
+        "lon": -118.2913271
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRxx8Gf7JwoAR-tn23qmUpx0",
+      "rating": 4.5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJN1UFkcy7woARMRYkTaS4NDg",
+      "name": "IMAN Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3376 Motor Ave, Los Angeles, CA 90034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0286636,
+        "lon": -118.4098052
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN1UFkcy7woARMRYkTaS4NDg",
+      "rating": 4.9,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJs-ReWhi2woARUeweZiR_qcs",
+      "name": "Islamic Center of Los Angeles",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9642 S Western Ave, Los Angeles, CA 90047, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9473994,
+        "lon": -118.3087422
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs-ReWhi2woARUeweZiR_qcs",
+      "rating": 4.2,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJdTlgyRWcwoARGD1ubxHBo7g",
+      "name": "Islamic Society of West Valley (ISWV)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7060 Owensmouth Ave, Canoga Park, CA 91304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1990662,
+        "lon": -118.6013209
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdTlgyRWcwoARGD1ubxHBo7g",
+      "rating": 4.8,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJuZ4M-m1K3YARfB3zU0mcF6o",
+      "name": "Islamic Center of South Bay (LA Lomita - Masjid Al Noor)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "25816 Walnut St, Lomita, CA 90717, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7888731,
+        "lon": -118.3116762
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuZ4M-m1K3YARfB3zU0mcF6o",
+      "rating": 4.5,
+      "user_ratings_total": 108
+    },
+    {
+      "id": "google_ChIJhy6FEZG3woAR5eWp32Lt3X0",
+      "name": "Bilal Ibn Rabah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5450 Crenshaw Blvd, Los Angeles, CA 90043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.991679,
+        "lon": -118.330495
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhy6FEZG3woAR5eWp32Lt3X0",
+      "rating": 4.5,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJjys2ytzCwoARuRDWSnpLiKI",
+      "name": "Masjid Al-Taqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "573 N Lake Ave, Pasadena, CA 91101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.15587800000001,
+        "lon": -118.1327374
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjys2ytzCwoARuRDWSnpLiKI",
+      "rating": 4.4,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJa6P9CUY13YARJ0WGYf3hLC4",
+      "name": "International Institute of Tolerance (IIT)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "20932 Main St, Carson, CA 90745, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8396991,
+        "lon": -118.2794668
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa6P9CUY13YARJ0WGYf3hLC4",
+      "rating": 4.9,
+      "user_ratings_total": 67
+    },
+    {
+      "id": "google_ChIJY-alL2Ix3YARs7tge1X8vWA",
+      "name": "Al-Shareef Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2104 Orange Ave, Long Beach, CA 90806, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7953982,
+        "lon": -118.1760811
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY-alL2Ix3YARs7tge1X8vWA",
+      "rating": 4.7,
+      "user_ratings_total": 126
+    },
+    {
+      "id": "google_ChIJw940e3i4woAR38Qkj1n5F9E",
+      "name": "St. Sophia Greek Orthodox Cathedral",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1324 Normandie Ave, Los Angeles, CA 90006, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.045773,
+        "lon": -118.2995948
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw940e3i4woAR38Qkj1n5F9E",
+      "rating": 4.6,
+      "user_ratings_total": 382
+    },
+    {
+      "id": "google_ChIJx7HPZS3KwoARlWqulV0Dp80",
+      "name": "Islamic Center of Watts - Masjid Al-Rasul",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "11211 S Central Ave, Los Angeles, CA 90059, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9324846,
+        "lon": -118.2545213
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx7HPZS3KwoARlWqulV0Dp80",
+      "rating": 3.9,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJn4p6i7S1woARQg-fZ6xUyPc",
+      "name": "Masjid Faatimah (Sunni mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "15012 Prairie Ave Suite A, Hawthorne, CA 90250, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.89546,
+        "lon": -118.3435923
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn4p6i7S1woARQg-fZ6xUyPc",
+      "rating": 4.8,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJ7-ygNt0z3YARnZ5AccmkN6c",
+      "name": "Long Beach Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "995 E 27th St, Signal Hill, CA 90755, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8065364,
+        "lon": -118.1810109
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7-ygNt0z3YARnZ5AccmkN6c",
+      "rating": 4.8,
+      "user_ratings_total": 130
+    },
+    {
+      "id": "google_ChIJj5DbAwClwoARwNfXLn28oaw",
+      "name": "Westside Community and Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1235 4th St, Santa Monica, CA 90401, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0184842,
+        "lon": -118.4971004
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj5DbAwClwoARwNfXLn28oaw",
+      "rating": 5,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJO7Cruju_woARQo5ytLlsHvY",
+      "name": "Muslims For Progressive Values",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1465 Tamarind Ave #702, Los Angeles, CA 90028, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0975709,
+        "lon": -118.3192192
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO7Cruju_woARQo5ytLlsHvY",
+      "rating": 2.8,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJW0yKg1Yqw4ARE3w2TXosuPE",
+      "name": "Islamic Center of San Gabriel Valley (ICSGV)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "19164 E Walnut Dr N, Rowland Heights, CA 91748, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.9953969,
+        "lon": -117.8843317
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW0yKg1Yqw4ARE3w2TXosuPE",
+      "rating": 4.8,
+      "user_ratings_total": 264
+    },
+    {
+      "id": "google_ChIJx-uc8Ni1woARKJIcPQXElMQ",
+      "name": "Islamic Institute of Torrance",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "18103 Prairie Ave, Torrance, CA 90504, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8665646,
+        "lon": -118.3440449
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx-uc8Ni1woARKJIcPQXElMQ",
+      "rating": 4.8,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJZ2ZnZQCBhYARFyfoA6Lq8yM",
+      "name": "Abobo avocatier",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "San Francisco, CA 94103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7749295,
+        "lon": -122.4194155
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ2ZnZQCBhYARFyfoA6Lq8yM",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJpf_lTymBhYARwYr4zYIahs4",
+      "name": "San Francisco Muslim Community Center (SFMCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "762 Fulton St, San Francisco, CA 94102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7782928,
+        "lon": -122.4292849
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpf_lTymBhYARwYr4zYIahs4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJE_YQo4V-j4AR2D4B2kq3NGs",
+      "name": "Mission Islamic Center of San Francisco",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4760 Mission St, San Francisco, CA 94112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7219938,
+        "lon": -122.437253
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE_YQo4V-j4AR2D4B2kq3NGs",
+      "rating": 4.8,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJa9h2Mu19j4ARXEa15aliUKU",
+      "name": "Daly City Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7330 Mission St, Daly City, CA 94014, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6910112,
+        "lon": -122.465876
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa9h2Mu19j4ARXEa15aliUKU",
+      "rating": 4.7,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJq6o63pF5j4ARREkoVNW2C6I",
+      "name": "Fiji Jamaat-ul-Islam Mosque of America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "373 Alta Vista Dr, South San Francisco, CA 94080, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.63990390000001,
+        "lon": -122.4351423
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq6o63pF5j4ARREkoVNW2C6I",
+      "rating": 4.8,
+      "user_ratings_total": 142
+    },
+    {
+      "id": "google_ChIJ3x8uPRd_j4AR-XTf8K7nSVk",
+      "name": "Bay View Islamic Unity Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1411 Thomas Ave, San Francisco, CA 94124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7283477,
+        "lon": -122.3880448
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3x8uPRd_j4AR-XTf8K7nSVk",
+      "rating": 4.1,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJ00mgGCaDhYARFfSHFyuRr7U",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1330 Cutting Blvd, Richmond, CA 94804, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9245628,
+        "lon": -122.3563608
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ00mgGCaDhYARFfSHFyuRr7U",
+      "rating": 4.8,
+      "user_ratings_total": 106
+    },
+    {
+      "id": "google_ChIJf9jbmCiBj4ARlgNFcc8vao8",
+      "name": "Quba Masjid (Afghan Community & Religion)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "707 Haight Ave, Alameda, CA 94501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7743939,
+        "lon": -122.2763331
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf9jbmCiBj4ARlgNFcc8vao8",
+      "rating": 5,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJY2eH8L2AhYARx7eYYhTWTKU",
+      "name": "Cathedral of Saint Mary of the Assumption",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1111 Gough St, San Francisco, CA 94109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7842115,
+        "lon": -122.4253924
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY2eH8L2AhYARx7eYYhTWTKU",
+      "rating": 4.6,
+      "user_ratings_total": 1815
+    },
+    {
+      "id": "google_ChIJFw9u78t3j4ARwjqvTjO_2xQ",
+      "name": "Yaseen Burlingame Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1722 Gilbreth Rd, Burlingame, CA 94010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5993068,
+        "lon": -122.3740681
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFw9u78t3j4ARwjqvTjO_2xQ",
+      "rating": 4.6,
+      "user_ratings_total": 215
+    },
+    {
+      "id": "google_ChIJg2Kun5KAhYARg0g3AF1jbQQ",
+      "name": "Grace Cathedral",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1100 California St, San Francisco, CA 94108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7919133,
+        "lon": -122.4131211
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg2Kun5KAhYARg0g3AF1jbQQ",
+      "rating": 4.6,
+      "user_ratings_total": 2352
+    },
+    {
+      "id": "google_ChIJXygx1Bh-j4ARvFUvBME4vcQ",
+      "name": "Sha'ar Zahav",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "290 Dolores St, San Francisco, CA 94103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7647778,
+        "lon": -122.4266465
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXygx1Bh-j4ARvFUvBME4vcQ",
+      "rating": 4.5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ947oZN99hYARwHcKLikG0jo",
+      "name": "MasjId Al-Iman (Naqshbandi Sufi Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5625 Shattuck Ave., Oakland, CA 94609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8416108,
+        "lon": -122.264905
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ947oZN99hYARwHcKLikG0jo",
+      "rating": 4.7,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJ6y3HEKmChYAR6vc8pgTPVg0",
+      "name": "Muslim Mission Center - Richmond Masjid Taqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "322 Harbour Way, Richmond, CA 94801, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.9362539,
+        "lon": -122.3598829
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6y3HEKmChYAR6vc8pgTPVg0",
+      "rating": 4.4,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ7ZNFw9V5j4ARBBXjhbLvVes",
+      "name": "Ahle Sunnat wal Jamaat of The Peninsula",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "204 A St, South San Francisco, CA 94080, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6519453,
+        "lon": -122.4307765
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7ZNFw9V5j4ARBBXjhbLvVes",
+      "rating": 4,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJPWEP1lFT2YARnEjCsipr4Z8",
+      "name": "Islamic Center of Logan Heights (Masjid Omar)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3487 Ocean View Blvd, San Diego, CA 92113, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7010373,
+        "lon": -117.1190989
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPWEP1lFT2YARnEjCsipr4Z8",
+      "rating": 4.6,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJbcF35in324ARCBcKMiyQI2U",
+      "name": "Muslim Community Center of Greater San Diego",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "14698 Via Fiesta, San Diego, CA 92127, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9919181,
+        "lon": -117.1647503
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbcF35in324ARCBcKMiyQI2U",
+      "rating": 4.8,
+      "user_ratings_total": 164
+    },
+    {
+      "id": "google_ChIJ52-wp2JV2YARuI8QpOnaCIY",
+      "name": "Afghan Community Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3333 Sandrock Rd, San Diego, CA 92123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8034722,
+        "lon": -117.1389556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ52-wp2JV2YARuI8QpOnaCIY",
+      "rating": 4.9,
+      "user_ratings_total": 88
+    },
+    {
+      "id": "google_ChIJL86yavBT2YARN1qKj61N5Ys",
+      "name": "Masjid Sunnah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4758 Federal Blvd, San Diego, CA 92102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7215628,
+        "lon": -117.0925925
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL86yavBT2YARN1qKj61N5Ys",
+      "rating": 4.7,
+      "user_ratings_total": 58
+    },
+    {
+      "id": "google_ChIJQadnz0r524ARYqAgCo9ICvM",
+      "name": "Islamic Center of Mira Mesa (Masjid Hamza)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9625 Black Mountain Rd # 204, San Diego, CA 92126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8979121,
+        "lon": -117.1228194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQadnz0r524ARYqAgCo9ICvM",
+      "rating": 4.7,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJ-y_-g6r424ARo4jVDeoLrhQ",
+      "name": "Darululoom San Diego Masjid (Crescent Academy)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "6916 Miramar Rd, San Diego, CA 92121, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8791119,
+        "lon": -117.1662528
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-y_-g6r424ARo4jVDeoLrhQ",
+      "rating": 4.9,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJWUualuVP2YARN76aWHZMsp8",
+      "name": "Islamic Center of Chula Vista",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1280 3rd Ave, Chula Vista, CA 91911, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6074282,
+        "lon": -117.0670192
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWUualuVP2YARN76aWHZMsp8",
+      "rating": 4.7,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJVeCpdSBU2YARDfcGQEVpuY0",
+      "name": "Masjid Al Huda [Huda Community Center]",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4175 Bonillo Dr, San Diego, CA 92115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7537636,
+        "lon": -117.0595421
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVeCpdSBU2YARDfcGQEVpuY0",
+      "rating": 4.5,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJsTRM9c9Z2YARYzbPwmeJvmI",
+      "name": "Islamic Center Of EL Cajon (Masjid Al Firdaws)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "557 El Cajon Blvd, El Cajon, CA 92020, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7900719,
+        "lon": -116.9720273
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsTRM9c9Z2YARYzbPwmeJvmI",
+      "rating": 4.8,
+      "user_ratings_total": 115
+    },
+    {
+      "id": "google_ChIJrVUFX1dZ2YARYKE4z-kEpj8",
+      "name": "Islamic Center of San Diego East County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "833 Broadway, El Cajon, CA 92021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8072742,
+        "lon": -116.9521604
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrVUFX1dZ2YARYKE4z-kEpj8",
+      "rating": 4.5,
+      "user_ratings_total": 82
+    },
+    {
+      "id": "google_ChIJBQdMrjJR2YAROQ4KAR0NfJ0",
+      "name": "Masjid Usman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7126 Westview Pl, Lemon Grove, CA 91945, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7414683,
+        "lon": -117.044692
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBQdMrjJR2YAROQ4KAR0NfJ0",
+      "rating": 5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJD8EZRoL024AR7CcTZa5JhtM",
+      "name": "Islamic Center Of Escondido (Masjid Dar Ul Arqam)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "318 W 6th Ave, Escondido, CA 92025, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1158144,
+        "lon": -117.0816013
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD8EZRoL024AR7CcTZa5JhtM",
+      "rating": 4.8,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJi0A5EQBV2YARZNxVixTyMSo",
+      "name": "SAIKCHAIL Dakshin Para Baitun Noor Jame Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "San Diego, CA 92101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.715738,
+        "lon": -117.1610838
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi0A5EQBV2YARZNxVixTyMSo",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJRePOJWpF2YARuSNOw9DgLps",
+      "name": "Islamic Center Of Eastlake",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "821 Kuhn Dr # 108, Chula Vista, CA 91914, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.6537851,
+        "lon": -116.967147
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRePOJWpF2YARuSNOw9DgLps",
+      "rating": 4.2,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJ84yLKRNR2YARep0KWCb1GRU",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "6601 Imperial Ave, San Diego, CA 92114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7103734,
+        "lon": -117.0559397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ84yLKRNR2YARep0KWCb1GRU",
+      "rating": 3.3,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJeav4mAFZ2YARip9YqlXma0w",
+      "name": "Kurdish Community Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1357 Broadway, El Cajon, CA 92021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8071344,
+        "lon": -116.9335738
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeav4mAFZ2YARip9YqlXma0w",
+      "rating": 4.8,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJ49atRyeL24ARgiAOY3ZpYDY",
+      "name": "Al Nour Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "125 W Mission Ave, Escondido, CA 92025, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1296186,
+        "lon": -117.0862575
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ49atRyeL24ARgiAOY3ZpYDY",
+      "rating": 5,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJvzO4Da5L2YARjL2BsR7oz4A",
+      "name": "Centro Islámico de Baja , Masjid Omar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "P.º Ensenada 1552, Playas de Tijuana, Sección Jardines, 22504 Tijuana, B.C., Mexico"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5216266,
+        "lon": -117.1158222
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvzO4Da5L2YARjL2BsR7oz4A",
+      "rating": 4.8,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJl422vVt13IAR0NB48aTP0SY",
+      "name": "Tri City Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2136 Industrial Ct, Vista, CA 92081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.169153,
+        "lon": -117.2186213
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl422vVt13IAR0NB48aTP0SY",
+      "rating": 4.8,
+      "user_ratings_total": 65
+    },
+    {
+      "id": "google_ChIJG0p8EAD_24ARNudhSJgz3gQ",
+      "name": "MAS Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7310 Miramar Rd suite 104, San Diego, CA 92126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.882741,
+        "lon": -117.1560714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG0p8EAD_24ARNudhSJgz3gQ",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJz9poObD424ARLY-QAyr_I48",
+      "name": "Ahmadiyya Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7576 Trade St Suite D, San Diego, CA 92121, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8906236,
+        "lon": -117.1606198
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJz9poObD424ARLY-QAyr_I48",
+      "rating": 5,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJ99zFlpTi24ARneus_cudSNI",
+      "name": "Noor Collective",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7969 Engineer Rd # 110, San Diego, CA 92111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8256093,
+        "lon": -117.1523744
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ99zFlpTi24ARneus_cudSNI",
+      "rating": 5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJq6q6GxlU2YARGv2DA7iVBI0",
+      "name": "San Diego Salafi Dawah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4990 University Ave # B, San Diego, CA 92105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7497902,
+        "lon": -117.0872688
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq6q6GxlU2YARGv2DA7iVBI0",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJWQkZxdX424ARdKJc7rrLqs0",
+      "name": "Shirdi Sai Baba Spiritual Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9252 Miramar Rd #6, San Diego, CA 92126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8944472,
+        "lon": -117.1287786
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWQkZxdX424ARdKJc7rrLqs0",
+      "rating": 4.9,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJzTM0ZaBJ2YARpMIHsJQeg2M",
+      "name": "Latina Muslim Foundation - Albergue Assabil/Mesquita Taybah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "Cristobal Colon 274, Zona Nte., 22000 Tijuana, B.C., Mexico"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.5386089,
+        "lon": -117.0494219
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzTM0ZaBJ2YARpMIHsJQeg2M",
+      "rating": 4.5,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJ14FicbjXmoARsekhmtvxF8k",
+      "name": "Faizan e Madinah Masjid & Dar-Ul-Madinah (Islamic Elementary School)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4110 N Freeway Blvd, Sacramento, CA 95834, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6442531,
+        "lon": -121.4782857
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ14FicbjXmoARsekhmtvxF8k",
+      "rating": 4.9,
+      "user_ratings_total": 188
+    },
+    {
+      "id": "google_ChIJ35NVPxDZmoARrRfno3ouPwc",
+      "name": "Imam Abu Hanifa Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "650 El Camino Ave, Sacramento, CA 95815, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6108485,
+        "lon": -121.451949
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ35NVPxDZmoARrRfno3ouPwc",
+      "rating": 4.8,
+      "user_ratings_total": 234
+    },
+    {
+      "id": "google_ChIJcSmn82TFmoARImP5nSqg3rs",
+      "name": "Masjid Annur Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "6990 65th St, Sacramento, CA 95823, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4997056,
+        "lon": -121.4394913
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcSmn82TFmoARImP5nSqg3rs",
+      "rating": 4.8,
+      "user_ratings_total": 241
+    },
+    {
+      "id": "google_ChIJremM_hrUmoARCKUni8_GwjI",
+      "name": "Masjid Aisha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "700 Glide Ave, West Sacramento, CA 95691, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5810853,
+        "lon": -121.5452382
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJremM_hrUmoARCKUni8_GwjI",
+      "rating": 4.7,
+      "user_ratings_total": 125
+    },
+    {
+      "id": "google_ChIJowJPQoDPmoARNio9RxKT_eQ",
+      "name": "Masjid Al Farooq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7486 Center Pkwy, Sacramento, CA 95823, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.48659809999999,
+        "lon": -121.4471886
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJowJPQoDPmoARNio9RxKT_eQ",
+      "rating": 4.8,
+      "user_ratings_total": 114
+    },
+    {
+      "id": "google_ChIJCwAq8n3XmoARlhnoLH677l4",
+      "name": "Masjid Millati Ibrahim Islamic Center مسجد ملة ابراهيم",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3449 Rio Linda Blvd, Sacramento, CA 95838, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.631403,
+        "lon": -121.4464112
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCwAq8n3XmoARlhnoLH677l4",
+      "rating": 4.4,
+      "user_ratings_total": 90
+    },
+    {
+      "id": "google_ChIJ2eW8CrHbmoAR9WFMQwyPy_s",
+      "name": "Ar-Rahman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3421 Arden Wy, Sacramento, CA 95825, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5968155,
+        "lon": -121.3838828
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2eW8CrHbmoAR9WFMQwyPy_s",
+      "rating": 4.8,
+      "user_ratings_total": 137
+    },
+    {
+      "id": "google_ChIJ0dZBdzbbmoARlmJIVKdLvYg",
+      "name": "Fulton Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1852 Fulton Ave, Sacramento, CA 95825, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5991721,
+        "lon": -121.4007443
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0dZBdzbbmoARlmJIVKdLvYg",
+      "rating": 4.9,
+      "user_ratings_total": 81
+    },
+    {
+      "id": "google_ChIJ45FwBbjPmoARC7PR5Kdhv3s",
+      "name": "Darul Uloom Al Sacramento, South Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7295 25th St, Sacramento, CA 95822, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.49269990000001,
+        "lon": -121.4791999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ45FwBbjPmoARC7PR5Kdhv3s",
+      "rating": 4.6,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJf-tYiLXXmoARyeEaBXFcGPc",
+      "name": "Tarbiya House Natomas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3780 Rosin Ct, Sacramento, CA 95834, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6364088,
+        "lon": -121.4729928
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf-tYiLXXmoARyeEaBXFcGPc",
+      "rating": 4.5,
+      "user_ratings_total": 120
+    },
+    {
+      "id": "google_ChIJdV87NgDbmoARUT9nD8xPqSY",
+      "name": "Masjid Al-Siddiq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2629 Alta Arden Expy, Sacramento, CA 95825, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.600303,
+        "lon": -121.3999779
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdV87NgDbmoARUT9nD8xPqSY",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJY71ioq7HmoARkrdoMOzq_BU",
+      "name": "MAS Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3155 Dwight Rd, Elk Grove, CA 95758, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.427053,
+        "lon": -121.461592
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY71ioq7HmoARkrdoMOzq_BU",
+      "rating": 4.8,
+      "user_ratings_total": 160
+    },
+    {
+      "id": "google_ChIJibBOKwDbmoARIMoqigDDyqQ",
+      "name": "SALAM Arden Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "985 Enterprise Dr, Sacramento, CA 95825, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5843607,
+        "lon": -121.4162958
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJibBOKwDbmoARIMoqigDDyqQ",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJZ3d2A0_EmoARWx9FKLfArSU",
+      "name": "Maunatul Muslimeen Society of CA (Islamic Center) - MMSC - Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7392 French Rd, Sacramento, CA 95828, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4894303,
+        "lon": -121.3906789
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ3d2A0_EmoARWx9FKLfArSU",
+      "rating": 4.8,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJW6ztJADbmoARxATzSiAvylM",
+      "name": "Masjid Imam-e-Azam (Rh)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9261 Folsom Blvd #300, Sacramento, CA 95826, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5637883,
+        "lon": -121.3563313
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW6ztJADbmoARxATzSiAvylM",
+      "rating": 5,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJvXwvOyfHmoARcwMAY6e5wx8",
+      "name": "Masjid Al Tawheed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9011 Elk Grove Florin Rd, Elk Grove, CA 95624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4299969,
+        "lon": -121.3712219
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvXwvOyfHmoARcwMAY6e5wx8",
+      "rating": 4.9,
+      "user_ratings_total": 164
+    },
+    {
+      "id": "google_ChIJjTo213bPmoARTksUMBW7QTY",
+      "name": "Darul Uloom Al-Islamiyah Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7285 25th St, Sacramento, CA 95822, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4939457,
+        "lon": -121.4793147
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjTo213bPmoARTksUMBW7QTY",
+      "rating": 4.5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJzZEAIQDfmoAR49txogfB9s0",
+      "name": "Islamic Center of North Sacramento",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5149 Madison Ave, Sacramento, CA 95841, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6612812,
+        "lon": -121.3445938
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzZEAIQDfmoAR49txogfB9s0",
+      "rating": 5,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJ77mbNQDZmoARU3KOJa49EjA",
+      "name": "Hamza Jamia Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2721 Fulton Ave, Sacramento, CA 95821, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6146749,
+        "lon": -121.4020094
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ77mbNQDZmoARU3KOJa49EjA",
+      "rating": 4.9,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJT5ST_izRmoARQhZ_H7m6K1Q",
+      "name": "DOCO - Downtown Commons",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "405 K St, Sacramento, CA 95814, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5817491,
+        "lon": -121.5013858
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT5ST_izRmoARQhZ_H7m6K1Q",
+      "rating": 4.4,
+      "user_ratings_total": 5830
+    },
+    {
+      "id": "google_ChIJad-NbWDdmoAROkCW8msrP7I",
+      "name": "Islamic Society of Rancho Cordova (Masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2934 Gold Pan Ct, Rancho Cordova, CA 95670, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5964433,
+        "lon": -121.2671807
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJad-NbWDdmoAROkCW8msrP7I",
+      "rating": 4.6,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJ7bJFBQDFmoARhZUDkbnw2dY",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "7040 Bandy Rd, Sacramento, CA 95829, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.50072189999999,
+        "lon": -121.3702369
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7bJFBQDFmoARhZUDkbnw2dY",
+      "rating": 4.2,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJD2BsXuLQhIARXsHaxF0N6OQ",
+      "name": "Islamic Center of Woodland",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "613 East St, Woodland, CA 95776, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.674282,
+        "lon": -121.765167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD2BsXuLQhIARXsHaxF0N6OQ",
+      "rating": 4.9,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJRa9dVwDbmoARk_-gbc4xGsE",
+      "name": "Masjid Ahlulbayt مسجد اهل‌البیت علیهما السلام",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "9261 Folsom Blvd #500, Sacramento, CA 95826, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5636261,
+        "lon": -121.3571782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRa9dVwDbmoARk_-gbc4xGsE",
+      "rating": 4.9,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJOzYfQ0bWmoARHcU6-0f5w00",
+      "name": "Natomas Marketplace",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "I-80 &, Truxel Rd, Sacramento, CA 95834, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.63506150000001,
+        "lon": -121.5047681
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOzYfQ0bWmoARHcU6-0f5w00",
+      "rating": 4.2,
+      "user_ratings_total": 6421
+    },
+    {
+      "id": "google_ChIJGdajNKfdmoARNf5PQ4DayCg",
+      "name": "Masjid Al Azhar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5715 Marconi Ave, Carmichael, CA 95608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6182832,
+        "lon": -121.3310193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGdajNKfdmoARNf5PQ4DayCg",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJp1akylvkmoAR63f_4a547zQ",
+      "name": "Muslim Community of Folsom",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "104 Woodmere Rd, Folsom, CA 95630, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6555641,
+        "lon": -121.186506
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp1akylvkmoAR63f_4a547zQ",
+      "rating": 4.7,
+      "user_ratings_total": 105
+    },
+    {
+      "id": "google_ChIJ4-KaeQDfmoARKTTox07c6O0",
+      "name": "Hazrat Bilal Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5330 Auburn Blvd, Sacramento, CA 95841, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6663216,
+        "lon": -121.3397742
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4-KaeQDfmoARKTTox07c6O0",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJvVSjTDrRmoARf9ewagO65fk",
+      "name": "SHAFFE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2011 4th St, Sacramento, CA 95818, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.570993,
+        "lon": -121.5060792
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvVSjTDrRmoARf9ewagO65fk",
+      "rating": 3.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJsSaeoU_gmoARXORLH1WH640",
+      "name": "Masjid Al-Fatimah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "8149 Hazel Ave, Orangevale, CA 95662, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7139018,
+        "lon": -121.2260821
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsSaeoU_gmoARXORLH1WH640",
+      "rating": 4.6,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJodJaLSPUmoAR2Fc73NkjhdA",
+      "name": "Riverpoint Marketplace",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "744-795, Ikea Ct, West Sacramento, CA 95605, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5891526,
+        "lon": -121.546179
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJodJaLSPUmoAR2Fc73NkjhdA",
+      "rating": 4.2,
+      "user_ratings_total": 3348
+    },
+    {
+      "id": "google_ChIJc0Ej3EUgm4ARCUj4L2HIIdA",
+      "name": "Islamic Society of Placer County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "616 Church St, Roseville, CA 95678, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7479851,
+        "lon": -121.2916402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc0Ej3EUgm4ARCUj4L2HIIdA",
+      "rating": 4.2,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJz1yEzIHZmoAR8jGee8CQwG8",
+      "name": "CMI",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2740 Fulton Ave, Sacramento, CA 95821, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6151553,
+        "lon": -121.4009424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJz1yEzIHZmoAR8jGee8CQwG8",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJremM_hrUmoARLCtSu11r8M8",
+      "name": "Afghan Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "700 Glide Ave, West Sacramento, CA 95691, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5810795,
+        "lon": -121.545397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJremM_hrUmoARLCtSu11r8M8",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJOTzGgQfZmoARP5cDJrAgV0g",
+      "name": "California Hazara Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3542 A St, North Highlands, CA 95660, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6681088,
+        "lon": -121.3810034
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOTzGgQfZmoARP5cDJrAgV0g",
+      "rating": 4.5,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJs3xwSn0KkIARcgit_Eq3ejc",
+      "name": "California Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "12882 Lower Sacramento Rd, Lodi, CA 95242, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.09530700000001,
+        "lon": -121.3092599
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs3xwSn0KkIARcgit_Eq3ejc",
+      "rating": 4.7,
+      "user_ratings_total": 98
+    },
+    {
+      "id": "google_ChIJb8dlYADdmoAR74F4y2CmvZI",
+      "name": "Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4836 Marconi Ave, Carmichael, CA 95608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6169583,
+        "lon": -121.3516709
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb8dlYADdmoAR74F4y2CmvZI",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJAwV1AvUfm4ARbdZ20RpmIYQ",
+      "name": "Tarbiya House Roseville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "10031 Foothills Blvd, Roseville, CA 95747, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8014319,
+        "lon": -121.3138344
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAwV1AvUfm4ARbdZ20RpmIYQ",
+      "rating": 4.7,
+      "user_ratings_total": 112
+    },
+    {
+      "id": "google_ChIJz5Nv6-zKj4ARb1HEnwgFrv0",
+      "name": "Islamic Community of Bay Area Bosniaks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "345 Northlake Dr, San Jose, CA 95117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3219935,
+        "lon": -121.9686263
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJz5Nv6-zKj4ARb1HEnwgFrv0",
+      "rating": 4.8,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJiZ5eO8cxjoARYTbKUV_S60c",
+      "name": "Blossom Valley Muslim Community Center (BVMCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5885 Santa Teresa Blvd, San Jose, CA 95123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2359108,
+        "lon": -121.8317964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiZ5eO8cxjoARYTbKUV_S60c",
+      "rating": 4.8,
+      "user_ratings_total": 110
+    },
+    {
+      "id": "google_ChIJZwzOFEEyjoARfosJVg2XMc8",
+      "name": "South Bay Afghan Islamic Community Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "32 Rancho Dr E, San Jose, CA 95111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2815252,
+        "lon": -121.8375302
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZwzOFEEyjoARfosJVg2XMc8",
+      "rating": 4.5,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJu0PCivwvjoARiU55Iz2oRzQ",
+      "name": "Silver Creek Musalla",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5978 Silver Creek Valley Rd #50, San Jose, CA 95138, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2580602,
+        "lon": -121.7847143
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu0PCivwvjoARiU55Iz2oRzQ",
+      "rating": 4.9,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJS2uZCwAzjoARzBKl4J8VEAM",
+      "name": "Afghan Musallah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "294 Barnard Ave # B, San Jose, CA 95125, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3062368,
+        "lon": -121.8759561
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS2uZCwAzjoARzBKl4J8VEAM",
+      "rating": 4.4,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJS3hwNA-6j4ARYyvN2QHcohU",
+      "name": "Mountain View-Palo Alto Mosque (MVPA Musalla)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "849 Independence Ave C, Mountain View, CA 94043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4164982,
+        "lon": -122.096837
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS3hwNA-6j4ARYyvN2QHcohU",
+      "rating": 4.5,
+      "user_ratings_total": 130
+    },
+    {
+      "id": "google_ChIJc6wq38A1joARHT1tGhAmFIs",
+      "name": "Alrasool Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "400 Budd Ave, Campbell, CA 95008, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2792403,
+        "lon": -121.957248
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc6wq38A1joARHT1tGhAmFIs",
+      "rating": 4.6,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJ4VrMVsfNj4AR5srdyfUPXSk",
+      "name": "ICNA Relief Bay Area",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "325 N 3rd St, San Jose, CA 95112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3419242,
+        "lon": -121.8924144
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4VrMVsfNj4AR5srdyfUPXSk",
+      "rating": 4.3,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJdcMduzvPj4ARjrpRLMpREN4",
+      "name": "The Milpitas Mosque - Baitul Baseer",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "926 Evans Rd, Milpitas, CA 95035, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4488435,
+        "lon": -121.8867738
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdcMduzvPj4ARjrpRLMpREN4",
+      "rating": 4.6,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJl_q099HJj4AR5xDLNJ7blWw",
+      "name": "MCA 3.0",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "3082 Alfred St, Santa Clara, CA 95054, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3784741,
+        "lon": -121.9592036
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl_q099HJj4AR5xDLNJ7blWw",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJL_m4lN61j4ARnB-cBIi-3S8",
+      "name": "West Valley Muslim Associatio",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "12372 Saratoga Sunnyvale Rd, Saratoga, CA 95070, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2884005,
+        "lon": -122.0320891
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL_m4lN61j4ARnB-cBIi-3S8",
+      "rating": 4.8,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJU_8CCJjMj4ARfFaS4nEundw",
+      "name": "St James Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "N 2nd St &, E St James St, San Jose, CA 95112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3388897,
+        "lon": -121.8911568
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU_8CCJjMj4ARfFaS4nEundw",
+      "rating": 3.5,
+      "user_ratings_total": 1410
+    },
+    {
+      "id": "google_ChIJbX3pFEEyjoAReWHVvTuSzKk",
+      "name": "Afghan Islamic Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "32 Rancho Dr E, San Jose, CA 95111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2815251,
+        "lon": -121.8375302
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbX3pFEEyjoAReWHVvTuSzKk",
+      "rating": 4.6,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJ71jUNSTKj4ARl0ekkFVfHbw",
+      "name": "Muslim American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2322 Walsh Ave, Santa Clara, CA 95051, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3683053,
+        "lon": -121.966099
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ71jUNSTKj4ARl0ekkFVfHbw",
+      "rating": 4.3,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJvzXOrs_Lj4AR0ihv8OStmpc",
+      "name": "Rahman Islamic Services",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2138 Main St Unit, 5, Santa Clara, CA 95050, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3618287,
+        "lon": -121.9574842
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvzXOrs_Lj4AR0ihv8OStmpc",
+      "rating": 4.9,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJ16BpokNhlIARCpunqHm08dQ",
+      "name": "Masjid Al-Aqabah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "949 Waterman Ave, Fresno, CA 93706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.723545,
+        "lon": -119.8043276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ16BpokNhlIARCpunqHm08dQ",
+      "rating": 4.8,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJCaF6tIVhlIARUVcGWcfW9-w",
+      "name": "Masjidut-Tauheed Islamic Center Fresno",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1155 Fulton St, Fresno, CA 93721, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7212825,
+        "lon": -119.7917676
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCaF6tIVhlIARUVcGWcfW9-w",
+      "rating": 3.7,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJZQuiDathlIARoJjxHBNbops",
+      "name": "Islamic center مسجد الرحمة",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "320 B St, Fresno, CA 93706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7212781,
+        "lon": -119.791708
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZQuiDathlIARoJjxHBNbops",
+      "rating": 4.9,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJPwzKMwBdlIARPJU1j-7rOs8",
+      "name": "My Deen Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1284 E Bullard Ave, Fresno, CA 93710, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8232968,
+        "lon": -119.7662392
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPwzKMwBdlIARPJU1j-7rOs8",
+      "rating": 4.9,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJDaMbHgBDlIARcdUk0vwFvzw",
+      "name": "(IFCF) Islamic Foundation of Clovis and Fresno - Masjid Al-Ghaffar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2111 E Nees Ave, Fresno, CA 93720, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8509783,
+        "lon": -119.7459735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDaMbHgBDlIARcdUk0vwFvzw",
+      "rating": 4.8,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJW2blKFYJlIAR6xR1wbaol5M",
+      "name": "Madera Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "16634 Rd 26, Madera, CA 93638, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.9910851,
+        "lon": -120.0747345
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW2blKFYJlIAR6xR1wbaol5M",
+      "rating": 4.8,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJkZKaebxplIARwwj3WvvdQq8",
+      "name": "Prophet Muhammad (s) Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "320 W Bedford Ave #104, Fresno, CA 93711, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.8462453,
+        "lon": -119.7967023
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkZKaebxplIARwwj3WvvdQq8",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJF8FPjIFglIARAGgVN023Bg0",
+      "name": "West Fresno Family Resource Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "700 Van Ness Ave Suite 201, Fresno, CA 93721, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7320866,
+        "lon": -119.7858041
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF8FPjIFglIARAGgVN023Bg0",
+      "rating": 4.4,
+      "user_ratings_total": 57
+    },
+    {
+      "id": "google_ChIJ0S1qF7NglIARbDdTsegi64g",
+      "name": "Noia Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "606 E Belmont Ave #101, Fresno, CA 93701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7501973,
+        "lon": -119.8040869
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0S1qF7NglIARbDdTsegi64g",
+      "rating": 4.3,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJgRi1ASVllIAR1GTzhMhIDEw",
+      "name": "Teague Community Resource Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "4718 N Polk Ave, Fresno, CA 93722, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.803458,
+        "lon": -119.8890922
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgRi1ASVllIAR1GTzhMhIDEw",
+      "rating": 4.7,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJzcKoFCRelIAR-wkm1nLS5-c",
+      "name": "Armenian Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2348 Ventura Street, Fresno, CA 93721, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.732579,
+        "lon": -119.781593
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzcKoFCRelIAR-wkm1nLS5-c",
+      "rating": 4.6,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJVyLjSG-1woARaSbYmx8G-Tk",
+      "name": "Momin Lodge",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1918 Artesia Blvd, Torrance, CA 90504, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.87236480000001,
+        "lon": -118.31231
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVyLjSG-1woARaSbYmx8G-Tk",
+      "rating": 4.4,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJzVlbXN-dj4ARx0q-pcRXQWk",
+      "name": "Masjid Ul Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "228 N Ellsworth Ave, San Mateo, CA 94401, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5711551,
+        "lon": -122.3289424
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzVlbXN-dj4ARx0q-pcRXQWk",
+      "rating": 4.5,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJ55xyiW2Gj4ARKeYb4q1TZgY",
+      "name": "Muhammad Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "5277 Foothill Blvd, Oakland, CA 94601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.77236800000001,
+        "lon": -122.201129
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ55xyiW2Gj4ARKeYb4q1TZgY",
+      "rating": 4.1,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJg2265r6Rj4ARJU3YKRMWun8",
+      "name": "Masjid Al-Farooq (San Leandro Islamic center مسجد الفاروق)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "16635 E 14th St, San Leandro, CA 94578, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6924239,
+        "lon": -122.1106157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg2265r6Rj4ARJU3YKRMWun8",
+      "rating": 4.9,
+      "user_ratings_total": 176
+    },
+    {
+      "id": "google_ChIJGQRYJraAhYARg8e-TXQ5BT0",
+      "name": "UCSF Medical Center at Mount Zion",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "1600 Divisadero St, San Francisco, CA 94115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7849743,
+        "lon": -122.4391133
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGQRYJraAhYARg8e-TXQ5BT0",
+      "rating": 3.9,
+      "user_ratings_total": 117
+    },
+    {
+      "id": "google_ChIJkQQVTZqAhYARHxPt2iJkm1Q",
+      "name": "Asian Art Museum",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "200 Larkin St, San Francisco, CA 94102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7802772,
+        "lon": -122.4161605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkQQVTZqAhYARHxPt2iJkm1Q",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJg2PL2lmHhYARLICti5gT40s",
+      "name": "UCSF Medical Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7631044,
+        "lon": -122.4578806
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg2PL2lmHhYARLICti5gT40s",
+      "rating": 3.5,
+      "user_ratings_total": 360
+    },
+    {
+      "id": "google_ChIJ0d8NvLWAhYARyhkR_BPz5Y0",
+      "name": "Kaiser Permanente San Francisco Medical Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7826471,
+        "lon": -122.4432378
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0d8NvLWAhYARyhkR_BPz5Y0",
+      "rating": 4.6,
+      "user_ratings_total": 1226
+    },
+    {
+      "id": "google_ChIJBw6mWyh-24ARfNYfTccbIPQ",
+      "name": "Islamic Center of Temecula Valley",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "31061 Nicolas Rd, Temecula, CA 92591, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5413959,
+        "lon": -117.1172301
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBw6mWyh-24ARfNYfTccbIPQ",
+      "rating": 4.6,
+      "user_ratings_total": 128
+    },
+    {
+      "id": "google_ChIJ-aKz5tTamoARjW03zutDOng",
+      "name": "Al-Misbaah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "10277 Iron Rock Way, Elk Grove, CA 95624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.3835618,
+        "lon": -121.3574655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-aKz5tTamoARjW03zutDOng",
+      "rating": 4.8,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJLaELRFzdmoARjnhDgd23nsg",
+      "name": "Sai Seva Sadan (Sri Sathya Sai Baba Center of Sacramento)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "10415 Old Placerville Rd, Sacramento, CA 95827, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5699039,
+        "lon": -121.3078105
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLaELRFzdmoARjnhDgd23nsg",
+      "rating": 4.9,
+      "user_ratings_total": 65
+    },
+    {
+      "id": "google_ChIJ9b8Z5f-7j4ARjVXQ4Jna0ts",
+      "name": "Hatemi Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "998 San Antonio Rd, Palo Alto, CA 94303, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.4252869,
+        "lon": -122.1007399
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9b8Z5f-7j4ARjVXQ4Jna0ts",
+      "rating": 3.3,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJXVhONSTKj4ARGNp_lwKZ90Q",
+      "name": "ICNA SF Bay Area",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "California",
+        "zip": "",
+        "full": "2996 Scott Blvd, Santa Clara, CA 95054, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.37588530000001,
+        "lon": -121.9599248
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXVhONSTKj4ARGNp_lwKZ90Q",
+      "rating": 4.9,
+      "user_ratings_total": 10
     }
-  ]
+  ],
+  "google_places_added": 13
 }

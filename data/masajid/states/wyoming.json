@@ -1,6 +1,6 @@
 {
   "state": "Wyoming",
-  "count": 2,
+  "count": 3,
   "generated_at": "2026-05-10 08:12:40 UTC",
   "masajid": [
     {
@@ -46,6 +46,31 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 491249732
+    },
+    {
+      "id": "google_ChIJX4PrkEA6b4cRYpeNKYTlOEo",
+      "name": "Islamic Center of Cheyenne Wy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Wyoming",
+        "zip": "",
+        "full": "6005 Weaver Rd, Cheyenne, WY 82009, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1740653,
+        "lon": -104.8181624
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX4PrkEA6b4cRYpeNKYTlOEo",
+      "rating": 4.9,
+      "user_ratings_total": 47
     }
-  ]
+  ],
+  "google_places_added": 1
 }

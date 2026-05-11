@@ -1,6 +1,6 @@
 {
   "state": "Iowa",
-  "count": 15,
+  "count": 23,
   "generated_at": "2026-05-10 05:51:33 UTC",
   "masajid": [
     {
@@ -332,6 +332,199 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1377091086
+    },
+    {
+      "id": "google_ChIJv2oDPk-X7ocRr966PyXUCxI",
+      "name": "Tawba Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "1411 21st St, Des Moines, IA 50311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.604372,
+        "lon": -93.6449112
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv2oDPk-X7ocRr966PyXUCxI",
+      "rating": 4.8,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJ0wpwF5Eh7IcReuz8jF1Vxo4",
+      "name": "Masjid Rahmat-e-Alam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "5006 EP True Pkwy, West Des Moines, IA 50265, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5711139,
+        "lon": -93.77248759999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0wpwF5Eh7IcReuz8jF1Vxo4",
+      "rating": 4.9,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJ83-AHiua7ocRh4jXgBNWDLg",
+      "name": "Bosnian Islamic Center ZemZem",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "3500 2nd Ave, Des Moines, IA 50313, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.6267432,
+        "lon": -93.62025609999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ83-AHiua7ocRh4jXgBNWDLg",
+      "rating": 5,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJgw6swlwh7IcRtbyviRZbqeg",
+      "name": "Sahabah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "1350 NW 138th St, Clive, IA 50325, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.60198159999999,
+        "lon": -93.8079089
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgw6swlwh7IcRtbyviRZbqeg",
+      "rating": 4.6,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJ0zqVg_ib7ocRjoWu13DIYjc",
+      "name": "Islamic & Cultural Center \"Bošnjak\" - Des Moines, IA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "17630 Bosniak Ln, Granger, IA 50109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7827018,
+        "lon": -93.8643454
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0zqVg_ib7ocRjoWu13DIYjc",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJd343SNMt7IcReiwQAPTUWmk",
+      "name": "Islamic and Cultural Center \"Bosniak\" - Es Selam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "17630 Bosniak lane, Granger, IA 50109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7812887,
+        "lon": -93.86592279999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd343SNMt7IcReiwQAPTUWmk",
+      "rating": 4.9,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJRdggSwDx5IcRxJCXMLO9CeI",
+      "name": "MAS Iowa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "2121 N Towne Ln NE, Cedar Rapids, IA 52402, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.0324862,
+        "lon": -91.67180510000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRdggSwDx5IcRxJCXMLO9CeI",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJrdM2iRr45IcRg0Da0KgMLds",
+      "name": "Islamic Services of America (ISA) Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Iowa",
+        "zip": "",
+        "full": "4362 16th Ave SW, Cedar Rapids, IA 52404, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.9644425,
+        "lon": -91.728366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrdM2iRr45IcRg0Da0KgMLds",
+      "rating": 4.4,
+      "user_ratings_total": 19
     }
-  ]
+  ],
+  "google_places_added": 1
 }

@@ -1,6 +1,6 @@
 {
   "state": "Utah",
-  "count": 7,
+  "count": 17,
   "generated_at": "2026-05-10 07:49:02 UTC",
   "masajid": [
     {
@@ -156,6 +156,247 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 51363895
+    },
+    {
+      "id": "google_ChIJU2NhdYuKUocRWx0oF9Adz_w",
+      "name": "Al-Huda Islamic Center of Salt Lake City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "470 E Stanley Ave, South Salt Lake, UT 84115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7014253,
+        "lon": -111.8777134
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU2NhdYuKUocRWx0oF9Adz_w",
+      "rating": 4.5,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJxaY2WWOIUocRcWprR5QwiEk",
+      "name": "Utah Islamic Center (UIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "984 W 9000 S, West Jordan, UT 84088, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.5880853,
+        "lon": -111.919264
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxaY2WWOIUocRcWprR5QwiEk",
+      "rating": 4.8,
+      "user_ratings_total": 228
+    },
+    {
+      "id": "google_ChIJlcS2YVqKUocR2w6ejbdfoH0",
+      "name": "Al-Zahra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "3832 S Main St, South Salt Lake, UT 84115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6878497,
+        "lon": -111.8914832
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlcS2YVqKUocR2w6ejbdfoH0",
+      "rating": 4,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJAVKNjMGLUocRHGnyozAaQ_w",
+      "name": "Alrasool Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "1247 W 4800 S, Taylorsville, UT 84123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6638053,
+        "lon": -111.927403
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAVKNjMGLUocRHGnyozAaQ_w",
+      "rating": 4.5,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJ--DZ546aTYcRfNjqrth6pks",
+      "name": "Utah Valley Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "352 E 900 S St, Orem, UT 84097, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.2804343,
+        "lon": -111.686649
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ--DZ546aTYcRfNjqrth6pks",
+      "rating": 4.6,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJufkTMsIEU4cR9kDOuaWiVZQ",
+      "name": "Al-Farooq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "225 N Main St, Clearfield, UT 84015, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1166687,
+        "lon": -112.0264539
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJufkTMsIEU4cR9kDOuaWiVZQ",
+      "rating": 4.4,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJvdvd2n71UocRa_uQK-19qm4",
+      "name": "Utah Muslim Civic League",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "46 W Broadway STE 143, Salt Lake City, UT 84101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7630237,
+        "lon": -111.8923191
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvdvd2n71UocRa_uQK-19qm4",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJhaHbNcX0UocRdiJRJrA1mOw",
+      "name": "Sorenson Unity Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "1383 S 900 W, Salt Lake City, UT 84104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7400692,
+        "lon": -111.9162754
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhaHbNcX0UocRdiJRJrA1mOw",
+      "rating": 4.7,
+      "user_ratings_total": 71
+    },
+    {
+      "id": "google_ChIJr_EYgKuLUocR-i4MtfSpu_o",
+      "name": "Sunnyvale Neighborhood Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "585 W 3900 S #2, Salt Lake City, UT 84123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.68665680000001,
+        "lon": -111.9085392
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJr_EYgKuLUocR-i4MtfSpu_o",
+      "rating": 4.5,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJR4-F076KUocRq7XtI7dS1_Y",
+      "name": "Hser Ner Moo Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Utah",
+        "zip": "",
+        "full": "2531 S 400 E, South Salt Lake, UT 84115, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7154521,
+        "lon": -111.877986
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR4-F076KUocRq7XtI7dS1_Y",
+      "rating": 4.2,
+      "user_ratings_total": 5
     }
-  ]
+  ],
+  "google_places_added": 10
 }

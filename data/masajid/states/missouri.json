@@ -1,6 +1,6 @@
 {
   "state": "Missouri",
-  "count": 34,
+  "count": 62,
   "generated_at": "2026-05-10 06:33:16 UTC",
   "masajid": [
     {
@@ -750,6 +750,679 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 496067046
+    },
+    {
+      "id": "google_ChIJBzNYq9Kz2IcR3-6_d_XLNNE",
+      "name": "Al Taqwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "1947 Gravois Ave, St. Louis, MO 63104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6074198,
+        "lon": -90.2167063
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBzNYq9Kz2IcR3-6_d_XLNNE",
+      "rating": 5,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJYRgcLdy12IcRBRkB027xZbw",
+      "name": "St. Louis Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "9528 Reavis Barracks Rd, St. Louis, MO 63123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5359924,
+        "lon": -90.32329399999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYRgcLdy12IcRBRkB027xZbw",
+      "rating": 4.8,
+      "user_ratings_total": 136
+    },
+    {
+      "id": "google_ChIJ85C78lLJ2IcRNJYKIyXh-z8",
+      "name": "Islamic Center of South County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "627 Forder Rd, St. Louis, MO 63129, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.4907795,
+        "lon": -90.3134962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ85C78lLJ2IcRNJYKIyXh-z8",
+      "rating": 4.6,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJ13ADowLJ2IcR0dIX-aDTxdQ",
+      "name": "Ahiska Turkish Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "3400 Lemay Ferry Rd, St. Louis, MO 63125, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5117986,
+        "lon": -90.31765759999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ13ADowLJ2IcR0dIX-aDTxdQ",
+      "rating": 5,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJ1zrNVwC32IcRajXADjzrN6E",
+      "name": "Resalat Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2716 Telegraph Rd, St. Louis, MO 63125, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.5095073,
+        "lon": -90.2923661
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1zrNVwC32IcRajXADjzrN6E",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJT6nLNX7wwIcRQvtIL_UZAW0",
+      "name": "Al Taqwa Islamic Center of Kansas City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "1340 Admiral Blvd, Kansas City, MO 64106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1056161,
+        "lon": -94.5651788
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT6nLNX7wwIcRQvtIL_UZAW0",
+      "rating": 4.8,
+      "user_ratings_total": 111
+    },
+    {
+      "id": "google_ChIJhznR4o76wIcRg8C_b5jw1kw",
+      "name": "Masjidu Nuur Islamic Center (Ahlu Sunnah)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2639E E 11th St, Kansas City, MO 64127, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1002507,
+        "lon": -94.5493655
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhznR4o76wIcRg8C_b5jw1kw",
+      "rating": 4.8,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJ2RTK2K76wIcR_6V1hQ7ok9k",
+      "name": "Masjid Anas Bin Malik Kansas City MO",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2904 Park Ave, Kansas City, MO 64109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0733212,
+        "lon": -94.5564016
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2RTK2K76wIcR_6V1hQ7ok9k",
+      "rating": 4.7,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJUdc-C8P5wIcR6xZfMwfoMqg",
+      "name": "Islamic Center of North Kansas City - Masjid Al Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "4342 N Antioch Rd, Kansas City, MO 64117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1735991,
+        "lon": -94.5498033
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUdc-C8P5wIcR6xZfMwfoMqg",
+      "rating": 4.7,
+      "user_ratings_total": 71
+    },
+    {
+      "id": "google_ChIJ_b439t_xwIcRdEJ_HsjUzRg",
+      "name": "Kansas City Islamic Center (KCIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "923 S Bethany St, Kansas City, KS 66105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0814205,
+        "lon": -94.6383894
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_b439t_xwIcRdEJ_HsjUzRg",
+      "rating": 4.8,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJEX_9KunlwIcRPAQo9tZ-nmA",
+      "name": "Masjid Al-Khair",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "6920 Prospect Ave, Kansas City, MO 64132, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0009334,
+        "lon": -94.55704159999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEX_9KunlwIcRPAQo9tZ-nmA",
+      "rating": 4.8,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJ169MmWXlwIcRfZEpoAOBTII",
+      "name": "Omar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2700 E 49th St, Kansas City, MO 64130, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0375585,
+        "lon": -94.5531541
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ169MmWXlwIcRfZEpoAOBTII",
+      "rating": 4.6,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJkau-t_D6wIcRfO4yCzNcxz0",
+      "name": "Al-Kahf Islamic Center of Kansas City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "4206 E 9th St, Kansas City, MO 64124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1021587,
+        "lon": -94.5327002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkau-t_D6wIcRfO4yCzNcxz0",
+      "rating": 4.7,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJc8YHAADvwIcRHeqPjkwkKBo",
+      "name": "Bait-ur-Raheem Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "1000 County Line Rd, Kansas City, KS 66103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.044324,
+        "lon": -94.63533580000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc8YHAADvwIcRHeqPjkwkKBo",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJp9EY9u35wIcRYrMACAGaKbg",
+      "name": "Islamic Center Bosnjak",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "3607 N Antioch Rd, Kansas City, MO 64117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1595418,
+        "lon": -94.5460643
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp9EY9u35wIcRYrMACAGaKbg",
+      "rating": 5,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJo_zMTpj7wIcRxpl_-Mj6fCM",
+      "name": "Noor Ul Yaqeen Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "134 N Hardesty Ave, Kansas City, MO 64123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1140019,
+        "lon": -94.5191976
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo_zMTpj7wIcRxpl_-Mj6fCM",
+      "rating": 4.8,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJGf0dcbi_wIcRjj-bYPJ8l6c",
+      "name": "Islamic Center of Kansas (ICK)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "14750 W 143rd St, Olathe, KS 66062, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8698137,
+        "lon": -94.7568752
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGf0dcbi_wIcRjj-bYPJ8l6c",
+      "rating": 4.9,
+      "user_ratings_total": 167
+    },
+    {
+      "id": "google_ChIJHxazgk3lwIcRlyuq-lGbQ4Q",
+      "name": "Al-Haqq Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "6941 Prospect Ave, Kansas City, MO 64132, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0001832,
+        "lon": -94.5565369
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHxazgk3lwIcRlyuq-lGbQ4Q",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ9_JxI4GLwIcRyWu1zkWN6Lg",
+      "name": "Az-Zahra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "8350 Leavenworth Rd, Kansas City, KS 66109, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1442011,
+        "lon": -94.77289139999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9_JxI4GLwIcRyWu1zkWN6Lg",
+      "rating": 4.7,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJL-IoZBSTwIcRrcmEKfQQXwE",
+      "name": "Shawnee Mission Education Islamic Center (Masjid Maryam)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "4849 England St, Merriam, KS 66203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0406739,
+        "lon": -94.6926505
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL-IoZBSTwIcRrcmEKfQQXwE",
+      "rating": 4.9,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJpc62Kon6wIcRFe9dWXYeGYs",
+      "name": "Burmese Muslim Association of Kansas City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2637 E 9th St, Kansas City, MO 64124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1022748,
+        "lon": -94.5494871
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpc62Kon6wIcRFe9dWXYeGYs",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJFb2EmBEbwYcRtVqoGcWkXRA",
+      "name": "Islamic Center Of Blue Springs",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "217 SE South Ave, Blue Springs, MO 64014, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0130159,
+        "lon": -94.2624843
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFb2EmBEbwYcRtVqoGcWkXRA",
+      "rating": 4.6,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJi2_bDNvmwIcREeh2RsyOuIw",
+      "name": "Muslim American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "9520 James A Reed Rd, Kansas City, MO 64134, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9506085,
+        "lon": -94.49472899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi2_bDNvmwIcREeh2RsyOuIw",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJw2fE9r58wIcROR2nkM8t9oo",
+      "name": "Islamic Center of Leavenworth",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "545 Oregon St, Leavenworth, KS 66048, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2829801,
+        "lon": -94.91147339999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw2fE9r58wIcROR2nkM8t9oo",
+      "rating": 5,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJ___PQXPtwIcR47g7NFk8I3A",
+      "name": "Shawnee Mission Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "4849 England Street Merriam Shawnee Mission, Merriam, KS 66203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0406739,
+        "lon": -94.6926505
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ___PQXPtwIcR47g7NFk8I3A",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJ2x8ipQyt2IcRM8EtLGY_Jb8",
+      "name": "Muhammad's Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "2216 State St, East St Louis, IL 62205, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.6167834,
+        "lon": -90.13007879999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2x8ipQyt2IcRM8EtLGY_Jb8",
+      "rating": 4.3,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJnZccI-DT2IcRZHOi76G_Xgs",
+      "name": "AlManara Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "929 Big Bend Rd, Ballwin, MO 63021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.56858829999999,
+        "lon": -90.5083882
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnZccI-DT2IcRZHOi76G_Xgs",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJafU3nlvwwIcRDvIYHumDiOc",
+      "name": "Grace & Holy Trinity Cathedral",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Missouri",
+        "zip": "",
+        "full": "415 W 13th St, Kansas City, MO 64105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0980056,
+        "lon": -94.58944869999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJafU3nlvwwIcRDvIYHumDiOc",
+      "rating": 4.6,
+      "user_ratings_total": 107
     }
-  ]
+  ],
+  "google_places_added": 3
 }

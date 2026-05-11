@@ -1,6 +1,6 @@
 {
   "state": "Idaho",
-  "count": 2,
+  "count": 6,
   "generated_at": "2026-05-10 05:39:55 UTC",
   "masajid": [
     {
@@ -46,6 +46,103 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 547496501
+    },
+    {
+      "id": "google_ChIJl2z14MJXrlQRCtQIGFZrbrU",
+      "name": "Islamic Society of Idaho - Abu Bakr Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Idaho",
+        "zip": "",
+        "full": "5813 W Franklin St, Boise, ID 83709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6022353,
+        "lon": -116.2541146
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl2z14MJXrlQRCtQIGFZrbrU",
+      "rating": 4.1,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJEww_Npz4rlQReP9dhOyDdyM",
+      "name": "Imam Hussain Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Idaho",
+        "zip": "",
+        "full": "348 N Orchard St, Boise, ID 83706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6078277,
+        "lon": -116.2426841
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEww_Npz4rlQReP9dhOyDdyM",
+      "rating": 4.1,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJ-zdAEfZRrlQRhi5U3S2tsDQ",
+      "name": "Islamic Community of Bosniaks in Boise",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Idaho",
+        "zip": "",
+        "full": "6250 S Cloverdale Rd, Boise, ID 83709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5461394,
+        "lon": -116.3337974
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-zdAEfZRrlQRhi5U3S2tsDQ",
+      "rating": 4.6,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJLaKxsK5VrlQREj9Ixy-9mnE",
+      "name": "Imam Al Mahdi Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Idaho",
+        "zip": "",
+        "full": "4243 N Cloverdale Rd, Boise, ID 83713, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.6438148,
+        "lon": -116.3350345
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLaKxsK5VrlQREj9Ixy-9mnE",
+      "rating": 4,
+      "user_ratings_total": 16
     }
-  ]
+  ],
+  "google_places_added": 4
 }

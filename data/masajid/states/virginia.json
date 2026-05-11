@@ -1,6 +1,6 @@
 {
   "state": "Virginia",
-  "count": 85,
+  "count": 134,
   "generated_at": "2026-05-10 07:56:42 UTC",
   "masajid": [
     {
@@ -1872,6 +1872,1183 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1411342573
+    },
+    {
+      "id": "google_ChIJNRIu7AoRsYkR99MFMf2y6WY",
+      "name": "Al Rahman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1320 Hull St, Richmond, VA 23224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5198491,
+        "lon": -77.4453722
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNRIu7AoRsYkR99MFMf2y6WY",
+      "rating": 4.8,
+      "user_ratings_total": 99
+    },
+    {
+      "id": "google_ChIJxTGb_e4QsYkRKHmXHJZT8oM",
+      "name": "Bilal Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "400 Chimborazo Blvd, Richmond, VA 23223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5278153,
+        "lon": -77.4099361
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxTGb_e4QsYkRKHmXHJZT8oM",
+      "rating": 4.5,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJrxOo384SsYkRSfw0fHaQkfI",
+      "name": "Islamic Center of Virginia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1241 Buford Rd, North Chesterfield, VA 23235, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5151549,
+        "lon": -77.5534873
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrxOo384SsYkRSfw0fHaQkfI",
+      "rating": 4.8,
+      "user_ratings_total": 194
+    },
+    {
+      "id": "google_ChIJkcsjd8gVsYkRtsITqMEHx08",
+      "name": "Islamic Center of Henrico & Masjid Al-Falah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "7705 Impala Dr, Richmond, VA 23228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6166004,
+        "lon": -77.4910068
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkcsjd8gVsYkRtsITqMEHx08",
+      "rating": 4.8,
+      "user_ratings_total": 215
+    },
+    {
+      "id": "google_ChIJxwntNQARsYkRqfRL2Re1MY4",
+      "name": "École De BaZ",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "Richmond, VA 23219, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5406676,
+        "lon": -77.4361034
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxwntNQARsYkRqfRL2Re1MY4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJQ9UihU9tsYkRYdZxBt_ImuM",
+      "name": "Islamic Masjid of Richmond",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "9550 Midlothian Tpke, Richmond, VA 23235, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5028237,
+        "lon": -77.5726893
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ9UihU9tsYkRYdZxBt_ImuM",
+      "rating": 4.7,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJq65pcIAXsYkRIPOHXVnba8g",
+      "name": "Masjid Abu Bakr As-Siddeeq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2211 North Ave, Richmond, VA 23222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.56323,
+        "lon": -77.43297849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq65pcIAXsYkRIPOHXVnba8g",
+      "rating": 5,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJYWaXGgAVsYkRl4IF-d1ubew",
+      "name": "masjid al rahma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "8401 Three Chopt Rd, Richmond, VA 23229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.601181,
+        "lon": -77.55372140000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYWaXGgAVsYkRl4IF-d1ubew",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJAQAAABATsYkRPPUNF2x_qUg",
+      "name": "Ahmadiyya Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2617 Turner Rd, Richmond, VA 23224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.470243,
+        "lon": -77.5234029
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAQAAABATsYkRPPUNF2x_qUg",
+      "rating": 4.7,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJNYEVBW13sYkRaa2y2HsQ_sg",
+      "name": "Muslim Community Center of Chesterfield",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "16831 Hull Street Rd, Moseley, VA 23120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3927726,
+        "lon": -77.7248001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNYEVBW13sYkRaa2y2HsQ_sg",
+      "rating": 4.7,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJA-B55QEHsYkRcxprPw-8Sfo",
+      "name": "Tri-Cities Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1710 E Hundred Rd, Chester, VA 23836, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.3366652,
+        "lon": -77.32757959999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA-B55QEHsYkRcxprPw-8Sfo",
+      "rating": 4.5,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJvynrO9ilsYkRuiwboLyiR2U",
+      "name": "Petersburg Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "630 S Jones St, Petersburg, VA 23803, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2174845,
+        "lon": -77.4124823
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvynrO9ilsYkRuiwboLyiR2U",
+      "rating": 4.5,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJD_W4YpeosYkR-FUCXWj1-ZA",
+      "name": "Petersburg Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2219 E Washington St, Petersburg, VA 23803, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.2396909,
+        "lon": -77.3669166
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD_W4YpeosYkR-FUCXWj1-ZA",
+      "rating": 4.7,
+      "user_ratings_total": 95
+    },
+    {
+      "id": "google_ChIJbx-yzphBsYkR8xbQeuL2dUA",
+      "name": "Richmond Ismaili Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "11529 Nuckols Rd, Glen Allen, VA 23059, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6877498,
+        "lon": -77.59307950000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbx-yzphBsYkR8xbQeuL2dUA",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJg_juGJr6tYkRvFJ20zOjajw",
+      "name": "Muslim Community Center Winchester Area",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "420 Stephenson Rd, Stephenson, VA 22656, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2319961,
+        "lon": -78.10074639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg_juGJr6tYkRvFJ20zOjajw",
+      "rating": 4.8,
+      "user_ratings_total": 58
+    },
+    {
+      "id": "google_ChIJy4gJ1SDDtokRWUbegB7byP4",
+      "name": "Fredericksburg Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "215 Chatham Heights Rd, Fredericksburg, VA 22405, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.309427,
+        "lon": -77.4496027
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy4gJ1SDDtokRWUbegB7byP4",
+      "rating": 4.8,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJy82PCaSDuokRPZaBpECTn-g",
+      "name": "Peninsula Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1217 Todds Ln, Hampton, VA 23666, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.0438126,
+        "lon": -76.43091749999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy82PCaSDuokRPZaBpECTn-g",
+      "rating": 4.9,
+      "user_ratings_total": 138
+    },
+    {
+      "id": "google_ChIJ__-PSmQUsYkRfSaMqV1ftjA",
+      "name": "EWISH COMMUNITY CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5403 Monument Ave, Richmond, VA 23226, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.58117439999999,
+        "lon": -77.50761179999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ__-PSmQUsYkRfSaMqV1ftjA",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJF9GrxnQRsYkRIlTo1RLQvJU",
+      "name": "Sacred Heart Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1400 Perry St, Richmond, VA 23224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5220796,
+        "lon": -77.4482957
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF9GrxnQRsYkRIlTo1RLQvJU",
+      "rating": 4.7,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJ17LQ3lURsYkRnsyjTMtPNpc",
+      "name": "Metropolitan Community Church of Richmond",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2501 Park Ave, Richmond, VA 23220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5573801,
+        "lon": -77.4687065
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ17LQ3lURsYkRnsyjTMtPNpc",
+      "rating": 4.7,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJGY3AsFhTtokRSlLeLMKCO-c",
+      "name": "Al Iman Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "9502 Richmond Hwy, Lorton, VA 22079, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7007485,
+        "lon": -77.2114933
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGY3AsFhTtokRSlLeLMKCO-c",
+      "rating": 4.8,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJU3q244Wvt4kRe7ESSeLA6pA",
+      "name": "AMANA Sunni Madani community center of Alexandria. Last green building on driveway",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "8127 Richmond Hwy, Alexandria, VA 22309, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.736944,
+        "lon": -77.092131
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU3q244Wvt4kRe7ESSeLA6pA",
+      "rating": 5,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJI6pK4Iy_uokRuliHSMaM7ao",
+      "name": "Crescent Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2480 Salem Rd, Virginia Beach, VA 23456, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.7552678,
+        "lon": -76.1081643
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI6pK4Iy_uokRuliHSMaM7ao",
+      "rating": 4.8,
+      "user_ratings_total": 204
+    },
+    {
+      "id": "google_ChIJ2RtayhWut4kRNZnQNbBijg8",
+      "name": "ICNA Virgina Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2913 Woodlawn Trail, Alexandria, VA 22306, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7507105,
+        "lon": -77.0821886
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2RtayhWut4kRNZnQNbBijg8",
+      "rating": 4.9,
+      "user_ratings_total": 224
+    },
+    {
+      "id": "google_ChIJZU77GFVpsYkRJmD5DDB6ZU4",
+      "name": "Zahra Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "963 Manakin Rd, Manakin-Sabot, VA 23103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.629719,
+        "lon": -77.7082314
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZU77GFVpsYkRJmD5DDB6ZU4",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJG_BJfk8RsYkRPz-WBZ8Nui0",
+      "name": "Congregation Beth Ahabah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1121West, 1121 W Franklin St, Richmond, VA 23220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5509311,
+        "lon": -77.455602
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG_BJfk8RsYkRPz-WBZ8Nui0",
+      "rating": 4.5,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJWV_cCDddsYkRmRlvoY1nJSM",
+      "name": "Imam Mehdi Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2035 Shallow Well Rd, Manakin-Sabot, VA 23103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7005517,
+        "lon": -77.75539979999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWV_cCDddsYkRmRlvoY1nJSM",
+      "rating": 4.6,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJGaiwy80VsYkRoHOb-Nzs8D8",
+      "name": "Muslim Prayer Room for Salat",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "1908 Staples Mill Rd, Richmond, VA 23230, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.5824834,
+        "lon": -77.4928056
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGaiwy80VsYkRoHOb-Nzs8D8",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJA8XQ5LCzt4kRbD40joCNGEs",
+      "name": "Darul Hikmah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5220 Fillmore Ave, Alexandria, VA 22311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8386783,
+        "lon": -77.1187407
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA8XQ5LCzt4kRbD40joCNGEs",
+      "rating": 4.9,
+      "user_ratings_total": 93
+    },
+    {
+      "id": "google_ChIJ98sC8mUVsYkRPE_u7lE8Ovo",
+      "name": "Al Noor Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2818 Old Hungary Rd, Henrico, VA 23228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.6459848,
+        "lon": -77.4780116
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ98sC8mUVsYkRPE_u7lE8Ovo",
+      "rating": 1,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJx_qbY1Ctt4kRXafDSP5aR9Q",
+      "name": "Madina Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "6805 Backlick Rd, Springfield, VA 22150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7707861,
+        "lon": -77.1836306
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx_qbY1Ctt4kRXafDSP5aR9Q",
+      "rating": 4.8,
+      "user_ratings_total": 245
+    },
+    {
+      "id": "google_ChIJXVpkV7LvtYkRdeLKpvqqMoI",
+      "name": "Islamic Society of Winchester",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "601 Woodstock Ln, Winchester, VA 22601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1824448,
+        "lon": -78.1534325
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXVpkV7LvtYkRdeLKpvqqMoI",
+      "rating": 4.6,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJ66C3o7Kzt4kRea3MBx3wUTs",
+      "name": "UCM Mosque (Masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "4600 Duke St STE 332, Alexandria, VA 22304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8112792,
+        "lon": -77.1119897
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ66C3o7Kzt4kRea3MBx3wUTs",
+      "rating": 4.4,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJl2nIW_Cyt4kRQHNIy86vKnc",
+      "name": "Muslim American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "6408 Edsall Rd, Alexandria, VA 22312, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.80509,
+        "lon": -77.1577497
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl2nIW_Cyt4kRQHNIy86vKnc",
+      "rating": 4.8,
+      "user_ratings_total": 273
+    },
+    {
+      "id": "google_ChIJQypWmdyzt4kREONcnNwvFEM",
+      "name": "Iqra Learning Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5703 Edsall Rd, Alexandria, VA 22304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8080959,
+        "lon": -77.1311687
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQypWmdyzt4kREONcnNwvFEM",
+      "rating": 4.8,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJZXeZ64Oyt4kRPT8jNDblz5Y",
+      "name": "Umm Ul Qura Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "6287 Franconia Rd, Alexandria, VA 22310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7798192,
+        "lon": -77.1554467
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZXeZ64Oyt4kRPT8jNDblz5Y",
+      "rating": 4.9,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJHQIvNemyt4kR9G-L1b4fSq0",
+      "name": "Imam al-Asr Masjid (Shahe Najaf Islamic Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5501 Cherokee Ave, Alexandria, VA 22312, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8039777,
+        "lon": -77.1658087
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHQIvNemyt4kR9G-L1b4fSq0",
+      "rating": 4.6,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJY9fFEfStt4kRbVGDwvVQbv0",
+      "name": "Baitul Ma'mur Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "8629-A Engleside Office Park, Alexandria, VA 22309, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7234399,
+        "lon": -77.1181074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY9fFEfStt4kRbVGDwvVQbv0",
+      "rating": 4.8,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJp_GHTgCxt4kRvDC3FunGXjI",
+      "name": "Daata Islamic Centre",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "3435 VA-644, Alexandria, VA 22310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7918095,
+        "lon": -77.0922466
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp_GHTgCxt4kRvDC3FunGXjI",
+      "rating": 4.8,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJIcXYVoKxt4kRjXBP-JkD94U",
+      "name": "Islamic Relief USA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "3655 Wheeler Ave, Alexandria, VA 22304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.807902,
+        "lon": -77.09407399999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIcXYVoKxt4kRjXBP-JkD94U",
+      "rating": 4.8,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJxQqTOU2yt4kRWL_zSNpNJ5E",
+      "name": "MakeSpace",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "6142 Franconia Rd, Alexandria, VA 22310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7818466,
+        "lon": -77.1498421
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxQqTOU2yt4kRWL_zSNpNJ5E",
+      "rating": 4.6,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJ388tdJ9LtokRwgEp_cNiKig",
+      "name": "Islamic Heritage Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "8900 Lee Hwy a, Fairfax, VA 22031, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8730966,
+        "lon": -77.25140139999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ388tdJ9LtokRwgEp_cNiKig",
+      "rating": 4.8,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJb-9XqJ2xt4kRgmWnOded-ww",
+      "name": "Selam Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5629 Columbia Pike unite 3415-1, Falls Church, VA 22041, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.851886,
+        "lon": -77.12467699999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb-9XqJ2xt4kRgmWnOded-ww",
+      "rating": 4.7,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJ4bovSvOzt4kRivGWCcKXd4E",
+      "name": "Moroccan American Community Organization",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "5667 Columbia Pike Unit 200, Falls Church, VA 22041, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.851565,
+        "lon": -77.124494
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4bovSvOzt4kRivGWCcKXd4E",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJHWLgzapTtokRgVJsq140zsk",
+      "name": "AIM-Masjid Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "8608 Pohick Rd, Springfield, VA 22153, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.743412,
+        "lon": -77.242376
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHWLgzapTtokRgVJsq140zsk",
+      "rating": 4.8,
+      "user_ratings_total": 241
+    },
+    {
+      "id": "google_ChIJFYIN-EGlt4kR9z0m7USKKFI",
+      "name": "Masjid Hikmah - Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "11064 Livingston Rd, Fort Washington, MD 20744, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7377382,
+        "lon": -76.9937076
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFYIN-EGlt4kR9z0m7USKKFI",
+      "rating": 4.8,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJ98xdAXCzt4kRUFille0A9Vw",
+      "name": "Somali Mall ( Islamic stores )",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "3536 Carlin Springs Rd 8 North, Bailey's Crossroads, VA 22041, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8473393,
+        "lon": -77.12555619999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ98xdAXCzt4kRUFille0A9Vw",
+      "rating": 4.4,
+      "user_ratings_total": 119
+    },
+    {
+      "id": "google_ChIJEV8YiPpLtokRSSibIE7Bxhw",
+      "name": "Hilal Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "2810 Old Lee Hwy STE 100, Fairfax, VA 22031, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.87602529999999,
+        "lon": -77.2406023
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEV8YiPpLtokRSSibIE7Bxhw",
+      "rating": 5,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJMdkHiX5NtokRcuBc18befWo",
+      "name": "Dar Al Nur",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Virginia",
+        "zip": "",
+        "full": "7501 Little River Turnpike STE G2, Annandale, VA 22003, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8310168,
+        "lon": -77.2047067
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMdkHiX5NtokRcuBc18befWo",
+      "rating": 3.3,
+      "user_ratings_total": 16
     }
-  ]
+  ],
+  "google_places_added": 49
 }

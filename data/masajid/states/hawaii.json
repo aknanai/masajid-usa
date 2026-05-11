@@ -1,6 +1,6 @@
 {
   "state": "Hawaii",
-  "count": 1,
+  "count": 3,
   "generated_at": "2026-05-10 05:35:48 UTC",
   "masajid": [
     {
@@ -24,6 +24,55 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 155155850
+    },
+    {
+      "id": "google_ChIJJ8qpYRBvAHwRbsq0d6GsPPs",
+      "name": "The Honolulu Mosque - Ahmadiyya Muslim Community of Hawai’i",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Hawaii",
+        "zip": "",
+        "full": "650 Kohou St #1b, Honolulu, HI 96817, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 21.323272,
+        "lon": -157.8723944
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJ8qpYRBvAHwRbsq0d6GsPPs",
+      "rating": 4.6,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJYUc8hPFtAHwRw5y7AYVFFCA",
+      "name": "Chabad of Hawaii",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Hawaii",
+        "zip": "",
+        "full": "2241 Kapiolani Blvd 6th floor, Honolulu, HI 96826, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 21.2880386,
+        "lon": -157.8294771
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYUc8hPFtAHwRw5y7AYVFFCA",
+      "rating": 4.7,
+      "user_ratings_total": 74
     }
-  ]
+  ],
+  "google_places_added": 2
 }

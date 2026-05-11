@@ -1,0 +1,32 @@
+{
+  "state": "Montana",
+  "count": 1,
+  "generated_at": "2026-05-11 03:25:58 UTC",
+  "masajid": [
+    {
+      "id": "google_ChIJzYrHz_B7SFMRooqeZ_EMlLs",
+      "name": "Billings Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Montana",
+        "zip": "",
+        "full": "630 Logan Ln, Billings, MT 59105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.8209271,
+        "lon": -108.4695101
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzYrHz_B7SFMRooqeZ_EMlLs",
+      "rating": 4.9,
+      "user_ratings_total": 10
+    }
+  ],
+  "google_places_added": 1
+}

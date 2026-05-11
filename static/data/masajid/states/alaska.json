@@ -1,6 +1,6 @@
 {
   "state": "Alaska",
-  "count": 3,
+  "count": 19,
   "generated_at": "2026-05-10 05:02:12 UTC",
   "masajid": [
     {
@@ -68,6 +68,391 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1082829360
+    },
+    {
+      "id": "google_ChIJN0EzDwmXyFYRXSMDSk2Ltd0",
+      "name": "Muslim Community of Alaska, Inc (Masjid Ash-Shura of Alaska)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "927 W Fireweed Ln Unit A, Anchorage, AK 99503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 61.19911759999999,
+        "lon": -149.9004439
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN0EzDwmXyFYRXSMDSk2Ltd0",
+      "rating": 4.8,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJZd2S4cxEMlERG_CFuPKYieo",
+      "name": "Mosque / Masjid in Fairbanks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "3535 College Rd, Fairbanks, AK 99709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.85572259999999,
+        "lon": -147.8097371
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZd2S4cxEMlERG_CFuPKYieo",
+      "rating": 4.5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ-bINXidFMlERvGSkfgB85aY",
+      "name": "Congregation Or HaTzafon",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "1744 Aurora Dr, Fairbanks, AK 99709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.86001999999999,
+        "lon": -147.762711
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-bINXidFMlERvGSkfgB85aY",
+      "rating": 4.2,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJozsv8DNFMlERq406QaQdIeQ",
+      "name": "North Gate House of Prayer",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "405 Lathrop St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8438062,
+        "lon": -147.7454234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJozsv8DNFMlERq406QaQdIeQ",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJwV5cEglQMlER2bIefJBEs68",
+      "name": "AL JABBAR TEMPLE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "3801 S Cushman St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8111986,
+        "lon": -147.709388
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwV5cEglQMlER2bIefJBEs68",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ4UJYeDRFMlERRa0HfT-AQcY",
+      "name": "Joy Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "24 Margaret Ave, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8613759,
+        "lon": -147.725054
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4UJYeDRFMlERRa0HfT-AQcY",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJ5WJvx7FaMlERWFZAUWd-Nxs",
+      "name": "Casa De Alabanza",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "2316 S Barnette St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.82552989999999,
+        "lon": -147.7306746
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5WJvx7FaMlERWFZAUWd-Nxs",
+      "rating": 4.8,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJWyOkdEhFMlERjMNcxS_2YM4",
+      "name": "ICC Community Services",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "115 N Cushman St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8453942,
+        "lon": -147.7218943
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWyOkdEhFMlERjMNcxS_2YM4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJuR4Aj0lFMlERlxK486hJpBI",
+      "name": "UAF Community and Technical College",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "604 Barnette St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8410644,
+        "lon": -147.7265167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuR4Aj0lFMlERlxK486hJpBI",
+      "rating": 4.4,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJMVic1q1bMlERIUEnAR82ExY",
+      "name": "Fairbanks Jewish Center - Chabad Lubavitch",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "1417 28th Ave, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8211919,
+        "lon": -147.7376419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMVic1q1bMlERIUEnAR82ExY",
+      "rating": 4.9,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJ3UTFdBxDMlER7UPEHKv8wVg",
+      "name": "Ken Kunkel Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "2645 Goldstream Rd, Fairbanks, AK 99709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.9131462,
+        "lon": -147.9103543
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3UTFdBxDMlER7UPEHKv8wVg",
+      "rating": 4.7,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJ_YQ1M0xFMlERySDn4_bGvDA",
+      "name": "Literacy Council of Alaska",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "724 27th Ave #2, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.822847,
+        "lon": -147.7181305
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_YQ1M0xFMlERySDn4_bGvDA",
+      "rating": 4.7,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJBw13ukRFMlER-NY8TkR6t9I",
+      "name": "Jubilee Worship Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "541 3rd St, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.8451998,
+        "lon": -147.6965142
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBw13ukRFMlER-NY8TkR6t9I",
+      "rating": 4.7,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ1XFZPLtcMlERlbXFn3YNFco",
+      "name": "Chena Ridge Friends Meeting & Hidden Hill Friends Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "2682 Gold Hill Rd, Fairbanks, AK 99709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.86205509999999,
+        "lon": -147.9175717
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1XFZPLtcMlERlbXFn3YNFco",
+      "rating": 3.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJYUQN08pEMlERvtTcksNGtWE",
+      "name": "William Ransom Wood Campus Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "1731 S Chandalar, Fairbanks, AK 99709, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.85744439999999,
+        "lon": -147.8232715
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYUQN08pEMlERvtTcksNGtWE",
+      "rating": 4,
+      "user_ratings_total": 102
+    },
+    {
+      "id": "google_ChIJnx1SMLJaMlERSWXobGNfWjc",
+      "name": "Midnight Sun Lodge F & AM",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alaska",
+        "zip": "",
+        "full": "1103 21st Ave, Fairbanks, AK 99701, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 64.82815169999999,
+        "lon": -147.7289924
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnx1SMLJaMlERSWXobGNfWjc",
+      "rating": 4.7,
+      "user_ratings_total": 3
     }
-  ]
+  ],
+  "google_places_added": 16
 }

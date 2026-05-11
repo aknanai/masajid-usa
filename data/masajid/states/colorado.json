@@ -1,6 +1,6 @@
 {
   "state": "Colorado",
-  "count": 7,
+  "count": 32,
   "generated_at": "2026-05-10 05:17:19 UTC",
   "masajid": [
     {
@@ -156,6 +156,607 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 13284052
+    },
+    {
+      "id": "google_ChIJJbouTeJ9bIcRL_ERR2RF3Gw",
+      "name": "Denver Islamic Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "2124 S Birch St, Denver, CO 80222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.67759849999999,
+        "lon": -104.9360031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJbouTeJ9bIcRL_ERR2RF3Gw",
+      "rating": 4.6,
+      "user_ratings_total": 146
+    },
+    {
+      "id": "google_ChIJy11Bvp52bIcRiyzYY3zUAUI",
+      "name": "Masjid Ikhlas | Metropolitan Denver North Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "11141 Irma Dr, Northglenn, CO 80233, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8982664,
+        "lon": -104.9670558
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy11Bvp52bIcRiyzYY3zUAUI",
+      "rating": 4.7,
+      "user_ratings_total": 174
+    },
+    {
+      "id": "google_ChIJfUypNQB5bIcRxeehs_rVmGc",
+      "name": "Tohaeeb",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "Denver, CO 80202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7392358,
+        "lon": -104.990251
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfUypNQB5bIcRxeehs_rVmGc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJw7JJak6HbIcRkWft8Y5HaCk",
+      "name": "Masjid Boris Shamanov at CVA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "10805 E Bethany Dr 1st Floor, Aurora, CO 80014, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.663573,
+        "lon": -104.8621304
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw7JJak6HbIcRkWft8Y5HaCk",
+      "rating": 5,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJj9SD982JbIcRXioadHBfxGk",
+      "name": "Masjid Al-Salam (Colorado Islamic Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "14201 E Evans Dr, Aurora, CO 80013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6802301,
+        "lon": -104.8220963
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj9SD982JbIcRXioadHBfxGk",
+      "rating": 4.8,
+      "user_ratings_total": 160
+    },
+    {
+      "id": "google_ChIJKwjdju19bIcR1pf4D49aNT0",
+      "name": "Lady Fatima Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "2586 Colorado Blvd, Denver, CO 80207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7544609,
+        "lon": -104.9402999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKwjdju19bIcR1pf4D49aNT0",
+      "rating": 4.7,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJG80MS51ibIcRvlMuv9E4oYw",
+      "name": "CMCC Colorado Muslims Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "15528 E Hampden Cir, Aurora, CO 80013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6517485,
+        "lon": -104.8071057
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG80MS51ibIcRvlMuv9E4oYw",
+      "rating": 4.7,
+      "user_ratings_total": 221
+    },
+    {
+      "id": "google_ChIJVQlsvJd8bIcRpkZyZhr8pC8",
+      "name": "Masjid Bilal, Colorado Oromo Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1591 Fulton St, Aurora, CO 80010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7418415,
+        "lon": -104.8707468
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVQlsvJd8bIcRpkZyZhr8pC8",
+      "rating": 4.7,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJAzhPlXtjbIcRG0I_1I7AJik",
+      "name": "Umar ibn Al-Khattab Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "16251 E Colfax Ave # 208, Aurora, CO 80011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7408119,
+        "lon": -104.7986342
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAzhPlXtjbIcRG0I_1I7AJik",
+      "rating": 4.4,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJTTaKJyF9bIcRUtaOJ16Uuhc",
+      "name": "Burmese Islamic Association of Colorado ( Masjid Al-Ansar)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1395 Macon St, Aurora, CO 80010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7381484,
+        "lon": -104.8555615
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTTaKJyF9bIcRUtaOJ16Uuhc",
+      "rating": 4.9,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJ5SUYNzKBa4cRC6pR_py44zo",
+      "name": "Rocky Mountain Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "7510 W Mississippi Ave, Lakewood, CO 80226, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6956151,
+        "lon": -105.0801732
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5SUYNzKBa4cRC6pR_py44zo",
+      "rating": 4.3,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJP-syRZ59bIcRVa6ZnBzJkFo",
+      "name": "Denver Burmese Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1301 Emporia St, Aurora, CO 80010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.736607,
+        "lon": -104.8744561
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJP-syRZ59bIcRVa6ZnBzJkFo",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJu2UOUWljbIcRhqaVzoyPqDU",
+      "name": "Al Mustafa Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1880 Eagle St, Aurora, CO 80011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.74580750000001,
+        "lon": -104.8167294
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu2UOUWljbIcRhqaVzoyPqDU",
+      "rating": 4.3,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJQ4tJAACHa4cR7uUDaa-NznM",
+      "name": "Bosnian Educational Cultural Center of Colorado",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "3550 Sheridan Blvd, Denver, CO 80212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7663482,
+        "lon": -105.0529718
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ4tJAACHa4cR7uUDaa-NznM",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJ36y6xluJbIcRTNDimRs3U4Y",
+      "name": "Islamic Center of Aurora Colorado",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "16744 E Iliff Ave, Aurora, CO 80013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6724559,
+        "lon": -104.7937201
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ36y6xluJbIcRTNDimRs3U4Y",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJ0XzJMyqJbIcR25IMrQf_tNI",
+      "name": "Islamic Center of Aurora CO - Masjid ArRahmah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "16744 E Iliff Ave, Aurora, CO 80013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6724559,
+        "lon": -104.7937201
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0XzJMyqJbIcR25IMrQf_tNI",
+      "rating": 4.9,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJq6pOteN9bIcRFFeGhQskHmM",
+      "name": "Al Noor Academy for Arabic & Islamic Studies",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "2124 S Birch St, Denver, CO 80222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.67759849999999,
+        "lon": -104.9360031
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq6pOteN9bIcRFFeGhQskHmM",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJhRXjSjuNbIcRZIoijQO5YWU",
+      "name": "South East Aurora Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "21755 E Smoky Hill Rd, Aurora, CO 80015, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6060631,
+        "lon": -104.7349582
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhRXjSjuNbIcRZIoijQO5YWU",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ530pcHR9bIcRA0VVNLHLEo4",
+      "name": "Somali Community Center-Co",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1582 S Parker Rd # 201, Denver, CO 80231, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6878448,
+        "lon": -104.8866058
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ530pcHR9bIcRA0VVNLHLEo4",
+      "rating": 4.2,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJASD2U_Z9bIcRZlnNmXf7dQc",
+      "name": "Masjid Uthman Bin Affan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "1301 Emporia St, Aurora, CO 80010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.736607,
+        "lon": -104.8744561
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJASD2U_Z9bIcRZlnNmXf7dQc",
+      "rating": 4.7,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJZRoQYJCAa4cRWjXRGBWuo48",
+      "name": "Denver Indian Center Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "4407 Morrison Rd, Denver, CO 80219, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7025817,
+        "lon": -105.0456489
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZRoQYJCAa4cRWjXRGBWuo48",
+      "rating": 4.6,
+      "user_ratings_total": 233
+    },
+    {
+      "id": "google_ChIJ5ZNqAACLa4cRXpUAaDU3hJk",
+      "name": "Broomfield Islamic Community Center (Masjid Al Barakah)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "6855 W 119th Ave, Broomfield, CO 80020, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9127924,
+        "lon": -105.0726782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5ZNqAACLa4cRXpUAaDU3hJk",
+      "rating": 4.5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJdWoUz3yJbIcRdwdX32M2ED0",
+      "name": "Ethiopian Muslim Association of Denver",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "14991 E Hampden Ave, Aurora, CO 80014, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6536959,
+        "lon": -104.8135244
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdWoUz3yJbIcRdwdX32M2ED0",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJxSoX0FdFE4cRYxlPfZQCJhc",
+      "name": "Islamic Society of Colorado Springs",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "2125 N Chestnut St, Colorado Springs, CO 80907, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.8639305,
+        "lon": -104.8359277
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxSoX0FdFE4cRYxlPfZQCJhc",
+      "rating": 4.7,
+      "user_ratings_total": 158
+    },
+    {
+      "id": "google_ChIJC8GAw4aGbIcRxnxz-ncLDw0",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Colorado",
+        "zip": "",
+        "full": "8006 E Arapahoe Rd, Centennial, CO 80112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.59462329999999,
+        "lon": -104.8960165
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC8GAw4aGbIcRxnxz-ncLDw0",
+      "rating": 4.8,
+      "user_ratings_total": 17
     }
-  ]
+  ],
+  "google_places_added": 1
 }

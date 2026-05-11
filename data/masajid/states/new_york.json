@@ -1,6 +1,6 @@
 {
   "state": "New York",
-  "count": 330,
+  "count": 429,
   "generated_at": "2026-05-10 07:00:32 UTC",
   "masajid": [
     {
@@ -7262,6 +7262,2383 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13017339363
+    },
+    {
+      "id": "google_ChIJ4WAMWwBZwokRxq6QHSSYKBE",
+      "name": "The Islamic Center of New York City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "350 6th Ave, New York, NY 10011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7318736,
+        "lon": -74.0006277
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4WAMWwBZwokRxq6QHSSYKBE",
+      "rating": 4.7,
+      "user_ratings_total": 96
+    },
+    {
+      "id": "google_ChIJI0nKk-RYwokRJYHko9AjvH4",
+      "name": "Islamic Society of Mid Manhattan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "154 E 55th St, New York, NY 10022, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7590786,
+        "lon": -73.9692446
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI0nKk-RYwokRJYHko9AjvH4",
+      "rating": 4.9,
+      "user_ratings_total": 421
+    },
+    {
+      "id": "google_ChIJXaFqLxlawokRkmoNKhhFbqM",
+      "name": "Park51",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "45–51 Park Pl, New York, NY 10007, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7138914,
+        "lon": -74.0099075
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXaFqLxlawokRkmoNKhhFbqM",
+      "rating": 3.1,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJFeAUdq1ZwokRAfbM6aIysCc",
+      "name": "Masjid Awliya of Allah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "327 W 36th St., New York, NY 10018, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7542225,
+        "lon": -73.9937345
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFeAUdq1ZwokRAfbM6aIysCc",
+      "rating": 4.6,
+      "user_ratings_total": 425
+    },
+    {
+      "id": "google_ChIJg8LEDgBZwokRABQ_IO0EhPs",
+      "name": "Islamic Center of NYC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "354 6th Ave, New York, NY 10011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.73195430000001,
+        "lon": -74.0005694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg8LEDgBZwokRABQ_IO0EhPs",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJGU0ca09awokRaQ0J81PfaCM",
+      "name": "Islamic Mission of America/Dawood Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "143 State St, Brooklyn, NY 11201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6908849,
+        "lon": -73.99343859999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGU0ca09awokRaQ0J81PfaCM",
+      "rating": 4.9,
+      "user_ratings_total": 272
+    },
+    {
+      "id": "google_ChIJsxvZLmJYwokRAMsZaNGZzXU",
+      "name": "Islamic Cultural Center Riverside Drive",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1 Riverside Dr, New York, NY 10023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7804612,
+        "lon": -73.9854071
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsxvZLmJYwokRAMsZaNGZzXU",
+      "rating": 4.6,
+      "user_ratings_total": 454
+    },
+    {
+      "id": "google_ChIJQ-_Qk-RYwokRGhAck-L3W0c",
+      "name": "Uthman Bin Affan Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "154 E 55th St, New York, NY 10022, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7591653,
+        "lon": -73.9692232
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ-_Qk-RYwokRGhAck-L3W0c",
+      "rating": 4.9,
+      "user_ratings_total": 416
+    },
+    {
+      "id": "google_ChIJM6LkkrFQwokRtXjj3Y81Zs4",
+      "name": "Sunni Rizvi Jamia Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "294-298 Grove St, Jersey City, NJ 07302, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7184192,
+        "lon": -74.0433642
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM6LkkrFQwokRtXjj3Y81Zs4",
+      "rating": 4.5,
+      "user_ratings_total": 179
+    },
+    {
+      "id": "google_ChIJdY_sIuFbwokRMTEA7YE3qko",
+      "name": "Broadway Masjid & Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "345 Broadway, Brooklyn, NY 11211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7079271,
+        "lon": -73.9559384
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdY_sIuFbwokRMTEA7YE3qko",
+      "rating": 4.8,
+      "user_ratings_total": 167
+    },
+    {
+      "id": "google_ChIJPa4suopZwokRTN1nUahefac",
+      "name": "Nur Ashki Jerrahi Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "245 W Broadway, New York, NY 10013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7196736,
+        "lon": -74.0055927
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPa4suopZwokRTN1nUahefac",
+      "rating": 4.8,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJ8114jHJZwokRPxQpPnTBYiE",
+      "name": "Islamic Society of Roosevelt Island",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "564 Main St, New York, NY 10044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7624342,
+        "lon": -73.9492985
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8114jHJZwokRPxQpPnTBYiE",
+      "rating": 4.8,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJ1Wfbmq1bwokRUvKq1ayw3VY",
+      "name": "Al-Farooq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "554 Atlantic Ave, Brooklyn, NY 11217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6846404,
+        "lon": -73.9795129
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1Wfbmq1bwokRUvKq1ayw3VY",
+      "rating": 4.8,
+      "user_ratings_total": 441
+    },
+    {
+      "id": "google_ChIJMSHYadpQwokRpfLK98spdQI",
+      "name": "Islamic Center of Jersey City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "17 Park St, Jersey City, NJ 07304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7168242,
+        "lon": -74.06925679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMSHYadpQwokRpfLK98spdQI",
+      "rating": 4.6,
+      "user_ratings_total": 98
+    },
+    {
+      "id": "google_ChIJkX-ygD5ZwokR0zP2k5hTz4o",
+      "name": "Greenpoint Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "48 Clay St, Brooklyn, NY 11222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7363536,
+        "lon": -73.9565741
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkX-ygD5ZwokR0zP2k5hTz4o",
+      "rating": 4.7,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJjcF6GZj0wokRUPgqK4Vs0oU",
+      "name": "MAS Bronx Muslim Center (Muslim American Society of Upper New York)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "702 Rhinelander Ave, Bronx, NY 10462, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8473951,
+        "lon": -73.8666995
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjcF6GZj0wokRUPgqK4Vs0oU",
+      "rating": 4.9,
+      "user_ratings_total": 335
+    },
+    {
+      "id": "google_ChIJs8LPRY5jwokRNNJagxfUY3E",
+      "name": "Masjid Hamza Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "202 Stuart Ave, Valley Stream, NY 11580, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6857947,
+        "lon": -73.7162058
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs8LPRY5jwokRNNJagxfUY3E",
+      "rating": 4.9,
+      "user_ratings_total": 798
+    },
+    {
+      "id": "google_ChIJcd40bWpfwokRarqRDvYtYAM",
+      "name": "Al-Iman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "24-30 Steinway St, Long Island City, NY 11103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.768471,
+        "lon": -73.9115833
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcd40bWpfwokRarqRDvYtYAM",
+      "rating": 4.8,
+      "user_ratings_total": 353
+    },
+    {
+      "id": "google_ChIJE5c5Ky1fwokRvexeB1_4tZk",
+      "name": "Bosnian-Herzegovinian Islamic Center New York",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "37-46 Crescent St, Long Island City, NY 11101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7559828,
+        "lon": -73.9358081
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE5c5Ky1fwokRvexeB1_4tZk",
+      "rating": 4.8,
+      "user_ratings_total": 225
+    },
+    {
+      "id": "google_ChIJA4xL5C1fwokRCRwbf0OLFJw",
+      "name": "Masjid El-Ber",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "36-05 30th St, Astoria, NY 11106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7567362,
+        "lon": -73.93055149999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA4xL5C1fwokRCRwbf0OLFJw",
+      "rating": 4.7,
+      "user_ratings_total": 170
+    },
+    {
+      "id": "google_ChIJW6C-jw_2wokRZhLf9YxH4fA",
+      "name": "Masjid Aqsa-Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1629 Park Ave, New York, NY 10029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.798784,
+        "lon": -73.9431993
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW6C-jw_2wokRZhLf9YxH4fA",
+      "rating": 4.8,
+      "user_ratings_total": 106
+    },
+    {
+      "id": "google_ChIJ7RyFnUpfwokRVHVzuGF-ZgE",
+      "name": "Masjid Islamic Unity & Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "31-33 12th St, Astoria, NY 11106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7678551,
+        "lon": -73.93395819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7RyFnUpfwokRVHVzuGF-ZgE",
+      "rating": 4.8,
+      "user_ratings_total": 114
+    },
+    {
+      "id": "google_ChIJX5CX_k1ewokRf5yVqVM8wpE",
+      "name": "Elmhurst Islamic Center Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "87-07 55th Ave, Elmhurst, NY 11373, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.735238,
+        "lon": -73.876832
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX5CX_k1ewokRf5yVqVM8wpE",
+      "rating": 4.6,
+      "user_ratings_total": 157
+    },
+    {
+      "id": "google_ChIJ7XcvytBewokRecm-ElsDHQQ",
+      "name": "Sunnyside Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "39-18 47th Ave, Long Island City, NY 11104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7417469,
+        "lon": -73.9258357
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7XcvytBewokRecm-ElsDHQQ",
+      "rating": 4.7,
+      "user_ratings_total": 129
+    },
+    {
+      "id": "google_ChIJVVVpgnH2wokRY38KViKTmSc",
+      "name": "Muhammad Ali Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "203 W 133rd St, New York, NY 10030, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8142642,
+        "lon": -73.9448683
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVVpgnH2wokRY38KViKTmSc",
+      "rating": 4.8,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJzbvP8HP3wokRDe8VdGNcmvo",
+      "name": "Naylul Maraam Islamic Center USA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2157 1st Ave 2ND FL, New York, NY 10029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7932081,
+        "lon": -73.9377961
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzbvP8HP3wokRDe8VdGNcmvo",
+      "rating": 4.6,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJ6bEWDJJdwokRQKKRHllgbcM",
+      "name": "Masjid and Islamic Center of Ridgewood",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "10-19 Wyckoff Ave, Flushing, NY 11385, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6957359,
+        "lon": -73.903869
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6bEWDJJdwokRQKKRHllgbcM",
+      "rating": 4.8,
+      "user_ratings_total": 242
+    },
+    {
+      "id": "google_ChIJhUjolQr2wokRkAxbj6_CrMI",
+      "name": "Harlem Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "108 E 128th St, New York, NY 10035, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8066127,
+        "lon": -73.937135
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhUjolQr2wokRkAxbj6_CrMI",
+      "rating": 4.8,
+      "user_ratings_total": 76
+    },
+    {
+      "id": "google_ChIJS61yICBFwokRn_8vuK-ZOT4",
+      "name": "Al Marwa Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2015 64th St, Brooklyn, NY 11204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6170056,
+        "lon": -73.9846694
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS61yICBFwokRn_8vuK-ZOT4",
+      "rating": 4.8,
+      "user_ratings_total": 323
+    },
+    {
+      "id": "google_ChIJ5yyjl6tdwokRJMovfeF79Bo",
+      "name": "New Lots Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "604 Jerome St, Brooklyn, NY 11207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6660133,
+        "lon": -73.88498899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5yyjl6tdwokRJMovfeF79Bo",
+      "rating": 4.8,
+      "user_ratings_total": 94
+    },
+    {
+      "id": "google_ChIJVXKcDGT3wokRGWPL2L13y70",
+      "name": "Harlem Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2001 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.8057434,
+        "lon": -73.9502802
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVXKcDGT3wokRGWPL2L13y70",
+      "rating": 4.8,
+      "user_ratings_total": 86
+    },
+    {
+      "id": "google_ChIJhT_soO9PwokRGgYYQKdHnZI",
+      "name": "MCC: Muslim Community Center (Staten Island)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "332 Broadway, Staten Island, NY 10310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6330633,
+        "lon": -74.11713689999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhT_soO9PwokRGgYYQKdHnZI",
+      "rating": 4.8,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJM13fesxEwokRrI8E-quqsk0",
+      "name": "Makki Masjid Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1089 Coney Island Ave, Brooklyn, NY 11230, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6310582,
+        "lon": -73.9660973
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM13fesxEwokRrI8E-quqsk0",
+      "rating": 4.8,
+      "user_ratings_total": 497
+    },
+    {
+      "id": "google_ChIJbXbep5FZwokRcTn4TOIH6Iw",
+      "name": "Muslim Community Network",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "450 Lexington Ave, New York, NY 10163, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.7530487,
+        "lon": -73.97505699999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbXbep5FZwokRcTn4TOIH6Iw",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJ2Z4YLrldwokRw4rtSdN0F4U",
+      "name": "Baitul Mamur Mosque and Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1033 Glenmore Ave, Brooklyn, NY 11208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6768972,
+        "lon": -73.87181389999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2Z4YLrldwokRw4rtSdN0F4U",
+      "rating": 4.7,
+      "user_ratings_total": 321
+    },
+    {
+      "id": "google_ChIJg3VXM_FRwokRiLfxreU0cJI",
+      "name": "Bayonne Mosque and Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "109 E 24th St, Bayonne, NJ 07002, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6625259,
+        "lon": -74.1118061
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg3VXM_FRwokRiLfxreU0cJI",
+      "rating": 4.9,
+      "user_ratings_total": 239
+    },
+    {
+      "id": "google_ChIJoSGjk5xFwokROxAAFSpqCtw",
+      "name": "Alistiqamah Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1835 Bay Ridge Pkwy, Brooklyn, NY 11204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6130032,
+        "lon": -73.99477929999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJoSGjk5xFwokROxAAFSpqCtw",
+      "rating": 4.9,
+      "user_ratings_total": 106
+    },
+    {
+      "id": "google_ChIJzTNovwET04kRQL9KEAOLODE",
+      "name": "Al-Eiman Mosque | ICAWNY",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "444 Connecticut St, Buffalo, NY 14213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9073993,
+        "lon": -78.8850388
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzTNovwET04kRQL9KEAOLODE",
+      "rating": 4.8,
+      "user_ratings_total": 209
+    },
+    {
+      "id": "google_ChIJvQyYrYEN04kRKwXpwEz04MI",
+      "name": "Buffalo Markaz Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "115 Woltz Ave, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.89710059999999,
+        "lon": -78.8352609
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvQyYrYEN04kRKwXpwEz04MI",
+      "rating": 4.7,
+      "user_ratings_total": 123
+    },
+    {
+      "id": "google_ChIJ7ysJiGcT04kRUaOVEKgaJUc",
+      "name": "Buffalo Muslim Center (BMC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "995 Fillmore Ave, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.90037419999999,
+        "lon": -78.8388013
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7ysJiGcT04kRUaOVEKgaJUc",
+      "rating": 4.8,
+      "user_ratings_total": 105
+    },
+    {
+      "id": "google_ChIJZ04B7r4N04kRypsqR4_tqPw",
+      "name": "Masjid Al Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1190 E Delavan Ave, Buffalo, NY 14215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9229128,
+        "lon": -78.8131033
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ04B7r4N04kRypsqR4_tqPw",
+      "rating": 4.8,
+      "user_ratings_total": 207
+    },
+    {
+      "id": "google_ChIJV386UK8T04kR2JD2K3ZHJHY",
+      "name": "Madina Islamic Center of Buffalo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "270 Laurel St, Buffalo, NY 14208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9103276,
+        "lon": -78.8547729
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV386UK8T04kR2JD2K3ZHJHY",
+      "rating": 4.9,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJ8c04JcET04kRkMkq8LRTV6U",
+      "name": "Buffalo Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "863 Broadway, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8921664,
+        "lon": -78.84257819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8c04JcET04kRkMkq8LRTV6U",
+      "rating": 5,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJh-YIpA0N04kRFVxMOWaOlJA",
+      "name": "Baitul Aman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "637 Walden Ave, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9048094,
+        "lon": -78.8123739
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh-YIpA0N04kRFVxMOWaOlJA",
+      "rating": 4.7,
+      "user_ratings_total": 163
+    },
+    {
+      "id": "google_ChIJIYvQCbwT04kRZQv6zV5i4sM",
+      "name": "Bilal Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "364 Grant St, Buffalo, NY 14213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9237815,
+        "lon": -78.8901219
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIYvQCbwT04kRZQv6zV5i4sM",
+      "rating": 4.8,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJ17fSscwT04kRWnxd3_PKxaA",
+      "name": "Downtown Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "701 Broadway, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8908027,
+        "lon": -78.84824859999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ17fSscwT04kRWnxd3_PKxaA",
+      "rating": 4.7,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJqzLmcQAN04kRL-5JDMcM_UA",
+      "name": "Masjid-e-Madani",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1158 Sycamore St, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9009389,
+        "lon": -78.82936889999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqzLmcQAN04kRL-5JDMcM_UA",
+      "rating": 4.7,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJWTkuCB5z04kROH-r4hzqYng",
+      "name": "Buffalo Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "497 Minnesota Ave, Buffalo, NY 14215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9456384,
+        "lon": -78.8110402
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWTkuCB5z04kROH-r4hzqYng",
+      "rating": 4.9,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJs7xYd50S04kRULgjE3D2eok",
+      "name": "Nu'man Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1373 Fillmore Ave, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9111003,
+        "lon": -78.8388744
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs7xYd50S04kRULgjE3D2eok",
+      "rating": 4.7,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJ45QJyHkN04kRknbshF8crLc",
+      "name": "MUNA Center of Buffalo (MCB-WNY)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "651 Broadway, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8901544,
+        "lon": -78.8494181
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ45QJyHkN04kRknbshF8crLc",
+      "rating": 4.4,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJE-D9EmAN04kR2DACVU-0k0U",
+      "name": "Lovejoy Madinah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1030 E Lovejoy St, Buffalo, NY 14206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8900304,
+        "lon": -78.8102004
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE-D9EmAN04kR2DACVU-0k0U",
+      "rating": 4.7,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJl6ta-ZMT04kRPhqsq-FbXL4",
+      "name": "Al-Hikmah Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "331 Normal Ave, Buffalo, NY 14213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.908935,
+        "lon": -78.8903404
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl6ta-ZMT04kRPhqsq-FbXL4",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJQXdArdQR04kRvwnBYWi7MoM",
+      "name": "Lackawanna Islamic Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "154 Wilkesbarre St, Lackawanna, NY 14218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.822907,
+        "lon": -78.843037
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQXdArdQR04kRvwnBYWi7MoM",
+      "rating": 4.8,
+      "user_ratings_total": 173
+    },
+    {
+      "id": "google_ChIJfUJTed0T04kRq5EAiIp2vtE",
+      "name": "al Inam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "863 Broadway, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.892153,
+        "lon": -78.84258229999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfUJTed0T04kRq5EAiIp2vtE",
+      "rating": 5,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJUwWkWcMT04kRnhtHJwOt8f8",
+      "name": "Hamlin Park Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "416 Wohlers Ave, Buffalo, NY 14208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9152697,
+        "lon": -78.8483725
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUwWkWcMT04kRnhtHJwOt8f8",
+      "rating": 4.9,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJ469Usn0N04kR6c53Ap7yjg0",
+      "name": "Daru-s Salaam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "75 E Parade Ave, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9054991,
+        "lon": -78.835484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ469Usn0N04kR6c53Ap7yjg0",
+      "rating": 4.9,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJx87i0pwP04kRV7DOe31c0bE",
+      "name": "Basic Islamic Center Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2291 South Park Ave, Buffalo, NY 14220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8361855,
+        "lon": -78.8241074
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx87i0pwP04kRV7DOe31c0bE",
+      "rating": 4.9,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJXwXZKuMN04kR7YL_si8OFr8",
+      "name": "Lovejoy Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1107 E Lovejoy St, Buffalo, NY 14206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8895777,
+        "lon": -78.80726729999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXwXZKuMN04kR7YL_si8OFr8",
+      "rating": 5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJJ8EMCAAT04kR3dC0H0zyOS0",
+      "name": "Masjid Al-Rahmah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "300 Adams St, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8881929,
+        "lon": -78.851203
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJ8EMCAAT04kR3dC0H0zyOS0",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJPZYHAM4N04kRsmmnWtWIKg4",
+      "name": "Sloan Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "471 Goethe St, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8979323,
+        "lon": -78.79954819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPZYHAM4N04kRsmmnWtWIKg4",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJ8eCl990N04kRZhtALG1ybt0",
+      "name": "Baitul Jannah Jame Masjid Cheektowaga Muslim Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2695 Harlem Rd, Cheektowaga, NY 14225, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9170223,
+        "lon": -78.78381809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8eCl990N04kRZhtALG1ybt0",
+      "rating": 4.7,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJvYZWYwAN04kRY4JJu_mZgmc",
+      "name": "Gawsul Azam Mosque USA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "60 Ashley St, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.89398569999999,
+        "lon": -78.8268721
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvYZWYwAN04kRY4JJu_mZgmc",
+      "rating": 3.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJZWorEQAN04kRn7Z4oAibNao",
+      "name": "Baitul Mamoor Jame Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "64 Titus Ave, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8978831,
+        "lon": -78.8231332
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZWorEQAN04kRn7Z4oAibNao",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ8U7FSm4N04kRmSNQtDrT638",
+      "name": "Islamic Da'wah Center of Buffalo",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1522 Genesee St, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9086364,
+        "lon": -78.8240458
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8U7FSm4N04kRmSNQtDrT638",
+      "rating": 4.6,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJb_Ndo9Jz04kRydZJdnq4sLg",
+      "name": "Masjid At Tawheed Cheektowaga Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "3459 Harlem Rd, Cheektowaga, NY 14225, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.93785070000001,
+        "lon": -78.7836574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb_Ndo9Jz04kRydZJdnq4sLg",
+      "rating": 4.9,
+      "user_ratings_total": 89
+    },
+    {
+      "id": "google_ChIJQ-g5BjwT04kRHFG44JTDWVE",
+      "name": "Burmese Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "552 Fargo Ave, Buffalo, NY 14213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9104786,
+        "lon": -78.8976339
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ-g5BjwT04kRHFG44JTDWVE",
+      "rating": 4.3,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJWezyXAAN04kRmEo5fNEmPNo",
+      "name": "Masjid Ashrafia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "270 Loepere St, Buffalo, NY 14211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9014232,
+        "lon": -78.8348358
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWezyXAAN04kRmEo5fNEmPNo",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJwxb-y94N04kRwndyJTZLRMg",
+      "name": "Arrahman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "171 Knox Ave, West Seneca, NY 14224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8590812,
+        "lon": -78.78201709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwxb-y94N04kRwndyJTZLRMg",
+      "rating": 4.8,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJpx9Hegdz04kRL6RNe59v62w",
+      "name": "MUNA Center of Amherst (MCA-WNY)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1964 Kensington Ave, Cheektowaga, NY 14215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.94939129999999,
+        "lon": -78.7860171
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpx9Hegdz04kRL6RNe59v62w",
+      "rating": 5,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJU5TtGi8T04kRCCxd9HE1A60",
+      "name": "Central Park Jame Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "97 Rodney Ave, Buffalo, NY 14214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9360363,
+        "lon": -78.83867520000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU5TtGi8T04kRCCxd9HE1A60",
+      "rating": 4.7,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJa80E2sgN04kRLlchwCEAZdY",
+      "name": "National Islamic Cultural Center (NIC Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "24 Titus Ave, Buffalo, NY 14212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8966185,
+        "lon": -78.82302159999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa80E2sgN04kRLlchwCEAZdY",
+      "rating": 4.1,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJ09_-YAAN04kR302oniKG1h8",
+      "name": "Islamic Center of New York",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "97 Lucid Dr, Cheektowaga, NY 14225, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9294086,
+        "lon": -78.7673951
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ09_-YAAN04kR302oniKG1h8",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJAVSqIcMN04kRGSeTD0Sf5-s",
+      "name": "Masjidur Rahman Cheektowaga Islamic Center USA Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2519 Genesee St, Cheektowaga, NY 14225, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9207712,
+        "lon": -78.7892257
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAVSqIcMN04kRGSeTD0Sf5-s",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJy8giDQAL04kRDfozrUKSolE",
+      "name": "Muslim Community Center of WNY",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "94 Meridian St, Depew, NY 14043, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9042092,
+        "lon": -78.6933852
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy8giDQAL04kRDfozrUKSolE",
+      "rating": 4.8,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJSfHhVAAP04kRrs1qjAHVndo",
+      "name": "Lackawanna Islamic Community Center LICC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1446 Abbott Rd, Lackawanna, NY 14218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8255911,
+        "lon": -78.8033159
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSfHhVAAP04kRrs1qjAHVndo",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJyRF9Dv5y3okR7RAuVWv-O9M",
+      "name": "Muslim Community Center of the Capital District",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "21 Lansing Rd N, Schenectady, NY 12304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.762244,
+        "lon": -73.878982
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyRF9Dv5y3okR7RAuVWv-O9M",
+      "rating": 4.7,
+      "user_ratings_total": 325
+    },
+    {
+      "id": "google_ChIJo0TZ4sYM3okRm405o3eYEsk",
+      "name": "Islamic Shia Ithna Asheri",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "10 S Family Dr, Albany, NY 12205, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7341188,
+        "lon": -73.82366130000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo0TZ4sYM3okRm405o3eYEsk",
+      "rating": 4.7,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJ7Q12x5t13okRBjqSV3hcPaY",
+      "name": "Al Zahra Islamic Center (AZIC) and Saturday School",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "71 State Farm Rd, Voorheesville, NY 12186, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6535474,
+        "lon": -73.9199539
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7Q12x5t13okRBjqSV3hcPaY",
+      "rating": 5,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJxeJmwQbh3YkRk2Lgp9uyjXw",
+      "name": "Muslim Community of Bethlehem",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "243 Delaware Ave Store 2, Delmar, NY 12054, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.6271353,
+        "lon": -73.8196918
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxeJmwQbh3YkRk2Lgp9uyjXw",
+      "rating": 5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJp01FFwBz3okRAsAxoG_UZa8",
+      "name": "ICCD (Islamic Center of the Capital District)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "21 Lansing Rd N, Schenectady, NY 12304, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.76236189999999,
+        "lon": -73.8796368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp01FFwBz3okRAsAxoG_UZa8",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJj9h9JwBt3okRLmBWCtBlnzs",
+      "name": "MUNA Center of Albany",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1411 Union St, Schenectady, NY 12308, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8086832,
+        "lon": -73.9138184
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj9h9JwBt3okRLmBWCtBlnzs",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJPUQzYOcO3okRJcNIOkaE2hQ",
+      "name": "Boshnacian Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "693 5th Ave, Watervliet, NY 12189, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7145016,
+        "lon": -73.7088018
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPUQzYOcO3okRJcNIOkaE2hQ",
+      "rating": 4.9,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJRRo0_6211okR6O0tcfTZejc",
+      "name": "Masjid Tawfeeq of Rochester, Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "15 Hudson Ave, Rochester, NY 14605, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1634923,
+        "lon": -77.6022833
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRRo0_6211okR6O0tcfTZejc",
+      "rating": 4.9,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJg2SpVxa11okRhXsjvOt1pkw",
+      "name": "Al-Rahman Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "300 Bay St, Rochester, NY 14605, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.17121119999999,
+        "lon": -77.5861129
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg2SpVxa11okRhXsjvOt1pkw",
+      "rating": 4.8,
+      "user_ratings_total": 78
+    },
+    {
+      "id": "google_ChIJr9wGk4i11okRPGsaKkPFXug",
+      "name": "Hamidiye Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "853 Culver Rd, Rochester, NY 14609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.160682,
+        "lon": -77.5662054
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJr9wGk4i11okRPGsaKkPFXug",
+      "rating": 4.6,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ4brTLfC11okRgTSlkWaU9po",
+      "name": "Sudanese community in Rochester",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "627 Meigs St, Rochester, NY 14620, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1422658,
+        "lon": -77.5980492
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4brTLfC11okRgTSlkWaU9po",
+      "rating": 4.2,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJQ90-B2e01okReUJb-36nw_c",
+      "name": "Muqbil Haadee Al Wad'ee Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "297 Lyell Ave #299, Rochester, NY 14608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1645526,
+        "lon": -77.6331247
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ90-B2e01okReUJb-36nw_c",
+      "rating": 4,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJvdU5bAdN0YkR41GlWiPRsHc",
+      "name": "Rochester NY MOSQUE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "677 Beahan Rd Suit : 1, Rochester, NY 14624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1217921,
+        "lon": -77.6869811
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvdU5bAdN0YkR41GlWiPRsHc",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJn5JfMGW11okRhixeW9fcyes",
+      "name": "Al Rasol Al Azam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "638 Brown St, Rochester, NY 14611, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1531269,
+        "lon": -77.632348
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn5JfMGW11okRhixeW9fcyes",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJIYnuJdBM0YkR1dm2gQY5cas",
+      "name": "Bosnia & Herzegovina Culture Center (BHCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "312 Fisher Rd, Rochester, NY 14624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1175086,
+        "lon": -77.6883959
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIYnuJdBM0YkR1dm2gQY5cas",
+      "rating": 4.8,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJORKZls1M0YkRIDRtrf0MvFY",
+      "name": "Turkish Society of Rochester",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "677 Beahan Rd Suit : 1, Rochester, NY 14624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1218212,
+        "lon": -77.6870347
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJORKZls1M0YkRIDRtrf0MvFY",
+      "rating": 4.6,
+      "user_ratings_total": 93
+    },
+    {
+      "id": "google_ChIJDTIXv4i11okRte3GxMvFvvY",
+      "name": "ROCHESTER EDUCATION CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "853 Culver Rd, Rochester, NY 14609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1606957,
+        "lon": -77.566189
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDTIXv4i11okRte3GxMvFvvY",
+      "rating": 4.8,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJnRtRLqS11okRzBLjZRvC1n4",
+      "name": "St. Mary’s Catholic Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "15 St Marys Pl, Rochester, NY 14607, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1531943,
+        "lon": -77.6059949
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnRtRLqS11okRzBLjZRvC1n4",
+      "rating": 4.7,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJxTPdyZ231okRcPqI3LpxnRU",
+      "name": "Dewey St Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "2692 Dewey Ave, Rochester, NY 14616, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.21830689999999,
+        "lon": -77.6410241
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxTPdyZ231okRcPqI3LpxnRU",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJDTIXv4i11okRj47GUsEejaM",
+      "name": "Bosnia & Herzegovina Culture",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "853 Culver Rd, Rochester, NY 14609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1606957,
+        "lon": -77.566189
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDTIXv4i11okRj47GUsEejaM",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJoVnarG201okRi1nwV6Ox9W0",
+      "name": "Bantu Islamic Center Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "534 Dewey Ave, Rochester, NY 14613, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1744662,
+        "lon": -77.63935169999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJoVnarG201okRi1nwV6Ox9W0",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJBQrWWnS31okRC1AFwlrLw5A",
+      "name": "Islamic Association - Al Sabur Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "4550 Lake Ave, Rochester, NY 14612, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.2535235,
+        "lon": -77.61156629999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBQrWWnS31okRC1AFwlrLw5A",
+      "rating": 4.3,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJTcgamuy01okReHeUCfh-Zbg",
+      "name": "Barakah Muslim Charity",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "584 Jefferson Ave, Rochester, NY 14611, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1432644,
+        "lon": -77.6288835
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTcgamuy01okReHeUCfh-Zbg",
+      "rating": 4.8,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJIeua6IK11okRnoZrSSoDaWg",
+      "name": "Hidayah Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New York",
+        "zip": "",
+        "full": "1092 Joseph Ave, Rochester, NY 14621, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.1854425,
+        "lon": -77.60765219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIeua6IK11okRnoZrSSoDaWg",
+      "rating": 0,
+      "user_ratings_total": 0
     }
-  ]
+  ],
+  "google_places_added": 99
 }

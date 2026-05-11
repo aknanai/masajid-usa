@@ -1,6 +1,6 @@
 {
   "state": "Maryland",
-  "count": 74,
+  "count": 103,
   "generated_at": "2026-05-10 06:12:41 UTC",
   "masajid": [
     {
@@ -1630,6 +1630,703 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1271544522
+    },
+    {
+      "id": "google_ChIJ63Z0B1cFyIkRgACrvNBeUPQ",
+      "name": "Jamaa'atu Mosque Al Muminiin",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "2642 Harford Rd, Baltimore, MD 21218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.32009,
+        "lon": -76.592236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ63Z0B1cFyIkRgACrvNBeUPQ",
+      "rating": 4.7,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJt8A-0G8byIkRiJaLPXmZU5M",
+      "name": "Muslim Community Cultural Center of Baltimore",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "3401 W North Ave, Baltimore, MD 21216, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3072122,
+        "lon": -76.67528329999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt8A-0G8byIkRiJaLPXmZU5M",
+      "rating": 4.7,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJo2ff-koByIkRrxk3Ss_d5E4",
+      "name": "Quba Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "8A Dunmanway, Baltimore, MD 21222, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2569298,
+        "lon": -76.5214173
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo2ff-koByIkRrxk3Ss_d5E4",
+      "rating": 4.8,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJy5SAwpgEyIkRLieBl0XZrwU",
+      "name": "The Baltimore Basilica",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "409 Cathedral St, Baltimore, MD 21201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2944188,
+        "lon": -76.6165816
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy5SAwpgEyIkRLieBl0XZrwU",
+      "rating": 4.7,
+      "user_ratings_total": 747
+    },
+    {
+      "id": "google_ChIJdyOWIZQZyIkRXYLu1uA6emA",
+      "name": "Al-Noor Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "3900 Milford Mill Rd, Windsor Mill, MD 21244, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3602614,
+        "lon": -76.752479
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdyOWIZQZyIkRXYLu1uA6emA",
+      "rating": 4.9,
+      "user_ratings_total": 90
+    },
+    {
+      "id": "google_ChIJc4Tq6JQdyIkRyTbc1JDxFC0",
+      "name": "BAB-E-KHADIJA ISLAMIC CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "3761 Commerce Dr, Halethorpe, MD 21227, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2500867,
+        "lon": -76.6721275
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc4Tq6JQdyIkRyTbc1JDxFC0",
+      "rating": 4.4,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJuzvfyzMZyIkRSQUmTkNNETU",
+      "name": "Umar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "6709 Whitestone Rd, Baltimore, MD 21207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3189906,
+        "lon": -76.7438329
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuzvfyzMZyIkRSQUmTkNNETU",
+      "rating": 4.8,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJVbkeRAAdyIkRNC6qdNwKVdk",
+      "name": "Mustafa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "3308 Hollins Ferry Rd, Halethorpe, MD 21227, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2490862,
+        "lon": -76.6474552
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVbkeRAAdyIkRNC6qdNwKVdk",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJVbVmofTix4kRBqaV7FO-6wE",
+      "name": "An-Nur Foundation of MD Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "8020 Corporate Dr, Nottingham, MD 21236, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3676253,
+        "lon": -76.47194689999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVbVmofTix4kRBqaV7FO-6wE",
+      "rating": 4.8,
+      "user_ratings_total": 246
+    },
+    {
+      "id": "google_ChIJ-4-PncYJyIkR0nQKfXNPXzs",
+      "name": "Omar AlFarouq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "8701 Cottington Rd, Nottingham, MD 21236, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3885871,
+        "lon": -76.4712876
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-4-PncYJyIkR0nQKfXNPXzs",
+      "rating": 4.8,
+      "user_ratings_total": 88
+    },
+    {
+      "id": "google_ChIJz1RB8PkWyIkR-naB_2V-l4U",
+      "name": "Islamic Center of Owings Mills (ICOM)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "11436 Cronhill Dr unit 2-3, Owings Mills, MD 21117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4381516,
+        "lon": -76.7743955
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJz1RB8PkWyIkR-naB_2V-l4U",
+      "rating": 4.9,
+      "user_ratings_total": 217
+    },
+    {
+      "id": "google_ChIJZSHtVQAFyIkRHtEtVwPY4Os",
+      "name": "MASJID NNE HAKEEM '26",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "4604 Harford Rd, Baltimore, MD 21214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3426557,
+        "lon": -76.5699865
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZSHtVQAFyIkRHtEtVwPY4Os",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJmV4cDAAbyIkRkVw1wEc0n0U",
+      "name": "NASFAT BALTIMORE BRANCH",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "6711 Windsor Mill Rd, Gwynn Oak, MD 21207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3254125,
+        "lon": -76.733301
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmV4cDAAbyIkRkVw1wEc0n0U",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJt7-rYi4byIkRTZ9xmSixBLo",
+      "name": "NASFAT BALTIMORE CITY BRANCH",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "5115 Liberty Heights Ave, Baltimore, MD 21207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.33311459999999,
+        "lon": -76.7018181
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt7-rYi4byIkRTZ9xmSixBLo",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJvcM-X5wEyIkRaz7-KQM1mF4",
+      "name": "Baltimore City Hall",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "100 Holliday St, Baltimore, MD 21202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2908517,
+        "lon": -76.61057129999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvcM-X5wEyIkRaz7-KQM1mF4",
+      "rating": 3.8,
+      "user_ratings_total": 89
+    },
+    {
+      "id": "google_ChIJ4WR0aiIZyIkRsvvTdRM3y4E",
+      "name": "Al Inshirah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "7832 Fairbrook Rd, Windsor Mill, MD 21244, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3246152,
+        "lon": -76.7716476
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4WR0aiIZyIkRsvvTdRM3y4E",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJ1y4KIK4byIkRbwycI18rMB0",
+      "name": "Islamic Leadership Institute of America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "4903 Liberty Heights Ave, Baltimore, MD 21207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3321962,
+        "lon": -76.69898280000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1y4KIK4byIkRbwycI18rMB0",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJUxHnlNPht4kRGUjlDf3SYFQ",
+      "name": "Muslim Family Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "5796 Waterloo Rd, Columbia, MD 21045, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.211832,
+        "lon": -76.8015243
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUxHnlNPht4kRGUjlDf3SYFQ",
+      "rating": 4.8,
+      "user_ratings_total": 89
+    },
+    {
+      "id": "google_ChIJcaaHNCUFyIkRznhpJAIPcs4",
+      "name": "Salaam Center of Baltimore",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "429 S Conkling St, Baltimore, MD 21224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2869535,
+        "lon": -76.56684609999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcaaHNCUFyIkRznhpJAIPcs4",
+      "rating": 5,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJYYlF55jPt4kRcn8rncj_wWk",
+      "name": "Silver Spring Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "1523 Forest Glen Rd, Silver Spring, MD 20902, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.016232,
+        "lon": -77.03587809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYYlF55jPt4kRcn8rncj_wWk",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJR2wC8C3bt4kRdti25mHS4os",
+      "name": "Islamic Society of the Washington Area (ISWA)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "2701 Briggs Chaney Rd, Silver Spring, MD 20905, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0858333,
+        "lon": -76.95472219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR2wC8C3bt4kRdti25mHS4os",
+      "rating": 4.9,
+      "user_ratings_total": 282
+    },
+    {
+      "id": "google_ChIJlYZrFfvOt4kRdKFLjE-wngg",
+      "name": "Islamic Education Society-MD cod (531)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "11504 Veirs Mill Rd, Wheaton, MD 20902, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0441638,
+        "lon": -77.0638097
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlYZrFfvOt4kRdKFLjE-wngg",
+      "rating": 4.8,
+      "user_ratings_total": 58
+    },
+    {
+      "id": "google_ChIJZXrLS_PDt4kRFnzV6QTr4rQ",
+      "name": "Dar-us-Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "5301 Edgewood Rd, College Park, MD 20740, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.015049,
+        "lon": -76.91119499999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZXrLS_PDt4kRFnzV6QTr4rQ",
+      "rating": 4.3,
+      "user_ratings_total": 68
+    },
+    {
+      "id": "google_ChIJAQCU1BTFt4kRF7is6YE7G40",
+      "name": "cmi",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "12531 Montclair Dr, Silver Spring, MD 20904, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0621049,
+        "lon": -76.9872352
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAQCU1BTFt4kRF7is6YE7G40",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ0VMY517At4kRs7cKKaBZ-FE",
+      "name": "Ibn Taymiyyah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "8000 Martin Luther King Jr Hwy, Glenarden, MD 20706, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.9321737,
+        "lon": -76.8690901
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0VMY517At4kRs7cKKaBZ-FE",
+      "rating": 4.8,
+      "user_ratings_total": 122
+    },
+    {
+      "id": "google_ChIJfXnmmObMt4kR5BFdDS8_KPY",
+      "name": "Islamic Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "7917 Montrose Rd, Potomac, MD 20854, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.057755,
+        "lon": -77.1654685
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfXnmmObMt4kR5BFdDS8_KPY",
+      "rating": 4.4,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJWZ2H7pcEyIkR1hvc0v2faXg",
+      "name": "Emmanuel Episcopal Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "811 Cathedral St, Baltimore, MD 21201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.299238,
+        "lon": -76.617019
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWZ2H7pcEyIkR1hvc0v2faXg",
+      "rating": 4.8,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJAaZU4WLft4kRrFN2eSzKLwo",
+      "name": "Dar Al-Taqwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "10740 MD-108, Ellicott City, MD 21042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.236676,
+        "lon": -76.88445399999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAaZU4WLft4kRrFN2eSzKLwo",
+      "rating": 4.8,
+      "user_ratings_total": 419
+    },
+    {
+      "id": "google_ChIJ15TUCu7Lt4kR_pN3LPoCP1A",
+      "name": "Maqaame Ibrahim - Jummah Only",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Maryland",
+        "zip": "",
+        "full": "6601 Bradley Blvd, Bethesda, MD 20817, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.0024607,
+        "lon": -77.1316631
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ15TUCu7Lt4kR_pN3LPoCP1A",
+      "rating": 4.4,
+      "user_ratings_total": 13
     }
-  ]
+  ],
+  "google_places_added": 3
 }

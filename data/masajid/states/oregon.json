@@ -1,6 +1,6 @@
 {
   "state": "Oregon",
-  "count": 9,
+  "count": 22,
   "generated_at": "2026-05-10 07:23:05 UTC",
   "masajid": [
     {
@@ -200,6 +200,319 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 479380219
+    },
+    {
+      "id": "google_ChIJ9yb00A-nlVQR5kT750973S4",
+      "name": "Muslim Community Center of Portland",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "5327 N Vancouver Ave, Portland, OR 97217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5622248,
+        "lon": -122.6692411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9yb00A-nlVQR5kT750973S4",
+      "rating": 4.7,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJTzl1p1WmlVQRzomMapW6-5g",
+      "name": "Al Furqan Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "7410 NE Martin Luther King Jr Blvd, Portland, OR 97211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.576645,
+        "lon": -122.6610543
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTzl1p1WmlVQRzomMapW6-5g",
+      "rating": 4.8,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJLfPQCxuhlVQRFk8LFI2dl8E",
+      "name": "Annoor Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "12419 NE Glisan St, Portland, OR 97230, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5273624,
+        "lon": -122.5353331
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLfPQCxuhlVQRFk8LFI2dl8E",
+      "rating": 4.7,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJHV3MvwWhlVQRQekqorCcFZU",
+      "name": "Abu-Bakar Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "2 NE 80th Ave, Portland, OR 97213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5229264,
+        "lon": -122.5812462
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHV3MvwWhlVQRQekqorCcFZU",
+      "rating": 4.7,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJXRLZcwALlVQRnJZVe1AR9N4",
+      "name": "Мечет",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "Portland, OR 97204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.515232,
+        "lon": -122.6783853
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXRLZcwALlVQRnJZVe1AR9N4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJo671KAENlVQRp8t91b526ww",
+      "name": "Muslim Educational Trust",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "10330 SW Scholls Ferry Rd, Tigard, OR 97223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.4450943,
+        "lon": -122.794798
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo671KAENlVQRp8t91b526ww",
+      "rating": 4.7,
+      "user_ratings_total": 129
+    },
+    {
+      "id": "google_ChIJ8_wbY9eflVQRm9h4x2tYE6M",
+      "name": "Islamic Bosniaks Educational & Cultural Organization - IBECO",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "12338 SE Foster Rd, Portland, OR 97236, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.4761661,
+        "lon": -122.5354391
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8_wbY9eflVQRm9h4x2tYE6M",
+      "rating": 4.2,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJvwyvlO-ulVQRNYiABWFZeGY",
+      "name": "Islamic Society of Southwest Washington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "1000 NE 66th St, Vancouver, WA 98665, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.6705708,
+        "lon": -122.6617383
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvwyvlO-ulVQRNYiABWFZeGY",
+      "rating": 4.7,
+      "user_ratings_total": 116
+    },
+    {
+      "id": "google_ChIJW69gppqhlVQRmdjfrC6znQU",
+      "name": "Omar Farooq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "11937- A SE Stark St, Portland, OR 97216, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5194645,
+        "lon": -122.5398309
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW69gppqhlVQRmdjfrC6znQU",
+      "rating": 4.8,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJLWga4sahlVQRhKNOqUQ1bEk",
+      "name": "Towhid Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "10502 NE Wasco St, Portland, OR 97220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5318299,
+        "lon": -122.554331
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLWga4sahlVQRhKNOqUQ1bEk",
+      "rating": 4.4,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJPWpXenWllVQRpLjIj7Fc3Ds",
+      "name": "Islamic Center of Clark County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "519 SE 116th Ave #3, Vancouver, WA 98683, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.6174956,
+        "lon": -122.5530337
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPWpXenWllVQRpLjIj7Fc3Ds",
+      "rating": 5,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJq98adwunlVQRilfjitAn2u4",
+      "name": "Oregon Islamic Chaplains Organization",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "5623 N Maryland Ave, Portland, OR 97217, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.5637951,
+        "lon": -122.6815425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq98adwunlVQRilfjitAn2u4",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJ24IsqVCjlVQRztP6E91AW4s",
+      "name": "Turkish Ahiska Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oregon",
+        "zip": "",
+        "full": "21459 SE Stark St, Gresham, OR 97030, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 45.51943989999999,
+        "lon": -122.4420194
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ24IsqVCjlVQRztP6E91AW4s",
+      "rating": 4.7,
+      "user_ratings_total": 26
     }
-  ]
+  ],
+  "google_places_added": 13
 }

@@ -1,6 +1,6 @@
 {
   "state": "Pennsylvania",
-  "count": 74,
+  "count": 120,
   "generated_at": "2026-05-10 07:28:37 UTC",
   "masajid": [
     {
@@ -1630,6 +1630,1111 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1305644359
+    },
+    {
+      "id": "google_ChIJjxsnvRbHxokRNhsILd3WBh4",
+      "name": "Center City Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1328 Walnut St, Philadelphia, PA 19107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.949018,
+        "lon": -75.163372
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjxsnvRbHxokRNhsILd3WBh4",
+      "rating": 4.9,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJTf_YERLGxokRNYZe9ODyBuE",
+      "name": "Al-Falah Mosque Philadelphia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1603 S 17th St, Philadelphia, PA 19145, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.930951,
+        "lon": -75.173018
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTf_YERLGxokRNYZe9ODyBuE",
+      "rating": 4.7,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJWRHOI3LGxokR_U9j5ds-_7g",
+      "name": "Ibn Baaz Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1741 Point Breeze Ave, Philadelphia, PA 19145, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9302398,
+        "lon": -75.1834355
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWRHOI3LGxokR_U9j5ds-_7g",
+      "rating": 4.9,
+      "user_ratings_total": 193
+    },
+    {
+      "id": "google_ChIJpba2ZBzHxokRVlAWJ2t4b38",
+      "name": "Philadelphia Masjid Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "4700 Wyalusing Ave 3rd Floor, Philadelphia, PA 19131, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.97045749999999,
+        "lon": -75.2162172
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpba2ZBzHxokRVlAWJ2t4b38",
+      "rating": 4.7,
+      "user_ratings_total": 203
+    },
+    {
+      "id": "google_ChIJ23h6OS_GxokRQwP1ownuVrQ",
+      "name": "CAIR Philadelphia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1501 Cherry St, Philadelphia, PA 19102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9558853,
+        "lon": -75.1652295
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ23h6OS_GxokRQwP1ownuVrQ",
+      "rating": 4.1,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJaxDJeTDHxokR7CVSOCIR0qk",
+      "name": "West Philly Jameh Masjid & Islamic Center (WPJMIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "5329 Market St, Philadelphia, PA 19139, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9606061,
+        "lon": -75.2280179
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJaxDJeTDHxokR7CVSOCIR0qk",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJU0fHLMPHxokRkQQFujXa8hE",
+      "name": "Imam Muslim Family Center (IMFC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "4075 Lancaster Ave, Philadelphia, PA 19104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9648077,
+        "lon": -75.20478829999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJU0fHLMPHxokRkQQFujXa8hE",
+      "rating": 4.9,
+      "user_ratings_total": 100
+    },
+    {
+      "id": "google_ChIJb9FZ8yG0xokRoakE-zh7dbU",
+      "name": "Al-Furqan Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "7252 Roosevelt Blvd, Philadelphia, PA 19149, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0442972,
+        "lon": -75.05561569999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJb9FZ8yG0xokRoakE-zh7dbU",
+      "rating": 4.8,
+      "user_ratings_total": 484
+    },
+    {
+      "id": "google_ChIJ0cSRlHXExokRFud9FN1kwtc",
+      "name": "Masjid Ar-Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "2611 S 78th St, Philadelphia, PA 19153, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9060935,
+        "lon": -75.2467197
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0cSRlHXExokRFud9FN1kwtc",
+      "rating": 4.9,
+      "user_ratings_total": 133
+    },
+    {
+      "id": "google_ChIJmRNEKDDBxokR_1LdkRv7moc",
+      "name": "Al-Madinah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "201 S 69th St, Upper Darby Township, PA 19082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9563402,
+        "lon": -75.25756310000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmRNEKDDBxokR_1LdkRv7moc",
+      "rating": 4.8,
+      "user_ratings_total": 241
+    },
+    {
+      "id": "google_ChIJ6-6BxTLGxokRUa3wIZFf6sg",
+      "name": "Philadelphia Pennsylvania Temple",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1739 Vine St, Philadelphia, PA 19103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9592615,
+        "lon": -75.1682646
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6-6BxTLGxokRUa3wIZFf6sg",
+      "rating": 4.9,
+      "user_ratings_total": 717
+    },
+    {
+      "id": "google_ChIJUydG8d7BxokRf084qb_484M",
+      "name": "Masjid Omar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "51 S State Rd, Upper Darby Township, PA 19082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9620145,
+        "lon": -75.27238799999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUydG8d7BxokRf084qb_484M",
+      "rating": 4.9,
+      "user_ratings_total": 184
+    },
+    {
+      "id": "google_ChIJbdWaDnyzxokR4HqWHaYSaoc",
+      "name": "Masjid Al-Bukhari",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "10663 Bustleton Ave, Philadelphia, PA 19116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1088073,
+        "lon": -75.0254503
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbdWaDnyzxokR4HqWHaYSaoc",
+      "rating": 4.9,
+      "user_ratings_total": 297
+    },
+    {
+      "id": "google_ChIJv70V403GxokRXu8iaK-50jA",
+      "name": "Drexel MSA Muslim Prayer Room",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "James E. Marks Intercultural Center, 3225 Arch St, Philadelphia, PA 19104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.957714,
+        "lon": -75.1887308
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv70V403GxokRXu8iaK-50jA",
+      "rating": 4.9,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJee7ONUnHxokRCKy_LlEJ1fo",
+      "name": "Masjid Al-wasatiyah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "5727 Hoffman Ave, Philadelphia, PA 19143, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9443182,
+        "lon": -75.2375574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJee7ONUnHxokRCKy_LlEJ1fo",
+      "rating": 5,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJjSdvOxm3xokRAZgd8a4ToDk",
+      "name": "al-Farooq Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "3841 N Broad St, Philadelphia, PA 19140, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0117643,
+        "lon": -75.1502699
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjSdvOxm3xokRAZgd8a4ToDk",
+      "rating": 4.7,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJBfOfP9WzxokRQGmxod8DG3c",
+      "name": "Al-Rashideen Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "9229 Roosevelt Blvd, Philadelphia, PA 19114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0738466,
+        "lon": -75.0324754
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBfOfP9WzxokRQGmxod8DG3c",
+      "rating": 4.7,
+      "user_ratings_total": 151
+    },
+    {
+      "id": "google_ChIJPX-lPNXAxokRfMySJDc2Cx8",
+      "name": "Mahdieh of Philadelphia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "6502 Haverford Ave, Philadelphia, PA 19151, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9721054,
+        "lon": -75.24911490000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPX-lPNXAxokRfMySJDc2Cx8",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJmxxvSQ7ExokRXtyrx4QDES0",
+      "name": "Fouta Islamic Center of Philadelphia, Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "2525-27 S 71st St, Philadelphia, PA 19142, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9157636,
+        "lon": -75.2379425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmxxvSQ7ExokRXtyrx4QDES0",
+      "rating": 4.8,
+      "user_ratings_total": 91
+    },
+    {
+      "id": "google_ChIJX_gwkDLGxokRJIjt5tI_kEk",
+      "name": "Saint John Chrysostom Albanian Orthodox Church",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "237 N 17th St, Philadelphia, PA 19103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9578671,
+        "lon": -75.1672059
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX_gwkDLGxokRJIjt5tI_kEk",
+      "rating": 4.8,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJe4xmCgm1xokRLUaOkKdtkCQ",
+      "name": "Masjid E Taqwa Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "7918 Frankford Ave, Philadelphia, PA 19136, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.041174,
+        "lon": -75.0293016
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe4xmCgm1xokRLUaOkKdtkCQ",
+      "rating": 5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJxevFtyjBxokRxUrpl9uG8ok",
+      "name": "Al Madinah Islamic Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "148 Garrett Rd, Upper Darby Township, PA 19082, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9594958,
+        "lon": -75.2642863
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxevFtyjBxokRxUrpl9uG8ok",
+      "rating": 4.8,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJcTScgqXBxokRUmpKrLfZCvo",
+      "name": "MUNA Center of Upper Darby Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "6431-39 Callowhill St, Philadelphia, PA 19151, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9694505,
+        "lon": -75.24871329999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcTScgqXBxokRUmpKrLfZCvo",
+      "rating": 4.9,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJ-QKCqxjJxokRHHZ6colH6Bo",
+      "name": "The Quba School and Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1311 Haddon Ave, Camden, NJ 08103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9311558,
+        "lon": -75.1017433
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-QKCqxjJxokRHHZ6colH6Bo",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJZwVS4zO1xokRbFurJD2S6IM",
+      "name": "Siraatul Jannah Center (SJC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "7735 Castor Ave, Philadelphia, PA 19152, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0578514,
+        "lon": -75.0594729
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZwVS4zO1xokRbFurJD2S6IM",
+      "rating": 5,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJSaRoeB7PxokRl40GgoruA7w",
+      "name": "Al Bayan Islamic Learning Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "20 Braisington Ave, Bellmawr, NJ 08031, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8668702,
+        "lon": -75.0754276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSaRoeB7PxokRl40GgoruA7w",
+      "rating": 4.7,
+      "user_ratings_total": 140
+    },
+    {
+      "id": "google_ChIJAwm5pTGzxokRbCCSpCGVa-k",
+      "name": "MYCP Muslim Youth Center of Philadelphia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "11080 Knights Rd, Philadelphia, PA 19154, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0829919,
+        "lon": -74.97554939999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAwm5pTGzxokRbCCSpCGVa-k",
+      "rating": 4.7,
+      "user_ratings_total": 99
+    },
+    {
+      "id": "google_ChIJbeGArya3xokRU-U21NsJTWU",
+      "name": "Northeast Philadelphia Islamic Community, Inc. (NEPIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "6101 Hawthorne St, Philadelphia, PA 19135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0260099,
+        "lon": -75.0640236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbeGArya3xokRU-U21NsJTWU",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJ7QK3mm2RxokR7EV1ZSzRDJA",
+      "name": "Khair Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1079 Egypt Rd, Phoenixville, PA 19460, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1356413,
+        "lon": -75.46918459999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7QK3mm2RxokR7EV1ZSzRDJA",
+      "rating": 4.8,
+      "user_ratings_total": 189
+    },
+    {
+      "id": "google_ChIJ_e1P-lvJxokR2TTJ9cnrugI",
+      "name": "Markazul Bayaan Arabic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "5927 Spruce St, Philadelphia, PA 19139, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.95665839999999,
+        "lon": -75.2407163
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_e1P-lvJxokR2TTJ9cnrugI",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJR4mzTQLHxokRMY5N2-zZJA8",
+      "name": "New Africa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "4243 Lancaster Ave, Philadelphia, PA 19104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9675014,
+        "lon": -75.209108
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR4mzTQLHxokRMY5N2-zZJA8",
+      "rating": 4.9,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJ-QU34yWwxokRNHqqm666jQE",
+      "name": "Islamic Cultural Center of Willow Grove",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "502 Easton Rd, Willow Grove, PA 19090, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.14900300000001,
+        "lon": -75.12027479999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-QU34yWwxokRNHqqm666jQE",
+      "rating": 4.7,
+      "user_ratings_total": 166
+    },
+    {
+      "id": "google_ChIJaQXUF4j3NIgRub9KmKC_CLw",
+      "name": "Masjid As-Salaam Pittsburgh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "912 Lorenz Ave, Pittsburgh, PA 15220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4430422,
+        "lon": -80.0424858
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJaQXUF4j3NIgRub9KmKC_CLw",
+      "rating": 5,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJs_pyAo_tNIgRAvjPGSFwNhk",
+      "name": "al-Mu'min Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "537 Paulson Ave, Pittsburgh, PA 15206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4642606,
+        "lon": -79.9112449
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs_pyAo_tNIgRAvjPGSFwNhk",
+      "rating": 4.9,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJD1ENu9ztNIgRSD9VENm1Wlc",
+      "name": "An-Nur Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1017 Center St, Pittsburgh, PA 15221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.443449,
+        "lon": -79.8816716
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD1ENu9ztNIgRSD9VENm1Wlc",
+      "rating": 4.8,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJpxlIUbr1NIgR-t4ytL3eMLU",
+      "name": "Masjid Anisa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1807 Fulton St, Pittsburgh, PA 15233, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4582547,
+        "lon": -80.02622889999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpxlIUbr1NIgR-t4ytL3eMLU",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJFe8SfwDzNIgRId0c_rzkq7w",
+      "name": "Jumah salat",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1320 Boyle St, Pittsburgh, PA 15212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4574217,
+        "lon": -80.00611099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFe8SfwDzNIgRId0c_rzkq7w",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJGWtrCOX2NIgRwsAJqnDUfJA",
+      "name": "Turkish Cultural Center Pittsburgh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1459 Crane Ave, Pittsburgh, PA 15220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.415692,
+        "lon": -80.0396032
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGWtrCOX2NIgRwsAJqnDUfJA",
+      "rating": 4.9,
+      "user_ratings_total": 76
+    },
+    {
+      "id": "google_ChIJUZvbf-vyNIgRd3iOVnSwB5k",
+      "name": "Alfatimiah of Pittsburgh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "89 Cherry St, Etna, PA 15223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4949355,
+        "lon": -79.94433029999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUZvbf-vyNIgRd3iOVnSwB5k",
+      "rating": 4.4,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJnQs539PtNIgRBKdnSO7vrJc",
+      "name": "Muhammad's Study Group #22 Nation of Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "1001 South Ave, Pittsburgh, PA 15221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4403826,
+        "lon": -79.8800146
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnQs539PtNIgRBKdnSO7vrJc",
+      "rating": 4.3,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJm2WO-NDtNIgR_7VWQ7kKeCQ",
+      "name": "Ahmadiyya Muslim Community Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "747 South Ave, Pittsburgh, PA 15221, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.44165780000001,
+        "lon": -79.8834095
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm2WO-NDtNIgR_7VWQ7kKeCQ",
+      "rating": 4.1,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJI370jib3NIgR4kNd5gES11Q",
+      "name": "Crane Avenue Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "Pittsburgh, PA 15220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4159456,
+        "lon": -80.0396607
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI370jib3NIgR4kNd5gES11Q",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJvfWVGxaPNIgRKMSJlXh2RJ4",
+      "name": "Muslim Association of Greater Pittsburgh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "5725 N Montour Rd, Gibsonia, PA 15044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6587269,
+        "lon": -79.9859706
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvfWVGxaPNIgRKMSJlXh2RJ4",
+      "rating": 4.8,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJ0Tzq73hiNIgRZIIU9vkkjR0",
+      "name": "Islamic Center of Western Pennsylvania",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "550 Warrendale Bayne Rd, Wexford, PA 15090, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.6473657,
+        "lon": -80.10057119999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0Tzq73hiNIgRZIIU9vkkjR0",
+      "rating": 4.9,
+      "user_ratings_total": 107
+    },
+    {
+      "id": "google_ChIJYQQ3IgD3NIgRryEjiAjMvL4",
+      "name": "Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "920 Lorenz Ave, Pittsburgh, PA 15220, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.443036,
+        "lon": -80.042416
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYQQ3IgD3NIgRryEjiAjMvL4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJd7G1L77BNIgRwFwZoHfKFhI",
+      "name": "Imamia Organization of Pittsburgh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Pennsylvania",
+        "zip": "",
+        "full": "801 Pierson Run Rd, Pittsburgh, PA 15239, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.4589039,
+        "lon": -79.7356587
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd7G1L77BNIgRwFwZoHfKFhI",
+      "rating": 4.8,
+      "user_ratings_total": 25
     }
-  ]
+  ],
+  "google_places_added": 46
 }

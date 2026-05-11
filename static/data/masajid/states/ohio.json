@@ -1,6 +1,6 @@
 {
   "state": "Ohio",
-  "count": 34,
+  "count": 108,
   "generated_at": "2026-05-10 07:13:53 UTC",
   "masajid": [
     {
@@ -750,6 +750,1783 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1355276505
+    },
+    {
+      "id": "google_ChIJj5I_koCJOIgRktXnNGiT5oQ",
+      "name": "IbnuTaymiyah Masjid and Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2334 Mock Rd, Columbus, OH 43219, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0120288,
+        "lon": -82.9465604
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj5I_koCJOIgRktXnNGiT5oQ",
+      "rating": 4.8,
+      "user_ratings_total": 212
+    },
+    {
+      "id": "google_ChIJQxB5dJ6TOIgROGllm3fednM",
+      "name": "Noor Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "5001 Wilcox Rd, Dublin, OH 43016, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0653594,
+        "lon": -83.149463
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQxB5dJ6TOIgROGllm3fednM",
+      "rating": 4.8,
+      "user_ratings_total": 692
+    },
+    {
+      "id": "google_ChIJBUUH_vmIOIgR-E6A2gv6zEA",
+      "name": "Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1677 Oak St, Columbus, OH 43205, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.96213669999999,
+        "lon": -82.9551931
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBUUH_vmIOIgR-E6A2gv6zEA",
+      "rating": 4.1,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJfylDjbaFOIgRVhoogm2OsTM",
+      "name": "Masjid Bilal Islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1965 Zettler Center Dr, Columbus, OH 43223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9296047,
+        "lon": -83.0501488
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfylDjbaFOIgRVhoogm2OsTM",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJD_a27VWJOIgRPXmPAe-Sg90",
+      "name": "As-Sahaaba Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2535 Cleveland Ave, Columbus, OH 43211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0190048,
+        "lon": -82.9653167
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD_a27VWJOIgRPXmPAe-Sg90",
+      "rating": 4.7,
+      "user_ratings_total": 134
+    },
+    {
+      "id": "google_ChIJ5d6p38uLOIgRZdc2F5fygR0",
+      "name": "Alrahma Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2205 Albert Ave, Columbus, OH 43224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0300149,
+        "lon": -82.9554247
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5d6p38uLOIgRZdc2F5fygR0",
+      "rating": 4.8,
+      "user_ratings_total": 99
+    },
+    {
+      "id": "google_ChIJL23cTgL1OIgRc2p-qB4vfLQ",
+      "name": "As-Salaamah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "5259 Cleveland Ave, Columbus, OH 43229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0774236,
+        "lon": -82.9520951
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL23cTgL1OIgRc2p-qB4vfLQ",
+      "rating": 4.7,
+      "user_ratings_total": 216
+    },
+    {
+      "id": "google_ChIJbaf6RAWLOIgRTiu1r0wf09E",
+      "name": "MAS Columbus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4615 Northtowne Blvd, Columbus, OH 43229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.063254,
+        "lon": -82.9608143
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbaf6RAWLOIgRTiu1r0wf09E",
+      "rating": 4.9,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJ6YLc0oWLOIgRVFNnUJxABvM",
+      "name": "Al Huda Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1156 E Cooke Rd, Columbus, OH 43224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0481173,
+        "lon": -82.98742730000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6YLc0oWLOIgRVFNnUJxABvM",
+      "rating": 4.8,
+      "user_ratings_total": 78
+    },
+    {
+      "id": "google_ChIJd0WmRuvzOIgRz6rMTDRCcsg",
+      "name": "Polaris Islamic Center of Delaware County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "8542 Cotter St, Lewis Center, OH 43035, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1594411,
+        "lon": -83.0112863
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd0WmRuvzOIgRz6rMTDRCcsg",
+      "rating": 4.8,
+      "user_ratings_total": 152
+    },
+    {
+      "id": "google_ChIJS2oUYAiQOIgRJ4orJQsFQuY",
+      "name": "Alfurqan Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3437 Sullivant Ave, Columbus, OH 43204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9420528,
+        "lon": -83.0910023
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS2oUYAiQOIgRJ4orJQsFQuY",
+      "rating": 4.8,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJ0Q4aYCBjOIgRMW2hllynFko",
+      "name": "Al-Huda Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2100 Courtright Rd, Columbus, OH 43232, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.929337,
+        "lon": -82.89774709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0Q4aYCBjOIgRMW2hllynFko",
+      "rating": 4.9,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJ-coD20eNOIgR3D4mUtYJ8a8",
+      "name": "Ahlul Bayt Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2580 W Dublin-Granville Rd, Columbus, OH 43235, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0913218,
+        "lon": -83.0600508
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-coD20eNOIgR3D4mUtYJ8a8",
+      "rating": 4.5,
+      "user_ratings_total": 67
+    },
+    {
+      "id": "google_ChIJW1wrD6NiOIgRzA9xh2tg9_s",
+      "name": "Masjid Oumar Al Foutiyou",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4500 Eastland Dr, Columbus, OH 43232, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9214709,
+        "lon": -82.87762289999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJW1wrD6NiOIgRzA9xh2tg9_s",
+      "rating": 4.6,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJOwyEbdmLOIgRWl7QmqQXIAE",
+      "name": "Ul Bayyinah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3330 Cleveland Ave, Columbus, OH 43224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0350706,
+        "lon": -82.96305629999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOwyEbdmLOIgRWl7QmqQXIAE",
+      "rating": 4.9,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJg9UrLwCJOIgRsBgPhFtDmwc",
+      "name": "UMMAT-RASSUL MOSQUE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1173 E Hudson St, Columbus, OH 43211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0139107,
+        "lon": -82.9787939
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg9UrLwCJOIgRsBgPhFtDmwc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJfdG238xnOIgRy8zzQ7I8_eQ",
+      "name": "Al-Bukhaari Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3441 N Waggoner Rd, Blacklick, OH 43004, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0241403,
+        "lon": -82.7903267
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfdG238xnOIgRy8zzQ7I8_eQ",
+      "rating": 4.6,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJfV6_QACLOIgRemySeBW_sxg",
+      "name": "Masdjid As Salam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "5253-5257 Cleveland Ave, Columbus, OH 43229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0773567,
+        "lon": -82.9521913
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfV6_QACLOIgRemySeBW_sxg",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJf-QdljWLOIgRALmLkhgM4q4",
+      "name": "An-Nabawi Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1550 E Dublin Granville Rd, Columbus, OH 43229, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0875785,
+        "lon": -82.97689009999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf-QdljWLOIgRALmLkhgM4q4",
+      "rating": 5,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ90sBMQBdOIgRDhSSggW9hEo",
+      "name": "Noor Islamic Cultural Center - New Albany",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6449 E Walnut St, Westerville, OH 43081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.112397,
+        "lon": -82.81484929999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ90sBMQBdOIgRDhSSggW9hEo",
+      "rating": 4.9,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJ7fQiWFKTOIgRjXdCLrKJVIw",
+      "name": "Noor Islamic Cultural Center - Plain City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6543 Commerce Pkwy suite n, Dublin, OH 43017, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.1032908,
+        "lon": -83.1423221
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7fQiWFKTOIgRjXdCLrKJVIw",
+      "rating": 4.8,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJRYg5O-phOIgRBYG83KsHf4w",
+      "name": "Gahanna Islamic Center مسجد المُرابطين",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3643 Olde Ridenour Rd, Gahanna, OH 43230, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0311304,
+        "lon": -82.8817693
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRYg5O-phOIgRBYG83KsHf4w",
+      "rating": 4.9,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJqcKIEgCLOIgRbjqA71iJIKc",
+      "name": "Masjid Sahih Al- Bukhari",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2233 Albert Ave, Columbus, OH 43224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0298646,
+        "lon": -82.9543451
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqcKIEgCLOIgRbjqA71iJIKc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJFVbqsqiJOIgR4nGiJnykQi4",
+      "name": "NIMACO - Nigeria Muslim Association of Central Ohio",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4665 Cleveland Ave, Columbus, OH 43231, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0647281,
+        "lon": -82.9529914
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFVbqsqiJOIgR4nGiJnykQi4",
+      "rating": 5,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJ__9vN0mHOIgRC_ezQTDQV60",
+      "name": "Ahmadiyya Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "Baitun Nasir Mosque, 3360 Toy Rd, Groveport, OH 43021, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8542616,
+        "lon": -82.9238939
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ__9vN0mHOIgRC_ezQTDQV60",
+      "rating": 4.5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJI_RXZQB9OIgRoPyD-uN3tFY",
+      "name": "Gaskia Masjid and Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2932 Noe Bixby Rd, Columbus, OH 43232, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9168591,
+        "lon": -82.86355990000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI_RXZQB9OIgRoPyD-uN3tFY",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJc7XyMQCbOIgRg7zIx32sfdY",
+      "name": "Masjid Attaqwa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4501 Sullivant Ave suite e, Columbus, OH 43228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.9392287,
+        "lon": -83.1185125
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc7XyMQCbOIgRg7zIx32sfdY",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJdclhRT99OIgRn9V3xhR_pcQ",
+      "name": "Masjid Abdulrahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4500 Gender Rd, Canal Winchester, OH 43110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8914729,
+        "lon": -82.8242284
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdclhRT99OIgRn9V3xhR_pcQ",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJn5auMQCVOIgRg1H0IZ2Ak68",
+      "name": "Masjid Al Shurooq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4594 Cosgray Rd, Hilliard, OH 43026, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0492193,
+        "lon": -83.18024869999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJn5auMQCVOIgRg1H0IZ2Ak68",
+      "rating": 3,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJw6EKfS-MOIgRqmo_qlxFmGs",
+      "name": "International Market Foods",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3120 Olentangy River Rd, Columbus, OH 43202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.024666,
+        "lon": -83.025679
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw6EKfS-MOIgRqmo_qlxFmGs",
+      "rating": 4.2,
+      "user_ratings_total": 433
+    },
+    {
+      "id": "google_ChIJBwgAv1qNOIgR-ZRRFQrcFAs",
+      "name": "TASO - Turkish American Society of Ohio | Columbus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2885 W Dublin-Granville Rd, Columbus, OH 43235, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.090392,
+        "lon": -83.069526
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBwgAv1qNOIgR-ZRRFQrcFAs",
+      "rating": 5,
+      "user_ratings_total": 95
+    },
+    {
+      "id": "google_ChIJdR7THQBhOIgRVgwUxaWFhSM",
+      "name": "Şihan oğuları 515",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6100 N Hamilton Rd, Westerville, OH 43081, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 40.0835903,
+        "lon": -82.84920489999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdR7THQBhOIgRVgwUxaWFhSM",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJwy103oP7MIgRv8hHXyh2MnU",
+      "name": "Uqbah Mosque Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2222 Stokes Blvd, Cleveland, OH 44106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4979165,
+        "lon": -81.60931339999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwy103oP7MIgRv8hHXyh2MnU",
+      "rating": 4.8,
+      "user_ratings_total": 426
+    },
+    {
+      "id": "google_ChIJZbPTK_7sMIgRFyAMieVNlbA",
+      "name": "Al Alomary Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "4600 Rocky River Dr, Cleveland, OH 44135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4301806,
+        "lon": -81.82547869999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZbPTK_7sMIgRFyAMieVNlbA",
+      "rating": 4.9,
+      "user_ratings_total": 278
+    },
+    {
+      "id": "google_ChIJUQdeCwfuMIgRJH4_yTZvBwY",
+      "name": "Islamic Center of Northeast Ohio - Masjid Al-Sahabah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "12740 Lorain Ave, Cleveland, OH 44111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4593409,
+        "lon": -81.7772724
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUQdeCwfuMIgRJH4_yTZvBwY",
+      "rating": 4.5,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJG8dSYvf7MIgR8LLdDTDzUJc",
+      "name": "Prayer Room - Reserve Square - East Tower 3rd floor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1701 E 12th St, Cleveland, OH 44114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5030337,
+        "lon": -81.6852692
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG8dSYvf7MIgR8LLdDTDzUJc",
+      "rating": 3.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJiRYC9UqTMIgRAIaasSRpvGg",
+      "name": "Islamic Center of Westlake",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1255 Columbia Rd, Westlake, OH 44145, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4688884,
+        "lon": -81.9012111
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiRYC9UqTMIgRAIaasSRpvGg",
+      "rating": 4.8,
+      "user_ratings_total": 179
+    },
+    {
+      "id": "google_ChIJZUaqIwP8MIgRD72g3EpW2bw",
+      "name": "Abdullah Bin Mas'ud",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1129 Eddy Rd, Cleveland, OH 44108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5298628,
+        "lon": -81.59365
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZUaqIwP8MIgRD72g3EpW2bw",
+      "rating": 4.4,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJ42XERJj7MIgRhsXwLgSxprk",
+      "name": "Sheikh Maktoum Prayer Room",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2050 E 96th St, Cleveland, OH 44106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5020712,
+        "lon": -81.6206474
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ42XERJj7MIgRhsXwLgSxprk",
+      "rating": 4.8,
+      "user_ratings_total": 18
+    },
+    {
+      "id": "google_ChIJmRhsLXT7MIgRoJ8kiFVkHJ0",
+      "name": "Prayer Room - Reserve Square - Eas3 Tower 3rd floor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1701 E 13th St, Cleveland, OH 44114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5039501,
+        "lon": -81.6843548
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmRhsLXT7MIgRoJ8kiFVkHJ0",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJqcrY7oP7MIgR03JzwXpcxoA",
+      "name": "The Uqbah Mosque Foundation School Project",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2204 Petrarca Rd, Cleveland, OH 44106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4983485,
+        "lon": -81.61013729999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqcrY7oP7MIgR03JzwXpcxoA",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJPX_EKAD7MIgRuiOOR0hLppY",
+      "name": "MASJID AL MU'MIN",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2690 Martin Luther King Jr Dr, Cleveland, OH 44104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4860321,
+        "lon": -81.603549
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPX_EKAD7MIgRuiOOR0hLppY",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJeS0De_3tMIgRRlyO86znXRQ",
+      "name": "مسجد أنصار السنة",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "12940 Lorain Ave, Cleveland, OH 44111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4588561,
+        "lon": -81.7792015
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeS0De_3tMIgRRlyO86znXRQ",
+      "rating": 4,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJhVbZYBv_MIgRARkNXB9ZM38",
+      "name": "Muhammad's Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "256 E 156th St, Cleveland, OH 44110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5761376,
+        "lon": -81.5721326
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhVbZYBv_MIgRARkNXB9ZM38",
+      "rating": 4,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJEQ4Z237pMIgR2iqMDV94nas",
+      "name": "Cultural & Religious Center.”CRC”",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "10000 State Rd, North Royalton, OH 44133, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.33728809999999,
+        "lon": -81.7254234
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEQ4Z237pMIgR2iqMDV94nas",
+      "rating": 4.7,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJWdcHCC7nMIgRizILXanw-QE",
+      "name": "Unity Center Mosque of North East Ohio",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "10503 Valley View Rd, Northfield, OH 44067, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.3252917,
+        "lon": -81.5302799
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWdcHCC7nMIgRizILXanw-QE",
+      "rating": 4.4,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJj5iL2Oj7MIgRybDbmxPJGmU",
+      "name": "مسجد نور Masjid Al Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1247 E 99th St, Cleveland, OH 44108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5224524,
+        "lon": -81.6207196
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj5iL2Oj7MIgRybDbmxPJGmU",
+      "rating": 4.7,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJOW6KYQDvMIgRSWDp9sAV8DQ",
+      "name": "Masjid Abul Qasiim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "12808 Bellaire Rd, Cleveland, OH 44135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.439011,
+        "lon": -81.77831789999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOW6KYQDvMIgRSWDp9sAV8DQ",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJcTyLgTcAMYgRhZby2FjN3qw",
+      "name": "Muslim Association of Cleveland East",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "26901 Chardon Rd, Richmond Heights, OH 44143, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.57954770000001,
+        "lon": -81.4936024
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJcTyLgTcAMYgRhZby2FjN3qw",
+      "rating": 4.3,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJgZcr5WeRMIgR9Vs-V0xLzNU",
+      "name": "WEST CLEVELAND MUSLIM ASSOCIATION",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1255 Columbia Rd, Westlake, OH 44145, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.4689051,
+        "lon": -81.901155
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgZcr5WeRMIgR9Vs-V0xLzNU",
+      "rating": 4.8,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJX8WTC28nMYgRWP9Q_p6HVtQ",
+      "name": "Islamic Society of Akron and Kent",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "152 E Steels Corners Rd, Cuyahoga Falls, OH 44224, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.1804622,
+        "lon": -81.50318279999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX8WTC28nMYgRWP9Q_p6HVtQ",
+      "rating": 4.8,
+      "user_ratings_total": 159
+    },
+    {
+      "id": "google_ChIJiR_9Erz-MIgRcx9A8r1FJyQ",
+      "name": "Islamic Brotherhood Universal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1187 Hayden Ave, Cleveland, OH 44110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.546022,
+        "lon": -81.5862456
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiR_9Erz-MIgRcx9A8r1FJyQ",
+      "rating": 4.6,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJv18odwW0QYgR4-jwbxby-p8",
+      "name": "Cincinnati Masjid & Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "933 Bank St, Cincinnati, OH 45214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1190965,
+        "lon": -84.530384
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv18odwW0QYgR4-jwbxby-p8",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJI6kvnkq0QYgRt949ektzHyQ",
+      "name": "Masjid Abu Bakr Siddik",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1960 Harrison Ave, Cincinnati, OH 45214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1318283,
+        "lon": -84.56265259999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI6kvnkq0QYgRt949ektzHyQ",
+      "rating": 4.5,
+      "user_ratings_total": 66
+    },
+    {
+      "id": "google_ChIJIaudAGa0QYgRnmnQnhnCl9s",
+      "name": "Assunnah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1254 Bates Ave, Cincinnati, OH 45225, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1412774,
+        "lon": -84.5379967
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIaudAGa0QYgRnmnQnhnCl9s",
+      "rating": 4.5,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJqYC6jv2zQYgR_5crBHpAyKU",
+      "name": "Masjid Al Ashab",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1233 Vine St, Cincinnati, OH 45202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1091702,
+        "lon": -84.5152904
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqYC6jv2zQYgR_5crBHpAyKU",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJjVNnd_mxQYgR-R0ikwEYrwM",
+      "name": "Islamic Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "1416 Garrard St, Covington, KY 41011, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.074936,
+        "lon": -84.5026748
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjVNnd_mxQYgR-R0ikwEYrwM",
+      "rating": 4.9,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJ86BobYlNQIgRtuU97cvoYSo",
+      "name": "Greater Cincinnati Islamic Association (GCIA)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "7762 Reading Rd, Cincinnati, OH 45237, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2032279,
+        "lon": -84.45457580000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ86BobYlNQIgRtuU97cvoYSo",
+      "rating": 4.9,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJRwjDPQC1QYgRpnqDJysTPE0",
+      "name": "Al istiquama masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2755 Shaffer Ave, Cincinnati, OH 45211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1445573,
+        "lon": -84.5867033
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRwjDPQC1QYgRpnqDJysTPE0",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJyw10DABXQIgRK8BkRNlTg74",
+      "name": "Islamic Center of Mason",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "999 Reading Rd, Mason, OH 45040, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.341599,
+        "lon": -84.3381414
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyw10DABXQIgRK8BkRNlTg74",
+      "rating": 4.9,
+      "user_ratings_total": 99
+    },
+    {
+      "id": "google_ChIJBym2281ZQIgRt9fXtpuLUUE",
+      "name": "Dar-E-Zehra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "7285 Cincinnati Dayton Rd, West Chester Township, OH 45069, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.3675916,
+        "lon": -84.3877582
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBym2281ZQIgRt9fXtpuLUUE",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJQSqZ1S_HQYgRVsfYhNnNTGc",
+      "name": "Al Hilal Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "7009 Burlington Pike, Florence, KY 41042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.00698089999999,
+        "lon": -84.6300546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQSqZ1S_HQYgRVsfYhNnNTGc",
+      "rating": 4.9,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJVVXlHJi1QYgRNAyCPwf5iP0",
+      "name": "Cincinnati Islamic Center - Food Distribution Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2570 Gobel Ct, Cincinnati, OH 45211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1434529,
+        "lon": -84.5858882
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVXlHJi1QYgRNAyCPwf5iP0",
+      "rating": 4.8,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJ45UGsrv_QIgRIZIhmuYgRb8",
+      "name": "Ihsan Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6070 Branch Hill-Guinea Pike, Milford, OH 45150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2055855,
+        "lon": -84.2222012
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ45UGsrv_QIgRIZIhmuYgRb8",
+      "rating": 4.7,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJ2SO47bSJQIgRMextgRNTSdM",
+      "name": "Islamic Center of Dayton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2277 Maue Rd, Miamisburg, OH 45342, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6314948,
+        "lon": -84.2452197
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2SO47bSJQIgRMextgRNTSdM",
+      "rating": 4.8,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJk0ygFTb_QIgROQ3ZFOG3aWk",
+      "name": "Ihsan Muslim Explorers",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6070 Branch Hill-Guinea Pike, Milford, OH 45150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2055855,
+        "lon": -84.2222012
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk0ygFTb_QIgROQ3ZFOG3aWk",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJm2BelkyJQIgRQJ8RO064hrE",
+      "name": "Islamic Center of Centerville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "10501 Success Ln, Washington Township, OH 45458, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.5963032,
+        "lon": -84.2059463
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm2BelkyJQIgRQJ8RO064hrE",
+      "rating": 4.8,
+      "user_ratings_total": 84
+    },
+    {
+      "id": "google_ChIJCZnWEPqzQYgRefsgeL3ATNI",
+      "name": "IMANI FAMILY CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "45 Mulberry St, Cincinnati, OH 45202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.1183974,
+        "lon": -84.5161236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCZnWEPqzQYgRefsgeL3ATNI",
+      "rating": 4.8,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJS6Dvv_CcQIgRMHEibIObLPc",
+      "name": "Islamic Center of Fairborn",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "3111 Colonel Glenn Hwy, Fairborn, OH 45324, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7808798,
+        "lon": -84.0456366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJS6Dvv_CcQIgRMHEibIObLPc",
+      "rating": 4.9,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJVR2ujJBSQIgRL24Fo3ls344",
+      "name": "Mayerson JCC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "8485 Ridge Ave, Cincinnati, OH 45236, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.2158032,
+        "lon": -84.42875629999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVR2ujJBSQIgRL24Fo3ls344",
+      "rating": 4.7,
+      "user_ratings_total": 469
+    },
+    {
+      "id": "google_ChIJ0ZGmqpuiQIgR0bbDRQnRSqQ",
+      "name": "Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "299 E Market St, Xenia, OH 45385, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6863482,
+        "lon": -83.9241888
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0ZGmqpuiQIgR0bbDRQnRSqQ",
+      "rating": 4.3,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJWwx8pGleQIgRi6_Ndontobg",
+      "name": "Al-Imam Al-Muntadhar Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "6920 Dubois Ct, Middletown, OH 45044, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.4867385,
+        "lon": -84.33522529999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWwx8pGleQIgRi6_Ndontobg",
+      "rating": 4.7,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJbYTnZ4eaQIgRanf-tQ01Gio",
+      "name": "Al-Huda Mosque - Islamic Society of Greater Dayton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "730 S Alpha Bellbrook Rd, Sugarcreek Township, OH 45305, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.671547,
+        "lon": -84.05970769999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbYTnZ4eaQIgRanf-tQ01Gio",
+      "rating": 4.6,
+      "user_ratings_total": 155
+    },
+    {
+      "id": "google_ChIJE5Mxgx2BQIgRUsBy-Z2uHOg",
+      "name": "dayton community masjid center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Ohio",
+        "zip": "",
+        "full": "2139 Salem Ave, Dayton, OH 45406, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.783807,
+        "lon": -84.2272529
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE5Mxgx2BQIgRUsBy-Z2uHOg",
+      "rating": 4.8,
+      "user_ratings_total": 23
     }
-  ]
+  ],
+  "google_places_added": 74
 }

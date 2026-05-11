@@ -1,6 +1,6 @@
 {
   "state": "Alabama",
-  "count": 8,
+  "count": 19,
   "generated_at": "2026-05-10 04:58:47 UTC",
   "masajid": [
     {
@@ -178,6 +178,271 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 12193939603
+    },
+    {
+      "id": "google_ChIJ_cdM_dcbiYgR41tVxlc8LGI",
+      "name": "BIS Homewood Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "1810 25th Ct S, Homewood, AL 35209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4866245,
+        "lon": -86.7915282
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_cdM_dcbiYgR41tVxlc8LGI",
+      "rating": 4.5,
+      "user_ratings_total": 96
+    },
+    {
+      "id": "google_ChIJqTX23RcciYgReiUDsrhGbu4",
+      "name": "Muhammad Mosque #69",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "521 Tuscaloosa Ave, Birmingham, AL 35211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5003977,
+        "lon": -86.8416531
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqTX23RcciYgReiUDsrhGbu4",
+      "rating": 4.2,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJBUme07cYiYgRLCMgPiCRm1A",
+      "name": "BIS Hoover Crescent Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "2524 Hackberry Ln, Hoover, AL 35226, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.41941180000001,
+        "lon": -86.81468
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBUme07cYiYgRLCMgPiCRm1A",
+      "rating": 4.9,
+      "user_ratings_total": 248
+    },
+    {
+      "id": "google_ChIJO6YpwQbiiIgR_rOsH-bX0x0",
+      "name": "BIS Fairfield Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "740 Donald Pkwy, Fairfield, AL 35064, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4959981,
+        "lon": -86.906039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO6YpwQbiiIgR_rOsH-bX0x0",
+      "rating": 4.5,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJwTtunB8fiYgRkNyolwsY4nY",
+      "name": "Ismaili Community Center And Jamatkhana - Birmingham",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "131 Oxmoor Ct, Birmingham, AL 35209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4398132,
+        "lon": -86.8444835
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwTtunB8fiYgRkNyolwsY4nY",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJuyvsVeokiYgRLs4n1qTTTIg",
+      "name": "Al-Qubbatu Al-Khadra Masjid Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "1009 Co Rd 332, Pelham, AL 35124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.2811683,
+        "lon": -86.76418439999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuyvsVeokiYgRLs4n1qTTTIg",
+      "rating": 4.5,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJV3Ni_dcbiYgRysBsEYyhRaw",
+      "name": "Islamic Academy of Alabama",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "1810 25th Ct S, Homewood, AL 35209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4865859,
+        "lon": -86.7913964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV3Ni_dcbiYgRysBsEYyhRaw",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJfyY18uohiYgR3xS5ZDMD2AY",
+      "name": "Dar-e-Zahra",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "1907 AL-150, Bessemer, AL 35022, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3681187,
+        "lon": -86.8882069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfyY18uohiYgR3xS5ZDMD2AY",
+      "rating": 4.4,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJ582u5O5rYogR7UjGz0dWabc",
+      "name": "Huntsville Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "1645 Sparkman Dr NW, Huntsville, AL 35816, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.7426867,
+        "lon": -86.64849
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ582u5O5rYogR7UjGz0dWabc",
+      "rating": 4.6,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJd9uz1DlOmogRKXhN2OhyVQ8",
+      "name": "Masjid Baitul Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "509 Aurelia St, Mobile, AL 36604, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.677562,
+        "lon": -88.0610007
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd9uz1DlOmogRKXhN2OhyVQ8",
+      "rating": 4.2,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJpzuxMaWym4gReXkr38AOJLg",
+      "name": "Islamic Society of Mobile",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Alabama",
+        "zip": "",
+        "full": "63 East Dr, Mobile, AL 36608, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.6886192,
+        "lon": -88.1793142
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpzuxMaWym4gReXkr38AOJLg",
+      "rating": 4.8,
+      "user_ratings_total": 82
     }
-  ]
+  ],
+  "google_places_added": 11
 }

@@ -1,6 +1,6 @@
 {
   "state": "Florida",
-  "count": 41,
+  "count": 164,
   "generated_at": "2026-05-10 05:27:53 UTC",
   "masajid": [
     {
@@ -904,6 +904,2959 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 12193939603
+    },
+    {
+      "id": "google_ChIJLx9GOgC32YgRvPzYXfGwOFA",
+      "name": "Musalla Al Faiza",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "28 N Miami Ave, Miami, FL 33128, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7747224,
+        "lon": -80.1937129
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLx9GOgC32YgRvPzYXfGwOFA",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJXzKFYoav2YgREiNAZ9Ly22M",
+      "name": "Islamic Center of Greater Miami",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4305 NW 183rd St, Miami Gardens, FL 33055, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9407944,
+        "lon": -80.2718556
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXzKFYoav2YgREiNAZ9Ly22M",
+      "rating": 4.8,
+      "user_ratings_total": 534
+    },
+    {
+      "id": "google_ChIJy7Yc3UCx2YgREzDEIXsRoOY",
+      "name": "Al-Ansar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5245 NW 7th Ave, Miami, FL 33127, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8238944,
+        "lon": -80.2078192
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy7Yc3UCx2YgREzDEIXsRoOY",
+      "rating": 4.6,
+      "user_ratings_total": 197
+    },
+    {
+      "id": "google_ChIJFTSA6g662YgRkhYndS7kvHk",
+      "name": "Miami Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "102 W 5th St, Hialeah, FL 33010, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.825876,
+        "lon": -80.283782
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFTSA6g662YgRkhYndS7kvHk",
+      "rating": 4.9,
+      "user_ratings_total": 124
+    },
+    {
+      "id": "google_ChIJl9RC04Oz2YgR_8WZEkEWer8",
+      "name": "Miami Beach Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7904 West Dr, North Bay Village, FL 33141, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8490962,
+        "lon": -80.1597453
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl9RC04Oz2YgR_8WZEkEWer8",
+      "rating": 4.5,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJLzBk26652YgRoq6Ojwn5pFo",
+      "name": "Miami Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7350 NW 3rd St, Miami, FL 33126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7734257,
+        "lon": -80.3147153
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLzBk26652YgRoq6Ojwn5pFo",
+      "rating": 4.8,
+      "user_ratings_total": 201
+    },
+    {
+      "id": "google_ChIJjztm2AGy2YgRUcJWoeK_r8g",
+      "name": "Islamic center of North Miami",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "560 NE 129th St, North Miami, FL 33161, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8936451,
+        "lon": -80.18754299999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjztm2AGy2YgRUcJWoeK_r8g",
+      "rating": 4.6,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJD818-4i_2YgRCjgETe8stiU",
+      "name": "Faizan E Madinah Miami Islamic Center ( Masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "14219 SW 42nd St, Miami, FL 33175, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7296742,
+        "lon": -80.424492
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD818-4i_2YgRCjgETe8stiU",
+      "rating": 4.8,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJgyLvsWqu2YgRLoXDgzkIqAQ",
+      "name": "Masjid As-Sunnah An-Nabawiyyah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "560 NW 165th St, Miami, FL 33169, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9225717,
+        "lon": -80.20909689999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgyLvsWqu2YgRLoXDgzkIqAQ",
+      "rating": 4.7,
+      "user_ratings_total": 220
+    },
+    {
+      "id": "google_ChIJnRDy-iap2YgRDhnNvBxFj4M",
+      "name": "Darul Uloom Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7050 Pines Blvd, Pembroke Pines, FL 33023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0088181,
+        "lon": -80.2286069
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnRDy-iap2YgRDhnNvBxFj4M",
+      "rating": 4.8,
+      "user_ratings_total": 163
+    },
+    {
+      "id": "google_ChIJ3ST93v6o2YgRsbksn6IpjhA",
+      "name": "Islamic Movement of Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3201 NW 74th Ave, Hollywood, FL 33024, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0377398,
+        "lon": -80.2366022
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3ST93v6o2YgRsbksn6IpjhA",
+      "rating": 4.7,
+      "user_ratings_total": 108
+    },
+    {
+      "id": "google_ChIJj3coSdOj2YgRKEwJYYdIhQc",
+      "name": "Jamaat uI Muttaqeen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1010 SW 196th Ave, Pembroke Pines, FL 33029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9988249,
+        "lon": -80.4092321
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj3coSdOj2YgRKEwJYYdIhQc",
+      "rating": 4.7,
+      "user_ratings_total": 95
+    },
+    {
+      "id": "google_ChIJnYM1PgDB2YgRRmb6W7P2W9w",
+      "name": "An-Noor Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "11699 SW 147th Ave, Miami, FL 33196, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.6590527,
+        "lon": -80.4294125
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnYM1PgDB2YgRRmb6W7P2W9w",
+      "rating": 4.8,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJ7XUuhb_B2YgR3ex-EcuL2oY",
+      "name": "Islamic School of Miami",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "11699 SW 147th Ave, Miami, FL 33196, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.6587967,
+        "lon": -80.4303915
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7XUuhb_B2YgR3ex-EcuL2oY",
+      "rating": 4.7,
+      "user_ratings_total": 90
+    },
+    {
+      "id": "google_ChIJa3FJxxgubRQR15V3F0qIvFE",
+      "name": "Islamic Center of South Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1641 NW 15th St, Pompano Beach, FL 33069, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.2463876,
+        "lon": -80.14604609999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa3FJxxgubRQR15V3F0qIvFE",
+      "rating": 4.8,
+      "user_ratings_total": 352
+    },
+    {
+      "id": "google_ChIJ8eElovrh2IgRFeUS0BIGZDc",
+      "name": "Islamic Center of Boca Raton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3480 NW 5th Ave, Boca Raton, FL 33431, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.381284,
+        "lon": -80.0929532
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8eElovrh2IgRFeUS0BIGZDc",
+      "rating": 4.9,
+      "user_ratings_total": 306
+    },
+    {
+      "id": "google_ChIJF5cld7yv2YgR7KyQYbpc9f4",
+      "name": "Masjid Umme Hani (RA)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "18215 NW 18th Ave, Miami Gardens, FL 33056, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.94064,
+        "lon": -80.2309385
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF5cld7yv2YgR7KyQYbpc9f4",
+      "rating": 4.6,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJha0mmSgB2YgRwWyXbqHi3DA",
+      "name": "Masjid Aliman (The Islamic Center of Fort Lauderdale)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2542 Franklin Dr, Fort Lauderdale, FL 33311, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.1347268,
+        "lon": -80.1768767
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJha0mmSgB2YgRwWyXbqHi3DA",
+      "rating": 4.9,
+      "user_ratings_total": 236
+    },
+    {
+      "id": "google_ChIJYS9Mo6yp2YgRuhgLccwy12s",
+      "name": "Masjid-e-Khaleel",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5870 SW 64th Ave, Davie, FL 33314, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0471553,
+        "lon": -80.2310286
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYS9Mo6yp2YgRuhgLccwy12s",
+      "rating": 4.6,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJv-QSpLqt2YgR7Da-jhWuV2o",
+      "name": "The Ancient Spanish Monastery",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "16711 W Dixie Hwy, North Miami Beach, FL 33160, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9296854,
+        "lon": -80.15457219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv-QSpLqt2YgR7Da-jhWuV2o",
+      "rating": 4.5,
+      "user_ratings_total": 1715
+    },
+    {
+      "id": "google_ChIJP3KB4cmu2YgRihrfSojJBOY",
+      "name": "Al-Hijrah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "6128 SW 27th St, Miramar, FL 33023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9854777,
+        "lon": -80.20996939999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJP3KB4cmu2YgRihrfSojJBOY",
+      "rating": 4.6,
+      "user_ratings_total": 63
+    },
+    {
+      "id": "google_ChIJt66Ycway2YgRLQZUeKWy8j0",
+      "name": "Musallah billal (Masjid Bilal)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1025 NE 126th St, North Miami, FL 33161, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8917945,
+        "lon": -80.177933
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt66Ycway2YgRLQZUeKWy8j0",
+      "rating": 4.2,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJV0w4BACx2YgRxbH3ttWz-yo",
+      "name": "Al Mumin Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2410 NW 93rd St, Miami, FL 33147, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8584244,
+        "lon": -80.2385376
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV0w4BACx2YgRxbH3ttWz-yo",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJNUU9QACx2YgR7fwIlwoyOAY",
+      "name": "Masjid Ibrahim",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "6800 NW 7th Ave, Miami, FL 33150, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8366026,
+        "lon": -80.20919320000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNUU9QACx2YgR7fwIlwoyOAY",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJwUq5Tk232YgR4fiiy-Dan5g",
+      "name": "Miami International Airport",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2100 NW 42nd Ave, Miami, FL 33142, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7923496,
+        "lon": -80.28230590000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwUq5Tk232YgR4fiiy-Dan5g",
+      "rating": 3.9,
+      "user_ratings_total": 63501
+    },
+    {
+      "id": "google_ChIJkcW9fZMC2YgR8oLLdIJyY4Q",
+      "name": "American Islamic center of florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "507 NE 6th St, Pompano Beach, FL 33060, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.2374301,
+        "lon": -80.1181952
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkcW9fZMC2YgR8oLLdIJyY4Q",
+      "rating": 4.3,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJ8wjzhG4G2YgR107KA8NYeMU",
+      "name": "Madinatul Uloom Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7515 W Oakland Park Blvd, Lauderhill, FL 33319, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.1669535,
+        "lon": -80.2484139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8wjzhG4G2YgR107KA8NYeMU",
+      "rating": 5,
+      "user_ratings_total": 108
+    },
+    {
+      "id": "google_ChIJLTFEUM2n2YgRDk3DWUTXd7s",
+      "name": "Masjid Nur Ul Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "10600 SW 59th St, Davie, FL 33328, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0450913,
+        "lon": -80.2884631
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLTFEUM2n2YgRDk3DWUTXd7s",
+      "rating": 4.8,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJOenS_SAP2YgRHbeLUQK5FdI",
+      "name": "Islamic Foundation of South Florida (IFSF)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5455 NW 108th Ave, Sunrise, FL 33351, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.1909,
+        "lon": -80.29410639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOenS_SAP2YgRHbeLUQK5FdI",
+      "rating": 4.9,
+      "user_ratings_total": 120
+    },
+    {
+      "id": "google_ChIJOWcP1wEK2YgR69rXZap5cTI",
+      "name": "Islamic Center of Weston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1960 N Commerce Pkwy 7 & #8, Weston, FL 33326, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0936207,
+        "lon": -80.3645165
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOWcP1wEK2YgR69rXZap5cTI",
+      "rating": 5,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJLac1SQC92YgRIu-yXNlqjds",
+      "name": "Islamic Jaffaria Association Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "10554 NW 132nd St, Hialeah, FL 33018, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.8929451,
+        "lon": -80.3710411
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLac1SQC92YgRIu-yXNlqjds",
+      "rating": 4,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJm6QWEwDH2YgRIr9iKbUCMgQ",
+      "name": "Ershad Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "6669 SW 59th Pl, South Miami, FL 33143, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7090785,
+        "lon": -80.2904966
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm6QWEwDH2YgRIr9iKbUCMgQ",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJI2-bHCoF2YgR2ioHUXwrOBQ",
+      "name": "Masjid Jamaat Al-Mumineen",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3222 Holiday Springs Blvd, Margate, FL 33063, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.2691589,
+        "lon": -80.2329098
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJI2-bHCoF2YgR2ioHUXwrOBQ",
+      "rating": 4.9,
+      "user_ratings_total": 178
+    },
+    {
+      "id": "google_ChIJgf42Rc2n2YgRR4fc0sS9WJ4",
+      "name": "Nur Ul Islam Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "10600 SW 59th St, Cooper City, FL 33328, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0452373,
+        "lon": -80.28879669999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgf42Rc2n2YgRR4fc0sS9WJ4",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJqctyEwkG2YgRD74Hpji-Vf4",
+      "name": "Islamic Center of Broward (ICB)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "9000 NW 44th St, Sunrise, FL 33351, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.1786171,
+        "lon": -80.2710992
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqctyEwkG2YgRD74Hpji-Vf4",
+      "rating": 4.9,
+      "user_ratings_total": 136
+    },
+    {
+      "id": "google_ChIJo0o7tKi22YgRbeZ2Qy8cUPU",
+      "name": "Miami City Cemetery",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1800 NE 2nd Ave, Miami, FL 33132, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7934118,
+        "lon": -80.19302859999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo0o7tKi22YgRbeZ2Qy8cUPU",
+      "rating": 4.9,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJnRDy-iap2YgRBM_QwvxsRB8",
+      "name": "AL-Hikmat Office ( Next To Darul Uloom Institute)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "120 SW 70th Ave, Pembroke Pines, FL 33023, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0090693,
+        "lon": -80.2280877
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnRDy-iap2YgRBM_QwvxsRB8",
+      "rating": 4.7,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJGyyvNwrh2YgRYt4Wjlpi5js",
+      "name": "Islamic Center of Florida City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1213 NW 9th Ave, Florida City, FL 33034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.4591166,
+        "lon": -80.4916904
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGyyvNwrh2YgRYt4Wjlpi5js",
+      "rating": 4.8,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJYxqdOAso2YgRX0zbhEgVnsY",
+      "name": "Muslim Community of Palm Beach",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4893 Purdy Ln, West Palm Beach, FL 33415, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.6448958,
+        "lon": -80.11945
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYxqdOAso2YgRX0zbhEgVnsY",
+      "rating": 4.8,
+      "user_ratings_total": 156
+    },
+    {
+      "id": "google_ChIJPRhlsSDV2IgRuFKo_hJzUzk",
+      "name": "Islamic Center of Palm Beach (ICPB)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "101 Castlewood Dr, North Palm Beach, FL 33408, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.8039891,
+        "lon": -80.0543795
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPRhlsSDV2IgRuFKo_hJzUzk",
+      "rating": 4.7,
+      "user_ratings_total": 126
+    },
+    {
+      "id": "google_ChIJT5Z3Tk-r2YgREAcKVKzKupE",
+      "name": "Islamic Center Musallah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "504232080010, Fort Lauderdale, FL 33312, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.0617939,
+        "lon": -80.1792675
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT5Z3Tk-r2YgREAcKVKzKupE",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJXzrM4FqO54gRYQQnOs1h9hc",
+      "name": "Florida Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "60 W Center St, Minneola, FL 34715, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5723536,
+        "lon": -81.74752950000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXzrM4FqO54gRYQQnOs1h9hc",
+      "rating": 4.7,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJ5TAAA6Us5ogRIiCnyVdyGDs",
+      "name": "Islamic Center of Ocala",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1410 NE 14th St, Ocala, FL 34470, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.2001509,
+        "lon": -82.1191557
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5TAAA6Us5ogRIiCnyVdyGDs",
+      "rating": 4.8,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJDVIBUkcd2YgRTr0dmCngTjE",
+      "name": "Islamic Learning Center of North Broward (ILCNB)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4405 W Hillsboro Blvd, Coconut Creek, FL 33073, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.3187422,
+        "lon": -80.1845691
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDVIBUkcd2YgRTr0dmCngTjE",
+      "rating": 4.6,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJf8H80kbu3ogRKObhC9UGmP8",
+      "name": "Islamic Center of Fort Pierce - House Of The Believers",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3607 Oleander Ave, Fort Pierce, FL 34982, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.3934693,
+        "lon": -80.335206
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf8H80kbu3ogRKObhC9UGmP8",
+      "rating": 4.8,
+      "user_ratings_total": 108
+    },
+    {
+      "id": "google_ChIJsbZpbDJ754gRi9knkDHdCPE",
+      "name": "Masjid Qubaa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3043 Curry Ford Rd, Orlando, FL 32806, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5249984,
+        "lon": -81.34530509999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsbZpbDJ754gRi9knkDHdCPE",
+      "rating": 4.7,
+      "user_ratings_total": 76
+    },
+    {
+      "id": "google_ChIJDZ9OJJhl54gRNGv6Qwl8JVw",
+      "name": "Masjid Al Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1089 N Goldenrod Rd, Orlando, FL 32807, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5580639,
+        "lon": -81.2834484
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDZ9OJJhl54gRNGv6Qwl8JVw",
+      "rating": 4.8,
+      "user_ratings_total": 382
+    },
+    {
+      "id": "google_ChIJ9fjeDud854gRPdUGD_IA1aI",
+      "name": "AL-BUKHARI ISLAMIC CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "8009 S Orange Ave, Orlando, FL 32809, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.4535598,
+        "lon": -81.3638046
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9fjeDud854gRPdUGD_IA1aI",
+      "rating": 4.8,
+      "user_ratings_total": 198
+    },
+    {
+      "id": "google_ChIJtWEaKJR954gRj9VT_II9-rI",
+      "name": "Al-Aziz Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "9501 Satellite Blvd, Orlando, FL 32837, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.4205522,
+        "lon": -81.40053549999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtWEaKJR954gRj9VT_II9-rI",
+      "rating": 4.7,
+      "user_ratings_total": 195
+    },
+    {
+      "id": "google_ChIJPdy99Zpl54gRL5Ar5yRQ51Y",
+      "name": "Islamic Society of Central Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1586 N Goldenrod Rd, Orlando, FL 32807, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.565002,
+        "lon": -81.2865372
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPdy99Zpl54gRL5Ar5yRQ51Y",
+      "rating": 4.4,
+      "user_ratings_total": 81
+    },
+    {
+      "id": "google_ChIJtWEaKJR954gRs4vMe9PqKmk",
+      "name": "Baitul-Aafiyat Mosque (Masjid), Orlando, Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "9501 Satellite Blvd Suite 103, Orlando, FL 32837, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.4210032,
+        "lon": -81.40045649999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtWEaKJR954gRs4vMe9PqKmk",
+      "rating": 4.5,
+      "user_ratings_total": 50
+    },
+    {
+      "id": "google_ChIJQfGHkw1y54gRct3TzvNbPso",
+      "name": "American Muslim Community Center (AMCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "811 Wilma St, Longwood, FL 32750, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6953548,
+        "lon": -81.34960219999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQfGHkw1y54gRct3TzvNbPso",
+      "rating": 4.8,
+      "user_ratings_total": 183
+    },
+    {
+      "id": "google_ChIJuy_aTE1m54gRf01lB3GJUvo",
+      "name": "Aisha Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1311 Hancock Lone Palm Rd, Orlando, FL 32828, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5570062,
+        "lon": -81.1778193
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuy_aTE1m54gRf01lB3GJUvo",
+      "rating": 4.9,
+      "user_ratings_total": 289
+    },
+    {
+      "id": "google_ChIJL3stBDcT54gRmbrvDra_5Qc",
+      "name": "Islamic Society of Central Florida - Masjid Al-Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2917 S Orlando Dr, Sanford, FL 32773, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.7733009,
+        "lon": -81.2778989
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJL3stBDcT54gRmbrvDra_5Qc",
+      "rating": 4.7,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJwwZMJNqD3YgRcTOTNjgTzo0",
+      "name": "Jaffaria Islamic Center-Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1500 Old Vineland Rd, Kissimmee, FL 34746, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3059405,
+        "lon": -81.45916419999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwwZMJNqD3YgRcTOTNjgTzo0",
+      "rating": 4.3,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJGZQBXhB254gRSStaHIU24Qc",
+      "name": "Muslim Community Center of Apopka (MCCA)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "458 Oakland Ave, Apopka, FL 32703, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6716829,
+        "lon": -81.5033984
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGZQBXhB254gRSStaHIU24Qc",
+      "rating": 4.7,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJ1_sdQ5pl54gRyg4nn4hE20Y",
+      "name": "Muslim Social Services Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1460 N Goldenrod Rd suite 105, Orlando, FL 32807, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5642633,
+        "lon": -81.2866032
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1_sdQ5pl54gRyg4nn4hE20Y",
+      "rating": 4.3,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJAezO_r9z54gRWCx07cJcrL4",
+      "name": "HMCC Heathrow Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1325 S International Pkwy #1241, Lake Mary, FL 32746, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.7548984,
+        "lon": -81.36512669999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAezO_r9z54gRWCx07cJcrL4",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJidLp4Vl554gRtxG5_HCG7GY",
+      "name": "Arab American Community Center of Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "933 Lee Rd Suite 302, Orlando, FL 32810, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6069906,
+        "lon": -81.3942591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJidLp4Vl554gRtxG5_HCG7GY",
+      "rating": 4.5,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJBwD0GQ1y54gRcgCT9ojDNxY",
+      "name": "American Muslim Community Health Center (AMCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "588 Wilma St, Longwood, FL 32750, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6973572,
+        "lon": -81.3488059
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBwD0GQ1y54gRcgCT9ojDNxY",
+      "rating": 4.8,
+      "user_ratings_total": 138
+    },
+    {
+      "id": "google_ChIJebXjXPuC3YgRuDiCo-Ecoak",
+      "name": "Albir Islamic Association Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4870 Old Tampa Hwy, Kissimmee, FL 34758, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.257796,
+        "lon": -81.4780327
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJebXjXPuC3YgRuDiCo-Ecoak",
+      "rating": 4.8,
+      "user_ratings_total": 157
+    },
+    {
+      "id": "google_ChIJsYbvYuCR54gRBsjkYKGYDwE",
+      "name": "Islamic Center of South Lake County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "18296 US-27, Clermont, FL 34715, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6116701,
+        "lon": -81.7576658
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsYbvYuCR54gRBsjkYKGYDwE",
+      "rating": 4.7,
+      "user_ratings_total": 79
+    },
+    {
+      "id": "google_ChIJZSrYJgKB3YgRFgn4LhrGvzc",
+      "name": "Muslim Memories",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "12236 S Apopka Vineland Rd, Orlando, FL 32836, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3868877,
+        "lon": -81.5069802
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZSrYJgKB3YgRFgn4LhrGvzc",
+      "rating": 4.7,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJC0pAKrqB3YgRQwqP2WxE-xY",
+      "name": "MASJID ALNOOR 🕌 مسجد النور",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3496 Polynesian Isle Blvd, Kissimmee, FL 34746, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3460731,
+        "lon": -81.4882659
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC0pAKrqB3YgRQwqP2WxE-xY",
+      "rating": 4.8,
+      "user_ratings_total": 103
+    },
+    {
+      "id": "google_ChIJeRtcFAF554gR2TzgOR2D-UU",
+      "name": "Muslim Woman Orgnization",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1112 Mt Vernon St, Orlando, FL 32803, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.5501654,
+        "lon": -81.3650249
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeRtcFAF554gR2TzgOR2D-UU",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJvRKcFjmd3YgRwna6uMHTh-o",
+      "name": "Islamic Center of Poinciana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2934 Pleasant Hill Rd, Kissimmee, FL 34746, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.211752,
+        "lon": -81.4410844
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvRKcFjmd3YgRwna6uMHTh-o",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJC7ZzsnnZ5ogR_x2CCdo8ccM",
+      "name": "Islamic Center of Daytona Beach - المركز الإسلامي لدايتونا بيتش - مسجد المؤمنين",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "825 Derbyshire Rd, Daytona Beach, FL 32117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.2202126,
+        "lon": -81.0561259
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC7ZzsnnZ5ogR_x2CCdo8ccM",
+      "rating": 4.7,
+      "user_ratings_total": 193
+    },
+    {
+      "id": "google_ChIJFzDFRtaP3YgRG44VbzST9DI",
+      "name": "Masjid Al Huda - Muslim Center of St Cloud",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3720 5th St, St Cloud, FL 34769, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.253486,
+        "lon": -81.3107082
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFzDFRtaP3YgRG44VbzST9DI",
+      "rating": 4.6,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJ178BXD5u54gR1aFd5UKNRRw",
+      "name": "Istanbul Cultural Center Orlando",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "940 S Winter Park Dr, Casselberry, FL 32707, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.6486153,
+        "lon": -81.3216518
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ178BXD5u54gR1aFd5UKNRRw",
+      "rating": 4.9,
+      "user_ratings_total": 73
+    },
+    {
+      "id": "google_ChIJJyDmSQeL3YgRyoycVccIg3c",
+      "name": "Lake Nona Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5800 Cyrils Dr, St Cloud, FL 34771, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3327617,
+        "lon": -81.20649929999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJyDmSQeL3YgRyoycVccIg3c",
+      "rating": 4.8,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJO2WBS-a55YgRnaOsLFY6Z9I",
+      "name": "Jacksonville Masjid of Al-Islam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2242 Commonwealth Ave, Jacksonville, FL 32209, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3364189,
+        "lon": -81.70040809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO2WBS-a55YgRnaOsLFY6Z9I",
+      "rating": 4.4,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJlzuM03y25YgRbHHGnHep0YE",
+      "name": "Islamic Community of Bosniaks in Jacksonville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2131 Art Museum Dr, Jacksonville, FL 32207, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.301827,
+        "lon": -81.6141919
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlzuM03y25YgRbHHGnHep0YE",
+      "rating": 4.8,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJKxO9JdCw5YgRcXtWsH7aNww",
+      "name": "Muhammed Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "INCLUDE POB, 320 Woodbine St, Jacksonville, FL 32206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3629469,
+        "lon": -81.6578445
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKxO9JdCw5YgRcXtWsH7aNww",
+      "rating": 4.3,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJkbPYrxa05YgR7gXq7MN1-IA",
+      "name": "Al Zahra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "707 Mill Creek Rd, Jacksonville, FL 32211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3266504,
+        "lon": -81.5596065
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkbPYrxa05YgR7gXq7MN1-IA",
+      "rating": 4.4,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJKYIEiZXH5YgRq7SU1qbKSyo",
+      "name": "Islamic Center of Orange Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7821 Collins Rd, Jacksonville, FL 32244, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.2047876,
+        "lon": -81.77675080000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKYIEiZXH5YgRq7SU1qbKSyo",
+      "rating": 4.7,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJsbSraGS15YgRsdbAC1ViLh8",
+      "name": "Masjid Al Imman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1730 Rogero Rd, Jacksonville, FL 32211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3394422,
+        "lon": -81.5896523
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsbSraGS15YgRsdbAC1ViLh8",
+      "rating": 5,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJPUvgv8K55YgRhfZ3iP3TPVs",
+      "name": "Ahmadiyya Muslim Community Jacksonville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "507 Cassat Ave, Jacksonville, FL 32254, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3199009,
+        "lon": -81.7302869
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPUvgv8K55YgRhfZ3iP3TPVs",
+      "rating": 4.6,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJ8TPMUQCx5YgRMlDSY6F40Dk",
+      "name": "Mosque 66",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3316 N Pearl St, Jacksonville, FL 32206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.358806,
+        "lon": -81.658244
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8TPMUQCx5YgRMlDSY6F40Dk",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJJx2wC4HE5YgRlxwVXW9BCIU",
+      "name": "Islamic Center of Orange Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "158 College Dr, Orange Park, FL 32065, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.1275346,
+        "lon": -81.7757329
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJx2wC4HE5YgRlxwVXW9BCIU",
+      "rating": 4.7,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJZ-AhEQC75YgRU3XsDzJoSZU",
+      "name": "Al Amir Islami Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5045 Soutel Dr, Jacksonville, FL 32208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3987196,
+        "lon": -81.72669450000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ-AhEQC75YgRU3XsDzJoSZU",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJdUEA9-u05YgRj-jEY1zph24",
+      "name": "NAC - Nabi Akram Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1840 Anniston Rd, Jacksonville, FL 32246, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.3184107,
+        "lon": -81.5430148
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdUEA9-u05YgRj-jEY1zph24",
+      "rating": 5,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJmVU7YAC15YgRt2bCNn7ENrk",
+      "name": "Dar Al-Hijra",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3507 Southside Blvd ste 1, Jacksonville, FL 32246, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 30.282259,
+        "lon": -81.5584858
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmVU7YAC15YgRt2bCNn7ENrk",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJWwfPC-DHwogRsTelo5Op7kE",
+      "name": "Alqassam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5910 E 130th Ave, Tampa, FL 33617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0653367,
+        "lon": -82.38970080000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWwfPC-DHwogRsTelo5Op7kE",
+      "rating": 4.8,
+      "user_ratings_total": 421
+    },
+    {
+      "id": "google_ChIJQxJz9qvHwogRSrpdF7o3rlw",
+      "name": "Masjid Abu Bakr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "11010 N 30th St, Tampa, FL 33612, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0486194,
+        "lon": -82.42661280000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQxJz9qvHwogRSrpdF7o3rlw",
+      "rating": 4.8,
+      "user_ratings_total": 209
+    },
+    {
+      "id": "google_ChIJs7Lc0pnBwogRm71QtmtX4o4",
+      "name": "Mosque - Jesus Son of Mary Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3457 W Kenyon Ave, Tampa, FL 33614, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0335488,
+        "lon": -82.4997667
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs7Lc0pnBwogRm71QtmtX4o4",
+      "rating": 4.7,
+      "user_ratings_total": 207
+    },
+    {
+      "id": "google_ChIJHyxB1iPGwogRSrpqudWonbU",
+      "name": "The Muslim Connection -TMC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "8080 N 56th St, Tampa, FL 33617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0222084,
+        "lon": -82.3939793
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHyxB1iPGwogRSrpqudWonbU",
+      "rating": 4.9,
+      "user_ratings_total": 119
+    },
+    {
+      "id": "google_ChIJAxd9mTfGwogRaAT3VWOmdZ0",
+      "name": "Umar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4801 E Busch Blvd, Tampa, FL 33617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0322887,
+        "lon": -82.4080245
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAxd9mTfGwogRaAT3VWOmdZ0",
+      "rating": 4.5,
+      "user_ratings_total": 129
+    },
+    {
+      "id": "google_ChIJu0uVKHXBwogRxt08Fgl9zkc",
+      "name": "Al-Ansar Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4334 W Waters Ave, Tampa, FL 33614, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0251627,
+        "lon": -82.516042
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu0uVKHXBwogRxt08Fgl9zkc",
+      "rating": 4.6,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJv8AbjATBwogROwqf2waq_HA",
+      "name": "Gunn HWY Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4119 Gunn Hwy # 27, Tampa, FL 33618, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0422093,
+        "lon": -82.510064
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv8AbjATBwogROwqf2waq_HA",
+      "rating": 4.3,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJd9nnDgzEwogRE02EneaamVA",
+      "name": "Alhamdulillah Dawah and Community Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "722 W Dr Martin Luther King Jr Blvd, Tampa, FL 33603, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9812614,
+        "lon": -82.46932199999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd9nnDgzEwogRE02EneaamVA",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ1VLkSfDQwogRuL3O3eCdZsU",
+      "name": "Isra Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "8527 Richmond St, Gibsonton, FL 33534, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.8436261,
+        "lon": -82.3583518
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1VLkSfDQwogRuL3O3eCdZsU",
+      "rating": 4.7,
+      "user_ratings_total": 82
+    },
+    {
+      "id": "google_ChIJJZkH4vTJwogRTiRshAzgld8",
+      "name": "Al-Rahma Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "9844 Skewlee Rd, Thonotosassa, FL 33592, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0510187,
+        "lon": -82.3156727
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJZkH4vTJwogRTiRshAzgld8",
+      "rating": 4.9,
+      "user_ratings_total": 67
+    },
+    {
+      "id": "google_ChIJ7zgsILTBwogRfsHbruGZVSs",
+      "name": "Hindu Temple of Florida",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "5509 Lynn Rd, Tampa, FL 33624, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0441923,
+        "lon": -82.5362538
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7zgsILTBwogRfsHbruGZVSs",
+      "rating": 4.8,
+      "user_ratings_total": 2424
+    },
+    {
+      "id": "google_ChIJsywL2E6xwogRyksBKjb6B6Y",
+      "name": "Noor Center & MasjidAnNoor (wesley chapel masjid)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2250 Ashley Oaks Cir, Wesley Chapel, FL 33544, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.1896979,
+        "lon": -82.3615903
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsywL2E6xwogRyksBKjb6B6Y",
+      "rating": 4.9,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJNafYAC25wogRtXfJG3LyzEw",
+      "name": "Islamic Community of Wesley Chapel",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "19130 Livingston Ave, Lutz, FL 33559, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.1547415,
+        "lon": -82.431592
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNafYAC25wogRtXfJG3LyzEw",
+      "rating": 4.7,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJPZwXQH7NwogR5jT0UcqcX5I",
+      "name": "The Deen Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2802 FL-60, Valrico, FL 33594, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9385961,
+        "lon": -82.2381083
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPZwXQH7NwogR5jT0UcqcX5I",
+      "rating": 4.9,
+      "user_ratings_total": 134
+    },
+    {
+      "id": "google_ChIJQ0xTdenFwogRHKsZUaCD2bg",
+      "name": "Nana Street Food",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "808 N Franklin St Unit 106A, Tampa, FL 33602, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9507879,
+        "lon": -82.45949639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ0xTdenFwogRHKsZUaCD2bg",
+      "rating": 4.8,
+      "user_ratings_total": 1079
+    },
+    {
+      "id": "google_ChIJ1SCLs9yRwogR3jlzTBgAhsM",
+      "name": "Islamic Center of New Port Richey (ICNPR)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "4715 Grand Blvd, New Port Richey, FL 34652, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.2276232,
+        "lon": -82.724499
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1SCLs9yRwogR3jlzTBgAhsM",
+      "rating": 4.9,
+      "user_ratings_total": 132
+    },
+    {
+      "id": "google_ChIJsYRn8-jGwogRv3dhhbnvDFs",
+      "name": "Masjid An Nasr",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "905 E Skagway Ave, Tampa, FL 33604, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0319814,
+        "lon": -82.45053109999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsYRn8-jGwogRv3dhhbnvDFs",
+      "rating": 3,
+      "user_ratings_total": 6
+    },
+    {
+      "id": "google_ChIJ4_Mda3_JwogR7Wvspj-dwVc",
+      "name": "Fourteen Stars Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "10320 Main St, Thonotosassa, FL 33592, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0584493,
+        "lon": -82.3075831
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4_Mda3_JwogR7Wvspj-dwVc",
+      "rating": 4.8,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJFx03f1X7wogRJWZRLv00M64",
+      "name": "Masjid Hamza",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "560 Clearwater Largo Rd, Largo, FL 33770, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9219483,
+        "lon": -82.79582409999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFx03f1X7wogRJWZRLv00M64",
+      "rating": 4.8,
+      "user_ratings_total": 80
+    },
+    {
+      "id": "google_ChIJxbWbFczkwogR7gipD_2UETM",
+      "name": "Islamic Society of Pinellas County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "7100 142nd Ave N, Largo, FL 33771, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9006347,
+        "lon": -82.7363084
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxbWbFczkwogR7gipD_2UETM",
+      "rating": 4.8,
+      "user_ratings_total": 136
+    },
+    {
+      "id": "google_ChIJBcbl85PLwogRbsvL8w1ZFJw",
+      "name": "Masjid Al Khaliq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1415 N Kingsway Rd, Seffner, FL 33584, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.014979,
+        "lon": -82.27672299999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBcbl85PLwogRbsvL8w1ZFJw",
+      "rating": 4.8,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJt-7l22biwogR5_t5QprhZN4",
+      "name": "St. Petersburg Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3762 18th Ave S, St. Petersburg, FL 33711, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.751696,
+        "lon": -82.6852021
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt-7l22biwogR5_t5QprhZN4",
+      "rating": 4.3,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJIykEiPHhwogRwPtr3D51lR8",
+      "name": "Islamic Society Of Saint Petersburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2401 5th St S, St. Petersburg, FL 33705, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.7462973,
+        "lon": -82.63982589999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIykEiPHhwogRwPtr3D51lR8",
+      "rating": 4.8,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJxcm5vF9H3YgRIQSMhTmnKCo",
+      "name": "Islamic Center of Lakeland",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1161 Blossom Cir S, Lakeland, FL 33805, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0664575,
+        "lon": -81.9732171
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxcm5vF9H3YgRIQSMhTmnKCo",
+      "rating": 4.5,
+      "user_ratings_total": 155
+    },
+    {
+      "id": "google_ChIJp4fJDwDHwogRxoTeA-4lP9k",
+      "name": "Prayer room at Apna Bazaar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1730 E Fowler Ave # 3, Tampa, FL 33612, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0555704,
+        "lon": -82.43985289999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp4fJDwDHwogRxoTeA-4lP9k",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJp8jP2QNaaBQRf76BVkweR7A",
+      "name": "CAIR-Florida Tampa | Council on American-Islamic Relations",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "8076 N 56th St, Tampa, FL 33617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0223287,
+        "lon": -82.39410099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp8jP2QNaaBQRf76BVkweR7A",
+      "rating": 4.3,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJbzV229_HwogRlBxcY_XWlb8",
+      "name": "Ahlul Quran Academy Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "10921 N 56th St, Temple Terrace, FL 33617, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.048231,
+        "lon": -82.39290369999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbzV229_HwogRlBxcY_XWlb8",
+      "rating": 4.8,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJx7F7LqnzwogRDF9-czcrt54",
+      "name": "Islamic Society Of North Pinellas (Masjid Al-Salaam)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1218 New York Ave, Dunedin, FL 34698, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.0199103,
+        "lon": -82.78000589999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx7F7LqnzwogRDF9-czcrt54",
+      "rating": 4.7,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJMyJllIWj6IgReMLIkGHb2BA",
+      "name": "Islamic Community Center of Gainesville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1010 W University Ave, Gainesville, FL 32601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 29.6522967,
+        "lon": -82.3353977
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMyJllIWj6IgReMLIkGHb2BA",
+      "rating": 4.8,
+      "user_ratings_total": 113
+    },
+    {
+      "id": "google_ChIJfeEXQpzEwogRmUQOXxbkHlk",
+      "name": "Chabad CHAI of South Tampa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "3140 W Kennedy Blvd, Tampa, FL 33609, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9444899,
+        "lon": -82.49487049999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfeEXQpzEwogRmUQOXxbkHlk",
+      "rating": 4.4,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJPWsVeMXNwogReUlOAsr9tDc",
+      "name": "Tampa Bay Muslim Alliance",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "500 Vonderburg Dr #203e, Brandon, FL 33511, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9307556,
+        "lon": -82.2882796
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPWsVeMXNwogReUlOAsr9tDc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJH78eKKC22YgRMqWaerUEDQg",
+      "name": "Museum of Art and Design (MOAD) at MDC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "600 Biscayne Blvd, Miami, FL 33132, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.7803364,
+        "lon": -80.1894581
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJH78eKKC22YgRMqWaerUEDQg",
+      "rating": 4.4,
+      "user_ratings_total": 146
+    },
+    {
+      "id": "google_ChIJXZ5Lh5jC2YgRRotdv6rygmY",
+      "name": "Patch of Heaven Sanctuary",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "21900 SW 157th Ave, Miami, FL 33170, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.5637504,
+        "lon": -80.447557
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXZ5Lh5jC2YgRRotdv6rygmY",
+      "rating": 4.7,
+      "user_ratings_total": 587
+    },
+    {
+      "id": "google_ChIJ9Q-XrV2s2YgRuWIKvctS0a0",
+      "name": "The Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2371 NE 202nd St, Miami, FL 33180, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.9625373,
+        "lon": -80.1537391
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9Q-XrV2s2YgRuWIKvctS0a0",
+      "rating": 5,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJT5k9WkOl2YgRzDih07B79jk",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "12094 Miramar Pkwy, Miramar, FL 33025, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 25.978152,
+        "lon": -80.30695089999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT5k9WkOl2YgRzDih07B79jk",
+      "rating": 5,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJH41Guxkn2YgRlpC0nchTmaQ",
+      "name": "Al Amin Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "8101 S Military Trl, Boynton Beach, FL 33436, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 26.5560258,
+        "lon": -80.11742819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJH41Guxkn2YgRlpC0nchTmaQ",
+      "rating": 5,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJv4rgin4Q54gRunJFH32I1rc",
+      "name": "Islamic Center of Deltona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "410 Summerhaven Dr, DeBary, FL 32713, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.8991167,
+        "lon": -81.2844446
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv4rgin4Q54gRunJFH32I1rc",
+      "rating": 4.8,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJe4oGOH2B3YgRi1NU58POD2A",
+      "name": "Darul uloom Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "2350 Old Vineland Rd, Kissimmee, FL 34746, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.3138305,
+        "lon": -81.4615824
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJe4oGOH2B3YgRi1NU58POD2A",
+      "rating": 4.8,
+      "user_ratings_total": 78
+    },
+    {
+      "id": "google_ChIJv5NRyA-A3YgRTyY3kS8VwCc",
+      "name": "Muslim Academy of Greater Orlando",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "11551 Ruby Lake Rd, Orlando, FL 32836, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.397418,
+        "lon": -81.5024964
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv5NRyA-A3YgRTyY3kS8VwCc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJNaDOUI_EwogRIUxGNqbJv-Q",
+      "name": "Henry B. Plant Museum",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "401 W Kennedy Blvd, Tampa, FL 33606, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 27.9463553,
+        "lon": -82.4640404
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNaDOUI_EwogRIUxGNqbJv-Q",
+      "rating": 4.6,
+      "user_ratings_total": 1360
+    },
+    {
+      "id": "google_ChIJ72yBodkS3YgRI13s3sAnqn4",
+      "name": "Islamic Center of Polk County",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Florida",
+        "zip": "",
+        "full": "1763 Unity Way NW, Winter Haven, FL 33881, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 28.039978,
+        "lon": -81.7313254
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ72yBodkS3YgRI13s3sAnqn4",
+      "rating": 4.6,
+      "user_ratings_total": 110
     }
-  ]
+  ],
+  "google_places_added": 10
 }

@@ -1,6 +1,6 @@
 {
   "state": "Rhode Island",
-  "count": 1,
+  "count": 4,
   "generated_at": "2026-05-10 07:29:28 UTC",
   "masajid": [
     {
@@ -24,6 +24,79 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 357268214
+    },
+    {
+      "id": "google_ChIJ0d198XFF5IkRdD1QfT35Xl8",
+      "name": "Islamic Center of RI (ICRI) - Masjid Al-Kareem",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Rhode Island",
+        "zip": "",
+        "full": "39 Haskins St, Providence, RI 02903, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8155815,
+        "lon": -71.4191701
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0d198XFF5IkRdD1QfT35Xl8",
+      "rating": 4.7,
+      "user_ratings_total": 255
+    },
+    {
+      "id": "google_ChIJG_kUUOlF5IkR6buylEdaJKg",
+      "name": "Ali Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Rhode Island",
+        "zip": "",
+        "full": "575 Charles St, Providence, RI 02904, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.8516558,
+        "lon": -71.4199761
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJG_kUUOlF5IkR6buylEdaJKg",
+      "rating": 5,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJ1VJuC5tP5IkR1TfAnumxm5w",
+      "name": "Masjid Zumratul Jannah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Rhode Island",
+        "zip": "",
+        "full": "801 Elmwood Ave #3369, Providence, RI 02907, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7902828,
+        "lon": -71.4226106
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1VJuC5tP5IkR1TfAnumxm5w",
+      "rating": 4.5,
+      "user_ratings_total": 46
     }
-  ]
+  ],
+  "google_places_added": 3
 }

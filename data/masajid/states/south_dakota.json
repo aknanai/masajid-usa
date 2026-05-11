@@ -1,0 +1,80 @@
+{
+  "state": "South Dakota",
+  "count": 3,
+  "generated_at": "2026-05-11 03:29:39 UTC",
+  "masajid": [
+    {
+      "id": "google_ChIJd0wGb_3JjocRObhSCbQphAk",
+      "name": "Muslim Community Center of South Dakota",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Dakota",
+        "zip": "",
+        "full": "3932 S Western Ave, Sioux Falls, SD 57105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.50720949999999,
+        "lon": -96.7499959
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd0wGb_3JjocRObhSCbQphAk",
+      "rating": 4.7,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJA7DJvnHKjocR1HDBWkpCmgs",
+      "name": "Attakwa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Dakota",
+        "zip": "",
+        "full": "701 S Garfield Ave, Sioux Falls, SD 57104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5400545,
+        "lon": -96.7585941
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJA7DJvnHKjocR1HDBWkpCmgs",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJl_9Q81O0jocRWnISKr6beqg",
+      "name": "Islamic Center of Sioux Falls",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Dakota",
+        "zip": "",
+        "full": "1909 E 6th St, Sioux Falls, SD 57103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 43.5510221,
+        "lon": -96.7021865
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl_9Q81O0jocRWnISKr6beqg",
+      "rating": 4.6,
+      "user_ratings_total": 39
+    }
+  ],
+  "google_places_added": 3
+}

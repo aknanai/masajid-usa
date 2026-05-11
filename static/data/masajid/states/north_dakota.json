@@ -1,6 +1,6 @@
 {
   "state": "North Dakota",
-  "count": 3,
+  "count": 4,
   "generated_at": "2026-05-10 07:09:06 UTC",
   "masajid": [
     {
@@ -68,6 +68,31 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 687388912
+    },
+    {
+      "id": "google_ChIJwW-fFNXIyFIRTfTGQmlNhVk",
+      "name": "Moorhead Fargo Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Dakota",
+        "zip": "",
+        "full": "2215 12th Ave S, Moorhead, MN 56560, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 46.8618625,
+        "lon": -96.7451877
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJwW-fFNXIyFIRTfTGQmlNhVk",
+      "rating": 4.8,
+      "user_ratings_total": 46
     }
-  ]
+  ],
+  "google_places_added": 1
 }

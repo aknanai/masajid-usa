@@ -1,6 +1,6 @@
 {
   "state": "North Carolina",
-  "count": 37,
+  "count": 76,
   "generated_at": "2026-05-10 07:05:35 UTC",
   "masajid": [
     {
@@ -816,6 +816,943 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 13151387701
+    },
+    {
+      "id": "google_ChIJm-jmmlQdVIgRfmMdLIMwSnQ",
+      "name": "Pillars Mosque (Former MCC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "3116 Johnston Oehler Rd, Charlotte, NC 28269, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3640517,
+        "lon": -80.7598636
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm-jmmlQdVIgRfmMdLIMwSnQ",
+      "rating": 4.9,
+      "user_ratings_total": 507
+    },
+    {
+      "id": "google_ChIJWUo7EosYVIgRBL873xK9vR8",
+      "name": "Islamic Center of Charlotte",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "8310 Harrisburg Rd, Charlotte, NC 28215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2262629,
+        "lon": -80.68093619999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWUo7EosYVIgRBL873xK9vR8",
+      "rating": 4.9,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJq-Tn9KqcVogR0pWs15kARtw",
+      "name": "Islamic Community Center of South Charlotte",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1048 Gant Rd, Fort Mill, SC 29707, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0512651,
+        "lon": -80.8966839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq-Tn9KqcVogR0pWs15kARtw",
+      "rating": 4.9,
+      "user_ratings_total": 180
+    },
+    {
+      "id": "google_ChIJVxB3FfAZVIgRJRJWtp1DAxo",
+      "name": "Islamic Center of Harrisburg",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "9101 Rocky River Rd, Harrisburg, NC 28075, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2905719,
+        "lon": -80.6539384
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVxB3FfAZVIgRJRJWtp1DAxo",
+      "rating": 4.9,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJVVUZIq2hVogRCwNTTgwpTxs",
+      "name": "Ali Shah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1230 Beatties Ford Rd, Charlotte, NC 28216, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2548413,
+        "lon": -80.8557062
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVUZIq2hVogRCwNTTgwpTxs",
+      "rating": 4.5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJJ4YkEosYVIgRijOYphkXIrA",
+      "name": "AL NOUR COMMUNITY CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "8310 Harrisburg Rd, Charlotte, NC 28215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2262629,
+        "lon": -80.68093619999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJ4YkEosYVIgRijOYphkXIrA",
+      "rating": 5,
+      "user_ratings_total": 37
+    },
+    {
+      "id": "google_ChIJJZIgF50bVIgRrcTqEVoo3YY",
+      "name": "UMCC - University Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "11915 US-29, Charlotte, NC 28262, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.337342,
+        "lon": -80.7086846
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJZIgF50bVIgRrcTqEVoo3YY",
+      "rating": 4.7,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJi7pIYN4hVIgRz84ElNWjupE",
+      "name": "Shahid Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "6200 Wilora Lake Rd, Charlotte, NC 28212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2073062,
+        "lon": -80.746366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi7pIYN4hVIgRz84ElNWjupE",
+      "rating": 4.8,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJx1CbW8wjVIgRAvqXJQcvpHY",
+      "name": "Rahma Center of Charlotte",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "7112 New Town Rd, Waxhaw, NC 28173, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.9862801,
+        "lon": -80.7392478
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJx1CbW8wjVIgRAvqXJQcvpHY",
+      "rating": 5,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJ5TGjAVskVIgRXoFuP2AwwTk",
+      "name": "As-Salam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "3024 Gribble Rd, Stallings, NC 28104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0897285,
+        "lon": -80.6856766
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5TGjAVskVIgRXoFuP2AwwTk",
+      "rating": 5,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJCwrv96sfVIgRh6ry05CUo2Y",
+      "name": "Charlotte Malian Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "555 W Sugar Creek Rd, Charlotte, NC 28213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2669627,
+        "lon": -80.7952148
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJCwrv96sfVIgRh6ry05CUo2Y",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJT0Pn_2elVogR0CYIQ5EjPJw",
+      "name": "Ahmadiyya Community, Charlotte Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5314 Mt Holly-Huntersville Rd, Charlotte, NC 28216, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3345113,
+        "lon": -80.9243453
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT0Pn_2elVogR0CYIQ5EjPJw",
+      "rating": 4.6,
+      "user_ratings_total": 31
+    },
+    {
+      "id": "google_ChIJEeBj-OAfVIgR5s_7gdyOH-Y",
+      "name": "Masjid Qiblataini",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5900 Hickory Grove Rd, Charlotte, NC 28215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2223677,
+        "lon": -80.72873489999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEeBj-OAfVIgR5s_7gdyOH-Y",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJhx5E3_-IVogRZuAaFVI9wWM",
+      "name": "Masjid Al-Salaam",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "222 W Main St, Rock Hill, SC 29730, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.9287729,
+        "lon": -81.0313578
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhx5E3_-IVogRZuAaFVI9wWM",
+      "rating": 4.8,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJi-AAnoCVVogR1CD5COgQ3ps",
+      "name": "Islamic Society of Gastonia",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "4020 Titman Rd, Gastonia, NC 28056, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2385204,
+        "lon": -81.1160658
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJi-AAnoCVVogR1CD5COgQ3ps",
+      "rating": 4.8,
+      "user_ratings_total": 105
+    },
+    {
+      "id": "google_ChIJm8ArE5chVIgRQ0kytRUwdX8",
+      "name": "Hindu Center of Charlotte",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "7400 City View Dr, Charlotte, NC 28212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1798481,
+        "lon": -80.7397269
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJm8ArE5chVIgRQ0kytRUwdX8",
+      "rating": 4.7,
+      "user_ratings_total": 1556
+    },
+    {
+      "id": "google_ChIJs-Wv8nCfVogRm4rdYAXsvhM",
+      "name": "Kadampa Meditation Center North Carolina",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "528 East Blvd, Charlotte, NC 28203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2081918,
+        "lon": -80.853492
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs-Wv8nCfVogRm4rdYAXsvhM",
+      "rating": 4.9,
+      "user_ratings_total": 52
+    },
+    {
+      "id": "google_ChIJVynhnLcbVIgRkyDsWIHwwss",
+      "name": "Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "11915 US-29, Charlotte, NC 28262, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3373861,
+        "lon": -80.7087367
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVynhnLcbVIgRkyDsWIHwwss",
+      "rating": 5,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJVz8zifgfVIgRatCwEnCdsis",
+      "name": "Muslim Cemetery",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "6971 The Plaza, Charlotte, NC 28215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2560886,
+        "lon": -80.7397419
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVz8zifgfVIgRatCwEnCdsis",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJZ37I_A8fVIgRAZ9qNDMsdPs",
+      "name": "Qurbat tayyaba",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5900 Hickory Grove Rd, Charlotte, NC 28215, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2223677,
+        "lon": -80.72873489999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ37I_A8fVIgRAZ9qNDMsdPs",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJuQBOaGwfVIgRIA2D7PrLH9w",
+      "name": "Charlotte Islamic Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5500 N Tryon St, Charlotte, NC 28213, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.261399,
+        "lon": -80.773738
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuQBOaGwfVIgRIA2D7PrLH9w",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJVyfLzsdUUYgRosylF1-BVU0",
+      "name": "Islamic Center of Lake Norman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "120 S Park Dr #405, Mooresville, NC 28117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5811055,
+        "lon": -80.8741235
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVyfLzsdUUYgRosylF1-BVU0",
+      "rating": 4.7,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJjflAJKeYVogR0xUPI7MJ-Yk",
+      "name": "American Islamic Takaful Association for Muslims Services",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "4333 Connelly Cir #5873, Charlotte, NC 28208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2219383,
+        "lon": -80.9143046
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjflAJKeYVogR0xUPI7MJ-Yk",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJC60tZ78gVIgRvUj3P3_e-f0",
+      "name": "Temple Beth El",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5101 Providence Rd, Charlotte, NC 28226, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1457129,
+        "lon": -80.7865047
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC60tZ78gVIgRvUj3P3_e-f0",
+      "rating": 4.7,
+      "user_ratings_total": 67
+    },
+    {
+      "id": "google_ChIJr22v8vNZUYgR8bjJtqWj2pI",
+      "name": "Masjid Al-Muminun Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1720 Wilson W Lee Blvd, Statesville, NC 28677, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7615353,
+        "lon": -80.8923179
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJr22v8vNZUYgR8bjJtqWj2pI",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJpcDpXmofU4gRDk0ggS8w4Zk",
+      "name": "Islamic Center of Greensboro",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "2023 Sixteenth St, Greensboro, NC 27405, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1070314,
+        "lon": -79.7596935
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpcDpXmofU4gRDk0ggS8w4Zk",
+      "rating": 4.8,
+      "user_ratings_total": 201
+    },
+    {
+      "id": "google_ChIJEWb8Iq8OU4gR59SRbuYY-NE",
+      "name": "Islamic Center of High Point",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "200 W Market Center Dr, High Point, NC 27260, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.9387439,
+        "lon": -79.999832
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEWb8Iq8OU4gR59SRbuYY-NE",
+      "rating": 4.8,
+      "user_ratings_total": 71
+    },
+    {
+      "id": "google_ChIJN_KX3SKvU4gRgTI_d6Ot7w0",
+      "name": "Community Mosque of Winston Salem",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1419 Waughtown St, Winston-Salem, NC 27107, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0689901,
+        "lon": -80.20747899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN_KX3SKvU4gRgTI_d6Ot7w0",
+      "rating": 4.8,
+      "user_ratings_total": 125
+    },
+    {
+      "id": "google_ChIJyy5kVKXzU4gRCEGLITs324g",
+      "name": "Islamic Center of Salisbury",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "425 Lincolnton Rd, Salisbury, NC 28144, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6634202,
+        "lon": -80.4829243
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyy5kVKXzU4gRCEGLITs324g",
+      "rating": 3.8,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJieYfrsHRUIgR1G07stmlTjc",
+      "name": "Islamic Center of Morganton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "203 Bethel St, Morganton, NC 28655, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7372277,
+        "lon": -81.6717871
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJieYfrsHRUIgR1G07stmlTjc",
+      "rating": 4.5,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJidRKt32YVogRN6fEPG9Kuho",
+      "name": "Charlotte Douglas International Airport",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "5501 Josh Birmingham Pkwy, Charlotte, NC 28208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.2162994,
+        "lon": -80.95394280000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJidRKt32YVogRN6fEPG9Kuho",
+      "rating": 3.9,
+      "user_ratings_total": 44966
+    },
+    {
+      "id": "google_ChIJTYLupXVfrIkR155P3S6Q-Co",
+      "name": "The Mosque of the Late King Khalid bin Abdul-Aziz Al-Saud, Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "130 Martin Luther King Jr Blvd, Raleigh, NC 27601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7690902,
+        "lon": -78.6375412
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTYLupXVfrIkR155P3S6Q-Co",
+      "rating": 4.7,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJ_-DfKv5ZrIkRUrXnPPVsykA",
+      "name": "Raleigh Islamic Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "3209 Gresham Lake Rd Suite #131, Raleigh, NC 27615, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.8857022,
+        "lon": -78.5803682
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_-DfKv5ZrIkRUrXnPPVsykA",
+      "rating": 4.8,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJARPpje_yrIkROV0sqQVNZm0",
+      "name": "Islamic Center of Cary",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1155 W Chatham St, Cary, NC 27511, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7703721,
+        "lon": -78.80490050000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJARPpje_yrIkROV0sqQVNZm0",
+      "rating": 4.8,
+      "user_ratings_total": 282
+    },
+    {
+      "id": "google_ChIJ5QuJGQXyrIkRLg83jpQ4IP8",
+      "name": "Islamic Center of Morrisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "107 Quail Fields Ct, Morrisville, NC 27560, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.8110641,
+        "lon": -78.8231374
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5QuJGQXyrIkRLg83jpQ4IP8",
+      "rating": 4.8,
+      "user_ratings_total": 234
+    },
+    {
+      "id": "google_ChIJVa49bwD1rIkRvTbx1CVVA-o",
+      "name": "Masjid of raleigh",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "3321 Walnut Creek Pkwy, Raleigh, NC 27606, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7537255,
+        "lon": -78.7039958
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVa49bwD1rIkRvTbx1CVVA-o",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJtRMRq6z1rIkR2E26mHBY2EE",
+      "name": "Madinah Quran and Youth Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "1329 Ridge Rd, Raleigh, NC 27607, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.8052892,
+        "lon": -78.6872489
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtRMRq6z1rIkR2E26mHBY2EE",
+      "rating": 4.9,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJlUjNbKRnrIkRkEk7N7lgIhs",
+      "name": "Islamic Center of Clayton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "4775 Barber Mill Rd, Clayton, NC 27520, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6295258,
+        "lon": -78.478596
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlUjNbKRnrIkRkEk7N7lgIhs",
+      "rating": 5,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJVQXW1Iz0rIkRUBzmSIfBzng",
+      "name": "Muslim American Society",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "North Carolina",
+        "zip": "",
+        "full": "2220 Jones Franklin Rd, Raleigh, NC 27606, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.7508158,
+        "lon": -78.73400280000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVQXW1Iz0rIkRUBzmSIfBzng",
+      "rating": 4.5,
+      "user_ratings_total": 6
     }
-  ]
+  ],
+  "google_places_added": 39
 }

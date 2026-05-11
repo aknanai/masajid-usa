@@ -1,6 +1,6 @@
 {
   "state": "New Mexico",
-  "count": 5,
+  "count": 12,
   "generated_at": "2026-05-10 06:56:25 UTC",
   "masajid": [
     {
@@ -112,6 +112,175 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 877949223
+    },
+    {
+      "id": "google_ChIJf91PnhqgGIcRXLrM5fvJvIA",
+      "name": "Albuquerque Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "8900 Menaul Blvd NE, Albuquerque, NM 87112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1086892,
+        "lon": -106.5440764
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf91PnhqgGIcRXLrM5fvJvIA",
+      "rating": 4.6,
+      "user_ratings_total": 112
+    },
+    {
+      "id": "google_ChIJVUulBFahGIcREX7btudzrf8",
+      "name": "House of Belief Dar Al Iman Islamic center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "10832 Prospect Ave NE, Albuquerque, NM 87112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1079583,
+        "lon": -106.521368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVUulBFahGIcREX7btudzrf8",
+      "rating": 5,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJnz3vtJR1IocRzUfuTMDHm_Q",
+      "name": "Minara Islamic Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "3701 Carlisle Blvd NE, Albuquerque, NM 87110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1228792,
+        "lon": -106.6045864
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnz3vtJR1IocRzUfuTMDHm_Q",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJUVbBBQALIocRxA6uHBrTvl8",
+      "name": "Mahdavi Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "524 Chama St NE, Albuquerque, NM 87108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0845434,
+        "lon": -106.5659526
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJUVbBBQALIocRxA6uHBrTvl8",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJPdb-gj6hGIcRE1UULxRgurI",
+      "name": "Al Zahra Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "10810 Menaul Blvd NE, Albuquerque, NM 87112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1085563,
+        "lon": -106.5203741
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJPdb-gj6hGIcRE1UULxRgurI",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJP4Cp9X92IocRDg3ODsXZ2g8",
+      "name": "Ismaili Center & Jamatkhana - Albuquerque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "5200-5770 Venice Ave NE, Albuquerque, NM 87113, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.1959234,
+        "lon": -106.5817024
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJP4Cp9X92IocRDg3ODsXZ2g8",
+      "rating": 5,
+      "user_ratings_total": 9
+    },
+    {
+      "id": "google_ChIJpSycd-oMIocRcnJE30uRyxc",
+      "name": "Barelas Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Mexico",
+        "zip": "",
+        "full": "801 Barelas Rd SW, Albuquerque, NM 87102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0778245,
+        "lon": -106.6564466
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJpSycd-oMIocRcnJE30uRyxc",
+      "rating": 4.4,
+      "user_ratings_total": 208
     }
-  ]
+  ],
+  "google_places_added": 7
 }

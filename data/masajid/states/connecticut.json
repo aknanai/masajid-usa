@@ -1,6 +1,6 @@
 {
   "state": "Connecticut",
-  "count": 36,
+  "count": 49,
   "generated_at": "2026-05-10 05:20:48 UTC",
   "masajid": [
     {
@@ -794,6 +794,319 @@
       "opening_hours": "",
       "osm_type": "relation",
       "osm_id": 2779502
+    },
+    {
+      "id": "google_ChIJQT3NteJS5okRQtGxbJVosHg",
+      "name": "Bosnian-American Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "595 Franklin Ave, Hartford, CT 06114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7319412,
+        "lon": -72.6750558
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQT3NteJS5okRQtGxbJVosHg",
+      "rating": 4.7,
+      "user_ratings_total": 85
+    },
+    {
+      "id": "google_ChIJd41cklpT5okRrHMS87G_6dU",
+      "name": "Es Salam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "Hartford, CT 06105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.767954,
+        "lon": -72.6995791
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd41cklpT5okRrHMS87G_6dU",
+      "rating": 5,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJOfIeOVBT5okR-QZvkiQoyy0",
+      "name": "Muhammad Mosque #14",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "2550 Main St, Hartford, CT 06120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.7887357,
+        "lon": -72.6715188
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOfIeOVBT5okR-QZvkiQoyy0",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJowcOeABT5okRR7e84YHMihM",
+      "name": "Cristifer p. Justus",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "79 Market St, Hartford, CT 06161, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.76649090000001,
+        "lon": -72.6715412
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJowcOeABT5okRR7e84YHMihM",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJweWQ_-Wq54kR9-8-v2l3otg",
+      "name": "Lighthouse for Humanity / Bloomfield Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "11 Mountain Ave # 200, Bloomfield, CT 06002, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.83063689999999,
+        "lon": -72.73941099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJweWQ_-Wq54kR9-8-v2l3otg",
+      "rating": 5,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJj8BDyo795okRGodBEEpADOY",
+      "name": "Islamic Center of Windsor Locks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "332 Elm St, Windsor Locks, CT 06096, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.92718170000001,
+        "lon": -72.6503604
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj8BDyo795okRGodBEEpADOY",
+      "rating": 4.8,
+      "user_ratings_total": 97
+    },
+    {
+      "id": "google_ChIJV8job2NT5okRdgDOPA-110g",
+      "name": "Macdonald Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "60 Lorraine St, Hartford, CT 06105, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.769225,
+        "lon": -72.7059806
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJV8job2NT5okRdgDOPA-110g",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJo1xJVWNT5okRy_qSKleQR2g",
+      "name": "CAIR - CT",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "57 Pratt St Recept., Hartford, CT 06103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.76754469999999,
+        "lon": -72.6742797
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo1xJVWNT5okRy_qSKleQR2g",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJhf2i1wN26IkRAZeTQrfjWvA",
+      "name": "New Haven Islamic Center - NHIC - Orange Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "254 Bull Hill Ln, Orange, CT 06477, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2737147,
+        "lon": -72.98850159999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhf2i1wN26IkRAZeTQrfjWvA",
+      "rating": 4.6,
+      "user_ratings_total": 232
+    },
+    {
+      "id": "google_ChIJFXhD0zfX54kR2ooJ0b8hhsY",
+      "name": "Diyanet Mosque of New Haven",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "531 Middletown Ave, New Haven, CT 06513, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.330115,
+        "lon": -72.874752
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJFXhD0zfX54kR2ooJ0b8hhsY",
+      "rating": 4.8,
+      "user_ratings_total": 88
+    },
+    {
+      "id": "google_ChIJg3BYawF26IkRG4EbGTb0AhM",
+      "name": "Masjid Orange/ West Haven",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "260 Bull Hill Ln, Orange, CT 06477, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2734926,
+        "lon": -72.9888361
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJg3BYawF26IkRG4EbGTb0AhM",
+      "rating": 5,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJrwafPhl36IkRJGcjYW-8MIs",
+      "name": "MEVLANA MOSQUE&CAMİİ(CT Education Center)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "546 Ocean Ave, West Haven, CT 06516, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2402501,
+        "lon": -72.9720269
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrwafPhl36IkRJGcjYW-8MIs",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJa7faYldL5okRMUdvA9eX5rU",
+      "name": "ISLAMIC CENTER Middletown",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Connecticut",
+        "zip": "",
+        "full": "1000-B, 1000 Newfield St, Middletown, CT 06457, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.5835439,
+        "lon": -72.6721707
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa7faYldL5okRMUdvA9eX5rU",
+      "rating": 4.9,
+      "user_ratings_total": 13
     }
-  ]
+  ],
+  "google_places_added": 1
 }

@@ -1,6 +1,6 @@
 {
   "state": "Oklahoma",
-  "count": 6,
+  "count": 28,
   "generated_at": "2026-05-10 07:18:22 UTC",
   "masajid": [
     {
@@ -134,6 +134,535 @@
       "opening_hours": "",
       "osm_type": "node",
       "osm_id": 357468432
+    },
+    {
+      "id": "google_ChIJ7bkuiXAVsocR-1TlKWxsSZY",
+      "name": "Crossroads Islamic Center of Oklahoma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "7004 S I-35 Service Rd, Oklahoma City, OK 73149, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3965736,
+        "lon": -97.49426000000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7bkuiXAVsocR-1TlKWxsSZY",
+      "rating": 4.6,
+      "user_ratings_total": 74
+    },
+    {
+      "id": "google_ChIJxQxZfMQbsocRbOkHe0FDHQc",
+      "name": "Islamic Society of Greater Oklahoma City ISGOC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3815 St Clair Ave, Oklahoma City, OK 73112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5099845,
+        "lon": -97.58151989999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxQxZfMQbsocRbOkHe0FDHQc",
+      "rating": 5,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJN3E4JQAXsocR9iDCr4qU5Ig",
+      "name": "Masjid Mu’min",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "1322 NE 23rd St, Oklahoma City, OK 73111, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.4923787,
+        "lon": -97.4879933
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN3E4JQAXsocR9iDCr4qU5Ig",
+      "rating": 4.8,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJySNfBgAfsocRBhDFXDVIGcc",
+      "name": "Islamic Society of Edmond",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "525 N University Dr, Edmond, OK 73034, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6608245,
+        "lon": -97.475342
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJySNfBgAfsocRBhDFXDVIGcc",
+      "rating": 4.8,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJl-um9LgesocRmvcK83-uyVo",
+      "name": "Muslim American Society- Oklahoma Chapter",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "510 E Memorial Rd STE D-3 & D-4, Oklahoma City, OK 73114, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6082841,
+        "lon": -97.50456899999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl-um9LgesocRmvcK83-uyVo",
+      "rating": 4.9,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJZWV8ymAFsocR1eBeCYVBhGg",
+      "name": "WisdomHub Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "7755 W Hefner Rd Unit D, Oklahoma City, OK 73162, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5805464,
+        "lon": -97.6522356
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZWV8ymAFsocR1eBeCYVBhGg",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJJb4ofaQQsocRvxZsMS52qik",
+      "name": "Dr. Raniyah Ramadan Interfaith Prayer Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "N Florida Ave, Oklahoma City, OK 73106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.4969821,
+        "lon": -97.5401267
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJb4ofaQQsocRvxZsMS52qik",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJ6ZQ5NQAFsocRaOrtTbH3gbM",
+      "name": "Hefner Musallah",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "7755 W Hefner Rd, Oklahoma City, OK 73162, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5805464,
+        "lon": -97.6522356
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6ZQ5NQAFsocRaOrtTbH3gbM",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJ19-WFCEVsocR3oh6FOnetXs",
+      "name": "Towheed Foundation of Oklahoma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "105 NE 23rd St, Moore, OK 73160, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.3596284,
+        "lon": -97.4939665
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ19-WFCEVsocR3oh6FOnetXs",
+      "rating": 4.6,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJF1zQVcofsocR8NOuNYzSP9U",
+      "name": "Oklahoma Islamic Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "2028 E Memorial Rd, Edmond, OK 73013, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.6085493,
+        "lon": -97.47699150000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF1zQVcofsocR8NOuNYzSP9U",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJdablXFcDsocRKnPi5-Dwl1Y",
+      "name": "Ismaili Center & Jamatkhana - Oklahoma City",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "11901 N MacArthur Blvd, Oklahoma City, OK 73162, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.591319,
+        "lon": -97.6217039
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdablXFcDsocRKnPi5-Dwl1Y",
+      "rating": 4.8,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJ4RgKjvUasocRFW4FxFvhs44",
+      "name": "CAIR Oklahoma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3000 United Founders Blvd Suite 226, Oklahoma City, OK 73112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5289109,
+        "lon": -97.5688215
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4RgKjvUasocRFW4FxFvhs44",
+      "rating": 3.3,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJl0t4sbUXsocRsvcKT5FQKOU",
+      "name": "Garden Oaks Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3401 NE 16th St, Oklahoma City, OK 73117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.4861168,
+        "lon": -97.45056849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJl0t4sbUXsocRsvcKT5FQKOU",
+      "rating": 4.9,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJf1cZWN8erYcRm3RcNk-DhuA",
+      "name": "American Muslim Association of Lawton",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "6418 NW Birch Ave, Lawton, OK 73505, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.61834330000001,
+        "lon": -98.47345639999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJf1cZWN8erYcRm3RcNk-DhuA",
+      "rating": 4.8,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJiZ6fLHgbsocREd71BWXIw24",
+      "name": "Chabad Community Center for Jewish Life and Learning",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3000 W Hefner Rd, Oklahoma City, OK 73120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5796618,
+        "lon": -97.5708829
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJiZ6fLHgbsocREd71BWXIw24",
+      "rating": 4.8,
+      "user_ratings_total": 48
+    },
+    {
+      "id": "google_ChIJfX0C-WY9socRxSiYBTMK8Hc",
+      "name": "Religious Education Facility Bldg 5715",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "6120 Arnold St, Oklahoma City, OK 73145, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.4264544,
+        "lon": -97.4163458
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfX0C-WY9socRxSiYBTMK8Hc",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJKd4NOtAVsocRIDpvAA1C9i4",
+      "name": "Community Center Wat Sangharatanaram",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "5301 S Foster Rd, Oklahoma City, OK 73129, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.4119117,
+        "lon": -97.474372
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKd4NOtAVsocRIDpvAA1C9i4",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJD4l9OY8ZsocRTDlj3BE8gVU",
+      "name": "It's My Community Initiative",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3 E Main St, Oklahoma City, OK 73104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.467902,
+        "lon": -97.511524
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD4l9OY8ZsocRTDlj3BE8gVU",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJlQQ8LEwFsocRIiviVn71Uj0",
+      "name": "City Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "5731 NW 41st St, Warr Acres, OK 73122, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5143615,
+        "lon": -97.6167564
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlQQ8LEwFsocRIiviVn71Uj0",
+      "rating": 4.8,
+      "user_ratings_total": 133
+    },
+    {
+      "id": "google_ChIJt8go6UwbsocRGxzyjPPjNoY",
+      "name": "Arab American Association of Oklahoma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3000 United Founders Blvd #116, Oklahoma City, OK 73112, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.5288307,
+        "lon": -97.5686716
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt8go6UwbsocRGxzyjPPjNoY",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJs_Hks_7stocRzonxlTvLxiw",
+      "name": "TU Muslim Students Association Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "3020 E 4th Pl, Tulsa, OK 74104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1545263,
+        "lon": -95.9451897
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJs_Hks_7stocRzonxlTvLxiw",
+      "rating": 4.3,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJE5HGWFONtocRGP2J6h1ftVE",
+      "name": "Tulsa Islamic Foundation مسجد",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Oklahoma",
+        "zip": "",
+        "full": "9723 E 61st St, Tulsa, OK 74133, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0761434,
+        "lon": -95.8667306
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE5HGWFONtocRGP2J6h1ftVE",
+      "rating": 4.1,
+      "user_ratings_total": 7
     }
-  ]
+  ],
+  "google_places_added": 22
 }

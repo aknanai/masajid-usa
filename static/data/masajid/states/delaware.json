@@ -1,6 +1,6 @@
 {
   "state": "Delaware",
-  "count": 2,
+  "count": 18,
   "generated_at": "2026-05-10 05:24:11 UTC",
   "masajid": [
     {
@@ -46,6 +46,391 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 691062322
+    },
+    {
+      "id": "google_ChIJdSYg42z9xokRMSF4oT8sxTI",
+      "name": "Masjid Ar-Razzaaq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "2800 N Market St, Wilmington, DE 19802, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7553079,
+        "lon": -75.5334531
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJdSYg42z9xokRMSF4oT8sxTI",
+      "rating": 4.9,
+      "user_ratings_total": 116
+    },
+    {
+      "id": "google_ChIJtWw1BjX9xokRsSOpdfNeYqs",
+      "name": "Mosque Al-Kauthar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "2102 Northeast Blvd, Wilmington, DE 19802, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.746465,
+        "lon": -75.5304353
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtWw1BjX9xokRsSOpdfNeYqs",
+      "rating": 4.8,
+      "user_ratings_total": 132
+    },
+    {
+      "id": "google_ChIJxczfvTP9xokRRUhAPPJXpJM",
+      "name": "Masjid al-Ikhlaas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "623-1/2 S Heald St, Wilmington, DE 19801, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7274796,
+        "lon": -75.5453426
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxczfvTP9xokRRUhAPPJXpJM",
+      "rating": 5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJ4eJuVi79xokRIuBzWR37m1Y",
+      "name": "Muhammad Mosque 35",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "2800 Washington St, Wilmington, DE 19802, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.757995,
+        "lon": -75.5359735
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4eJuVi79xokRIuBzWR37m1Y",
+      "rating": 4.5,
+      "user_ratings_total": 22
+    },
+    {
+      "id": "google_ChIJDxtHn8HkxokRiEomchyMaiw",
+      "name": "Baitul Aman by MSD",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "2219 Naamans Rd, Wilmington, DE 19810, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8261348,
+        "lon": -75.5069371
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDxtHn8HkxokRiEomchyMaiw",
+      "rating": 4.9,
+      "user_ratings_total": 46
+    },
+    {
+      "id": "google_ChIJ__8v2uLixokRVyRj32Dd-mE",
+      "name": "Tri-State Bab-ul-ilm Islamic Center of Delaware",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "1413 Lore Ave, Wilmington, DE 19809, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7578696,
+        "lon": -75.49360709999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ__8v2uLixokRVyRj32Dd-mE",
+      "rating": 5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJbTKSS7LlxokR45QQBLfFsCY",
+      "name": "MUNA Center of Delaware (MCD) Masjid Ar-Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "301 Commonwealth Ave, Claymont, DE 19703, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.8013594,
+        "lon": -75.46599239999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbTKSS7LlxokR45QQBLfFsCY",
+      "rating": 4.5,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJE5ZsfK4Gx4kR6JSh_4u-c_I",
+      "name": "Diyanet Mosque of Delaware",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "249 Appleby Rd #5403, New Castle, DE 19720, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.65067639999999,
+        "lon": -75.63024159999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE5ZsfK4Gx4kR6JSh_4u-c_I",
+      "rating": 4.9,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJZX4NPOuCuIkRtvjhh4iesNM",
+      "name": "Islamic Society of Central Delaware",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "777 S Little Creek Rd, Dover, DE 19901, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.15886039999999,
+        "lon": -75.50677309999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZX4NPOuCuIkRtvjhh4iesNM",
+      "rating": 4.8,
+      "user_ratings_total": 83
+    },
+    {
+      "id": "google_ChIJO-Stj3mpx4kR69H7y-RqxbA",
+      "name": "Rawdah Islamic Center of Delaware",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "18 Shea Way, Newark, DE 19713, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6541633,
+        "lon": -75.72678239999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO-Stj3mpx4kR69H7y-RqxbA",
+      "rating": 5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJmyo5Cm6ox4kRfAAs1NU6JtY",
+      "name": "Glasgow Mosque & Education Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "2555 Glasgow Ave, Newark, DE 19702, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.6005543,
+        "lon": -75.7427636
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmyo5Cm6ox4kRfAAs1NU6JtY",
+      "rating": 4.8,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJB89cdOnlxokRCrT58u-Eu-w",
+      "name": "Baitul Hidayah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "3003 Philadelphia Pike, Claymont, DE 19703, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7975713,
+        "lon": -75.46547249999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB89cdOnlxokRCrT58u-Eu-w",
+      "rating": 4.7,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJ_RkPud-px4kR3U8kjQm6B0k",
+      "name": "Isa Ibn-e-Maryam Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "Open for 5 Daily Prayers - Friday Prayer Starts 1:15 and ends around 1:45, 706 S Old Baltimore Pike, Newark, DE 19702, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.645674,
+        "lon": -75.7159989
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_RkPud-px4kR3U8kjQm6B0k",
+      "rating": 5,
+      "user_ratings_total": 60
+    },
+    {
+      "id": "google_ChIJofg6HgT9xokRJoery8_lUCY",
+      "name": "MSK Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "1009 Sycamore St, Wilmington, DE 19805, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7386628,
+        "lon": -75.56535099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJofg6HgT9xokRJoery8_lUCY",
+      "rating": 4.9,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJARP_nRDjxokRsOfLqeAMVus",
+      "name": "Bellevue Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "510 Duncan Rd, Wilmington, DE 19809, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.7705077,
+        "lon": -75.495583
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJARP_nRDjxokRsOfLqeAMVus",
+      "rating": 4,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJDZpPER2_uIkRqHG8wk0nj6c",
+      "name": "Islamic Center of Eastern Shore",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Delaware",
+        "zip": "",
+        "full": "25159 Lewes Georgetown Hwy, Georgetown, DE 19947, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.7215109,
+        "lon": -75.299148
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDZpPER2_uIkRqHG8wk0nj6c",
+      "rating": 4.8,
+      "user_ratings_total": 30
     }
-  ]
+  ],
+  "google_places_added": 1
 }

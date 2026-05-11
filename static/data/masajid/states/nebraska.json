@@ -1,6 +1,6 @@
 {
   "state": "Nebraska",
-  "count": 8,
+  "count": 18,
   "generated_at": "2026-05-10 06:41:01 UTC",
   "masajid": [
     {
@@ -178,6 +178,247 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1377091086
+    },
+    {
+      "id": "google_ChIJ7_X0JE6Ok4cRhiYTiClQd9Y",
+      "name": "Shafie Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "209 S 25th St, Omaha, NE 68131, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2583124,
+        "lon": -95.9479197
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7_X0JE6Ok4cRhiYTiClQd9Y",
+      "rating": 4.7,
+      "user_ratings_total": 58
+    },
+    {
+      "id": "google_ChIJ-aO84uGNk4cRMRkoiXlHrso",
+      "name": "Masjid Al-Huda",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "4735 NW Radial Hwy, Omaha, NE 68104, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2812162,
+        "lon": -95.98521629999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-aO84uGNk4cRMRkoiXlHrso",
+      "rating": 4.6,
+      "user_ratings_total": 62
+    },
+    {
+      "id": "google_ChIJ3TCaGDbzk4cR4c5fN40fhjM",
+      "name": "Aboutaleb Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "9910 Maple St, Omaha, NE 68134, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2861176,
+        "lon": -96.06835939999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ3TCaGDbzk4cR4c5fN40fhjM",
+      "rating": 4.9,
+      "user_ratings_total": 48
+    },
+    {
+      "id": "google_ChIJa3_9m8VuZ2oRyycdkoO20Ec",
+      "name": "(AIC) Al-Taqwa Islamic Center of Elkhorn",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "3427 N 190th Plz, Elkhorn, NE 68022, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2896564,
+        "lon": -96.2140761
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa3_9m8VuZ2oRyycdkoO20Ec",
+      "rating": 4.8,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ-S2QStHvk4cR5l_x_FQ3_B4",
+      "name": "At-Taqwa Center (ATC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "3510 N 167th Cir Suite 100, Omaha, NE 68116, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.290826,
+        "lon": -96.17639710000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-S2QStHvk4cR5l_x_FQ3_B4",
+      "rating": 4.9,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJfZOaWomPk4cRPGXR-zx4LxY",
+      "name": "Masjid At-Tawheed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "1815 Evans St, Omaha, NE 68110, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2912058,
+        "lon": -95.93982129999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfZOaWomPk4cRPGXR-zx4LxY",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJuQj25aWPk4cRqhTitwV8IbQ",
+      "name": "Urban Abbey",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "1026 Jackson St, Omaha, NE 68102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.254646,
+        "lon": -95.929801
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuQj25aWPk4cRqhTitwV8IbQ",
+      "rating": 4.7,
+      "user_ratings_total": 315
+    },
+    {
+      "id": "google_ChIJ-6_lSJaJk4cRyoTXx7rsFWk",
+      "name": "Bellevue Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "800 Fort Crook Rd S, Bellevue, NE 68005, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.15312840000001,
+        "lon": -95.9282096
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-6_lSJaJk4cRyoTXx7rsFWk",
+      "rating": 4.7,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJfWA8cjLzk4cRk-Bsk_MG4po",
+      "name": "AlHadi Islamic Center in Omaha",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "275 N 115th St, Omaha, NE 68154, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2597089,
+        "lon": -96.0922034
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJfWA8cjLzk4cRk-Bsk_MG4po",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ0c3CpRCNk4cRuvj1Zd4mi2s",
+      "name": "Somali Community Services Inc. of Omaha, Nebraska",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nebraska",
+        "zip": "",
+        "full": "1136 NW Radial Hwy, Omaha, NE 68132, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 41.2704257,
+        "lon": -95.983559
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0c3CpRCNk4cRuvj1Zd4mi2s",
+      "rating": 3.7,
+      "user_ratings_total": 12
     }
-  ]
+  ],
+  "google_places_added": 10
 }

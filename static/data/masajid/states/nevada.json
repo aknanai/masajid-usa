@@ -1,6 +1,6 @@
 {
   "state": "Nevada",
-  "count": 6,
+  "count": 22,
   "generated_at": "2026-05-10 06:44:45 UTC",
   "masajid": [
     {
@@ -134,6 +134,391 @@
       "opening_hours": "24/7",
       "osm_type": "way",
       "osm_id": 1275869672
+    },
+    {
+      "id": "google_ChIJWyg-va_DyIARghkYZcaFekE",
+      "name": "As-Sabur Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "711 Morgan Ave, Las Vegas, NV 89106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1799984,
+        "lon": -115.1512959
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWyg-va_DyIARghkYZcaFekE",
+      "rating": 4.8,
+      "user_ratings_total": 273
+    },
+    {
+      "id": "google_ChIJ01tDA9vGyIARxRJ-JTwJjTw",
+      "name": "Tawheed Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "6180 W Viking Rd, Las Vegas, NV 89103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1184498,
+        "lon": -115.2268276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ01tDA9vGyIARxRJ-JTwJjTw",
+      "rating": 4.8,
+      "user_ratings_total": 264
+    },
+    {
+      "id": "google_ChIJJbqcjKvDyIAR9VkQ8jQT4YA",
+      "name": "Muhammad Mosque 75",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "1402 D St, Las Vegas, NV 89106, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1862966,
+        "lon": -115.1469611
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJbqcjKvDyIAR9VkQ8jQT4YA",
+      "rating": 5,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJ5U9xJwDDyIARL8aIXo8nQEE",
+      "name": "Grand mosquée",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "Las Vegas, NV 89101, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.171563,
+        "lon": -115.1391009
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5U9xJwDDyIARL8aIXo8nQEE",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJNeag8WXqyIARgnVcS7tC4fw",
+      "name": "MASJID IBRAHIM MOSQUE",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "3788 N Jones Blvd, Las Vegas, NV 89108, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.2276431,
+        "lon": -115.2250389
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNeag8WXqyIARgnVcS7tC4fw",
+      "rating": 4.6,
+      "user_ratings_total": 151
+    },
+    {
+      "id": "google_ChIJbTYW8_jPyIARFrFumkZyXCU",
+      "name": "Islamic Foundation of Nevada",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "485 E Eldorado Ln, Las Vegas, NV 89123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0527852,
+        "lon": -115.1527718
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbTYW8_jPyIARFrFumkZyXCU",
+      "rating": 4.9,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJ___7REXGyIARqfVL_Ulyo3U",
+      "name": "Masjid Nejashi | Darul Iman Ethiopian Muslim Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "6036 Ponderosa Way, Las Vegas, NV 89118, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0803463,
+        "lon": -115.2235722
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ___7REXGyIARqfVL_Ulyo3U",
+      "rating": 4.3,
+      "user_ratings_total": 35
+    },
+    {
+      "id": "google_ChIJ997e5F7HyIAR3WhQua0M1qo",
+      "name": "Ahl Albayt Center of Nevada (ACON) in Las Vegas (Shia Islamic Center) - مركز اهل البيت الإسلامي",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "4785 S Durango Dr #104, Las Vegas, NV 89147, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1023331,
+        "lon": -115.2801605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ997e5F7HyIAR3WhQua0M1qo",
+      "rating": 5,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJMdGZ53HPyIARn9zJA0Q2rgA",
+      "name": "Omar Haikal Islamic Academy -OHIA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "485 E Eldorado Ln, Las Vegas, NV 89123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.0526641,
+        "lon": -115.1527651
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMdGZ53HPyIARn9zJA0Q2rgA",
+      "rating": 4.6,
+      "user_ratings_total": 100
+    },
+    {
+      "id": "google_ChIJD7nenRfByIARiTF5JzywnGI",
+      "name": "Irfaniye Academy",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "2810 S Rainbow Blvd, Las Vegas, NV 89146, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1384176,
+        "lon": -115.2424075
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD7nenRfByIARiTF5JzywnGI",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJ88c8yRmcIGkRMGNYIUgJIQ8",
+      "name": "Hussainya Center of Las Vegas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "3090 S Durango Dr Ste 103, Las Vegas, NV 89117, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.133623,
+        "lon": -115.277239
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ88c8yRmcIGkRMGNYIUgJIQ8",
+      "rating": 4.7,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJ9XDFlhTPyIARdjCkxMp_FJ8",
+      "name": "Ismaili Center & Jamatkhana - Las Vegas",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "270 E Windmill Ln, Las Vegas, NV 89123, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.043072,
+        "lon": -115.1602651
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ9XDFlhTPyIARdjCkxMp_FJ8",
+      "rating": 4.9,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJLwpL8MPFyIARJZgOJdpfDtk",
+      "name": "Las Vegas House of Prayer",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "860 E Twain Ave Suite #130, Las Vegas, NV 89169, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1224537,
+        "lon": -115.1441703
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLwpL8MPFyIARJZgOJdpfDtk",
+      "rating": 4.7,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJ-UuYW13ByIARRXGwoWE4c64",
+      "name": "Chabad of Southern Nevada",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "1261 S Arville St, Las Vegas, NV 89102, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1573511,
+        "lon": -115.1989684
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-UuYW13ByIARRXGwoWE4c64",
+      "rating": 4.8,
+      "user_ratings_total": 154
+    },
+    {
+      "id": "google_ChIJF6D8MTDHyIARkox57ep0m1M",
+      "name": "Amirana Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "6170 W Viking Rd, Las Vegas, NV 89103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 36.1188598,
+        "lon": -115.2261745
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF6D8MTDHyIARkox57ep0m1M",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJKQ7LXrY4mYARB1dxQjK81GA",
+      "name": "Northern Nevada Muslim Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Nevada",
+        "zip": "",
+        "full": "1855 Oddie Blvd, Sparks, NV 89431, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 39.5450947,
+        "lon": -119.7697443
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKQ7LXrY4mYARB1dxQjK81GA",
+      "rating": 4.8,
+      "user_ratings_total": 126
     }
-  ]
+  ],
+  "google_places_added": 16
 }

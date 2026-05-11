@@ -1,6 +1,6 @@
 {
   "state": "Arizona",
-  "count": 19,
+  "count": 53,
   "generated_at": "2026-05-10 05:05:33 UTC",
   "masajid": [
     {
@@ -420,6 +420,823 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1419529990
+    },
+    {
+      "id": "google_ChIJBfa2sYYRK4cRLVSNO7zWB5c",
+      "name": "Masjid Touba Jumu’a Salah @ 1:00 PM",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1219 W Buckeye Rd, Phoenix, AZ 85007, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4365381,
+        "lon": -112.0886169
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBfa2sYYRK4cRLVSNO7zWB5c",
+      "rating": 4.4,
+      "user_ratings_total": 41
+    },
+    {
+      "id": "google_ChIJWWT5gaMNK4cRh2DjNxU4ftw",
+      "name": "Al Rahma Islamic Center of Phoenix",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "2916 E McDowell Rd unit 15, Phoenix, AZ 85008, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4662917,
+        "lon": -112.0189324
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWWT5gaMNK4cRh2DjNxU4ftw",
+      "rating": 4.6,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJT66iemcRK4cRavDqCBV2oU8",
+      "name": "Islamic Center of Greater Phoenix (Masjid Bilal)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "8016 S 12th St, Phoenix, AZ 85042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3736783,
+        "lon": -112.0577188
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT66iemcRK4cRavDqCBV2oU8",
+      "rating": 4.9,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJDVxpWZ1uK4cRhrF1tnCPWT8",
+      "name": "Islamic Center of North Phoenix",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "13246 N 23rd Ave, Phoenix, AZ 85029, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6082734,
+        "lon": -112.1083492
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDVxpWZ1uK4cRhrF1tnCPWT8",
+      "rating": 4.7,
+      "user_ratings_total": 110
+    },
+    {
+      "id": "google_ChIJQ_3Di0UXK4cRewRCtzHW-9o",
+      "name": "Islamic Center of Laveen (Laveen Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "5099 W Dobbins Rd #1, Laveen Village, AZ 85339, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3624382,
+        "lon": -112.1686516
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQ_3Di0UXK4cRewRCtzHW-9o",
+      "rating": 4.6,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJw98vacoRK4cR7aEA3wq0dus",
+      "name": "Muhammad Mosque #32",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "4444 S 3rd St, Phoenix, AZ 85040, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4053141,
+        "lon": -112.0703544
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw98vacoRK4cR7aEA3wq0dus",
+      "rating": 4.8,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJ8aWO8rARK4cR9AtRxTZj_kQ",
+      "name": "Masjid Jauharatul-Islam (Jewel of Islam Mosque)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "102 W South Mountain Ave, Phoenix, AZ 85041, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.371312,
+        "lon": -112.07571
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8aWO8rARK4cR9AtRxTZj_kQ",
+      "rating": 4.2,
+      "user_ratings_total": 10
+    },
+    {
+      "id": "google_ChIJLTw4Xq8PK4cRf8cDHHkRaM0",
+      "name": "Arizona Cultural Academy (ACA) Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "7810 S 42nd Pl #7300, Phoenix, AZ 85042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3754475,
+        "lon": -111.9928871
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLTw4Xq8PK4cRf8cDHHkRaM0",
+      "rating": 4.9,
+      "user_ratings_total": 53
+    },
+    {
+      "id": "google_ChIJ0fi_DfRtK4cRTEoBTLclLik",
+      "name": "Al-Basheer Islamic Foundation",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "6523 N Black Cyn Hwy, Phoenix, AZ 85015, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5322565,
+        "lon": -112.1118659
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0fi_DfRtK4cRTEoBTLclLik",
+      "rating": 4.6,
+      "user_ratings_total": 32
+    },
+    {
+      "id": "google_ChIJZ8rtLQBtK4cRz6fSLU50nAY",
+      "name": "Masjid Arkan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "7102 N 35th Ave Suite 3, Phoenix, AZ 85051, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5405449,
+        "lon": -112.1350574
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZ8rtLQBtK4cRz6fSLU50nAY",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJLVQCh0kGK4cROSyWfgg1nFI",
+      "name": "Omar Ibn Al-Khattab Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "6225 S McClintock Dr, Tempe, AZ 85283, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3652304,
+        "lon": -111.9106263
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLVQCh0kGK4cROSyWfgg1nFI",
+      "rating": 4.8,
+      "user_ratings_total": 134
+    },
+    {
+      "id": "google_ChIJp-_A7FZrK4cRjnKXUt0YF8c",
+      "name": "Al Kausur Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "6221 W Glendale Ave, Glendale, AZ 85301, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5381986,
+        "lon": -112.1939958
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJp-_A7FZrK4cRjnKXUt0YF8c",
+      "rating": 4.8,
+      "user_ratings_total": 51
+    },
+    {
+      "id": "google_ChIJqTOG-pqfK4cR8PfFhAaLKL4",
+      "name": "Islamic Center of North East Valley (ICNEV)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "12125 E Vía Linda, Scottsdale, AZ 85259, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5892363,
+        "lon": -111.8187643
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJqTOG-pqfK4cR8PfFhAaLKL4",
+      "rating": 4.7,
+      "user_ratings_total": 149
+    },
+    {
+      "id": "google_ChIJYQOkCABrK4cRb-YHDQxiTbY",
+      "name": "Masjid Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "6040 N 43rd Ave, Glendale, AZ 85301, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.5255689,
+        "lon": -112.1521644
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJYQOkCABrK4cRb-YHDQxiTbY",
+      "rating": 5,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJEypOYwA_K4cRHVegThgcntg",
+      "name": "WVIC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "10510 W Van Buren St, Avondale, AZ 85323, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4503706,
+        "lon": -112.2866263
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEypOYwA_K4cRHVegThgcntg",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJLZfrxbFpK4cRudFDA9YDFkM",
+      "name": "Greenway Mosque مسجد",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "6724 W Greenway Rd, Peoria, AZ 85381, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.6253831,
+        "lon": -112.2037785
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJLZfrxbFpK4cRudFDA9YDFkM",
+      "rating": 4.6,
+      "user_ratings_total": 77
+    },
+    {
+      "id": "google_ChIJF3DZS85dK4cRW04FTPHEMWQ",
+      "name": "Islamic Center of Peoria (ICP)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "23915 N Lake Pleasant Pkwy, Peoria, AZ 85383, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.7012576,
+        "lon": -112.271204
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF3DZS85dK4cRW04FTPHEMWQ",
+      "rating": 4.7,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJY9_myj0JK4cRz1B4t1HOEL4",
+      "name": "Al-Mahdi Benevolent Foundation of Arizona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1016 S River Dr, Tempe, AZ 85281, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4186689,
+        "lon": -111.896425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY9_myj0JK4cRz1B4t1HOEL4",
+      "rating": 4.8,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJKXI8LgAPK4cRfwwOc9jgvH8",
+      "name": "SMILE Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "7606 S 41st St, Phoenix, AZ 85042, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3770454,
+        "lon": -111.9955223
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKXI8LgAPK4cRfwwOc9jgvH8",
+      "rating": 5,
+      "user_ratings_total": 11
+    },
+    {
+      "id": "google_ChIJORdOoj1x1oYRQ5QprhN0Fz8",
+      "name": "Ahmadiyya Muslim Community, Tucson Arizona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "250 W Speedway Blvd, Tucson, AZ 85705, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.236119,
+        "lon": -110.976135
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJORdOoj1x1oYRQ5QprhN0Fz8",
+      "rating": 4.5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJ1cNUxT1v1oYR4ePUtLqbAJA",
+      "name": "Imam Abu Hanifa Islamic Center, IAHIC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "4727 East 5th Street, Tucson, AZ 85711, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2291041,
+        "lon": -110.8916882
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1cNUxT1v1oYR4ePUtLqbAJA",
+      "rating": 4.8,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJ431Eq8xv1oYR9y-Z5jD5TXo",
+      "name": "ICS Tucson",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "5010 E Bellevue St, Tucson, AZ 85712, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.2377556,
+        "lon": -110.8854356
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ431Eq8xv1oYR9y-Z5jD5TXo",
+      "rating": 4.3,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJE1G3l0qwK4cREIzvBnjm66k",
+      "name": "East Mesa Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1017 S 88th St, Mesa, AZ 85208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3963058,
+        "lon": -111.6409937
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJE1G3l0qwK4cREIzvBnjm66k",
+      "rating": 4.8,
+      "user_ratings_total": 49
+    },
+    {
+      "id": "google_ChIJGWlydvEHK4cRmnxmZ6Lioio",
+      "name": "Musalla attawheed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "2655 W Guadalupe Rd #10, Mesa, AZ 85202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3624075,
+        "lon": -111.8918677
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGWlydvEHK4cRmnxmZ6Lioio",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJhYS6l0qwK4cRsi1e0vek-NY",
+      "name": "Arizona Muslim Alliance",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1018 S 88th St, Mesa, AZ 85208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3969797,
+        "lon": -111.6413425
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhYS6l0qwK4cRsi1e0vek-NY",
+      "rating": 2.3,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJTeB0_5KnK4cR5S1JriKlFas",
+      "name": "The Sudanese American Community Center Of Arizona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "546 N Vineyard, Mesa, AZ 85201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4253855,
+        "lon": -111.8421648
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTeB0_5KnK4cR5S1JriKlFas",
+      "rating": 4.7,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJ__8_W2UNK4cRQiQqgzn_SaY",
+      "name": "Good Tree Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1955 W Baseline Rd Ste 113 Box 144, Mesa, AZ 85202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.377632,
+        "lon": -111.8769791
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ__8_W2UNK4cRQiQqgzn_SaY",
+      "rating": 5,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJ_0lIO-kHK4cR6gzmHZypwoU",
+      "name": "CAIR Arizona",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1819 S Dobson Rd UNIT 214, Mesa, AZ 85202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3810043,
+        "lon": -111.8755596
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_0lIO-kHK4cR6gzmHZypwoU",
+      "rating": 3,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJT_K06MOnK4cRsj2Dv2gti_4",
+      "name": "Mesa Community Outreach Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1833 W Southern Ave, Mesa, AZ 85202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3918416,
+        "lon": -111.869633
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJT_K06MOnK4cRsj2Dv2gti_4",
+      "rating": 4.4,
+      "user_ratings_total": 20
+    },
+    {
+      "id": "google_ChIJa8lDd0evK4cRi8Trj4fVhkY",
+      "name": "Chabad Jewish Center of Mesa",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "941 S Maple, Mesa, AZ 85206, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.3984479,
+        "lon": -111.7459345
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJa8lDd0evK4cRi8Trj4fVhkY",
+      "rating": 4.7,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJHWrgCOwHK4cRoFx7JZqsXsw",
+      "name": "Baiz Fresh Foods",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "1858 W Baseline Rd, Mesa, AZ 85202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.379575,
+        "lon": -111.875366
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJHWrgCOwHK4cRoFx7JZqsXsw",
+      "rating": 4.3,
+      "user_ratings_total": 1305
+    },
+    {
+      "id": "google_ChIJ-9DLV9L6KocRwnXD6iO8Q4g",
+      "name": "Bilal ibn Rabah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "44370 W Cesar Chavez Ln, Maricopa, AZ 85138, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.0562786,
+        "lon": -112.0445697
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-9DLV9L6KocRwnXD6iO8Q4g",
+      "rating": 4.8,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJgehBYzsBK4cRCPd9GqqQF6g",
+      "name": "Arizona Refugee Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "35 N Alma School Rd suite 109, Mesa, AZ 85201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4159181,
+        "lon": -111.856291
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJgehBYzsBK4cRCPd9GqqQF6g",
+      "rating": 4.4,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJ6fcCpe0TK4cRcuFhJUcFR84",
+      "name": "Chicanos Por La Causa Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arizona",
+        "zip": "",
+        "full": "3216 W Van Buren St, Phoenix, AZ 85009, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.4516718,
+        "lon": -112.1290621
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6fcCpe0TK4cRcuFhJUcFR84",
+      "rating": 4.2,
+      "user_ratings_total": 103
     }
-  ]
+  ],
+  "google_places_added": 1
 }

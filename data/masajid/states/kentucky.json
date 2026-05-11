@@ -1,6 +1,6 @@
 {
   "state": "Kentucky",
-  "count": 11,
+  "count": 45,
   "generated_at": "2026-05-10 05:59:41 UTC",
   "masajid": [
     {
@@ -244,6 +244,823 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1248925523
+    },
+    {
+      "id": "google_ChIJKTVfGLQSaYgRsP5pn7h8dzY",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1701 Dumesnil St, Louisville, KY 40210, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2362775,
+        "lon": -85.78322279999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKTVfGLQSaYgRsP5pn7h8dzY",
+      "rating": 4.8,
+      "user_ratings_total": 40
+    },
+    {
+      "id": "google_ChIJRzVhkV4NaYgRktF6tTLcET0",
+      "name": "Islamic Center of Louisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1715 S 4th St, Louisville, KY 40208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2227241,
+        "lon": -85.76223209999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJRzVhkV4NaYgRktF6tTLcET0",
+      "rating": 4.8,
+      "user_ratings_total": 48
+    },
+    {
+      "id": "google_ChIJt_tkAUYTaYgR6tXTsDaYD38",
+      "name": "Masjid Abubakar Islamic Center Of Louisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1536 S 7th St, Louisville, KY 40208, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2253721,
+        "lon": -85.770236
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt_tkAUYTaYgR6tXTsDaYD38",
+      "rating": 5,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJxaBG7_kKaYgR2RL7DTUv37g",
+      "name": "Guiding Light Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "6500 Six Mile Ln, Louisville, KY 40218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1970974,
+        "lon": -85.6340738
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxaBG7_kKaYgR2RL7DTUv37g",
+      "rating": 4.9,
+      "user_ratings_total": 221
+    },
+    {
+      "id": "google_ChIJZR74bAkSaYgRol-4dz9UFN0",
+      "name": "AL-HIDAYA CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "5309 Mitscher Ave, Louisville, KY 40214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.17093759999999,
+        "lon": -85.7700729
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJZR74bAkSaYgRol-4dz9UFN0",
+      "rating": 4.6,
+      "user_ratings_total": 72
+    },
+    {
+      "id": "google_ChIJmWEPGQcLaYgR52mOFNHLlL0",
+      "name": "Bosniak American Islamic Center of Louisville",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "5927 Six Mile Ln, Louisville, KY 40218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1965939,
+        "lon": -85.6501736
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmWEPGQcLaYgR52mOFNHLlL0",
+      "rating": 4.9,
+      "user_ratings_total": 57
+    },
+    {
+      "id": "google_ChIJMaXvCaVyaYgRVi7UZ3wkw04",
+      "name": "Cathedral of the Assumption",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "433 S 5th St # 101, Louisville, KY 40202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2519304,
+        "lon": -85.7587276
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMaXvCaVyaYgRVi7UZ3wkw04",
+      "rating": 4.8,
+      "user_ratings_total": 417
+    },
+    {
+      "id": "google_ChIJXX0LJapyaYgRt7M65-5_RFU",
+      "name": "Somali Mall International",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "737 S 8th St Suite 53, Louisville, KY 40203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.2452215,
+        "lon": -85.76512819999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJXX0LJapyaYgRt7M65-5_RFU",
+      "rating": 4.2,
+      "user_ratings_total": 252
+    },
+    {
+      "id": "google_ChIJmzk1MNgTaYgR_x2w0yag6JA",
+      "name": "Southside Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "6200 S 3rd St, Louisville, KY 40214, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1662863,
+        "lon": -85.7695834
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmzk1MNgTaYgR_x2w0yag6JA",
+      "rating": 4.8,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJh_R3daYLaYgRbN7Cn1pFiCI",
+      "name": "Diyanet Mosque of Kentucky Ahiska Turks",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "4604 Bardstown Rd, Louisville, KY 40218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1803227,
+        "lon": -85.6261238
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJh_R3daYLaYgRbN7Cn1pFiCI",
+      "rating": 4.9,
+      "user_ratings_total": 33
+    },
+    {
+      "id": "google_ChIJeciFULdzaYgRv06UMtdJe5g",
+      "name": "HIRA Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "2014 Allison Ln, Jeffersonville, IN 47130, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.31547940000001,
+        "lon": -85.70518919999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeciFULdzaYgRv06UMtdJe5g",
+      "rating": 4.8,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJWdfG8qkLaYgR4-TcSUfahoM",
+      "name": "LAC ISLAMIC CENTER",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "4000 Bardstown Rd, Louisville, KY 40218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1927611,
+        "lon": -85.6491824
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWdfG8qkLaYgR4-TcSUfahoM",
+      "rating": 4.2,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJ2Y27GUwLaYgRKuqtjJK4WkA",
+      "name": "Senegal Masjid",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "4000 Bardstown Rd, Louisville, KY 40218, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1928154,
+        "lon": -85.649174
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2Y27GUwLaYgRKuqtjJK4WkA",
+      "rating": 5,
+      "user_ratings_total": 8
+    },
+    {
+      "id": "google_ChIJ4bPvSChFQogRLHU-4ctfCeA",
+      "name": "Ahlulbayt center of Lexington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1451 Bryan Ave, Lexington, KY 40505, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0597353,
+        "lon": -84.4669955
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4bPvSChFQogRLHU-4ctfCeA",
+      "rating": 4.3,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJt2XS5SNdQogRtdVJRl9o4Lc",
+      "name": "South Side Mussalla",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1031 Wellington Way UNIT 160, Lexington, KY 40513, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0058945,
+        "lon": -84.5698912
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt2XS5SNdQogRtdVJRl9o4Lc",
+      "rating": 4.9,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJeWtyj0tfQogRfaOYTvEy84U",
+      "name": "Masjid Muhammad Iqbal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "JDs T Mart, 956 S Main St near, Nicholasville, KY 40356, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.8654026,
+        "lon": -84.5782145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeWtyj0tfQogRfaOYTvEy84U",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJGceA0CNFQogRPhWZOpUJTNQ",
+      "name": "Kenwick Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "313 Owsley Ave, Lexington, KY 40502, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0359997,
+        "lon": -84.4745714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJGceA0CNFQogRPhWZOpUJTNQ",
+      "rating": 4.3,
+      "user_ratings_total": 36
+    },
+    {
+      "id": "google_ChIJc_FHInhEQogRyTVtgp6ADto",
+      "name": "Meadowthorpe Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "333 Larch Ln, Lexington, KY 40511, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.07267849999999,
+        "lon": -84.5207544
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc_FHInhEQogRyTVtgp6ADto",
+      "rating": 4.5,
+      "user_ratings_total": 13
+    },
+    {
+      "id": "google_ChIJN9_0CGBEQogRSM59vKcJHWE",
+      "name": "Black & Williams Neighborhood Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "498 Georgetown St, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0622367,
+        "lon": -84.5016697
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJN9_0CGBEQogRSM59vKcJHWE",
+      "rating": 4.6,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJWYM0rwZFQogRtXHDXtBHGno",
+      "name": "Castlewood Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "201 Castlewood Dr, Lexington, KY 40505, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.05533339999999,
+        "lon": -84.47568749999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJWYM0rwZFQogRtXHDXtBHGno",
+      "rating": 4.6,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJo6xqFOFEQogR6LRg3ia9I8E",
+      "name": "Charles Young Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "540 E Third St, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0434313,
+        "lon": -84.48394809999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo6xqFOFEQogR6LRg3ia9I8E",
+      "rating": 4.7,
+      "user_ratings_total": 124
+    },
+    {
+      "id": "google_ChIJVVXFTkxFQogR8ySGbXoh668",
+      "name": "Woodhill Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "422 Codell Dr, Lexington, KY 40509, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.020534,
+        "lon": -84.4518851
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVXFTkxFQogR8ySGbXoh668",
+      "rating": 4.7,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJrdlEgwFbQogRr5WYAU5NHo8",
+      "name": "Tates Creek Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "3460 Campus Wy, Lexington, KY 40517, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.983063,
+        "lon": -84.48188189999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrdlEgwFbQogRr5WYAU5NHo8",
+      "rating": 4.8,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJjTw5ji9FQogR0R8OijFOO6c",
+      "name": "William Wells Brown Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "548 E Sixth St, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0465698,
+        "lon": -84.4799652
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJjTw5ji9FQogR0R8OijFOO6c",
+      "rating": 4.4,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJkWqxbfpEQogRH10q_aL4dxw",
+      "name": "Russell School Community Services Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "520 Toner St, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0541687,
+        "lon": -84.489891
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkWqxbfpEQogRH10q_aL4dxw",
+      "rating": 4.2,
+      "user_ratings_total": 78
+    },
+    {
+      "id": "google_ChIJ6_MJA3UCQ4gR8gpdC-To2Ds",
+      "name": "Mosque of Richmond & Richmond Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "1048 Center Dr, Richmond, KY 40475, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 37.7311508,
+        "lon": -84.267605
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6_MJA3UCQ4gR8gpdC-To2Ds",
+      "rating": 4.5,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJhdUfPrkMQogRHtx6HZZsRlc",
+      "name": "Islamic Center of Frankfort",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "160 Flynn Ave, Frankfort, KY 40601, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.187109,
+        "lon": -84.842291
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJhdUfPrkMQogRHtx6HZZsRlc",
+      "rating": 4.5,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJIQOepeud44kRnORDAw8NKsc",
+      "name": "Lexington Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "166 Spring St, Lexington, MA 02421, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4214197,
+        "lon": -71.2509472
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIQOepeud44kRnORDAw8NKsc",
+      "rating": 4.6,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJ1SF6KFlEQogRqv0oaBBbq1c",
+      "name": "North Lexington Family YMCA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "381 W Loudon Ave, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0641791,
+        "lon": -84.4958346
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1SF6KFlEQogRqv0oaBBbq1c",
+      "rating": 4.6,
+      "user_ratings_total": 327
+    },
+    {
+      "id": "google_ChIJKyBuSCVBQogRCxRUR-HZM4I",
+      "name": "Genesis Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "4050 Georgetown Rd, Lexington, KY 40511, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.1390931,
+        "lon": -84.53286609999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKyBuSCVBQogRCxRUR-HZM4I",
+      "rating": 4.2,
+      "user_ratings_total": 42
+    },
+    {
+      "id": "google_ChIJNQeFuetEQogRMI4v-6R9o7o",
+      "name": "Calvary Baptist Recreation Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "150 E High St, Lexington, KY 40507, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0440234,
+        "lon": -84.4983127
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJNQeFuetEQogRMI4v-6R9o7o",
+      "rating": 4.7,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJ37_p0QpFQogRd4JNp_BLAFc",
+      "name": "Jewish Lexington",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "375 Aylesford Pl #3, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0366497,
+        "lon": -84.49819629999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ37_p0QpFQogRd4JNp_BLAFc",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJX1LEHxhdQogRvwX5PcIRjSM",
+      "name": "Muslim Alliance In North Amrc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "4100 Solberg Ln, Lexington, KY 40514, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.000508,
+        "lon": -84.57457099999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJX1LEHxhdQogRvwX5PcIRjSM",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJ0eRp1MZFQogR0V-B9RguIWY",
+      "name": "UKY Muslim Student Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Kentucky",
+        "zip": "",
+        "full": "160 Ave of Champions Room A255F, Lexington, KY 40508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 38.0400127,
+        "lon": -84.5032837
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ0eRp1MZFQogR0V-B9RguIWY",
+      "rating": 0,
+      "user_ratings_total": 0
     }
-  ]
+  ],
+  "google_places_added": 34
 }

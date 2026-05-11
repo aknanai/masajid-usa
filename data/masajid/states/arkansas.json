@@ -1,6 +1,6 @@
 {
   "state": "Arkansas",
-  "count": 13,
+  "count": 19,
   "generated_at": "2026-05-10 05:08:56 UTC",
   "masajid": [
     {
@@ -288,6 +288,151 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 1251538058
+    },
+    {
+      "id": "google_ChIJEzsvxvGk0ocRGhyaY2uTcAg",
+      "name": "Islamic Center of Little Rock",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "3224 Anna St, Little Rock, AR 72204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.72224509999999,
+        "lon": -92.3333854
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEzsvxvGk0ocRGhyaY2uTcAg",
+      "rating": 4.8,
+      "user_ratings_total": 165
+    },
+    {
+      "id": "google_ChIJvwpERM6m0ocRH88_GWkn-OY",
+      "name": "Madina Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "12123 Kanis Rd, Little Rock, AR 72211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.7429572,
+        "lon": -92.4093499
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvwpERM6m0ocRH88_GWkn-OY",
+      "rating": 4.8,
+      "user_ratings_total": 75
+    },
+    {
+      "id": "google_ChIJj7_9UAC70ocRBHqPsnjzuhs",
+      "name": "Islamic center of human excellence",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "1717 Wright Ave, Little Rock, AR 72202, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.731901,
+        "lon": -92.2924905
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj7_9UAC70ocRBHqPsnjzuhs",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJua9TcdGm0ocR4Idd9zAXwRs",
+      "name": "Ismaili Jamatkhana",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "12500 Kanis Rd, Little Rock, AR 72211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.744162,
+        "lon": -92.4138215
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJua9TcdGm0ocR4Idd9zAXwRs",
+      "rating": 4.7,
+      "user_ratings_total": 19
+    },
+    {
+      "id": "google_ChIJ82vK9jah0ocR-JI9huELrDM",
+      "name": "City Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "315 N Shackleford Rd, Little Rock, AR 72211, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.7569656,
+        "lon": -92.3925857
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ82vK9jah0ocR-JI9huELrDM",
+      "rating": 4.8,
+      "user_ratings_total": 54
+    },
+    {
+      "id": "google_ChIJv3egwfGk0ocRThxIHhgHD0k",
+      "name": "Islamic Center of Little Rock - Food Distribution Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Arkansas",
+        "zip": "",
+        "full": "3224 Anna St, Little Rock, AR 72204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.7223505,
+        "lon": -92.33332159999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv3egwfGk0ocRThxIHhgHD0k",
+      "rating": 0,
+      "user_ratings_total": 0
     }
-  ]
+  ],
+  "google_places_added": 6
 }

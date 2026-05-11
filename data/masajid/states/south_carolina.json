@@ -1,6 +1,6 @@
 {
   "state": "South Carolina",
-  "count": 10,
+  "count": 26,
   "generated_at": "2026-05-10 07:34:37 UTC",
   "masajid": [
     {
@@ -222,6 +222,391 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 927274590
+    },
+    {
+      "id": "google_ChIJ-WHCaa2l-IgRc4vz84XIL48",
+      "name": "Noor-Ul-Huda Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "800 Amberley Rd, Columbia, SC 29203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0557864,
+        "lon": -81.02949749999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-WHCaa2l-IgRc4vz84XIL48",
+      "rating": 4.9,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJY6L7U1ik-IgREWzdBxWGUwA",
+      "name": "Masjid As-Salaam Inc.",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "5119 Monticello Rd, Columbia, SC 29203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0509985,
+        "lon": -81.0452139
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJY6L7U1ik-IgREWzdBxWGUwA",
+      "rating": 4.9,
+      "user_ratings_total": 23
+    },
+    {
+      "id": "google_ChIJtQ6bVGmv-IgRZvaD_zVP018",
+      "name": "Masjid Al Quran",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "6411 Shakespeare Rd, Columbia, SC 29223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0599709,
+        "lon": -80.9708788
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJtQ6bVGmv-IgRZvaD_zVP018",
+      "rating": 4.7,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJvT88VZ-l-IgR9orgdEl-L7s",
+      "name": "Muhammad Mosque #38",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "5646 Farrow Rd, Columbia, SC 29203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.0509943,
+        "lon": -81.009422
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvT88VZ-l-IgR9orgdEl-L7s",
+      "rating": 4.6,
+      "user_ratings_total": 14
+    },
+    {
+      "id": "google_ChIJJX6CEJmt-IgRJCMGKTktRiE",
+      "name": "Masjid Ar-Rahman",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "3307 Percival Rd, Columbia, SC 29223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.074273,
+        "lon": -80.892513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJX6CEJmt-IgRJCMGKTktRiE",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJ_134WQOl-IgR4lB_6hzsSVA",
+      "name": "College View Da'wah Islamic Institute",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "4229 Colonial Dr, Columbia, SC 29203, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.03921,
+        "lon": -81.028972
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ_134WQOl-IgR4lB_6hzsSVA",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJM4_xFsqp-IgRQBfH70sepu4",
+      "name": "Masjid Al-Wadud",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "510 Pilgrim Rd, Columbia, SC 29223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1215063,
+        "lon": -80.9414314
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJM4_xFsqp-IgRQBfH70sepu4",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJq-Tn9KqcVogR0pWs15kARtw",
+      "name": "Islamic Community Center of South Charlotte",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1048 Gant Rd, Fort Mill, SC 29707, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 35.0512651,
+        "lon": -80.8966839
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJq-Tn9KqcVogR0pWs15kARtw",
+      "rating": 4.9,
+      "user_ratings_total": 180
+    },
+    {
+      "id": "google_ChIJsyWtrFl6_ogRDpoTEKqmYWo",
+      "name": "Central Mosque of Charleston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1082 King St, Charleston, SC 29403, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8063475,
+        "lon": -79.9505219
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJsyWtrFl6_ogRDpoTEKqmYWo",
+      "rating": 4.8,
+      "user_ratings_total": 170
+    },
+    {
+      "id": "google_ChIJxzxVJ_p7_ogR9de86TNTBQw",
+      "name": "Masjid Al-Jami Ar-Rasheed",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1998 Hugo Ave, North Charleston, SC 29405, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.8375634,
+        "lon": -79.956875
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxzxVJ_p7_ogR9de86TNTBQw",
+      "rating": 4.8,
+      "user_ratings_total": 5
+    },
+    {
+      "id": "google_ChIJmdvJYQBh_ogRioOEbqMVQw4",
+      "name": "AlFurqaan Mosque of Charleston",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "428 Red Bank Rd, Goose Creek, SC 29445, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.9825799,
+        "lon": -80.0319071
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmdvJYQBh_ogRioOEbqMVQw4",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJuzwUwyVa_ogRi9ASWsjQ0HE",
+      "name": "Masjid Muhajirun Wal Ansar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1020 Old Hwy 52, Moncks Corner, SC 29461, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.1828325,
+        "lon": -80.0023817
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJuzwUwyVa_ogRi9ASWsjQ0HE",
+      "rating": 4.5,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJ6Y0XX7dk_ogRMqDRTkS3wP4",
+      "name": "Arabian Temple 139",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "4132 Rivers Ave, Charleston, SC 29405, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.868473,
+        "lon": -79.9910049
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6Y0XX7dk_ogRMqDRTkS3wP4",
+      "rating": 4.5,
+      "user_ratings_total": 109
+    },
+    {
+      "id": "google_ChIJ49NQW-FmVYgRBz9bVOJC-zI",
+      "name": "Florence Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "160 N Edisto Dr, Florence, SC 29501, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 34.1979876,
+        "lon": -79.7890663
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ49NQW-FmVYgRBz9bVOJC-zI",
+      "rating": 4.8,
+      "user_ratings_total": 61
+    },
+    {
+      "id": "google_ChIJQzapsocSAIkRvd2Mn-xyAi8",
+      "name": "Conway Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1808 Racepath Ave, Conway, SC 29527, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 33.8345161,
+        "lon": -79.0617449
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJQzapsocSAIkRvd2Mn-xyAi8",
+      "rating": 5,
+      "user_ratings_total": 29
+    },
+    {
+      "id": "google_ChIJVVWZvaFk_ogRdY__Jw6Zwp8",
+      "name": "NOI Charleston, SC",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "South Carolina",
+        "zip": "",
+        "full": "1904 Savannah Hwy, Charleston, SC 29407, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 32.7887266,
+        "lon": -80.02279510000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVWZvaFk_ogRdY__Jw6Zwp8",
+      "rating": 5,
+      "user_ratings_total": 3
     }
-  ]
+  ],
+  "google_places_added": 16
 }

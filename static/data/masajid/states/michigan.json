@@ -1,6 +1,6 @@
 {
   "state": "Michigan",
-  "count": 137,
+  "count": 195,
   "generated_at": "2026-05-10 06:21:09 UTC",
   "masajid": [
     {
@@ -3016,6 +3016,1399 @@
       "opening_hours": "",
       "osm_type": "way",
       "osm_id": 653496131
+    },
+    {
+      "id": "google_ChIJMxzwUrrSJIgRTOLHPdxYVgA",
+      "name": "Wayne State University Islamic Center of Detroit",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "4646 Cass Ave, Detroit, MI 48201, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3536299,
+        "lon": -83.0650004
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJMxzwUrrSJIgRTOLHPdxYVgA",
+      "rating": 4.8,
+      "user_ratings_total": 174
+    },
+    {
+      "id": "google_ChIJewdUS2bSJIgRGO50fJTELEI",
+      "name": "Abu-Bakr Al-Siddique Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "8904 Saint Aubin St, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3887259,
+        "lon": -83.0603994
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJewdUS2bSJIgRGO50fJTELEI",
+      "rating": 4.8,
+      "user_ratings_total": 332
+    },
+    {
+      "id": "google_ChIJnyyCDJ8zO4gRZc3CVseQ16I",
+      "name": "American Moslem Society (Masjid Dearborn)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "9945 Vernor Hwy, Dearborn, MI 48120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3042945,
+        "lon": -83.143546
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJnyyCDJ8zO4gRZc3CVseQ16I",
+      "rating": 4.7,
+      "user_ratings_total": 358
+    },
+    {
+      "id": "google_ChIJv5nSpjHSJIgRKLR0Y9VKIJg",
+      "name": "Masjidun Nur Inc",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "11311 Mound Rd, Detroit, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4064667,
+        "lon": -83.0433549
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJv5nSpjHSJIgRKLR0Y9VKIJg",
+      "rating": 4.8,
+      "user_ratings_total": 223
+    },
+    {
+      "id": "google_ChIJKSD5sRDSJIgRNTV74Ytvrw0",
+      "name": "Al-Falah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "12555 McDougall, Detroit, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4100559,
+        "lon": -83.064368
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKSD5sRDSJIgRNTV74Ytvrw0",
+      "rating": 4.8,
+      "user_ratings_total": 156
+    },
+    {
+      "id": "google_ChIJDau_BEUzO4gRjD-nU0r56Ic",
+      "name": "Al-Huda Islamic Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "8835 Warren Ave, Dearborn, MI 48126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3442415,
+        "lon": -83.1549608
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJDau_BEUzO4gRjD-nU0r56Ic",
+      "rating": 4.9,
+      "user_ratings_total": 443
+    },
+    {
+      "id": "google_ChIJlaELbOHTJIgRfRfrOxjfxL0",
+      "name": "Baitul Mukarram Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "12203 Conant, Detroit, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.40899659999999,
+        "lon": -83.0574714
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJlaELbOHTJIgRfRfrOxjfxL0",
+      "rating": 4.8,
+      "user_ratings_total": 155
+    },
+    {
+      "id": "google_ChIJB6keYDzQJIgRgpZlir4GUWc",
+      "name": "Islamic Center of Warren (Masjid Al-Fath & IQRA Academy of Michigan)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "24703 Ryan Rd, Warren, MI 48091, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4747829,
+        "lon": -83.0656549
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB6keYDzQJIgRgpZlir4GUWc",
+      "rating": 4.7,
+      "user_ratings_total": 209
+    },
+    {
+      "id": "google_ChIJw-KBoFzSJIgRm-4AUr2uWTo",
+      "name": "Al-Ghazzali Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "8554 Joseph Campau Ave, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3886051,
+        "lon": -83.052266
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJw-KBoFzSJIgRm-4AUr2uWTo",
+      "rating": 4.9,
+      "user_ratings_total": 126
+    },
+    {
+      "id": "google_ChIJTX2tgo3TJIgRwOPh_yqMPRQ",
+      "name": "United Community Center- The Great Mosque الجامع الكبير",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "10211 Conant, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4012222,
+        "lon": -83.05224050000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJTX2tgo3TJIgRwOPh_yqMPRQ",
+      "rating": 4.8,
+      "user_ratings_total": 150
+    },
+    {
+      "id": "google_ChIJc8laYR7NJIgRzfnUXQBRZgo",
+      "name": "Masjid Al-Haqq",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "4017 Clairmount Ave, Detroit, MI 48204, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3683395,
+        "lon": -83.11976039999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJc8laYR7NJIgRzfnUXQBRZgo",
+      "rating": 4.7,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJOX6y2X7TJIgRwJzTz3szPOQ",
+      "name": "Al-Sunnah Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "11306 Lumpkin St, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3977767,
+        "lon": -83.0657274
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOX6y2X7TJIgRwJzTz3szPOQ",
+      "rating": 4.6,
+      "user_ratings_total": 34
+    },
+    {
+      "id": "google_ChIJo4ZSq7g0O4gRCWa180K-zfA",
+      "name": "American Moslem Bekaa Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "6110 Chase Rd, Dearborn, MI 48126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3339928,
+        "lon": -83.1857229
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJo4ZSq7g0O4gRCWa180K-zfA",
+      "rating": 4.8,
+      "user_ratings_total": 44
+    },
+    {
+      "id": "google_ChIJixlLCoQtO4gRDVFdHiKtsDw",
+      "name": "West Musallah Windsor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "3324 Bloomfield Rd, Windsor, ON N9C 1R3, Canada"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2977093,
+        "lon": -83.07273550000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJixlLCoQtO4gRDVFdHiKtsDw",
+      "rating": 4.9,
+      "user_ratings_total": 174
+    },
+    {
+      "id": "google_ChIJ4Ww9uzc1O4gRloceLd_SfjY",
+      "name": "Imam Jaafar AlSadeq Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "19111 W Warren Ave, Detroit, MI 48228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3429683,
+        "lon": -83.2272591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4Ww9uzc1O4gRloceLd_SfjY",
+      "rating": 4.6,
+      "user_ratings_total": 65
+    },
+    {
+      "id": "google_ChIJSQ7SeGQtO4gRZmgr844ZpLM",
+      "name": "ALBER Mosque 🕌 مسجد البِرّ",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "65 Ellis St E, Windsor, ON N8X 2G8, Canada"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3023233,
+        "lon": -83.02771919999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJSQ7SeGQtO4gRZmgr844ZpLM",
+      "rating": 4.8,
+      "user_ratings_total": 263
+    },
+    {
+      "id": "google_ChIJ4Ww9uzc1O4gRBb2E8Dh_tGs",
+      "name": "Islamic Center of Warrendale",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "19111 W Warren Ave, Detroit, MI 48228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3429683,
+        "lon": -83.2272591
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4Ww9uzc1O4gRBb2E8Dh_tGs",
+      "rating": 4.6,
+      "user_ratings_total": 47
+    },
+    {
+      "id": "google_ChIJP3QJ8fg1O4gRQQcg8SmMKiM",
+      "name": "AlNoor Melvindale Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "2865 Oakwood, Melvindale, MI 48122, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2828704,
+        "lon": -83.1721438
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJP3QJ8fg1O4gRQQcg8SmMKiM",
+      "rating": 4.9,
+      "user_ratings_total": 104
+    },
+    {
+      "id": "google_ChIJ65gB3w40O4gRI9gD_x6zWFc",
+      "name": "Melvindale Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "17575 Dix Rd, Melvindale, MI 48122, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2817888,
+        "lon": -83.1714465
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ65gB3w40O4gRI9gD_x6zWFc",
+      "rating": 4.9,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJF_GtlMc2O4gRnIGgqmIlu7c",
+      "name": "Islamic Center of Lincoln Park",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "2075 Fort St, Lincoln Park, MI 48146, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2491057,
+        "lon": -83.177145
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF_GtlMc2O4gRnIGgqmIlu7c",
+      "rating": 4.5,
+      "user_ratings_total": 55
+    },
+    {
+      "id": "google_ChIJzaqcMjzSJIgRtFv1aYvm4tc",
+      "name": "Baitul Ma'moor Sunni Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "11635 Conant, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4050986,
+        "lon": -83.05480539999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJzaqcMjzSJIgRtFv1aYvm4tc",
+      "rating": 4.5,
+      "user_ratings_total": 15
+    },
+    {
+      "id": "google_ChIJkRd3yHQ4O4gRB9lLxhriYYc",
+      "name": "Masjid Umar bin Khattab / Islamic Association of Michigan",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "18105 Racho Rd, Brownstown Township, MI 48193, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.17525879999999,
+        "lon": -83.2465945
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJkRd3yHQ4O4gRB9lLxhriYYc",
+      "rating": 4.8,
+      "user_ratings_total": 300
+    },
+    {
+      "id": "google_ChIJ1Yg6RfszO4gRNggbkerOJZE",
+      "name": "Al-Huda Islamic Association",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5838 Lawndale St, Detroit, MI 48210, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3348494,
+        "lon": -83.15208969999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ1Yg6RfszO4gRNggbkerOJZE",
+      "rating": 4.4,
+      "user_ratings_total": 12
+    },
+    {
+      "id": "google_ChIJO8is2Sw1O4gRqAm0uyrSaj4",
+      "name": "Dar Al-Rahma",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "7810 Southfield Fwy, Detroit, MI 48228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3497682,
+        "lon": -83.2156746
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJO8is2Sw1O4gRqAm0uyrSaj4",
+      "rating": 4.9,
+      "user_ratings_total": 69
+    },
+    {
+      "id": "google_ChIJ8x8kw0BLO4gR_eVsco8PW5Y",
+      "name": "Dar Al Salam Islamic Center (DAIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "27758 Warren Rd, Westland, MI 48185, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.34069969999999,
+        "lon": -83.3167498
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ8x8kw0BLO4gR_eVsco8PW5Y",
+      "rating": 4.8,
+      "user_ratings_total": 183
+    },
+    {
+      "id": "google_ChIJyXTjMny1JIgRW2X2k5OKza4",
+      "name": "Islamic center Foundation CAB Of North America",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "21500 Schoolcraft, Detroit, MI 48223, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3861676,
+        "lon": -83.2541109
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJyXTjMny1JIgRW2X2k5OKza4",
+      "rating": 4.5,
+      "user_ratings_total": 17
+    },
+    {
+      "id": "google_ChIJEfj9sFLRJIgRNZoSiTT6IRI",
+      "name": "Islamic Center of Nine Mile Warren(Masjid Darul Quran)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "4439 E 9 Mile Rd, Warren, MI 48091, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4626528,
+        "lon": -83.0605386
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJEfj9sFLRJIgRNZoSiTT6IRI",
+      "rating": 4.9,
+      "user_ratings_total": 70
+    },
+    {
+      "id": "google_ChIJ-TVe79K3JIgRSyCUf9jEvws",
+      "name": "Tawheed Center of Southfield",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "21711 W 10 Mile Rd, Southfield, MI 48075, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4722194,
+        "lon": -83.2592962
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ-TVe79K3JIgRSyCUf9jEvws",
+      "rating": 4.8,
+      "user_ratings_total": 64
+    },
+    {
+      "id": "google_ChIJu4JivfvPJIgR6iQRJmjpdoA",
+      "name": "American Islamic Community",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "27205 Dequindre Rd, Madison Heights, MI 48071, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.4926423,
+        "lon": -83.0857848
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJu4JivfvPJIgR6iQRJmjpdoA",
+      "rating": 4.8,
+      "user_ratings_total": 38
+    },
+    {
+      "id": "google_ChIJ4yakd6jcJIgR534YKwxQT2I",
+      "name": "Muslim Community of Michigan (Masjid Baitul Mamur)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "38810 Ryan Rd, Sterling Heights, MI 48310, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.5780143,
+        "lon": -83.068907
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ4yakd6jcJIgR534YKwxQT2I",
+      "rating": 4.8,
+      "user_ratings_total": 158
+    },
+    {
+      "id": "google_ChIJITnEAD_SJIgRxu55v-w28Xw",
+      "name": "Bosnian-American Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "3437 Caniff Ave, Hamtramck, MI 48212, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.401801,
+        "lon": -83.054833
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJITnEAD_SJIgRxu55v-w28Xw",
+      "rating": 5,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJrRw4m4WyGYgRKCll_KirkfA",
+      "name": "Islamic Center of Grand Rapids",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "1301 Burton St SE, Grand Rapids, MI 49507, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9274421,
+        "lon": -85.6361883
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJrRw4m4WyGYgRKCll_KirkfA",
+      "rating": 4.5,
+      "user_ratings_total": 56
+    },
+    {
+      "id": "google_ChIJBfO1_wRNGIgRdC7LEEfzk44",
+      "name": "AL-Tawheed Islamic Center - IM&RI",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "3357 E Paris Ave SE, Kentwood, MI 49512, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9026406,
+        "lon": -85.5689513
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJBfO1_wRNGIgRdC7LEEfzk44",
+      "rating": 4.8,
+      "user_ratings_total": 173
+    },
+    {
+      "id": "google_ChIJC424rSSzGYgRRm4NzXdZIKQ",
+      "name": "Masjid as-Sunnah Temporary Location",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "2164 Division Ave S, Grand Rapids, MI 49507, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9238809,
+        "lon": -85.66625669999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJC424rSSzGYgRRm4NzXdZIKQ",
+      "rating": 4.8,
+      "user_ratings_total": 26
+    },
+    {
+      "id": "google_ChIJF7pnigRNGIgRdEgMSAsVotM",
+      "name": "ICC Behar",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "3425 E Paris Ave SE East, Grand Rapids, MI 49512, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9008665,
+        "lon": -85.5683924
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJF7pnigRNGIgRdEgMSAsVotM",
+      "rating": 4.9,
+      "user_ratings_total": 43
+    },
+    {
+      "id": "google_ChIJVxJca1myGYgRuh0f8axu9pM",
+      "name": "Bosniak Islamic Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "2839 Eastern Ave SE, Grand Rapids, MI 49508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9111165,
+        "lon": -85.6474157
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVxJca1myGYgRuh0f8axu9pM",
+      "rating": 4.7,
+      "user_ratings_total": 21
+    },
+    {
+      "id": "google_ChIJxaiEMACtGYgRfbzM77wMX0E",
+      "name": "Interfaith Reflection Room 166",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "301 Michigan St NE #164, Grand Rapids, MI 49503, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9707851,
+        "lon": -85.661259
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJxaiEMACtGYgRfbzM77wMX0E",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJmSCtvzKtGYgROIbktadIdko",
+      "name": "Interfaith Reflection Room 130B",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "401 Fulton St W, Grand Rapids, MI 49504, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.96425500000001,
+        "lon": -85.68037679999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJmSCtvzKtGYgROIbktadIdko",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJaQ4IEACtGYgRwldR7wSW1Jo",
+      "name": "Masjid Bilal",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "1260 Jefferson Ave SE, Grand Rapids, MI 49507, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9396621,
+        "lon": -85.6633342
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJaQ4IEACtGYgRwldR7wSW1Jo",
+      "rating": 5,
+      "user_ratings_total": 2
+    },
+    {
+      "id": "google_ChIJeWkdNgCzGYgRcFtwWOVAH9k",
+      "name": "Masjid Al-Noor",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "Masjid Al-Noor, 3206 Eastern Ave SE, Kentwood, MI 49508, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.9054628,
+        "lon": -85.646085
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJeWkdNgCzGYgRcFtwWOVAH9k",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJD0TGHi2zGYgRXRrax5RAcXs",
+      "name": "Muhammad Mosque #61",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "1125 Burton St SE, Grand Rapids, MI 49507, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.927457,
+        "lon": -85.6396128
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJD0TGHi2zGYgRXRrax5RAcXs",
+      "rating": 4.4,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJvUKjQs01O4gRq8mViGmmIIM",
+      "name": "Chinguetti Centre Of Arabic and Islamic Studies",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5232 Oakman Blvd, Dearborn, MI 48126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.326328,
+        "lon": -83.16852010000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJvUKjQs01O4gRq8mViGmmIIM",
+      "rating": 5,
+      "user_ratings_total": 7
+    },
+    {
+      "id": "google_ChIJKyFLawA1O4gRh6F6NnqadzU",
+      "name": "Islamic center in Dearborn",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "15340 Michigan Ave, Dearborn, MI 48126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.31724819999999,
+        "lon": -83.1938911
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJKyFLawA1O4gRh6F6NnqadzU",
+      "rating": 0,
+      "user_ratings_total": 0
+    },
+    {
+      "id": "google_ChIJk7xM6WHLJIgRK3_0b4qa1t0",
+      "name": "DAWAH INSTITUTE ( Masjid Al-Dawah )",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "16630 Joy Rd, Detroit, MI 48228, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3582641,
+        "lon": -83.2097397
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJk7xM6WHLJIgRK3_0b4qa1t0",
+      "rating": 4.7,
+      "user_ratings_total": 27
+    },
+    {
+      "id": "google_ChIJd7YLPJkzO4gRY6CgYupe6A0",
+      "name": "Islamic Village Market",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "10631 Dix Ave, Dearborn, MI 48120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3011361,
+        "lon": -83.1468836
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJd7YLPJkzO4gRY6CgYupe6A0",
+      "rating": 4.3,
+      "user_ratings_total": 305
+    },
+    {
+      "id": "google_ChIJJf59E5o0O4gROyOcx9-V-sY",
+      "name": "Imam Mahdi Association of Marjaeya",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "22000 Garrison St second floor, Dearborn, MI 48124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3074229,
+        "lon": -83.2450575
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJJf59E5o0O4gROyOcx9-V-sY",
+      "rating": 4.9,
+      "user_ratings_total": 81
+    },
+    {
+      "id": "google_ChIJOSueVwBLO4gRw6TPZDAkHYc",
+      "name": "Mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "700 N Beech Daly Rd, Dearborn Heights, MI 48127, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3161543,
+        "lon": -83.29060849999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJOSueVwBLO4gRw6TPZDAkHYc",
+      "rating": 5,
+      "user_ratings_total": 1
+    },
+    {
+      "id": "google_ChIJoTp9exJLO4gR8t3scjz_FwA",
+      "name": "AICP Michigan - Association of Islamic Charitable Project",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5715 Inkster Rd #5711, Garden City, MI 48135, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3270994,
+        "lon": -83.31193379999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJoTp9exJLO4gR8t3scjz_FwA",
+      "rating": 5,
+      "user_ratings_total": 39
+    },
+    {
+      "id": "google_ChIJVVVVbDi1JIgR7F5UTjJpfAg",
+      "name": "World Peace Outreach/Masjed AlNour",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "23800 W Chicago, Redford Township, MI 48239, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3648986,
+        "lon": -83.2723978
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJVVVVbDi1JIgR7F5UTjJpfAg",
+      "rating": 5,
+      "user_ratings_total": 57
+    },
+    {
+      "id": "google_ChIJt8kL6EczO4gR5KsNpmR9ygY",
+      "name": "Al Noor Islamic Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "Wagner St, Detroit, MI 48210, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.335808,
+        "lon": -83.14473110000002
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJt8kL6EczO4gR5KsNpmR9ygY",
+      "rating": 3,
+      "user_ratings_total": 4
+    },
+    {
+      "id": "google_ChIJ7bSL3w40O4gRyNCqc_fu-Jw",
+      "name": "Dearborn Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "17575 Dix Rd, Melvindale, MI 48122, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2817842,
+        "lon": -83.171416
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ7bSL3w40O4gRyNCqc_fu-Jw",
+      "rating": 4.1,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJ6dg6EJ8zO4gR2jHSeb_sIqY",
+      "name": "Arab Community Center-Economic",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "9708 Dix Ave, Dearborn, MI 48120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3064717,
+        "lon": -83.1439611
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ6dg6EJ8zO4gR2jHSeb_sIqY",
+      "rating": 5,
+      "user_ratings_total": 3
+    },
+    {
+      "id": "google_ChIJB3mZasYzO4gRnKdt3hDL0h0",
+      "name": "Yemeni American Cultural Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "2770 Salina St, Dearborn, MI 48120, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3073543,
+        "lon": -83.14839909999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJB3mZasYzO4gRnKdt3hDL0h0",
+      "rating": 4.1,
+      "user_ratings_total": 28
+    },
+    {
+      "id": "google_ChIJIwdV3aRLO4gRwe0uIkbOtXo",
+      "name": "Hadi Institute Youth Community Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "24931 Union St, Dearborn, MI 48124, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.2840105,
+        "lon": -83.27982829999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJIwdV3aRLO4gRwe0uIkbOtXo",
+      "rating": 4.8,
+      "user_ratings_total": 25
+    },
+    {
+      "id": "google_ChIJR28FtzNTO4gRC2RihClC604",
+      "name": "Muslim Educational Community Center of America - MECCA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5840 N Canton Center Rd # 245, Canton Township, MI 48187, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3245123,
+        "lon": -83.48630729999999
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJR28FtzNTO4gRC2RihClC604",
+      "rating": 4.9,
+      "user_ratings_total": 30
+    },
+    {
+      "id": "google_ChIJ2UNEP4UrO4gR5oKf4vpBIrM",
+      "name": "Rose City Islamic Centre (RCIC)",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5420 Empress St, Windsor, ON N8T 1B4, Canada"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.312176,
+        "lon": -82.9613104
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ2UNEP4UrO4gR5oKf4vpBIrM",
+      "rating": 4.9,
+      "user_ratings_total": 147
+    },
+    {
+      "id": "google_ChIJAfQfDgAtO4gRnhD96hL1Byk",
+      "name": "The Clear Islam Information Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "471 Pelissier St, Windsor, ON N9A 4L2, Canada"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3151234,
+        "lon": -83.03891820000001
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJAfQfDgAtO4gRnhD96hL1Byk",
+      "rating": 5,
+      "user_ratings_total": 24
+    },
+    {
+      "id": "google_ChIJy5E7-pc0O4gRChd1Qg7AdAE",
+      "name": "Arab-American Friendship Center",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "Michigan",
+        "zip": "",
+        "full": "5936 Chase Rd, Dearborn, MI 48126, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.3325823,
+        "lon": -83.1859025
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJy5E7-pc0O4gRChd1Qg7AdAE",
+      "rating": 4.6,
+      "user_ratings_total": 13
     }
-  ]
+  ],
+  "google_places_added": 3
 }

@@ -1,0 +1,80 @@
+{
+  "state": "New Hampshire",
+  "count": 3,
+  "generated_at": "2026-05-11 03:26:22 UTC",
+  "masajid": [
+    {
+      "id": "google_ChIJ5YCGq-pO4okR8MSed14oJZE",
+      "name": "Islamic Society of New Hampshire",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Hampshire",
+        "zip": "",
+        "full": "373 South Willow St Units D1-3, Manchester, NH 03103, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.96751,
+        "lon": -71.4534492
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJ5YCGq-pO4okR8MSed14oJZE",
+      "rating": 4.7,
+      "user_ratings_total": 86
+    },
+    {
+      "id": "google_ChIJbRd1BxSr44kR_x0fw4r_dmw",
+      "name": "Windham Muslim Community Center mosque",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Hampshire",
+        "zip": "",
+        "full": "27 Roulston Rd, Windham, NH 03087, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.8155527,
+        "lon": -71.2551462
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJbRd1BxSr44kR_x0fw4r_dmw",
+      "rating": 4.6,
+      "user_ratings_total": 16
+    },
+    {
+      "id": "google_ChIJj9KnfNSw44kRmW1cK7pO5Ew",
+      "name": "Islamic Society of Greater Nashua - ISGN",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "New Hampshire",
+        "zip": "",
+        "full": "5 Pine St Ext #1C, Nashua, NH 03060, USA"
+      },
+      "phone": "",
+      "website": "",
+      "email": "",
+      "coordinates": {
+        "lat": 42.7587739,
+        "lon": -71.4738117
+      },
+      "denomination": "",
+      "opening_hours": "",
+      "source": "google_places",
+      "google_place_id": "ChIJj9KnfNSw44kRmW1cK7pO5Ew",
+      "rating": 4.7,
+      "user_ratings_total": 74
+    }
+  ],
+  "google_places_added": 3
+}
